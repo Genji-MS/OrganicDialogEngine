@@ -1,77 +1,38 @@
+import polib
 import pandas as pd
 import re
 
-text = """
-msgid ""
-msgstr ""
-"Project-Id-Version: Shin Megami Tensei: Devil Summonner: Soul Hackers\n"
-"Report-Msgid-Bugs-To: tradusquare@gmail.com\n"
-"POT-Creation-Date: 25/10/2018\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: TraduSquare\n"
-"Language: es\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"'
+#TODO : add Cleaning of entire folder
+po = polib.pofile('Scripts/es/CENT_TWR.EVE.po')
 
-msgctxt "0"
-msgid ""
-"{FF05}{006D}{FF19}{C7B7}Monitor{C7B8}{FF16}Hello. Welcome to the\n"
-"Amami Net terminal.\n"
-"{FF03}{FF00}"
-msgstr ""
+text = " lINEbREAK\n"
 
-msgctxt "1"
-msgid "{FF05}{006E}> What will you do?{FF00}"
-msgstr ""
+"""
+PATTERN can be: 
+{####} line
+line
+line
+This will add breaks after each line (Or else Regex will eat EVERYTHING.
+And specify the sentence breaks as .po is designed for a game and has numerious linebreaks that we want to join"""
 
-msgctxt "2"
-msgid "Save{FF00}"
-msgstr ""
-
-msgctxt "3"
-msgid "Install{FF00}"
-msgstr ""
-
-msgctxt "4"
-msgid "Check Mail{FF00}"
-msgstr ""
-
-msgctxt "5"
-msgid "Exit{FF00}"
-msgstr ""
-
-msgctxt "6"
-msgid "Algon Main Building 2F{FF00}"
-msgstr ""
-
-msgctxt "7"
-msgid ""
-"You have 1 new message.\n"
-"{FF03}{FF02}Would you like to read it?{FF00}"
-msgstr "" """
+for line in po:
+    txt = str(line.msgid).splitlines()
+    for tx in txt:
+        text += tx + " \n"
+    text += "lINEbREAK\n"
 
 
-# REMOVE fields we do not need, quotes, and scripted blocks, leaving FF16 as it = player name
-regex = r'(?!\})\w{1,}\{C7B8\}|.*\w{1,}\{FF00\}|(">.*)|(".{0,}-.*)|(?!msgstr)(msg.*)|("Language:.*)|(\{.{4}\})(?!\{FF16\})|(<.*>)|(\[.*\])|(#\. .*)|"|\\n'
+"""REMOVE fields we do not need such as {####} engine commands, however leaving FF80/FF81 as it = player name"""
+# previous regex we might want to refer to = r'(".{0,}-.*)|(?!msgstr)(msg.*)|("Language:.*)|(?!\{FF16\})(\{.{4}\})|(<.*>)|(\[.*\])|(#\. .*)|"|\\n'
+# remove everything before FF00 & C7B8, lines that start with >, keep FF80 & FF81, remove all other {####}, remove <tags>, remove linebreaks & returns
+regex = r'.*(\{FF00\}|\{C7B8\})|(>.*)|(?!\{FF80\}|\{FF81\})(\{.{4}\})|(<.*>)|\n|\r'
 subst = ""
 text = re.sub(regex, subst, text, 0)
 
-# CONVERT \n to _space_
-regex = r'(\n|\r)'
-subst = " "
-text = re.sub(regex, subst, text, 0)
-
-# REPLACE each 'msgstr '(with variable space)(include successive matches) into a line break as these designate each game chunk of dialog
-regex = r'((msgstr {1,}){1,})'
+regex = r'( lINEbREAK){1,}'
 subst = "\r"
 text = re.sub(regex, subst, text, 0)
 
-# REPLACE multiple _space_ into a single _space_
-regex = r' {1,}'
-subst = " "
-text = re.sub(regex, subst, text, 0)
 
 df = pd.DataFrame(pd.array([text]))
 df.to_csv('clean_script.csv')
