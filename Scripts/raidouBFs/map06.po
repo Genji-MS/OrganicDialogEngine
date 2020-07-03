@@ -1,0 +1,4506 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 28/03/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[[[[[[[[[[[[[
+msgctxt "type:0,entry:m_mes_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> There is nothing here.\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[[[[[[[[[
+msgctxt "type:0,entry:m_mes_01,segment:1"
+msgid ""
+"<start>> Leave?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:m_YESNO,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+#. [[[[[[[[[[[[[[
+msgctxt "type:0,entry:m_mes_01_yes,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou left.\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[[[[[[[[[
+msgctxt "type:0,entry:m_mes_01_no,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou decided to stay.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_musi1,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> It's a gigantic tree.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_musi2,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> There are bugs crawling all over\n"
+"the tree.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_musi2_NAKAMA,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> There are bugs crawling all over\n"
+"the tree.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_musi2_NAKAMA,segment:1"
+msgid ""
+"<start>> [14:0000,0000] popped a bug into its\n"
+"mouth.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_musi2_NAKAMA,segment:2"
+msgid ""
+"<start>> ......\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_musi2_NAKAMA,segment:3"
+msgid ""
+"<start>> [14:0000,0000] spit out the terrible-\n"
+"tasting bug.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_NAKAMA,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You are Raidou the 14th's pet\n"
+"familiar, are you not...\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_NAKAMA,segment:1"
+msgid ""
+"<start>It seems the 14th's devil-summoning\n"
+"prowess is quite advanced.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_1,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You are a hard worker, Raidou the\n"
+"14th.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_1,segment:1"
+msgid ""
+"<start>Would you like to enter the\n"
+"Training Hall?\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_YES,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Unfortunately, the Training Hall is\n"
+"closed to you at this time.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_YES,segment:1"
+msgid ""
+"<start>Once it is open, you may use this\n"
+"entrance whenever you wish.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_YES,segment:2"
+msgid ""
+"<start>Train and advance to your heart's\n"
+"content.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_NO,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I see.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_NAKAMA,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hey, you're the demon hanging out\n"
+"with the 14th.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_NAKAMA,segment:1"
+msgid ""
+"<start>Take good care of Raidou, okay?\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_1,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Raidou the 14th, you're doing great.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_1,segment:1"
+msgid ""
+"<start>Got any questions for me?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:m_KITUNE_R_R_01,segment:0"
+msgid "<start>Ask about the Training Hall"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_YES,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I getcha, I getcha. Well, don't\n"
+"get careless.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_YES,segment:1"
+msgid ""
+"<start>You don't know how they're going\n"
+"to come at you.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_YES,segment:2"
+msgid ""
+"<start>Especially in the Dark Realm...\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_YES,segment:3"
+msgid ""
+"<start>So, the two of us on either side of\n"
+"the shrine are here to help.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_YES,segment:4"
+msgid ""
+"<start>Don't hesitate to ask us anything\n"
+"you need to know.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_YES,segment:5"
+msgid ""
+"<start>We're here for you, Raidou.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_KITUNE_R_NO,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The fox made a melancholy yip.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_NO2,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I see...\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_NO2,segment:1"
+msgid ""
+"<start>Well, if you ask me, it's a good\n"
+"idea to exercise at the Training\n"
+"Hall.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_NO2,segment:2"
+msgid ""
+"<start>If you feel up for it, talk to the\n"
+"guy on the other side, and he'll\n"
+"take you to the Training Hall.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_TYOUZU_1,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> It's a washstand.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_TYOUZU_1,segment:1"
+msgid ""
+"<start>> What will you do?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:m_TYOUZU,segment:0"
+msgid "<start>Wash your hands"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_TYOUZU_2,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou felt refreshed.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_TYOUZU_3,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou felt cleaner.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_TYOUZU_NAKAMA,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> It's a washstand.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_TYOUZU_NAKAMA,segment:1"
+msgid ""
+"<start>> [14:0000,0000] jumped in to take a\n"
+"bath!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_TYOUZU_NAKAMA,segment:2"
+msgid ""
+"<start>> ......\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_TYOUZU_NAKAMA,segment:3"
+msgid ""
+"<start>> [14:0000,0000] looks contented.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_TYOUZU_LV01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> It's a deep washstand. You can't see\n"
+"the bottom...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_TYOUZU_LV02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> What should Raidou do?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:m_TYOUZU_LV,segment:0"
+msgid "<start>Enter"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_TYOUZU_LV_YES,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou has been sucked into the\n"
+"darkness...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_TYOUZU_LV_NO,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou left.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_TYOUZU_LV03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> It's a disused washstand.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_TYOUZU_LV03,segment:1"
+msgid ""
+"<start>> The water in the basin is almost\n"
+"completely dried up.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_TYOUZU_LV04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The water has been drained from\n"
+"the basin, revealing the bottomless\n"
+"darkness inside...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_musi1_1,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Bugs might be attracted to\n"
+"sweet material on the tree...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_musi1_2,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> What should Raidou do?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:m_MUSI_A,segment:0"
+msgid "<start>Spread the ice cream"
+msgstr ""
+
+msgctxt "type:1,entry:m_MUSI_B,segment:0"
+msgid "<start>Spread the ice cream"
+msgstr ""
+
+msgctxt "type:1,entry:m_MUSI_C,segment:0"
+msgid "<start>Spread the syrup"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_musi1_3,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou spread the ice cream onto\n"
+"the large tree and waited.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_musi1_4,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou spread the syrup onto the\n"
+"large tree and waited.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_musi1_no,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou did nothing.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_musi1_5,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The tree is partially covered with\n"
+"ice cream.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_musi1_6,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The tree is partially covered with\n"
+"syrup.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_musi1_GET1,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou checked the gigantic tree.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_musi1_GET1,segment:1"
+msgid ""
+"<start>[809E]......\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_musi1_GET1,segment:2"
+msgid ""
+"<start>> It's crawling with ants!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_musi1_GET2,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou checked the gigantic tree.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_musi1_GET2,segment:1"
+msgid ""
+"<start>> ......\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_musi1_GET2,segment:2"
+msgid ""
+"<start>> A rare-looking beetle is sucking\n"
+"on the syrup.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_musi1_GET2,segment:3"
+msgid ""
+"<start>> Raidou obtained the [2:0005,00FF]Beetle[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_KITUNE__R_KOUBUTU,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I'm fine, but it's nice of you to\n"
+"ask.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_KITUNE__R_KOUBUTU,segment:1"
+msgid ""
+"<start>I'll gladly take one when the time\n"
+"comes.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_KITUNE_ABURA0,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The Inari statues stand as if\n"
+"they were staring at you.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_DAME,segment:0"
+msgid ""
+"<start>[7:0005,00FF]How's it going, Raidou Kuzunoha\n"
+"the 14th?\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_DAME,segment:1"
+msgid ""
+"<start>Tell you what. If you get better\n"
+"at the job...\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_DAME,segment:2"
+msgid ""
+"<start>I'll let you in on a little something.\n"
+"[2:0004,00FF]Come back later[2:0001,00FF], okay, Mr. 14th?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_KITUNE_ABURA1,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Offer a fried tofu?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_KITUNE_ABURA_YES,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou split the fried tofu in half,\n"
+"and gave each statue a piece.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_KITUNE_ABURA_NO,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou decided not to offer the\n"
+"fried tofu.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_ABURA2,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Whoa! Thanks for the fried tofu,\n"
+"Mr. 14th.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_ABURA2_1,segment:0"
+msgid ""
+"<start>[7:0005,00FF]To pay you back...\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_ABURA2_1,segment:1"
+msgid ""
+"<start>I'll let you in on something.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_ABURA2_2,segment:0"
+msgid ""
+"<start>[7:0005,00FF]There're other Training Halls\n"
+"around the Capital.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_ABURA2_2,segment:1"
+msgid ""
+"<start>Like this one, they're good places\n"
+"to train yourself and your demons...\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_ABURA2_2,segment:2"
+msgid ""
+"<start>But, there's a secret to 'em.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_ABURA2_2,segment:3"
+msgid ""
+"<start>Every Training Hall has a special\n"
+"item that'll pump you up.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_ABURA2_2,segment:4"
+msgid ""
+"<start>If you bring in a sharp-eyed demon,\n"
+"you should be able to spot 'em.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_SYUGEN,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Mr. 14th, you're doing great.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_SYUGEN,segment:1"
+msgid ""
+"<start>I'll give you a reward...\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_SYUGEN,segment:2"
+msgid ""
+"<start>An invitation to a members-only\n"
+"club made just for guys like\n"
+"you...\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_SYUGEN,segment:3"
+msgid ""
+"<start>The [2:0002,00FF]Training Hall[2:0001,00FF]!\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_SYUGEN,segment:4"
+msgid ""
+"<start>It's the time-tested training ground\n"
+"for the Kuzunoha clan.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_SYUGEN,segment:5"
+msgid ""
+"<start>There are lots of demons around, so\n"
+"you can find just about any demon\n"
+"you're looking for.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_SYUGEN,segment:6"
+msgid ""
+"<start>If you want to check it out, go to\n"
+"the washstand out in front.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_SYUGEN_R,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Training Hall is where the\n"
+"Kuzunoha clan goes to shape up.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_SYUGEN_R,segment:1"
+msgid ""
+"<start>There are lots of demons around, so\n"
+"you can find just about any demon\n"
+"you're looking for.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_SYUGEN_R,segment:2"
+msgid ""
+"<start>If you want to check it out, go to\n"
+"the washstand out in front.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_SYUGEN,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You are a hard worker, Raidou the\n"
+"14th.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_SYUGEN,segment:1"
+msgid ""
+"<start>I shall bestow upon you a reward...\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_SYUGEN,segment:2"
+msgid ""
+"<start>Not material possessions, but\n"
+"beneficial information that will\n"
+"aid you in your journey.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_SYUGEN,segment:3"
+msgid ""
+"<start>Know you the Training Hall?\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_SYUGEN,segment:4"
+msgid ""
+"<start>It is the ancient ground where\n"
+"members of the Kuzunoha clan\n"
+"cultivate their strength.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_SYUGEN,segment:5"
+msgid ""
+"<start>Demons abound within its walls,\n"
+"and if you seek a particular demon,\n"
+"you may well find it there.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_SYUGEN,segment:6"
+msgid ""
+"<start>If you wish to enter the Training\n"
+"Hall, examine the washstand in\n"
+"front of the building.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_DAME,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You are a hard worker, Raidou the\n"
+"14th.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_DAME,segment:1"
+msgid ""
+"<start>We Inari statues support the\n"
+"Kuzunoha clan.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_DAME,segment:2"
+msgid ""
+"<start>We are fragments of the Ukanomitama\n"
+"spirit.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_DAME,segment:3"
+msgid ""
+"<start>Should you grow in strength as a\n"
+"Kuzunoha...\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_DAME,segment:4"
+msgid ""
+"<start>I shall grant you access to the\n"
+"[2:0004,00FF]Training Hall[2:0001,00FF]. Until then, continue\n"
+"to train vigorously.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_ABURA2,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I am honored that you have brought\n"
+"me fried tofu, Raidou the 14th.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_ABURA2_1,segment:0"
+msgid ""
+"<start>[7:0005,00FF]To show my gratitude...\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_ABURA2_1,segment:1"
+msgid ""
+"<start>I shall impart helpful information.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_ABURA2_2,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Capital is home to other\n"
+"Training Halls.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_ABURA2_2,segment:1"
+msgid ""
+"<start>In addition to the normal training\n"
+"you may undergo within their\n"
+"walls...\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_ABURA2_2,segment:2"
+msgid ""
+"<start>They conceal powerful secrets.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_ABURA2_2,segment:3"
+msgid ""
+"<start>Each Training Hall contains a\n"
+"mysterious item that will increase\n"
+"your prowess as a Devil Summoner.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_ABURA2_2,segment:4"
+msgid ""
+"<start>Demons with a weather eye may be\n"
+"able to spot them.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_KITUNE_TALK_START,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The Inari statues speak to you.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_OSARAI_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You are a hard worker, Raidou the\n"
+"14th.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_OSARAI_01,segment:1"
+msgid ""
+"<start>We Inari statues support the\n"
+"Kuzunoha clan.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_OSARAI_01,segment:2"
+msgid ""
+"<start>We are fragments of the Ukanomitama\n"
+"spirit.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_OSARAI_01,segment:3"
+msgid ""
+"<start>If you are unsure of anything, ask\n"
+"us to clear your mind of doubt.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_OSARAI_01,segment:4"
+msgid ""
+"<start>Our role is to provide a Devil\n"
+"Summoner with assistance whenever\n"
+"he may require it.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_OSARAI_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You are a hard worker, Raidou the\n"
+"14th.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_OSARAI_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Have you a question?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:m_KITUNE_OSARAI_01,segment:0"
+msgid "<start>How to attack and defend"
+msgstr ""
+
+msgctxt "type:1,entry:m_KITUNE_OSARAI_02,segment:0"
+msgid "<start>How to control demons"
+msgstr ""
+
+msgctxt "type:1,entry:m_KITUNE_OSARAI_03,segment:0"
+msgid "<start>About Combination Skills"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_ATTACK,segment:0"
+msgid ""
+"<start>[7:0005,00FF][2:0004,00FF]> [2:0002,00FF]Press the [82C7] button to swing your\n"
+"sword.[2:0004,00FF]\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_ATTACK,segment:1"
+msgid ""
+"<start>[2:0002,00FF]> Press the [82C9] button to fire your\n"
+"gun[2:0004,00FF] and halt the enemy for a\n"
+"brief moment.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_ATTACK,segment:2"
+msgid ""
+"<start>> If the enemy attack cannot be\n"
+"dodged, [2:0002,00FF]press the [82AE] button to \n"
+"defend[2:0004,00FF] and reduce damage.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_KEN,segment:0"
+msgid ""
+"<start>[7:0005,00FF][2:0004,00FF]> There are several methods of\n"
+"attacking with the blade.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_KEN,segment:1"
+msgid ""
+"<start>> [2:0002,00FF]Press the [82C7] button rapidly[2:0004,00FF] to \n"
+"execute [2:0002,00FF]\"consecutive slashes.\"[2:0004,00FF]\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_KEN,segment:2"
+msgid ""
+"<start>> [2:0002,00FF]Use the directional buttons or left\n"
+"analog stick with the [82C7] button[2:0004,00FF]\n"
+"simultaneously to [2:0002,00FF]\"thrust.\"[2:0004,00FF]\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_KEN,segment:3"
+msgid ""
+"<start>> [2:0002,00FF]Hold down the [82C7] button[2:0004,00FF] to damage\n"
+"the enemies around you with a\n"
+"[2:0002,00FF]\"spinning slash.\"[2:0004,00FF]\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_KEN,segment:4"
+msgid ""
+"<start>> Experiment with different\n"
+"combinations of blade techniques\n"
+"and gunfire.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_JYU,segment:0"
+msgid ""
+"<start>[7:0005,00FF][2:0004,00FF]> Bullets infused with elemental\n"
+"power can strike the enemy's\n"
+"weakness.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_JYU,segment:1"
+msgid ""
+"<start>> Press the [82C7] button to open the\n"
+"main menu, then choose \"Reload\" to \n"
+"select the type of bullets to equip.[2:0001,00FF]\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_FUUMA,segment:0"
+msgid ""
+"<start>[7:0005,00FF][2:0002,00FF]> The art of confinement[2:0004,00FF] allows a\n"
+"Devil Summoner to turn demon enemies\n"
+"into allies.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_FUUMA,segment:1"
+msgid ""
+"<start>> Enemies will be [2:0002,00FF]stunned[2:0004,00FF] by attacks\n"
+"that exploit their weaknesses.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_FUUMA,segment:2"
+msgid ""
+"<start>> While the demon is immobile,\n"
+"[2:0002,00FF]press the [82C2] button[2:0004,00FF] to confine\n"
+"it into the tube.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_FUUMA,segment:3"
+msgid ""
+"<start>> If the demon resists, [2:0002,00FF]press the\n"
+"[82C2] button rapidly[2:0004,00FF] to overcome it.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_MEIREI,segment:0"
+msgid ""
+"<start>[7:0005,00FF][2:0004,00FF]> You may control the demons'\n"
+"fighting style.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_MEIREI,segment:1"
+msgid ""
+"<start>> Open the battle menu with the\n"
+"R1 button, then choose \"Command\" to\n"
+"select a fighting style.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_MEIREI,segment:2"
+msgid ""
+"<start>> Experiment with different styles\n"
+"for the best results.[2:0001,00FF]\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_04_AFTER,segment:0"
+msgid ""
+"<start>[7:0005,00FF][2:0004,00FF]> When demons level up, they learn\n"
+"\"Combination Skills.\"\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_04_AFTER,segment:1"
+msgid ""
+"<start>> Combination Skills are stronger\n"
+"than normal attacks.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_04_AFTER,segment:2"
+msgid ""
+"<start>> Breed many demons to learn various\n"
+"Combination Skills.[2:0001,00FF]\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF][2:0004,00FF]> In battle, a [2:0002,00FF]Morale Icon[2:0004,00FF] will be\n"
+"visible in the demon information\n"
+"column on the left side.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_05,segment:1"
+msgid ""
+"<start>> This is a gauge of the demon's\n"
+"tension.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_05,segment:2"
+msgid ""
+"<start>> When the Morale Icon is full,\n"
+"[2:0002,00FF]Combination Skills[2:0004,00FF] can be used.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_05,segment:3"
+msgid ""
+"<start>> Press the [2:0002,00FF][82C7] and [82AE] buttons[2:0004,00FF]\n"
+"simultaneously to use the\n"
+"Combination Skill.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_MATA,segment:0"
+msgid ""
+"<start>[7:0005,00FF][2:0004,00FF]There is yet one more thing to\n"
+"explain.[2:0001,00FF]\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_EP09,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Raidou the 14th of another\n"
+"space-time...\n"
+"<end>"
+msgstr ""
+
+#. Fox (Left)
+msgctxt "type:0,entry:m_mes_KITUNE_L_EP09,segment:1"
+msgid ""
+"<start>It seems that something is gravely\n"
+"amiss in your world.\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_EP09,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hey, d'you know that \"doppleganger\"\n"
+"is a German word?\n"
+"<end>"
+msgstr ""
+
+#. Fox (Right)
+msgctxt "type:0,entry:m_mes_KITUNE_R_EP09,segment:1"
+msgid ""
+"<start>I guess you learn something new\n"
+"every day.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_ikai1,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Perform Ritual of Entry to the\n"
+"Dark Realm?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_ikai1_yes,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Going to the Dark Realm. (Usually\n"
+"the Herald of Yatagarasu does this.)\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_ikai1_no,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou stayed in place.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_ikai1_hajiki,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> There's a bend in the space...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_ikai1_on,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The space between the Real World\n"
+"and the Dark Realm is bending...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_ikai1_kari,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> This Dark Realm entrance point\n"
+"is temporarly placed here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_ikai1_help,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> If you would like to go to the\n"
+"Dark Realm from here immidietly, go\n"
+"to BitEditor, turn Bit ON on 0x0031.\n"
+"<end>"
+msgstr ""
+
+#. Karasu
+msgctxt "type:0,entry:m_mes_ikai_test01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...Kuzunoha Raidou, Devil Summoner\n"
+"who was sent by us to the Capital...\n"
+"<end>"
+msgstr ""
+
+#. Karasu
+msgctxt "type:0,entry:m_mes_ikai_test02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...I feel evil somewhere in the\n"
+"Capital.\n"
+"<end>"
+msgstr ""
+
+#. Karasu
+msgctxt "type:0,entry:m_mes_ikai_test03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You came here for some business\n"
+"about the Dark Realm.\n"
+"<end>"
+msgstr ""
+
+#. Karasu
+msgctxt "type:0,entry:m_mes_ikai_test_yes01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]It's Devil Summoner's duty to hunt\n"
+"down the demons which putting the\n"
+"Capital in danger.\n"
+"<end>"
+msgstr ""
+
+#. Karasu
+msgctxt "type:0,entry:m_mes_ikai_test_yes02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I'll perform the entry of the Dark\n"
+"Realm and send you to the Dark Realm.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_ikai_test_yes03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Which city's Dark Realm to go?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:m_mes_ikai_test_yes03_SE,segment:0"
+msgid "<start>Tsukudo-Cho"
+msgstr ""
+
+#. Karasu
+msgctxt "type:0,entry:m_mes_ikai_test_yes04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Find the cause of the disturbance\n"
+"of the Capital, and disinherit it\n"
+"immidietly.\n"
+"<end>"
+msgstr ""
+
+#. Karasu
+msgctxt "type:0,entry:m_mes_ikai_test_yes05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]But be careful.  The Dark Realm is\n"
+"a world that normal humans cannot\n"
+"recognize.\n"
+"<end>"
+msgstr ""
+
+#. Karasu
+msgctxt "type:0,entry:m_mes_ikai_test_yes06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]It's a nest of countless demons and\n"
+"a dangerous place...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_ikai_test_yes_tuku,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The Dark Realm of Tsukudo-Cho\n"
+"is revealing...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_ikai_test_yes_ginz,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The Dark Realm to Ginza\n"
+"is revealing...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_ikai_test_yes_senj,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The Dark Realm to Shin-Yoshiwara\n"
+"is revealing...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_ikai_test_yes_soka,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The Dark Realm to Western\n"
+"Settlement is revealing...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_ikai_test_yes_kasu,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The Dark Realm to Kasumigasaki\n"
+"is revealing...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_ikai_test_yes_atag,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The Dark Realm to Atagoyama is\n"
+"revealing...\n"
+"<end>"
+msgstr ""
+
+#. Karasu
+msgctxt "type:0,entry:m_mes_ikai_test_no,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...Raidou the forteenth.  Do not\n"
+"forget your mission...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_ikai_test_no02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou decided not to perform the\n"
+"entry of the Dark Realm.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_ikai_test00,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Test of performing the entry of\n"
+"the Dark Realm.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_ikai_test00,segment:1"
+msgid ""
+"<start>> ...Herald of Yatagarasu appeared\n"
+"out of nowhere.....\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_ikai_test_help,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Currently, whichever destination\n"
+"is chosen, it will take you directly\n"
+"to the Dark Tsukudo-Cho.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_mes_ikai_test_help,segment:1"
+msgid ""
+"<start>> Please be aware of it.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Bug01_01_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> It's a gigantic tree.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Bug01_01_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> It's a gigantic tree. Bugs might\n"
+"be attracted to sweet material on\n"
+"the tree...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:m_Bug01_01_02s01,segment:0"
+msgid "<start>Spread the Ice Cream"
+msgstr ""
+
+msgctxt "type:1,entry:m_Bug01_01_02s02,segment:0"
+msgid "<start>Spread the Syrup"
+msgstr ""
+
+msgctxt "type:1,entry:m_Bug01_01_02s03,segment:0"
+msgid "<start>Spread the Ice Cream"
+msgstr ""
+
+msgctxt "type:0,entry:m_Bug01_01_02a,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The tree is partially covered with\n"
+"Ice Cream.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Bug01_01_02b,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The tree is partially covered with\n"
+"Syrup.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Bug01_02_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> It's a gigantic tree. The trunk is\n"
+"partially covered with Ice Cream.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Bug01_02_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> ...!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Bug01_02_02,segment:1"
+msgid ""
+"<start>> A beetle is licking up the melted\n"
+"Ice Cream.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Bug01_02_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou obtained the [2:0005,00FF]Beetle[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Bug01_02_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> [14:0000,0000] obtained the [2:0005,00FF]Beetle[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Bug01_03_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> It's a gigantic tree. The trunk is\n"
+"partially covered with Syrup.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Bug01_03_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> ...!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Bug01_03_02,segment:1"
+msgid ""
+"<start>> A Stag Beetle is sucking on\n"
+"the syrup.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Bug01_03_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou obtained the [2:0005,00FF]Stag Beetle[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Bug01_03_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> [14:0000,0000] obtained the\n"
+"[2:0005,00FF]Stag Beetle[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE08_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Gouto looked to the shrine and\n"
+"called out.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI01_SCENE08_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Yatagarasu! This is an\n"
+"emergency!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE08_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Heeding Gouto's call, a figure\n"
+"appeared before Raidou.\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI01_SCENE08_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...Raidou Kuzunoha the 14th,\n"
+"guardian of the Capital...\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI01_SCENE08_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]What is the emergency which\n"
+"brought you here?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE08_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou explained the day's events\n"
+"to the Herald of Yatagarasu.\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI01_SCENE08_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...So a demon has pulled a human\n"
+"into the Dark Realm.\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI01_SCENE08_08,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I will weaken the protective field\n"
+"around the Capital to open you a\n"
+"path into the [2:0002,00FF]Dark Realm[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI01_SCENE08_09,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...The Dark Realm exists only to\n"
+"those aware of its presence.\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI01_SCENE08_10,segment:0"
+msgid ""
+"<start>[7:0005,00FF]There are dangers there foreign\n"
+"to this mortal world.\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI01_SCENE08_11,segment:0"
+msgid ""
+"<start>[7:0005,00FF]It is a dwelling place of demons.\n"
+"Be careful, for your life is in\n"
+"great danger there.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE08_12,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The Ritual of Entry begins, and\n"
+"Raidou is sent to [2:0002,00FF]Dark Tsukudo-Cho[2:0001,00FF]...\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Raidou Kuzunoha the 14th,\n"
+"I've awaited your return.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Please, come this way.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Admiral, Kuzunoha has arrived.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:EPI07_SCENE02_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Ah, yes... Raidou Kuzunoha,\n"
+"the guardian of our Capital.\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:EPI07_SCENE02_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I'm depending on you.\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Raidou, this man is an important\n"
+"naval officer.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]He's... crucial to the future\n"
+"of our country.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_08,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Unfortunately, he was [2:0002,00FF]cursed[2:0001,00FF]\n"
+"and is now unable to move.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_09,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]...I would ask for your help\n"
+"in saving this man.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_10,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]I will perform a Purification Ritual.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_11,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]The Admiral was cursed by an\n"
+"evil thought cast upon him.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_12,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]If we exorcise and purify that\n"
+"thought, the effects should\n"
+"subside.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_13,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]But, we cannot ignore the origin\n"
+"of this curse, Raidou.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_14,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]It will be your job to locate the one\n"
+"responsible and smite him.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_15,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]In order to do so, I would ask you\n"
+"to become a [2:0002,00FF]sacrifice[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI07_SCENE02_16,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...What!? But, Raidou's the one\n"
+"breaking the curse!\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_17,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]That is precisely why we cannot\n"
+"transfer it onto a doll.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_18,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You shall accept the curse placed upon\n"
+"the Admiral as your own burden.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_19,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]In doing so, you will gain the ability to\n"
+"follow those evil thoughts back to\n"
+"their origin.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_20,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Will you do this, Raidou?[23:]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EPI07_SCENE02_SEL,segment:0"
+msgid "<start>I accept."
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_21,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You embody the qualities of\n"
+"a true Devil Summoner.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_22,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]So be it. I will begin the Ritual of\n"
+"Purification.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_23,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Raidou, please prepare for\n"
+"the ritual.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_24,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]The curse is attacking the Admiral.\n"
+"If you break concentration for even\n"
+"a moment, it will tear you apart.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_25,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Use the utmost care!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_26,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]I have completed the ritual.\n"
+"The Admiral is safe.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_27,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Now, it is imperative that you find\n"
+"and destroy the source of this curse.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_28,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Concentrate... Feel the curse.\n"
+"Your body should know what\n"
+"course to take.\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI07_SCENE02_29,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou sought the curse and\n"
+"his body melted into thin air.\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_30,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]I'm afraid you do not have the option of\n"
+"refusal, Raidou.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_31,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]However, I understand the peril\n"
+"involved in the ritual.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_32,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]I can grant you time to prepare,\n"
+"if you so desire.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_33,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Please return once you have\n"
+"adequately prepared for the task\n"
+"at hand.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_34,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]The ritual will transfer the curse\n"
+"to a replacement body called the\n"
+"Fuchikoma--a sacrifice.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_35,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]The curse binding the Admiral\n"
+"was placed by a demon. You will\n"
+"need to take his place.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_36,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Doing so will allow you to follow\n"
+"the curse back to its origin.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_37,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Will you accept this, Raidou?[23:]\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_SCENE02_38,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]...Have you steeled yourself?[23:]\n"
+"<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]You did it, Raidou. The Admiral is safe.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]I'm glad I have the chance to\n"
+"thank you personally.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]Still, using demons to curse\n"
+"the Admiral? What a terrifying man.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]Major General Munakata, I mean.\n"
+"I'm sure you figured it out.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]This is because of that Super Soldier\n"
+"Project of his...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]This all happened because he\n"
+"considered the Navy an obstacle.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]We're safe now, Raidou, but we cannot\n"
+"let Munakata get away with this.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_08,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]I would like to ask for your\n"
+"cooperation in stopping Munakata.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_09,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]The Navy has been using spies,\n"
+"myself included, to monitor his\n"
+"activities.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_10,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]We have reason to believe that if\n"
+"his Super Soldier Project continues,\n"
+"the Capital will be in danger.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_11,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]I've been granted permission to\n"
+"share information, if there's\n"
+"anything you need to know.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_12,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]Once you understand the scope of\n"
+"his project, I believe you'll agree\n"
+"with our assessment.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_13,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]What would you like to know?[23:]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EPI07_SCENE05_SEL01,segment:0"
+msgid "<start>Ask about Munakata"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_14,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]He's considered a genius in the Army,\n"
+"and rightly so.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_15,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]His flawless strategic decisions\n"
+"earned him the reputation of\n"
+"being able to see the future.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_16,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]But lately, his activities have been...\n"
+"suspicious, to say the least.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_17,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]Building a ship underground...\n"
+"The Special Guard... Demons...\n"
+"He's connected to them all.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_18,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]...Any other questions?[23:]\n"
+"<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_19,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]Ah, the Super Soldier Project...\n"
+"I was shocked when I heard about it.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_20,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]It's Munakata's plan to beef up\n"
+"defenses and expand the country,\n"
+"but the details... It's creepy.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_21,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]Japan needs an edge over the\n"
+"other world powers, since we lack\n"
+"abundant natural resources...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_22,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]...Munakata's plan is to create\n"
+"an invincible army of soldiers\n"
+"who cannot die.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_23,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]You've seen them around;\n"
+"they're the Special Guards in red.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_24,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]They're corpses underneath\n"
+"those uniforms.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_25,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]Hence, they do not fear death,\n"
+"and will keep fighting until nothing\n"
+"is left--literally.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_27,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]I would imagine the ship being\n"
+"built underground is to transport\n"
+"this army overseas.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_28,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]He needs an unsinkable ship to\n"
+"transport an unstoppable army.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_29,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]This is something we simply cannot\n"
+"allow to happen.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_30,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]Raising the dead to fight a war?\n"
+"It's disgusting!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_31,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]There are lines that shouldn't be\n"
+"crossed, and Munakata crossed\n"
+"a big one.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_32,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]If this project is seen through,\n"
+"he'll become the most powerful man\n"
+"in the country.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_33,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]We have to do something before\n"
+"that can happen.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_34,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]The Red Cape phenomenon is\n"
+"caused by those radio towers\n"
+"the Army constructed.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_35,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]Waves from the towers affect\n"
+"certain people... causing them\n"
+"to break down.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_36,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]Those people become a kind of\n"
+"walking dead... From their minds,\n"
+"the Hiruko are born.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_37,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]This is all just another facet of\n"
+"the Super Soldier Project.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_38,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]...Hopefully now you can comprehend\n"
+"the horror Munakata is trying to\n"
+"unleash with his Super Soldiers.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_39,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]We would like to continue\n"
+"monitoring the Army in hopes\n"
+"of stopping Munakata.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_40,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]But, his demons and that undead\n"
+"army make it difficult for a normal\n"
+"human being to get involved.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_41,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]You, on the other hand, are a\n"
+"Devil Summoner. I had hoped you\n"
+"might lend us your services.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_42,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]His army... The underground ship...\n"
+"Those radio towers...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_43,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]...and that Daidouji girl you're\n"
+"looking for...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_44,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]The Super Soldier Project is\n"
+"the thread tying them together.\n"
+"And, we have to stop it.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_45,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]The key lies in [2:0004,00FF]Sakuradayama[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_46,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]There's a tower on the mountain\n"
+"called [2:0002,00FF]Waden One[2:0001,00FF]. It's the first\n"
+"of the Army's radio towers.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_47,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]Sources say Munakata visits that site\n"
+"often, even now.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_48,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]If you can get in there...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_49,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]We may be able to find out\n"
+"what he's planning to do next.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_50,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]Raidou, can I entrust you\n"
+"with this mission?[23:]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EPI07_SCENE05_SEL02,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_51,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]Thank you, Raidou.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_52,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]Remember, you're up against a man\n"
+"who controls the dead. It's dangerous,\n"
+"but I trust you.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_53,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]I'll make the necessary arrangements\n"
+"with your superior.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_54,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]...Good luck, Raidou Kuzunoha.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_55,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF].........\n"
+"Please, Raidou... Think it over.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE05_56,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]This mission could very well\n"
+"determine the future of Japan.[23:]\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Hm... What magic is this, that\n"
+"there are two Raido Kuzunoha\n"
+"the 14ths?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Raido
+msgctxt "type:0,entry:EPI09_SCENE04_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0016,00FF,0006,00FF]...I sensed a strange presence\n"
+"and this man appeared.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Raido
+msgctxt "type:0,entry:EPI09_SCENE04_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0016,00FF,0006,00FF]Goto didn't think he was a demon,\n"
+"so we brought him here.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]...I see. However, his spiritual essence...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]I understand.\n"
+"You are a lost soul.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You were not meant for this\n"
+"time and place. You are a foreigner;\n"
+"an anomaly.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Goto
+msgctxt "type:0,entry:EPI09_SCENE04_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0017,00FF,0006,00FF]Anomaly? Are we going to have to\n"
+"get rid of them?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_08,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]No, this person is the Raido\n"
+"Kuzunoha the 14th of another\n"
+"space and time.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_09,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]...That's the case, is it not?\n"
+"Are you Raido Kuzunoha the 14th?[23:]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EPI09_SCENE04_SEL01,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_10,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]As I thought.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_11,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]...However, it is detrimental to\n"
+"this world for you to remain here.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI09_SCENE04_12,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...That isn't funny, [12:0001,00FF].\n"
+"Tell her that you're Raidou.\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_13,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Thus, you must return to the space\n"
+"and time from whence you came.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_14,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]To this end, I will permit you\n"
+"use of the [2:0002,00FF]Amatsu Kanagi[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI09_SCENE04_15,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...What's the Amatsu Kanagi?\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_16,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]It is a sacred artifact.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_17,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]By using its power in a ritual,\n"
+"you may be able to return safely\n"
+"to your world of origin.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_18,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]...However, before that can happen,\n"
+"I do require some effort on your part.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_19,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]The Amatsu Kanagi has been sealed\n"
+"to prevent it falling into evil hands.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_20,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Earth, flame, water... It was\n"
+"separated into several prisms,\n"
+"each with a guardian.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_21,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Raido from another world...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_22,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]If you wish to set things right,\n"
+"you must earn three of these prisms.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_23,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Once you have overcome the\n"
+"guardians and obtained them, I\n"
+"will show you how to return home.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI09_SCENE04_24,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...We've had stranger jobs.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI09_SCENE04_25,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Just like Yatagarasu said,\n"
+"[12:0001,00FF]. Let's find those\n"
+"prisms.\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_26,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]If you are prepared, then choose\n"
+"a destination.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_27,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Each prism has been hidden\n"
+"in a different location.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_28,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Decide where you will begin.[23:]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EPI09_SCENE04_SEL02,segment:0"
+msgid "<start>Dark Sakuradayama"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_29,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]So be it. I shall send you to\n"
+"Dark Sakuradayama. Godspeed.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_30,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]So be it. I shall send you to\n"
+"Dark Ginza-Cho. Godspeed.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_31,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]So be it. I shall send you to\n"
+"Dark Harumi-Cho. Godspeed.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE04_32,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]When you believe yourself to be\n"
+"ready, return here.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_KARASU_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You are ready to seek the prisms,\n"
+"are you not?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_KARASU_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Deleted!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_KARASU_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]In that case, decide which location\n"
+"you are to search.[23:]\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE08_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You have obtained the three prisms\n"
+"of earth, water, and flame.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE08_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]As promised, I shall grant you\n"
+"the Amatsu Kanagi and send you\n"
+"back to your proper world.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE08_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Relinquish the prisms unto me...\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI09_SCENE08_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou handed the three prisms\n"
+"to the Herald of Yatagarasu.\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE08_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Very well. When combined with\n"
+"the Heaven Prism which I protect...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE08_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]...the prisms assume their true form\n"
+"as the Amatsu Kanagi.\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI09_SCENE08_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The four prisms overlapped,\n"
+"forming a single object.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI09_SCENE08_08,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou obtained the [2:0005,00FF]Amatsu Kanagi[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE08_09,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Come forward, Raido.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Raido
+msgctxt "type:0,entry:EPI09_SCENE08_10,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0016,00FF,0006,00FF]...Yes?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE08_11,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Accompany this man to the\n"
+"Ushigome-gaeri Bridge.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE08_12,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]That is the boundary between our\n"
+"world and the Dark Realm, the most\n"
+"ideal location for the ritual.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE08_13,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Use the Ritual of Soul-Sending,\n"
+"the technique used to send evil spirits\n"
+"back whence they came.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI09_SCENE08_14,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Go forth, Raido, and he of another\n"
+"space and time.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Raido
+msgctxt "type:0,entry:EPI09_RAIDO_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0016,00FF,0006,00FF]I'd be lying if I said I was eager to\n"
+"cross swords with myself.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Raido
+msgctxt "type:0,entry:EPI09_RAIDO_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0016,00FF,0006,00FF]I'm all too aware of what Raido\n"
+"the 14th can do...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Raido
+msgctxt "type:0,entry:EPI09_RAIDO_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0016,00FF,0006,00FF]You couldn't have expected this,\n"
+"but you got your bearings quickly\n"
+"and carried out your duty.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Raido
+msgctxt "type:0,entry:EPI09_RAIDO_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0016,00FF,0006,00FF]I admire that. You're certainly\n"
+"worthy to be called Raido the 14th.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Raido
+msgctxt "type:0,entry:EPI09_RAIDO_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0016,00FF,0006,00FF]...Hmm, is that too much like\n"
+"self-praise? Hmhm...\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:CROW01_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> There is a bell inside the shrine.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:CROW01_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Ring the bell?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:CROW_SEL01,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:CROW01_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The bell resounded through\n"
+"the area...\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]I am the Herald of Yatagarasu, the\n"
+"one who vouchsafes the peace of\n"
+"the Capital.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Raidou the 14th, Devil Summoner of\n"
+"Kuzunoha, is something amiss?[23:]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:CROW_SEL02,segment:0"
+msgid "<start>Perform the Ritual of Entry."
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Very well. I shall send you to the\n"
+"Dark Realm of the Capital.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You do not require anything?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Then, I shall be on my way back\n"
+"to Yatagarasu. A place not on\n"
+"this plane...\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:CROW02_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The Herald of Yatagarasu\n"
+"disappeared.\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]So, Raidou the 14th, it seems you\n"
+"have grown in strength since\n"
+"we met.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_08,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You shall henceforth be known as\n"
+"Raidou the 14th, [2:0002,00FF]Initiate[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_08_KAGE,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You shall henceforth be known as\n"
+"Raidou the 14th, [2:0002,00FF]Promising Youth[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_08_LANK03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You shall henceforth be known as\n"
+"Raidou the 14th, [2:0002,00FF]Taisho Swordsman[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_08_LANK04,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You shall henceforth be known as\n"
+"Raidou the 14th, [2:0002,00FF]Local Hero[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_08_LANK05,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You shall henceforth be known as\n"
+"Raidou the 14th, [2:0002,00FF]Urban Mystic[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_08_LANK06,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You shall henceforth be known as\n"
+"Raidou the 14th, [2:0002,00FF]Prodigy[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_08_LANK07,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You shall henceforth be known as\n"
+"Raidou the 14th, [2:0002,00FF]Worthy Summoner[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_08_LANK08,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You shall henceforth be known as\n"
+"Raidou the 14th, [2:0002,00FF]Gallant Hero[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_08_LANK09,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You shall henceforth be known as\n"
+"Raidou the 14th, [2:0002,00FF]Avatar of Spirits[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_08_LANK10,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You shall henceforth be known as\n"
+"Raidou the 14th, [2:0002,00FF]Rising Star[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_08_LANK11,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You shall henceforth be known as\n"
+"Raidou the 14th, [2:0002,00FF]Renowned Summoner[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_08_LANK12,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You shall henceforth be known as\n"
+"Raidou the 14th, [2:0002,00FF]Master of Demons[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_08_LANK13,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You shall henceforth be known as\n"
+"Raidou the 14th, [2:0002,00FF]Morning Star[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_08_LANK14,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You shall henceforth be known as\n"
+"Raidou the 14th, [2:0002,00FF]Demons' Terror[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_08_LANK15,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You shall henceforth be known as\n"
+"Raidou the 14th, [2:0002,00FF]Vigilant Guardian[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_08_LANK16,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You shall henceforth be known as\n"
+"Raidou the 14th, [2:0002,00FF]Timeless Summoner[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:CROW02_09,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou's title has changed!\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_10,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You may find these of use now.\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:CROW02_11,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou obtained 2 Tubes.\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_11_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You may also find this to be valuable...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_11_02,segment:1"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Please put it to good use during\n"
+"your mission.\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:CROW02_11_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou obtained the [2:0005,00FF]Mystic Eye[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_11_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]This mirror will reveal the abilities\n"
+"of hostile demons you face in battle.\n"
+"I'm sure it will prove useful.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_11_04,segment:1"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]...That is all.\n"
+"We are counting on you.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_12,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]I look forward to your growth in\n"
+"your efforts to safeguard the\n"
+"Capital's peace.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:CROW02_13,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Raidou the 14th, is there anything\n"
+"else you require of me?[23:]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:CROW02_14,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou obtained 4 Tubes.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:CROW02_15,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou obtained 6 Tubes.\n"
+"<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SADA_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]You look like you have something\n"
+"to say.[23:]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EPI07_SADA_SEL,segment:0"
+msgid "<start>...You tricked me."
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SADA_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]That is simply how events have\n"
+"played out. I won't ask you to\n"
+"let bygones be bygones...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SADA_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]But, understand that we aren't\n"
+"the enemy. I swear it upon this\n"
+"crest.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SADA_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]Do you mean Mr. Narumi? He\n"
+"looks worse than he is; there's\n"
+"no internal damage.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SADA_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]He put up quite a fight. He was\n"
+"able to dodge several of our\n"
+"best men.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SADA_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]Our pride was hurt worse than\n"
+"his body...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SADA_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]Under urgent circumstances such\n"
+"as these, we believe this is the\n"
+"best possible solution.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SADA_08,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]I'm sorry, but we aren't giving you\n"
+"a choice. Assuming you wish your\n"
+"friend to be unharmed, that is.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI00_karasu01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]This is important, [12:0001,00FF],\n"
+"so remember it.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI00_karasu02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Most people don't pay much attention\n"
+"to this beat-up old shrine...\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI00_karasu02,segment:1"
+msgid ""
+"<start>But, it's actually of great importance\n"
+"to the Kuzunoha clan.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI00_karasu03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]This is where we contact our client\n"
+"in the Capital.\n"
+"<end>"
+msgstr ""
+
+#. Mysterious woman
+msgctxt "type:0,entry:EPI00_karasu04,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]I was told that Raidou Kuzunoha\n"
+"the 14th would be arriving soon.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Mysterious woman
+msgctxt "type:0,entry:EPI00_karasu05,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You are that Devil Summoner,\n"
+"I presume?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Mysterious woman
+msgctxt "type:0,entry:EPI00_karasu06,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]I am the [2:0002,00FF]Herald[2:0001,00FF] who brings tidings\n"
+"from [2:0002,00FF]Yatagarasu[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI00_karasu06_TUIKA001,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF][2:0001,00FF]I am the one who ordered the\n"
+"Kuzunoha clan to maintain peace\n"
+"in our capital city.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI00_karasu07,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]So, long story short, you want\n"
+"Raidou here to keep watch over\n"
+"the capital city.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI00_karasu08,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Yes, the city is currently unstable\n"
+"because so many people have\n"
+"gathered there.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI00_karasu09,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]The boundary separating this world\n"
+"from the Dark Realm is weak.\n"
+"[2:0002,00FF]Demons[2:0001,00FF] will start to appear.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI00_karasu10,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]There will be serious ramifications\n"
+"if they should attack residents of\n"
+"the city.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI00_karasu11,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]In order to prevent that from\n"
+"happening, I am calling on you,\n"
+"Raidou Kuzunoha the 14th.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI00_karasu12,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Demons live in the [2:0002,00FF]Dark Realm[2:0001,00FF], which\n"
+"normal humans are forbidden to enter.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI00_karasu13,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You, however, are permitted as\n"
+"a Devil Summoner.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI00_karasu14,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You must subdue the demons before\n"
+"they can cause any public harm.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI00_karasu15,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Such is the will of Yatagarasu.\n"
+"Do you understand?[23:]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EPI00_KARASU_SEL01,segment:0"
+msgid "<start>I will protect the people."
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI00_karasu15_YES,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]I am glad to hear you say that.\n"
+"...There is one last thing.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI00_karasu15_NO,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You may not understand now,\n"
+"but you will once you arrive in\n"
+"the Capital.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI00_karasu15_NO,segment:1"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]One last thing...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI00_karasu16,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You will have an assistant while\n"
+"in the Capital...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI00_karasu16,segment:1"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]...A man named [2:0002,00FF]Narumi[2:0001,00FF].\n"
+"He runs a detective agency--on his\n"
+"own, at the moment.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI00_karasu16,segment:2"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]You are to become employed at\n"
+"the [2:0002,00FF]Narumi Detective Agency[2:0001,00FF] and\n"
+"work as a detective.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI00_karasu17,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:001E,00FF,0006,00FF]A detective agency, huh? That's\n"
+"a pretty swanky way to gather\n"
+"information, isn't it?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI00_karasu18,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]I have already made the proper\n"
+"arrangements with Mr. Narumi.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI00_karasu18,segment:1"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]The fate of the Capital rests on\n"
+"your shoulders, Raidou Kuzunoha.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_TUIKA_NOROI_001,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Raidou Kuzunoha the 14th.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_TUIKA_NOROI_001,segment:1"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Why have you not yet broken\n"
+"the curse?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_TUIKA_NOROI_002,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Your duty is to defeat the demon\n"
+"who placed the curse, and save\n"
+"the Admiral.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI07_TUIKA_NOROI_003,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Enter the Dark Realm quickly and\n"
+"defeat your enemy.\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI07_TUIKA_NOROI_004,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou melts into another realm,\n"
+"pursuing the source of the curse...\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:IKAI_SETUMEI_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]The Dark Realm lies behind the\n"
+"world we know. It is a place where\n"
+"demons roam freely.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:IKAI_SETUMEI_01,segment:1"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]The border between the realms is\n"
+"thin, and demons sometimes enter\n"
+"this world by chance.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:IKAI_SETUMEI_01,segment:2"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]Those who know how to look\n"
+"can see a demon's hand in most\n"
+"of our world's unsolved crimes.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:IKAI_SETUMEI_01,segment:3"
+msgid ""
+"<start>[7:0005,00FF][22:0009,00FF,0006,00FF]I am able to use the Ritual of Entry\n"
+"to connect our world with the\n"
+"Dark Realm.\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MAP_SAVE,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's a Dragon Cave. Mysterious\n"
+"power is flowing out of it...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MAP_SAVE,segment:1"
+msgid ""
+"<start>> Here, Raidou can record his\n"
+"findings without being disturbed.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MAP_SAVE,segment:2"
+msgid ""
+"<start>> Save?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MAP_SAVE_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:MAP_HEAL,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Recover health?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MAP_HEAL_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:MAP_HEAL2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [10:0001,00FF] and\n"
+"his demons were healed.\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL_FAST,segment:0"
+msgid ""
+"<start>[7:0007,00FF]*sob* *sob*\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL_FAST,segment:1"
+msgid ""
+"<start>...Who are you? I've never seen\n"
+"you around here...\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL_FAST,segment:2"
+msgid ""
+"<start>I'm Nakisawame. I heal everyone...\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL_2ND,segment:0"
+msgid ""
+"<start>[7:0007,00FF]*sob* Welcome.\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL_FULLMOON,segment:0"
+msgid ""
+"<start>[7:0007,00FF]*sob* Welcome. It's a full moon,\n"
+"so...\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL,segment:0"
+msgid ""
+"<start>[7:0007,00FF]Do you want me to heal you?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MAP_CHEAL_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]I'll need [3:0001,00FF] yen... Is that okay?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MAP_CHEAL2_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]This may sting a little, but only\n"
+"for a moment...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MAP_CHEAL4,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [10:0001,00FF] and\n"
+"his demons were healed.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MAP_CHEAL4D,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] was healed.\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL5,segment:0"
+msgid ""
+"<start>[7:0007,00FF]*sob* Don't die on me... Please...\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL6,segment:0"
+msgid ""
+"<start>[7:0007,00FF]*sob* So... You're going to die,\n"
+"too...\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL7,segment:0"
+msgid ""
+"<start>[7:0007,00FF]You don't have enough money...\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL7,segment:1"
+msgid ""
+"<start>*sob* So... You'll die just like\n"
+"all the rest...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EXITWARP,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Leave the area?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EXITWARP_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:ELVWARP,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's an elevator.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NG,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It looks like humans are unable\n"
+"to reach inside and take the\n"
+"contents.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's a glowing, red crystal.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI,segment:1"
+msgid ""
+"<start>> The contents inside shift and warp.\n"
+"Take the contents?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HOSEKI_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NOZOKI,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] fished around for the\n"
+"contents...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NOZOKI,segment:1"
+msgid ""
+"<start>[7:0003,00FF]......\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's a glowing, blue crystal.\n"
+"Take the contents?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAKARA_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_STILLGET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_MAKA_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF][3:0001,00FF] yen[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_D_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_D_MAKA_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] obtained\n"
+"[2:0005,00FF][3:0001,00FF] yen[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARAP,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> There's something on the ground.\n"
+"Pick it up?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARAP_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARAP_D_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] found something.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:1"
+msgid ""
+"<start>[7:0007,00FF]......\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:2"
+msgid ""
+"<start>> Raidou obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ZENISAGASI,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] found something.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ZENISAGASI,segment:1"
+msgid ""
+"<start>[7:0007,00FF]......\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ZENISAGASI,segment:2"
+msgid ""
+"<start>> Raidou obtained\n"
+"[2:0005,00FF][3:0001,00FF] yen[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MWALL_DEAD,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The Shikimi no Kage has been\n"
+"destroyed. The way ahead is clear.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MWALL_DEVILONLY,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's a Tainted Gate. A demon\n"
+"should be able to pass through.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou paid [3:0001,00FF] yen worth\n"
+"of streetcar fare and returned to\n"
+"the detective agency.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_NOP,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou returned to the detective\n"
+"agency.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_NG1,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou didn't have [3:0001,00FF] yen\n"
+"for the streetcar fare.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_NG1,segment:1"
+msgid ""
+"<start>> Gouto covered the rest.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:JIMUSYO_RETRN_NG2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]......\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_NG3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou didn't have [3:0001,00FF] yen\n"
+"for the streetcar fare.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_NG3,segment:1"
+msgid ""
+"<start>> The rest of the fare was paid\n"
+"out of Gouto's wallet.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_PASS,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou used the [2:0005,00FF]Streetcar Pass[2:0001,00FF] and\n"
+"returned to the detective agency.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:JIMUSYO_RETRN_REPAY1,segment:0"
+msgid ""
+"<start>[7:0007,00FF]Hey, [12:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:JIMUSYO_RETRN_REPAY1,segment:1"
+msgid ""
+"<start>It's about time you paid up for\n"
+"all the times I covered your\n"
+"streetcar fare.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_REPAY2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou paid Gouto back for all\n"
+"the times he borrowed money to pay\n"
+"his fare.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_REPAY3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> All the money Gouto lent to\n"
+"Raidou for the streetcar fare was\n"
+"returned to Gouto's wallet.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_HAJIKI1,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's not that easy to escape\n"
+"from here!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_HAJIKI2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> There's still more to\n"
+"investigate.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BAD_MAFU_HAJIKI,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The Mute ailment prevents the\n"
+"use of that ability.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_HAJIKI,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] felt it would be\n"
+"best if Raidou were here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_HAJIKI2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] felt the urge to\n"
+"report back to Raidou.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_HAJIKI3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] wondered if Raidou\n"
+"should investigate here, too.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_OPENERROR,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> That cannot be used here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] began a solo\n"
+"investigation.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOUKOKU_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] reported the\n"
+"findings of the investigation.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOUKOKU_START2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] talked animatedly\n"
+"about the particulars of the\n"
+"investigation.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOUKOKU_START3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] reported to Raidou\n"
+"despite its fatigue.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_INNENSTART,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] is eager to pick a\n"
+"fight.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_INNENSTART,segment:1"
+msgid ""
+"<start>[7:0007,00FF]> The encounter rate went up.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_TAKANESTART,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] played it hard\n"
+"to get.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_TAKANESTART,segment:1"
+msgid ""
+"<start>[7:0007,00FF]> The encounter rate went down.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_INNENEND,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The effects of Provoke wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_TAKANEEND,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The effects of Intimidate wore\n"
+"off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_ESTOMAEND,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The effects of Repulse Water\n"
+"wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REBERAMAEND,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The effects of the Attract Water\n"
+"wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_DRINKEND,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The effects of the Soda wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_MOUDOKUEND,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The effects of the poison wore\n"
+"off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK00_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried using\n"
+"Ignite.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK01_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried using\n"
+"Cool Down.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK02_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried searching\n"
+"areas with spiritual energy.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] scouted around the\n"
+"area.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_END_0,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] returned from the\n"
+"scouting mission.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_DV0,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> In this area...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_DV1,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [2:0004,00FF][3:0001,00FF] [3:0002,00FF][2:0001,00FF] \n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_DV2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> ...were spotted lurking around.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_DV3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> ...no demons were spotted.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_TAKARA0,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> As for items left in the area...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_TAKARA1,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [2:0004,00FF][3:0001,00FF][2:0001,00FF]\n"
+"have been confirmed.\n"
+"<end><start>> [14:0000,0000] told Raidou he'd\n"
+"have to to find any hidden items\n"
+"himself.\n"
+""
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_TAKARA_NOT,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> ...none were spotted.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_ITEM,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] also found\n"
+"[3:0001,00FF] x[3:0002,00FF] \n"
+"while scouting.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_ITEM,segment:1"
+msgid ""
+"<start>> Raidou obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK04_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried a good, hard\n"
+"strike.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK05_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried using the\n"
+"art of mind reading.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK10_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] filled the air with\n"
+"pheromones.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK01,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] is spacing out.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK02,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] looked at the\n"
+"human and was surprised.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK03,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's no use!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK04,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] is reminiscing\n"
+"about its home.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK05,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It seems humans are foreign to\n"
+"[14:0000,0000].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK06,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried hard to make\n"
+"conversation.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK06,segment:1"
+msgid ""
+"<start>> Alas, it was invisible to the\n"
+"human.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK07,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] hung back\n"
+"bashfully.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK07,segment:1"
+msgid ""
+"<start>> The human didn't notice.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK08,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] winked!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK08,segment:1"
+msgid ""
+"<start>> The human didn't notice.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK09,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] attempted\n"
+"intimidation!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK09,segment:1"
+msgid ""
+"<start>> But, [14:0000,0000] ended up as\n"
+"the one being intimidated.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK10,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried singing a\n"
+"song.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK10,segment:1"
+msgid ""
+"<start>> Eventually, it got bored and\n"
+"stopped.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK11,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried getting the\n"
+"first strike.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK11,segment:1"
+msgid ""
+"<start>> It was a futile effort.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK12,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] asked for MAG.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK12,segment:1"
+msgid ""
+"<start>> Alas, it was invisible to the\n"
+"human.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK13,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] asked for money.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK13,segment:1"
+msgid ""
+"<start>> Alas, it was invisible to the\n"
+"human.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK14,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] was startled.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK15,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The human turned this way as\n"
+"[14:0000,0000] tried to make\n"
+"conversation.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK15,segment:1"
+msgid ""
+"<start>> ...Or so it seemed. In fact,\n"
+"it was just a coincidence; demons\n"
+"are invisible to humans.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK16,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] bemoaned the rough\n"
+"treatment it received from\n"
+"[10:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:DEAD_CONTINUE,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The demon died and returned\n"
+"to the tube...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:M31CONTINUE,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou decided to come back and\n"
+"try again later.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_0,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] is trying to\n"
+"demonstrate its expertise...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_0,segment:1"
+msgid ""
+"<start>> Watch the demonstration?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAKUMI_0_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_A,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [3:0001,00FF] recovered full HP\n"
+"thanks to [14:0000,0000]'s magnificent\n"
+"acupuncture techniques.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_B,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [3:0001,00FF] recovered full MP\n"
+"thanks to [14:0000,0000]'s magnificent\n"
+"acupuncture techniques.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_C,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] pressed the\n"
+"wrong pressure point.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_C,segment:1"
+msgid ""
+"<start>> [3:0001,00FF] took major damage!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_1,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] pressed a miracle\n"
+"pressure point.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_1,segment:1"
+msgid ""
+"<start>> [3:0001,00FF]'s Strength went up\n"
+"by 1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] pressed a miracle\n"
+"pressure point.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_2,segment:1"
+msgid ""
+"<start>> [3:0001,00FF]'s Magic went up\n"
+"by 1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] pressed a miracle\n"
+"pressure point.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_3,segment:1"
+msgid ""
+"<start>> [3:0001,00FF]'s Vitality went up\n"
+"by 1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_4,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] pressed a miracle\n"
+"pressure point.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_4,segment:1"
+msgid ""
+"<start>> [3:0001,00FF]'s Luck went up\n"
+"by 1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_E,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] pressed the wrong\n"
+"pressure point.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_E,segment:1"
+msgid ""
+"<start>> [3:0001,00FF] started to feel\n"
+"queasy.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_F,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] pressed the wrong\n"
+"pressure point.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_F,segment:1"
+msgid ""
+"<start>> [3:0001,00FF] started to feel\n"
+"queasy.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_G,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] was moved by its\n"
+"creative instincts.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_G,segment:1"
+msgid ""
+"<start>> [14:0000,0000] turned\n"
+"[3:0001,00FF] into [3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_SEL_NO,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] looks sad...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_CANCEL,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] was going to\n"
+"demonstrate its expertise...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_CANCEL,segment:1"
+msgid ""
+"<start>> But, no one was watching.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_REIGAI_1,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000]'s mouth watered.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_REIGAI_1,segment:1"
+msgid ""
+"<start>> But, [14:0000,0000] resisted\n"
+"temptation.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_REIGAI_2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried acting\n"
+"snobby, so as not to be\n"
+"treated with contempt.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_REIGAI_3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] succumbed to the\n"
+"pressure and was unable to talk.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_REIGAI_4A,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] had a bad feeling\n"
+"about this.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_REIGAI_4B,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] stared at the\n"
+"voiceless thing.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_REIGAI_5,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] stared at the\n"
+"voiceless thing.\n"
+"<end>"
+msgstr ""

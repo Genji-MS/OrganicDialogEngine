@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF04]You win...\n"
+"Do as you... please...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1_B,segment:0"
+msgid ""
+"<start>[7:FF07]Ha ha ha...\n"
+"I got beat up pretty bad.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1_B,segment:1"
+msgid ""
+"<start>[7:FF07]I didn't expect [12:FF04]\n"
+"to be that strong...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1_C,segment:0"
+msgid ""
+"<start>[7:FF07]I worked so hard to get\n"
+"the Reason of Musubi...\n"
+"But, it seems almost impossible\n"
+"for me to create my world now...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1_D,segment:0"
+msgid ""
+"<start>[7:FF07]Here... Let me give you this.\n"
+"I have guarded it with my life...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_020_1_E,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained the [2:FF02]Netherstone[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1_F,segment:0"
+msgid ""
+"<start>[7:FF07]...See ya, [12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1_F,segment:1"
+msgid ""
+"<start>[7:FF07]It's... up to you now...\n"
+"<end>"
+msgstr ""

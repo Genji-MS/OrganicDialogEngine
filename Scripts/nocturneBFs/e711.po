@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07]......\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001,segment:1"
+msgid ""
+"<start>[18:][12:FF01], you recovered\n"
+"the candelabrum from that Fiend...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001,segment:2"
+msgid ""
+"<start>[18:]I knew I could count on you...\n"
+"even if the world changed.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001,segment:3"
+msgid ""
+"<start>[18:]I believed in you... that you would\n"
+"always be my strength...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF07]......\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002,segment:1"
+msgid ""
+"<start>[18:]Here is what my master has to say...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002,segment:2"
+msgid ""
+"<start>[18:]The candelabrum that you\n"
+"acquired...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002,segment:3"
+msgid ""
+"<start>[18:]It was part of his prized collection.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002,segment:4"
+msgid ""
+"<start>[18:]The candelabra are flames of life\n"
+"that control the flow of Magatsuhi\n"
+"within the Labyrinth of Amala...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002,segment:5"
+msgid ""
+"<start>[18:]But, they were stolen by terrible\n"
+"Fiends.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07][18:]The candelabra grant to\n"
+"their possessors access to\n"
+"the Labyrinth of Amala.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:1"
+msgid ""
+"<start>[18:]However, that privilege is not\n"
+"intended for just anyone.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:2"
+msgid ""
+"<start>[18:]This place is strictly forbidden\n"
+"to all but those my master has\n"
+"permitted entry.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF07][18:]That is why we would like to ask you\n"
+"a favor.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:1"
+msgid ""
+"<start>[18:]Is it possible for you to retrieve\n"
+"the candelabra--the flames that\n"
+"light the floors of the Labyrinth--\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:2"
+msgid ""
+"<start>[18:]and return them here?\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005,segment:0"
+msgid ""
+"<start>[7:FF07][18:]That is my master's request...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005,segment:1"
+msgid ""
+"<start>[18:]...to recover the eleven candelabra.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005,segment:2"
+msgid ""
+"<start>[18:]If you are willing to accept\n"
+"the task, then you will be allowed\n"
+"to enter the Labyrinth of Amala.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005,segment:3"
+msgid ""
+"<start>[18:]I believe that it is a fair offer,\n"
+"but it is up to you to decide.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005,segment:4"
+msgid ""
+"<start>[18:]Will you do it, for my master's sake?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:KAIWA_SEL,segment:0"
+msgid "<start>I will."
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:NO_001,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...I see.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:NO_001,segment:1"
+msgid ""
+"<start>[18:]But, please be aware that\n"
+"the candelabra have a tendency\n"
+"to attract each other.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:NO_001,segment:2"
+msgid ""
+"<start>[18:]As you spend time contemplating...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:NO_001,segment:3"
+msgid ""
+"<start>[18:]...your candelabrum is calling out\n"
+"to others, and to the Fiends that\n"
+"stole them...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:NO_002,segment:0"
+msgid ""
+"<start>[7:FF07][18:]We will wait, in hope that you\n"
+"will recover all the candelabra.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_006,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Thank you... [12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_006C,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I knew I could count on you...\n"
+"I mean, I knew you would accept\n"
+"our offer.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_006B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]The candelabra tend to attract each\n"
+"other. That is why I gave you one.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_006B,segment:1"
+msgid ""
+"<start>[18:]As long as you have your\n"
+"candelabrum, you will eventually\n"
+"come across the others.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_007,segment:0"
+msgid ""
+"<start>[7:FF07][18:]When you retrieve a candelabrum,\n"
+"please place it on the pedestal\n"
+"in the corresponding floor of\n"
+"the Labyrinth.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_007,segment:1"
+msgid ""
+"<start>[18:]I will reward you as you return them\n"
+"to their rightful places.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_007,segment:2"
+msgid ""
+"<start>[18:]If you hold your candelabrum to\n"
+"the spinning drum of Amala...\n"
+"the device referred to as\n"
+"a \"terminal\" in Tokyo...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_007,segment:3"
+msgid ""
+"<start>[18:]...you will be able to enter\n"
+"and leave here freely.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_007,segment:4"
+msgid ""
+"<start>[18:]Please be careful.\n"
+"I wish you the best...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_008,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Preparations are complete.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_008,segment:1"
+msgid ""
+"<start>[18:]Let us see if our chosen Fiend\n"
+"will emerge victorious...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_008,segment:2"
+msgid ""
+"<start>[18:]...if he is the one we have been\n"
+"waiting for.\n"
+"<end>"
+msgstr ""
+
+#. Old gentleman in a wheelchair
+msgctxt "type:0,entry:MSG_008_002,segment:0"
+msgid ""
+"<start>[7:FF07][18:]A demon is born twice...\n"
+"<end>"
+msgstr ""
+
+#. Old gentleman in a wheelchair
+msgctxt "type:0,entry:MSG_008_002,segment:1"
+msgid ""
+"<start>...Will he accept darkness...?\n"
+"<end>"
+msgstr ""

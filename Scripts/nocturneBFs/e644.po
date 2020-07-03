@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Strange Manikin
+msgctxt "type:0,entry:MSG_010_1,segment:0"
+msgid ""
+"<start>[7:FF07]You should've just handed over\n"
+"your Magatsuhi...\n"
+"<end>"
+msgstr ""
+
+#. Strange Manikin
+msgctxt "type:0,entry:MSG_010_2,segment:0"
+msgid ""
+"<start>[7:FF07]But instead,\n"
+"you decided to oppose me...\n"
+"That was too funny.\n"
+"<end>"
+msgstr ""
+
+#. Strange Manikin
+msgctxt "type:0,entry:MSG_010_2,segment:1"
+msgid ""
+"<start>[7:FF07]Well, I'm not complaining.\n"
+"Now, I have this new skin to add\n"
+"to my collection...\n"
+"<end>"
+msgstr ""
+
+#. Strange Manikin
+msgctxt "type:0,entry:MSG_010_3,segment:0"
+msgid ""
+"<start>[7:FF07]...!!\n"
+"<end>"
+msgstr ""
+
+#. Strange Manikin
+msgctxt "type:0,entry:MSG_010_7,segment:0"
+msgid ""
+"<start>[7:FF07]Who's there!?\n"
+"<end>"
+msgstr ""
+
+#. Strange Manikin
+msgctxt "type:0,entry:MSG_010_4,segment:0"
+msgid ""
+"<start>[7:FF07]Damn, you had me scared for \n"
+"a second... I thought\n"
+"those Manikins were back.\n"
+"<end>"
+msgstr ""
+
+#. Strange Manikin
+msgctxt "type:0,entry:MSG_010_4,segment:1"
+msgid ""
+"<start>[7:FF07]They're pretty weak,\n"
+"all of them except this one guy\n"
+"that escaped from the Mantra...\n"
+"<end>"
+msgstr ""
+
+#. Strange Manikin
+msgctxt "type:0,entry:MSG_010_4,segment:2"
+msgid ""
+"<start>[7:FF07]He's been giving me a headache\n"
+"recently.\n"
+"<end>"
+msgstr ""
+
+#. Strange Manikin
+msgctxt "type:0,entry:MSG_010_4,segment:3"
+msgid ""
+"<start>[7:FF07]It would've made my life\n"
+"a lot easier if he'd been\n"
+"killed in Ikebukuro.\n"
+"<end>"
+msgstr ""
+
+#. Strange Manikin
+msgctxt "type:0,entry:MSG_010_5,segment:0"
+msgid ""
+"<start>[7:FF07]I should thank him, though,\n"
+"for bringing his followers here.\n"
+"It's like free Magatsuhi.\n"
+"<end>"
+msgstr ""
+
+#. Strange Manikin
+msgctxt "type:0,entry:MSG_010_5,segment:1"
+msgid ""
+"<start>[7:FF07]I've been collecting Magatsuhi...\n"
+"Eventually, I'll have enough power\n"
+"to dominate all demons.\n"
+"<end>"
+msgstr ""
+
+#. Strange Manikin
+msgctxt "type:0,entry:MSG_010_5,segment:2"
+msgid ""
+"<start>[7:FF07]You're a demon;\n"
+"you know how it is.\n"
+"<end>"
+msgstr ""
+
+#. Strange Manikin
+msgctxt "type:0,entry:MSG_010_5,segment:3"
+msgid ""
+"<start>[7:FF07]You're thirsty for some Magatsuhi\n"
+"yourself, aren't ya?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:SAKAHAGI_001,segment:0"
+msgid "<start>Yeah, I am."
+msgstr ""
+
+#. Strange Manikin
+msgctxt "type:0,entry:SAKA_001,segment:0"
+msgid ""
+"<start>[7:FF07]That's what I thought.\n"
+"<end>"
+msgstr ""
+
+#. Strange Manikin
+msgctxt "type:0,entry:SAKA_001,segment:1"
+msgid ""
+"<start>Hey, I think you and I\n"
+"will get along just fine.\n"
+"<end>"
+msgstr ""
+
+#. Strange Manikin
+msgctxt "type:0,entry:SAKA_002,segment:0"
+msgid ""
+"<start>[7:FF07]You don't want Magatsuhi?\n"
+"...You're one weird demon.\n"
+"<end>"
+msgstr ""
+
+#. Strange Manikin
+msgctxt "type:0,entry:MSG_010_8,segment:0"
+msgid ""
+"<start>[7:FF07]...Well, it's time for me to go.\n"
+"<end>"
+msgstr ""
+
+#. Strange Manikin
+msgctxt "type:0,entry:MSG_010_8,segment:1"
+msgid ""
+"<start>[7:FF07]Maybe we'll meet again,\n"
+"maybe not. We'll see.\n"
+"<end>"
+msgstr ""
+
+#. Strange Manikin
+msgctxt "type:0,entry:MSG_010_8,segment:2"
+msgid ""
+"<start>[7:FF07]Just remember... I'm Sakahagi,\n"
+"the future ruler of the demons...\n"
+"<end>"
+msgstr ""

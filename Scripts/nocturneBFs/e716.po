@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...What's the matter,\n"
+"[12:FF01]?\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001,segment:1"
+msgid ""
+"<start>[18:]My master is resting right now.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001_002,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...That's a very rare item that\n"
+"you have there.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001_002,segment:1"
+msgid ""
+"<start>[18:]It's called the [2:FF02]Afterlife Bell[2:FF01].\n"
+"It has the power to resurrect\n"
+"wandering souls.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I thought it was still hidden in\n"
+"the Labyrinth of Amala...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002,segment:1"
+msgid ""
+"<start>[18:]A Manikin must have stolen it\n"
+"and fled, in hopes of returning to\n"
+"the Vortex World.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Speaking of which,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:1"
+msgid ""
+"<start>[18:]do you know how Manikins\n"
+"are born?\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:2"
+msgid ""
+"<start>[18:]They are originally fragments of\n"
+"human emotions...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:3"
+msgid ""
+"<start>[18:]that acquire physical form and\n"
+"become sentient.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF07]When the Conception took place,\n"
+"Tokyo was purged of humans.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:1"
+msgid ""
+"<start>It was a necessary step toward\n"
+"the rebirth of the world...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005,segment:0"
+msgid ""
+"<start>[7:FF07]But, even after they died,\n"
+"their souls lingered.\n"
+"And likewise... their emotions.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005,segment:1"
+msgid ""
+"<start>Weak emotions dissipated instantly,\n"
+"but strong ones remained...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_006,segment:0"
+msgid ""
+"<start>[7:FF07]Those emotions sought receptacles,\n"
+"and found refuge in the substance\n"
+"closest to life...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_006,segment:1"
+msgid ""
+"<start>Earth. They merged with the earth\n"
+"and took shape one after another.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_006,segment:2"
+msgid ""
+"<start>For some, they became what\n"
+"they longed to be...\n"
+"For others, a side of them\n"
+"that they abhored surfaced.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_007,segment:0"
+msgid ""
+"<start>[7:FF07]Tokyo is currently in a state\n"
+"of transition, awaiting the day\n"
+"of creation.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_007,segment:1"
+msgid ""
+"<start>Of all the things in this world,\n"
+"some have ceased to exist,\n"
+"while others are adapting to\n"
+"the new world by changing form...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_008,segment:0"
+msgid ""
+"<start>[7:FF07]Human emotions became Manikins\n"
+"and inhabited the Vortex World.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_009,segment:0"
+msgid ""
+"<start>[7:FF07]Creation is forbidden to them,\n"
+"and their very existence will be\n"
+"denied once the new world has been\n"
+"born, but...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_010,segment:0"
+msgid ""
+"<start>[7:FF07]Some Manikins have possessed\n"
+"exceptional strength.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_011,segment:0"
+msgid ""
+"<start>[7:FF07]If you bring them back to life\n"
+"with the [2:FF02]Afterlife Bell[2:FF01],\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_011,segment:1"
+msgid ""
+"<start>they might join you and help you\n"
+"during your journey, even if it's\n"
+"only for a short while.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_011,segment:2"
+msgid ""
+"<start>It's worth a try.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_012,segment:0"
+msgid ""
+"<start>[7:FF07]...I think it's time for you\n"
+"to go back, [12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_012,segment:1"
+msgid ""
+"<start>There are still things you\n"
+"have to do...\n"
+"<end>"
+msgstr ""

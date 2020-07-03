@@ -1,0 +1,3898 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 28/03/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Gouto
+msgctxt "type:0,entry:MSG_LMP_SYS_CLS_ST01A,segment:0"
+msgid ""
+"<start>[7:0005,00FF]No need to ride the trains now,\n"
+"[12:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:MSG_LMP_SYS_CLS_ST01A,segment:1"
+msgid ""
+"<start>We've got an investigation in\n"
+"progress here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_LMP_SYS_N_FARE01A,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou didn't have enough money\n"
+"for the streetcar fare.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_LMP_SYS_N_FARE01A,segment:1"
+msgid ""
+"<start>> Gouto covered the rest.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_LMP_SYS_N_FARE02A,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou didn't have enough money\n"
+"for the streetcar fare.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_LMP_SYS_N_FARE02A,segment:1"
+msgid ""
+"<start>> Gouto covered the rest.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:MSG_LMP_SYS_N_FARE01B,segment:0"
+msgid ""
+"<start>[7:0005,00FF]......\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_LMP_SYS_FREE,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou used the [2:0005,00FF]Streetcar Pass[2:0001,00FF]\n"
+"to ride the streetcar for free.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:MSG_LMP_SYS_LOAN01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hey, [12:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:MSG_LMP_SYS_LOAN01,segment:1"
+msgid ""
+"<start>It's about time you paid up for\n"
+"all the times I covered your\n"
+"streetcar fare.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_LMP_SYS_LOAN02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou paid Gouto back for all\n"
+"the times he borrowed money to pay\n"
+"his fare.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_LMP_SYS_LOAN03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> All the money Gouto lent to\n"
+"Raidou for the streetcar fare was\n"
+"returned to Gouto's wallet.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EP04_lmap_ASHIDOME_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> A ship is blocking the river. It seems\n"
+"to be a military blockade.\n"
+"<end>"
+msgstr ""
+
+#. Construction worker
+msgctxt "type:0,entry:EP04_lmap_HARU_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Sorry, kid, this area is\n"
+"under construction.[8289]\n"
+"<end>"
+msgstr ""
+
+#. Construction worker
+msgctxt "type:0,entry:EP04_lmap_HARU_01,segment:1"
+msgid ""
+"<start>The street that takes you from\n"
+"the station to the naval\n"
+"headquarters is off-limits.\n"
+"<end>"
+msgstr ""
+
+#. Construction worker
+msgctxt "type:0,entry:EP04_lmap_HARU_01,segment:2"
+msgid ""
+"<start>You'll have to use the route\n"
+"that goes from the station to\n"
+"Harumi-Cho instead.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Rhone01_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou blew the Flute of Rhone.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Rhone01_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> But, the Large Tarrasque didn't\n"
+"come...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> There's something on the ground.\n"
+"Pick it up?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP_NOGET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou left it there.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP_D,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> There's something on the ground.\n"
+"Pick it up?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP_D_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP_D_NOGET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] left it there.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:L_TAKARAP_SEL,segment:0"
+msgid "<start>Pick it up"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP_GET01,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF]Soma Drop[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP_GET02,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF]Wood Ornament[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP_GET03,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF]\"Mansaku\" Sake[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP_GET04,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF]Muscle Drink[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP_GET05,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF]Chakra Drop[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP_GET06,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF]Foxtail[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP_GET07,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF]Asuka Mirror[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP_GET08,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF]Lu Incense[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP_GET09,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF]St Incense[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP_GET10,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF]\"Kotetsu\" Sake[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP_GET11,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF]Ma Incense[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP_GET12,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF]Vi Incense[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP_GET13,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF]Javanese Figure[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP_GET14,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF]Great Chakra[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP_GET15,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF]Medicine[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:L_TAKARAP_GET16,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF]Medicine[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:map01_EP06_lmap_STOP_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0005,00FF,0006,00FF]Wait,[8080][12:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:map01_EP06_lmap_STOP_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0005,00FF,0006,00FF]If I go inside, you know they'll\n"
+"kill me.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:map01_EP06_lmap_STOP_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0005,00FF,0006,00FF]You go. I'll wait here.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Hope-filled schoolgirl
+msgctxt "type:0,entry:EP01_lmap_mes01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]That emblem on your hat is the\n"
+"[2:0004,00FF]Yumizuki High[2:0001,00FF] crest, right?\n"
+"<end>"
+msgstr ""
+
+#. Hope-filled schoolgirl
+msgctxt "type:0,entry:EP01_lmap_mes01,segment:1"
+msgid ""
+"<start>Golly, the rumors are true. The\n"
+"guys there are much better than\n"
+"the pathetic boys at our school.\n"
+"<end>"
+msgstr ""
+
+#. Hope-filled schoolgirl
+msgctxt "type:0,entry:EP01_lmap_EP09_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Huh, I've been running into\n"
+"Yumizuki boys right and left\n"
+"today.\n"
+"<end>"
+msgstr ""
+
+#. Hope-filled schoolgirl
+msgctxt "type:0,entry:EP01_lmap_EP09_01,segment:1"
+msgid ""
+"<start>Hang on... is that...? Do you\n"
+"have a twin brother out there?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EP01_lmap_EP09_01_SEL,segment:0"
+msgid "<start>Not that I know of."
+msgstr ""
+
+#. Hope-filled schoolgirl
+msgctxt "type:0,entry:EP01_lmap_EP09_01_ans0,segment:0"
+msgid ""
+"<start>[7:0005,00FF]That's odd... I just saw someone\n"
+"who looked exactly like you in\n"
+"Tsukudo-Cho.\n"
+"<end>"
+msgstr ""
+
+#. Hope-filled schoolgirl
+msgctxt "type:0,entry:EP01_lmap_EP09_01_ans0,segment:1"
+msgid ""
+"<start>Well, almost. He seemed like you,\n"
+"but he had a wild look to him.\n"
+"<end>"
+msgstr ""
+
+#. Hope-filled schoolgirl
+msgctxt "type:0,entry:EP01_lmap_EP09_01_ans0,segment:2"
+msgid ""
+"<start>I prefer the one standing in front\n"
+"of me. That other one looked\n"
+"like he might get fresh.\n"
+"<end>"
+msgstr ""
+
+#. Hope-filled schoolgirl
+msgctxt "type:0,entry:EP01_lmap_EP09_01_ans1,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Ohh! You're so... bold!\n"
+"<end>"
+msgstr ""
+
+#. Hope-filled schoolgirl
+msgctxt "type:0,entry:EP01_lmap_EP09_01_ans1,segment:1"
+msgid ""
+"<start>It works for you, though. For a\n"
+"moment, it was as if music was\n"
+"playing in the air.\n"
+"<end>"
+msgstr ""
+
+#. Informed gentleman
+msgctxt "type:0,entry:EP01_lmap_JIJO_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Nothing lasts forever, and the\n"
+"Daidouji bloodline is no\n"
+"exception.\n"
+"<end>"
+msgstr ""
+
+#. Informed gentleman
+msgctxt "type:0,entry:EP01_lmap_JIJO_01,segment:1"
+msgid ""
+"<start>With the head of the household\n"
+"as good as gone, that distinguished\n"
+"name has become tarnished.\n"
+"<end>"
+msgstr ""
+
+#. Informed gentleman
+msgctxt "type:0,entry:EP01_lmap_JIJO_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]When you think of a rich family's\n"
+"only daughter, you'd assume she\n"
+"would be spoiled, right?\n"
+"<end>"
+msgstr ""
+
+#. Informed gentleman
+msgctxt "type:0,entry:EP01_lmap_JIJO_02,segment:1"
+msgid ""
+"<start>Not Kaya. Well-behaved, excellent\n"
+"marks in school, as beautiful as\n"
+"she is witty... she's a golden child.\n"
+"<end>"
+msgstr ""
+
+#. Informed gentleman
+msgctxt "type:0,entry:EP01_lmap_JIJO_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I used to see Kaya walking this\n"
+"way all the time together with\n"
+"her friend.\n"
+"<end>"
+msgstr ""
+
+#. Informed gentleman
+msgctxt "type:0,entry:EP01_lmap_JIJO_03,segment:1"
+msgid ""
+"<start>The other girl was a kind-looking\n"
+"young lady, with short hair and\n"
+"glasses.\n"
+"<end>"
+msgstr ""
+
+#. Informed gentleman
+msgctxt "type:0,entry:EP01_lmap_JIJO_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Strange that someone would\n"
+"visit the Daidouji Residence at\n"
+"a time like this.\n"
+"<end>"
+msgstr ""
+
+#. Informed gentleman
+msgctxt "type:0,entry:EP01_lmap_JIJO_04,segment:1"
+msgid ""
+"<start>Most people who do are looking\n"
+"for a handout, but their finances\n"
+"aren't the best right now...\n"
+"<end>"
+msgstr ""
+
+#. Informed gentleman
+msgctxt "type:0,entry:EP01_lmap_JIJO_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]For someone whose birthday\n"
+"is coming up soon, Kaya didn't\n"
+"look very happy.\n"
+"<end>"
+msgstr ""
+
+#. Informed gentleman
+msgctxt "type:0,entry:EP01_lmap_JIJO_05,segment:1"
+msgid ""
+"<start>I suppose the family's situation\n"
+"puts a damper on her mood to\n"
+"celebrate.\n"
+"<end>"
+msgstr ""
+
+#. Informed gentleman
+msgctxt "type:0,entry:EP01_lmap_JIJO_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I bumped into Kiyoshi a day or\n"
+"two ago.\n"
+"<end>"
+msgstr ""
+
+#. Informed gentleman
+msgctxt "type:0,entry:EP01_lmap_JIJO_06,segment:1"
+msgid ""
+"<start>He dropped his bag, and I saw\n"
+"inside when it landed. It was full\n"
+"of gold, jewels, and antiques.\n"
+"<end>"
+msgstr ""
+
+#. Informed gentleman
+msgctxt "type:0,entry:EP01_lmap_JIJO_06,segment:2"
+msgid ""
+"<start>He was probably on his way to\n"
+"pawn them off. I hear he's in a\n"
+"tight spot with his creditors.\n"
+"<end>"
+msgstr ""
+
+#. Rough worker
+msgctxt "type:0,entry:EP02_lmap_mes01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]This is the Red-Light District,\n"
+"where even a strong man will be\n"
+"out of breath before long.\n"
+"<end>"
+msgstr ""
+
+#. Rough worker
+msgctxt "type:0,entry:EP02_lmap_mes01,segment:1"
+msgid ""
+"<start>It's no place for a schoolboy\n"
+"like you, kid.\n"
+"<end>"
+msgstr ""
+
+#. Rough worker
+msgctxt "type:0,entry:EP02_lmap_mes01,segment:2"
+msgid ""
+"<start>Unless you got Boss's permission,\n"
+"that is.\n"
+"<end>"
+msgstr ""
+
+#. Scrutinizing man
+msgctxt "type:0,entry:EP02_lmap_mes02a,segment:0"
+msgid ""
+"<start>[7:0005,00FF]We're planning to turn that factory\n"
+"there into a parking lot for patrons\n"
+"of the Red-Light District.\n"
+"<end>"
+msgstr ""
+
+#. Scrutinizing man
+msgctxt "type:0,entry:EP02_lmap_mes02a,segment:1"
+msgid ""
+"<start>You'll be able to use it by the\n"
+"time it's done, but for now, I don't\n"
+"think you should go in there.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EP02_lmap_mes02b,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Looks like he won't let us through.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EP02_lmap_mes02b,segment:1"
+msgid ""
+"<start>Well, we don't have any business\n"
+"there anyway, [12:0001,00FF].\n"
+"We'll let it ride for now.\n"
+"<end>"
+msgstr ""
+
+#. Glassy-eyed girl
+msgctxt "type:0,entry:EP02_lmap_MLK_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Kuzunoha #14 originating from\n"
+"Tsukudo-Cho arrived at Ginza Station.\n"
+"<end>"
+msgstr ""
+
+#. Glassy-eyed girl
+msgctxt "type:0,entry:EP02_lmap_MLK_01,segment:1"
+msgid ""
+"<start>Probability is high that he will turn\n"
+"north in front of the station and\n"
+"proceed to [2:0002,00FF]Shin-Sekai[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EP02_lmap_MLK_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The girl walked away with the\n"
+"same dead expression...\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EP02_lmap_MLK_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Shin-Sekai, huh?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EP02_lmap_MLK_03,segment:1"
+msgid ""
+"<start>I wonder what the owner's been\n"
+"up to...\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Red Cape? Oh, you mean that\n"
+"mysterious man from the papers.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_01,segment:1"
+msgid ""
+"<start>He can really zoom around, huh?\n"
+"I wish I could do that. Then I\n"
+"wouldn't hafta buy train tickets.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Red Cape? Oh, you mean that\n"
+"mysterious man from the papers.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_02,segment:1"
+msgid ""
+"<start>He can really zoom around, huh?\n"
+"I wish I could do that. Then I\n"
+"wouldn't hafta ride the rickshaws.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Red Cape? Oh, you mean that\n"
+"mysterious man from the papers.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_03,segment:1"
+msgid ""
+"<start>He can really zoom around, huh?\n"
+"I wish I could do that. Then I\n"
+"wouldn't hafta carry taxi fare.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Red Cape? Oh, you mean that\n"
+"mysterious man from the papers.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_04,segment:1"
+msgid ""
+"<start>He can really zoom around, huh?\n"
+"I wonder who'd win in a race, him\n"
+"or a taxi?\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Red Cape? Oh, you mean that\n"
+"mysterious man from the papers.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_05,segment:1"
+msgid ""
+"<start>He can really zoom around, huh?\n"
+"He must have some powerful\n"
+"legs.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP03_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]There's a rumor the Red Cape was\n"
+"spotted at Ginza-Cho again.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP03_01,segment:1"
+msgid ""
+"<start>How many places can he be at\n"
+"once?\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP04_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Harumi-Cho, huh? Every time I go\n"
+"there, I feel small.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP04_01,segment:1"
+msgid ""
+"<start>All those battleships make me\n"
+"wonder about Japan's future.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP04_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]H-Hey, don't you think I look like\n"
+"a foreign...\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP04_02,segment:1"
+msgid ""
+"<start>Nah, I guess not. With these\n"
+"stubby legs and this long body, I\n"
+"couldn't be anything but Japanese.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP04_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]H-Hey, don't you think I look like\n"
+"a foreign...\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP04_03,segment:1"
+msgid ""
+"<start>Nah, I guess not. With these\n"
+"folded eyelids, I couldn't be\n"
+"anything but Japanese.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP05_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Kasumidai, huh? Every time I go\n"
+"there, it feels so oppressive.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP05_01,segment:1"
+msgid ""
+"<start>You'll see what I mean if you go.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP05_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Have you seen the way they\n"
+"leave weapons just laying around\n"
+"at Kasumidai?\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP05_02,segment:1"
+msgid ""
+"<start>I know they're protecting the\n"
+"Capital, but isn't that a little\n"
+"unnerving?\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP05_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The military brass can't be happy\n"
+"about the Washington Naval\n"
+"Treaty.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP05_03,segment:1"
+msgid ""
+"<start>All the papers said the Kongo and\n"
+"the battleship after that were nearly\n"
+"complete.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP06_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]My friend started going steady\n"
+"recently. He's goofy for her.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP06_01,segment:1"
+msgid ""
+"<start>But, he still lives with his parents,\n"
+"so I don't know how much of a\n"
+"future they have.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP06_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Is that girl in the Ouran uniform\n"
+"your girlfriend? She's cute, but...\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP06_02,segment:1"
+msgid ""
+"<start>Shouldn't you be studying? You are\n"
+"a student, after all...\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP06_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Maybe I should seriously think\n"
+"about getting a girl...\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP06_03,segment:1"
+msgid ""
+"<start>N-Not actually do it, I just mean\n"
+"study the process!\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP07_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Th-That naval officer, the one\n"
+"with a mole on his face...\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP07_01,segment:1"
+msgid ""
+"<start>He looked so grim as he passed\n"
+"by... Does he even know how to\n"
+"smile?\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP08_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Kssssh... Kssssh... This is\n"
+"the Capital broadcasting station...\n"
+"Kssssh...\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP08_01,segment:1"
+msgid ""
+"<start>How do you like my impression\n"
+"of the radio? I was listening to it\n"
+"one day, and it just came to me.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP10_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The man in the hat who just\n"
+"passed by, isn't he your boss?\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP10_01,segment:1"
+msgid ""
+"<start>He looked pretty grim. I guess\n"
+"he's one of those people who\n"
+"never laughs at jokes.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP10_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I saw a bearded guy walk into\n"
+"the Narumi Detective Agency.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP10_02,segment:1"
+msgid ""
+"<start>Someone ought to go talk to him,\n"
+"in case he's a prospective client.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP10_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Wh-What was that? That ball of\n"
+"light that just went up?\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP10_03,segment:1"
+msgid ""
+"<start>It was so huge and bright...\n"
+"But, I can't help but think\n"
+"it's signaling dark times.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP11_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I figured I was safe from the monster,\n"
+"since I'm here and it's in Koutou-Ku.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP11_01,segment:1"
+msgid ""
+"<start>But, then I found it can walk,\n"
+"so I guess I'm out of luck either\n"
+"way.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP11_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]A foreigner dressed all in black\n"
+"came up and started talking to me.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP11_02,segment:1"
+msgid ""
+"<start>\"Do you know any good bars\n"
+"around here?\" he asked. \"Ones\n"
+"that serve borscht?\"\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP11_02,segment:2"
+msgid ""
+"<start>I don't even know what borscht is,\n"
+"so I sent him to the soda joint near\n"
+"Ginza-Cho.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP11_02,segment:3"
+msgid ""
+"<start>...Who would be dumb enough to\n"
+"ask a schoolboy where the bars are?\n"
+"Do I look that old?\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP11_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]That foreigner with you was hitting\n"
+"on every dame who walked by.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP11_03,segment:1"
+msgid ""
+"<start>Every last one ignored him. What\n"
+"was he expecting at a time like\n"
+"this?\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP11_03,segment:2"
+msgid ""
+"<start>I guess he finally got too fresh\n"
+"and someone slugged him one.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP12_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Your foreign friend in black...\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP12_01,segment:1"
+msgid ""
+"<start>He just came by here, cracking\n"
+"his neck.\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP12_01,segment:2"
+msgid ""
+"<start>I wonder where he's off to?\n"
+"<end>"
+msgstr ""
+
+#. Idle schoolboy
+msgctxt "type:0,entry:EP02_lmap_npc04_EP12_01,segment:3"
+msgid ""
+"<start>Though, looking at that wolfish\n"
+"expression on his face, I could\n"
+"take a guess...\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]They told me not to come here\n"
+"alone because the Red Cape\n"
+"wanders around here.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_01,segment:1"
+msgid ""
+"<start>They said he'll drink my blood.\n"
+"But, I know there's no such thing\n"
+"as the Red Cape...\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]They said the Red Cape is dangerous,\n"
+"and they'll arrest me if I come here\n"
+"alone again.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_02,segment:1"
+msgid ""
+"<start>They said he'll drink my blood.\n"
+"But, why would someone drink blood?\n"
+"It tastes yucky.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]They told me not to come here\n"
+"alone because the Red Cape\n"
+"wanders around here.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_03,segment:1"
+msgid ""
+"<start>They said he'll drink my blood and\n"
+"sell me to the Red-Light District.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]They told me not to come here\n"
+"alone because the Red Cape\n"
+"wanders around here.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_04,segment:1"
+msgid ""
+"<start>But, I know that's just a lie to\n"
+"scare kids into doing what they\n"
+"say... isn't it?\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I saw the Red Cape! He's real!\n"
+"He was going to Ginza-Cho!\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_05,segment:1"
+msgid ""
+"<start>Mama came and yelled at me for\n"
+"disobeying her and coming here\n"
+"alone! Waah!\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP03_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]When the Red Cape went to Ginza-Cho,\n"
+"he looked into my eyes...\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP03_01,segment:1"
+msgid ""
+"<start>He looked... scared. I thought\n"
+"he was going to cry.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP04_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]My teacher said foreigners have\n"
+"shorter intestines because they\n"
+"eat more bread than rice.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP04_01,segment:1"
+msgid ""
+"<start>That's why their bodies are shorter\n"
+"and their legs are longer.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP04_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]My teacher said foreigners get a\n"
+"lot of protein because they eat\n"
+"mostly meat.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP04_02,segment:1"
+msgid ""
+"<start>That's why they're tall with so\n"
+"many muscles!\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP04_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]My teacher said it's tradition for\n"
+"a man to give a woman a ring.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP04_03,segment:1"
+msgid ""
+"<start>It means they love each other\n"
+"very much.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP05_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]My uncle said he's going to quit\n"
+"the military and go home.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP05_01,segment:1"
+msgid ""
+"<start>He was whooping it up like a\n"
+"little kid, cheering \"I can finally\n"
+"see my family!\"\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP05_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]My uncle said he's going to quit\n"
+"the military and go home.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP05_02,segment:1"
+msgid ""
+"<start>He said that without anything\n"
+"to do in peacetime, a lot of\n"
+"soldiers are deserting.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP05_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]My uncle said he's going to quit\n"
+"the military and go home.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP05_03,segment:1"
+msgid ""
+"<start>\"Disarmament\" is good, isn't it,\n"
+"mister? My uncle said the soldiers\n"
+"were really upset about it.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP06_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Mister, do you have a girlfriend?\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP06_01,segment:1"
+msgid ""
+"<start>I'm sure you must. Your face is\n"
+"so beautiful... I bet you've broken\n"
+"a lot of hearts.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP06_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Aah! That girl with you is your\n"
+"girlfriend, isn't she!?\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP06_02,segment:1"
+msgid ""
+"<start>She's your girlfriend, right!?\n"
+"How many have you had now?\n"
+"How many!?\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP06_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Mama told me that playboys are\n"
+"wicked men who make women cry.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP06_03,segment:1"
+msgid ""
+"<start>Mister, are you a playboy? Are\n"
+"you going to make me cry...?\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP07_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]C-Curse? Stop saying that!\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP07_01,segment:1"
+msgid ""
+"<start>It makes me think of the time\n"
+"I saw that awful Red Cape...\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP08_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I was at home alone the other day, and\n"
+"heard a voice come from nowhere.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP08_01,segment:1"
+msgid ""
+"<start>It turned out to be just the radio,\n"
+"but I was so scared.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP10_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Soldiers get a good salary and\n"
+"pension...\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP10_01,segment:1"
+msgid ""
+"<start>But, I wouldn't date a soldier. He\n"
+"could get stationed somewhere\n"
+"remote, and I'd never see him.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP10_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Soldiers get a good salary and\n"
+"pension...\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP10_02,segment:1"
+msgid ""
+"<start>But, I wouldn't date a soldier.\n"
+"Launching fireworks like this is\n"
+"so immature.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP11_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]A huge red thing fell from the sky!\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP11_01,segment:1"
+msgid ""
+"<start>After that, a monster came up\n"
+"from the sea! What's going on!?\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP11_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]A creepy man wearing all black\n"
+"was talking to me just now.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP11_02,segment:1"
+msgid ""
+"<start>He said, \"In 10 more years,\n"
+"you'll be a pretty little devushku.\"\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP11_02,segment:2"
+msgid ""
+"<start>I pretended not to hear and he\n"
+"went into the soda joint. What's\n"
+"a devushku, mister?\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP11_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The man you were with was\n"
+"flirting with all the girls he saw.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP11_03,segment:1"
+msgid ""
+"<start>None of them paid any attention\n"
+"to him. What did he expect at a\n"
+"serious time like this?\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP11_03,segment:2"
+msgid ""
+"<start>I saw you had to carry him home\n"
+"after some girl slapped him for\n"
+"being fresh...\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP12_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Just before the monster fell, there\n"
+"was a bright red flash in the sky.\n"
+"<end>"
+msgstr ""
+
+#. Precocious girl
+msgctxt "type:0,entry:EP02_lmap_npc05_EP12_01,segment:1"
+msgid ""
+"<start>I thought for a moment I heard...\n"
+"a cat meowing.\n"
+"<end>"
+msgstr ""
+
+#. Teary-eyed schoolgirl
+msgctxt "type:0,entry:EP02_lmap_npc06_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]They say if you don't put the\n"
+"Red Cape out of your mind in\n"
+"13 days, you'll die!\n"
+"<end>"
+msgstr ""
+
+#. Teary-eyed schoolgirl
+msgctxt "type:0,entry:EP02_lmap_npc06_01,segment:1"
+msgid ""
+"<start>But, how can I forget it if it's\n"
+"all over the headlines!?\n"
+"<end>"
+msgstr ""
+
+#. Teary-eyed schoolgirl
+msgctxt "type:0,entry:EP02_lmap_npc06_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]They say if you don't put the\n"
+"Red Cape out of your mind in\n"
+"13 days, you'll die!\n"
+"<end>"
+msgstr ""
+
+#. Teary-eyed schoolgirl
+msgctxt "type:0,entry:EP02_lmap_npc06_02,segment:1"
+msgid ""
+"<start>But, how can I forget it if my\n"
+"friends keep telling me that!?\n"
+"<end>"
+msgstr ""
+
+#. Teary-eyed schoolgirl
+msgctxt "type:0,entry:EP02_lmap_npc06_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]They say if you don't put the\n"
+"Red Cape out of your mind in\n"
+"13 days, you'll die!\n"
+"<end>"
+msgstr ""
+
+#. Teary-eyed schoolgirl
+msgctxt "type:0,entry:EP02_lmap_npc06_03,segment:1"
+msgid ""
+"<start>I-If I don't pass that on to four\n"
+"other people, I'll be dead by the\n"
+"next full moon!\n"
+"<end>"
+msgstr ""
+
+#. Teary-eyed schoolgirl
+msgctxt "type:0,entry:EP02_lmap_npc06_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]They say if you don't put the\n"
+"Red Cape out of your mind in\n"
+"13 days, you'll die!\n"
+"<end>"
+msgstr ""
+
+#. Teary-eyed schoolgirl
+msgctxt "type:0,entry:EP02_lmap_npc06_04,segment:1"
+msgid ""
+"<start>I-If I don't pass that on to four\n"
+"other people, I'll be dead by the\n"
+"next full moon!\n"
+"<end>"
+msgstr ""
+
+#. Teary-eyed schoolgirl
+msgctxt "type:0,entry:EP02_lmap_npc06_04,segment:2"
+msgid ""
+"<start>And, I only have two friends,\n"
+"so it's hopeless... The Red\n"
+"Cape is going to kill me!\n"
+"<end>"
+msgstr ""
+
+#. Teary-eyed schoolgirl
+msgctxt "type:0,entry:EP02_lmap_npc06_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Red Cape appeared in\n"
+"Ginza-Cho, right?\n"
+"<end>"
+msgstr ""
+
+#. Teary-eyed schoolgirl
+msgctxt "type:0,entry:EP02_lmap_npc06_05,segment:1"
+msgid ""
+"<start>I still haven't forgotten about\n"
+"him, and it's been 13 days...\n"
+"he's going to kill me!\n"
+"<end>"
+msgstr ""
+
+#. Teary-eyed schoolgirl
+msgctxt "type:0,entry:EP02_lmap_npc06_EP03_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I don't get it. I couldn't think of\n"
+"anything but the Red Cape for\n"
+"13 days, but I'm still here.\n"
+"<end>"
+msgstr ""
+
+#. Teary-eyed schoolgirl
+msgctxt "type:0,entry:EP02_lmap_npc06_EP03_01,segment:1"
+msgid ""
+"<start>...I guess it was one of those\n"
+"\"friend-of-a-friend\" stories.\n"
+"The details did seem fuzzy...\n"
+"<end>"
+msgstr ""
+
+#. Boorish man
+msgctxt "type:0,entry:EP02_lmap_npc07_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You look like a hard man, boy.\n"
+"Been in some scrapes, have you?\n"
+"<end>"
+msgstr ""
+
+#. Boorish man
+msgctxt "type:0,entry:EP02_lmap_npc07_01,segment:1"
+msgid ""
+"<start>Maybe you better lay low for\n"
+"a while, here in Fukagawa-Cho.\n"
+"<end>"
+msgstr ""
+
+#. Boorish man
+msgctxt "type:0,entry:EP02_lmap_npc07_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Only the Kantou Haguro-gumi\n"
+"is allowed in the Daikoku-Yu,\n"
+"though Satake has other favorites.\n"
+"<end>"
+msgstr ""
+
+#. Boorish man
+msgctxt "type:0,entry:EP02_lmap_npc07_02,segment:1"
+msgid ""
+"<start>Satake doesn't do anything halfway,\n"
+"so you can bet the Daikoku-Yu\n"
+"turns a healthy profit.\n"
+"<end>"
+msgstr ""
+
+#. Boorish man
+msgctxt "type:0,entry:EP02_lmap_npc07_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Satake's a mastermind. He's got\n"
+"his fingers in both the Red-Light\n"
+"District and the young punks.\n"
+"<end>"
+msgstr ""
+
+#. Boorish man
+msgctxt "type:0,entry:EP02_lmap_npc07_03,segment:1"
+msgid ""
+"<start>He's both kind and strong! He's\n"
+"a man's man!\n"
+"<end>"
+msgstr ""
+
+#. Boorish man
+msgctxt "type:0,entry:EP02_lmap_npc07_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Red Cape is whackin'\n"
+"people at random, I hear.\n"
+"<end>"
+msgstr ""
+
+#. Boorish man
+msgctxt "type:0,entry:EP02_lmap_npc07_04,segment:1"
+msgid ""
+"<start>The Kantou Haguro-gumi ain't\n"
+"like that. They're punks, but\n"
+"they're the people's punks.\n"
+"<end>"
+msgstr ""
+
+#. Boorish man
+msgctxt "type:0,entry:EP02_lmap_npc07_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]That Red Cape's pretty crafty,\n"
+"going to Ginza-Cho instead of\n"
+"Fukagawa-Cho.\n"
+"<end>"
+msgstr ""
+
+#. Boorish man
+msgctxt "type:0,entry:EP02_lmap_npc07_05,segment:1"
+msgid ""
+"<start>He knows he wouldn't last two\n"
+"minutes in a scrap with real men.\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP03_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Daidouji Factory is up ahead,\n"
+"to the left.\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP03_01,segment:1"
+msgid ""
+"<start>Better hurry, cause pretty soon\n"
+"I'll be directing people to where\n"
+"it used to be, if you get my drift.\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP04_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The police are looking into what\n"
+"happened here.\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP04_01,segment:1"
+msgid ""
+"<start>Even I could tell him that: the\n"
+"place is just cursed. Who'd buy\n"
+"a haunted factory?\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP04_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Seems like this factory's got a\n"
+"history of unusual incidents...\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP04_02,segment:1"
+msgid ""
+"<start>The president loved this place\n"
+"so much that... Nah, it couldn't\n"
+"be.\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP05_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The police finally gave up and\n"
+"went home.\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP05_01,segment:1"
+msgid ""
+"<start>Some kids ducked in there afterward.\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP05_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]A coupla little kids went into\n"
+"the Daidouji Factory together.\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP05_02,segment:1"
+msgid ""
+"<start>There was an elementary school\n"
+"boy, and a girl who looked a little\n"
+"younger.\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP06_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Nobody owns or even manages\n"
+"that factory now. It's no man's\n"
+"land.\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP06_01,segment:1"
+msgid ""
+"<start>A building with no people in it\n"
+"is like an empty stomach... it'll\n"
+"waste away until it dies.\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP07_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]That boy left the factory, with\n"
+"the little girl in tow.\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP07_01,segment:1"
+msgid ""
+"<start>The girl had tears running down\n"
+"her face... what happened?\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP08_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Those kids who came out of\n"
+"the factory...\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP08_01,segment:1"
+msgid ""
+"<start>I saw 'em heading to the station.\n"
+"They're not planning on taking\n"
+"the train, are they?\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP10_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I wonder if those kids who\n"
+"were playing in the factory\n"
+"are all right...\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP10_01,segment:1"
+msgid ""
+"<start>With this blasted martial law, I\n"
+"hope for their sakes that they\n"
+"took that train straight home.\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP11_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I wonder if those kids who\n"
+"were playing in the factory\n"
+"are all right...\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP11_01,segment:1"
+msgid ""
+"<start>With the monster looming over\n"
+"Koutou-Ku and all, I hope they\n"
+"took that train straight home.\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP11_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I hear the science laboratory's\n"
+"thingamajig is ready for liftoff.\n"
+"Doc sure had a hard time with it.\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP11_02,segment:1"
+msgid ""
+"<start>Feels like ever since you helped\n"
+"him out, everything's been going\n"
+"smooth as silk.\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP12_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Caped men, earthquakes, monsters...\n"
+"I used to think the Daidouji Factory\n"
+"was cursed.\n"
+"<end>"
+msgstr ""
+
+#. Haggard man
+msgctxt "type:0,entry:lmap_npc08_EP12_01,segment:1"
+msgid ""
+"<start>But, this place is still standing, so\n"
+"I wonder if it's actually blessed with\n"
+"the president's love.\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP04_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Tall, foreign men are so handsome!\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP04_01,segment:1"
+msgid ""
+"<start>I'll take anyone, as long as it's\n"
+"a foreigner! Someone, anyone,\n"
+"just look my way...\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP04_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]A foreign man finally talked to me\n"
+"the other day!\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP04_02,segment:1"
+msgid ""
+"<start>He came off like a real snake,\n"
+"but you know... he was a foreigner!\n"
+"I was so thrilled!\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP04_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]A foreign man finally talked to me\n"
+"the other day.\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP04_03,segment:1"
+msgid ""
+"<start>He was a bearded guy who seemed\n"
+"really creepy. He got fresh, so\n"
+"I just ignored him.\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP05_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Army and the Navy don't\n"
+"get along too well.\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP05_01,segment:1"
+msgid ""
+"<start>I'm a Navy gal! Hooray for the\n"
+"foreigners at Harumi-Cho!\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP05_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Army and the Navy don't\n"
+"get along too well.\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP05_02,segment:1"
+msgid ""
+"<start>I'm a Navy gal! Kasumidai is so\n"
+"dull.\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP05_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Army and the Navy don't\n"
+"get along too well.\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP05_03,segment:1"
+msgid ""
+"<start>I'm a Navy gal! I'd rather ride in\n"
+"a ship than a car.\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP06_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I've got too much pep for just\n"
+"one girl... I need someone to\n"
+"share my excitement!\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP06_01,segment:1"
+msgid ""
+"<start>I'm angling for a tall, muscular,\n"
+"foreign guy!\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP06_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Golly... You're both so slender.\n"
+"It's overwhelming...\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP06_02,segment:1"
+msgid ""
+"<start>I've got too much pep for just\n"
+"one girl... I need someone to\n"
+"share my excitement!\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP06_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]\"Amazing Science Laboratory...?\"\n"
+"Oh, you mean that junkyard in\n"
+"Senju-Ku?\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP06_03,segment:1"
+msgid ""
+"<start>You took a girl there!? That's...\n"
+"an unusual date spot.\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP07_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Navy soldiers all look pale\n"
+"and unsteady.\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP07_01,segment:1"
+msgid ""
+"<start>Did the Navy cook serve up\n"
+"some rancid fish...?\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP08_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Waden One? Ohh, that thing!\n"
+"It's a big hit with my classmates.\n"
+"I mean, look at it...!\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP08_01,segment:1"
+msgid ""
+"<start>O-Oh! What did I just say?\n"
+"Forgive me, I got a little\n"
+"overexcited...\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP10_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I just saw some Special Guards\n"
+"in red enter Harumi-Cho.\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP10_01,segment:1"
+msgid ""
+"<start>Then the whole city went nuts!\n"
+"Wh-What happened!?\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP10_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The red Special Guards went to\n"
+"Harumi-Cho and caused a commotion...\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP10_02,segment:1"
+msgid ""
+"<start>Then they launched some weird\n"
+"thing into the sky...\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP10_02,segment:2"
+msgid ""
+"<start>It's a little too much excitement!\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP11_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]First the Special Guards in red,\n"
+"and now a gigantic monster?\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP11_01,segment:1"
+msgid ""
+"<start>The Capital's getting way too\n"
+"exciting! I'm cursed to live in\n"
+"interesting times...\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP11_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You're going to fight that thing?\n"
+"Are you sure that's a good idea?\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP11_02,segment:1"
+msgid ""
+"<start>It's definitely dashing of you, but\n"
+"don't get carried away...\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP12_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I wonder if that monster's here\n"
+"to stay.\n"
+"<end>"
+msgstr ""
+
+#. Excitable schoolgirl
+msgctxt "type:0,entry:lmap_npc09_EP12_01,segment:1"
+msgid ""
+"<start>I wish it had gone home with the\n"
+"other one.\n"
+"<end>"
+msgstr ""
+
+#. Carnival lady
+msgctxt "type:0,entry:lmap_npc10_EP04_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Nippon men have filthy mind.\n"
+"It so easy get their money.\n"
+"<end>"
+msgstr ""
+
+#. Carnival lady
+msgctxt "type:0,entry:lmap_npc10_EP04_01,segment:1"
+msgid ""
+"<start>Law no scare me, I have helper.\n"
+"This all thanks to him.\n"
+"<end>"
+msgstr ""
+
+#. Carnival lady
+msgctxt "type:0,entry:lmap_npc10_EP04_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Elfman a good man. Thanks to\n"
+"him, I can make living.\n"
+"<end>"
+msgstr ""
+
+#. Carnival lady
+msgctxt "type:0,entry:lmap_npc10_EP04_02,segment:1"
+msgid ""
+"<start>But... he have filthy mind. More\n"
+"filthy than Nippon men.\n"
+"<end>"
+msgstr ""
+
+#. Carnival lady
+msgctxt "type:0,entry:lmap_npc10_EP04_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Heard Elfman is stocky and\n"
+"middle-age man.\n"
+"<end>"
+msgstr ""
+
+#. Carnival lady
+msgctxt "type:0,entry:lmap_npc10_EP04_03,segment:1"
+msgid ""
+"<start>Look scrawny to me when we\n"
+"meet. Must be busy, no time\n"
+"to eat.\n"
+"<end>"
+msgstr ""
+
+#. Navy guard
+msgctxt "type:0,entry:lmap_npc11_EP04_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Oh, no you don't. Beat it, kid,\n"
+"it's dangerous past this point.\n"
+"<end>"
+msgstr ""
+
+#. Navy guard
+msgctxt "type:0,entry:lmap_npc11_EP04_01,segment:1"
+msgid ""
+"<start>The scary men will zap you\n"
+"with radio waves. You don't\n"
+"want that, do you?\n"
+"<end>"
+msgstr ""
+
+#. Navy guard
+msgctxt "type:0,entry:lmap_npc11_EP08_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The brass told me about you.\n"
+"Raidou Kuzunoha, right?\n"
+"<end>"
+msgstr ""
+
+#. Navy guard
+msgctxt "type:0,entry:lmap_npc11_EP08_01,segment:1"
+msgid ""
+"<start>Even we hardly know anything\n"
+"about Waden One.\n"
+"<end>"
+msgstr ""
+
+#. Navy guard
+msgctxt "type:0,entry:lmap_npc11_EP08_01,segment:2"
+msgid ""
+"<start>We're all counting for you. We\n"
+"don't believe in luck in the Navy,\n"
+"but all the same... Good luck.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:lmap_npc11_EP08_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The Navy guard snapped a salute\n"
+"and left.\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP05_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Some Army soldiers caught... that...\n"
+"Oh, you know! The Red Cape! The one\n"
+"the Capital Daily goes on about.\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP05_01,segment:1"
+msgid ""
+"<start>I saw 'em catch it! They pinned him\n"
+"with a sasumata.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:lmap_npc12_EP05_01_SEL,segment:0"
+msgid "<start>A sasumata?"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP05_ans0,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Don't you know what a sasumata is?\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP05_ans0,segment:1"
+msgid ""
+"<start>It's a two-pronged, pitchfork-like\n"
+"weapon for catching crooks between\n"
+"its tines.\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP05_ans1,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The military might not have made\n"
+"the best impression, but they have to\n"
+"look out for the civilians.\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP06_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Kasumidai was hopping because of\n"
+"that spy scandal, but now it's\n"
+"much quieter.\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP06_01,segment:1"
+msgid ""
+"<start>I wonder what's going on in there...\n"
+"Best to let sleeping dogs lie.\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP07_00,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Oh my, you gave me a scare just\n"
+"now. Did something bad happen\n"
+"to you?\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP07_00,segment:1"
+msgid ""
+"<start>You should go home and sleep it off.\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP07_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Oh my, you don't look so well.\n"
+"Are you feeling all right?\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP07_01,segment:1"
+msgid ""
+"<start>If I were you, I'd go home and\n"
+"sleep it off. Should I call your\n"
+"parents for you?\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP08_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You're going to Waden One? Oh\n"
+"my, you're going the wrong way.\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP08_01,segment:1"
+msgid ""
+"<start>The tower is an Army project,\n"
+"but you have to go through\n"
+"Harumi-Cho to get there.\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP10_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]A swarm of Special Guards went\n"
+"toward Koutou-Ku.\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP10_01,segment:1"
+msgid ""
+"<start>They must have gone to make up\n"
+"with the Navy over past grudges.\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP10_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]What? The Army and Navy are\n"
+"fighting each other?\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP10_02,segment:1"
+msgid ""
+"<start>Oh, that's just a sign of how close\n"
+"they are. Even married couples fight\n"
+"like cats and dogs.\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP11_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]There's a monster out there, and\n"
+"the Army isn't doing anything!\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP11_01,segment:1"
+msgid ""
+"<start>I know the HQ is important to\n"
+"them, but we need protection too!\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP11_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You're going to beat the monster\n"
+"with a rocket? J-Just you and an\n"
+"old man?\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP11_02,segment:1"
+msgid ""
+"<start>It's not your job! This is a matter\n"
+"for the military. Why else do we\n"
+"pay our taxes?\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP12_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I heard there's two of them\n"
+"monsters! If they attack at the\n"
+"same time, the Capital is...\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP12_01,segment:1"
+msgid ""
+"<start>Although, that would be much\n"
+"better... you know, strategically\n"
+"speaking.\n"
+"<end>"
+msgstr ""
+
+#. Chipper old lady
+msgctxt "type:0,entry:lmap_npc12_EP12_01,segment:2"
+msgid ""
+"<start>Whoever's controlling those things\n"
+"doesn't have a very good head\n"
+"for tactics.\n"
+"<end>"
+msgstr ""
+
+#. Army soldier on guard
+msgctxt "type:0,entry:lmap_npc13_EP04_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You swam all the way here...?\n"
+"Then, why aren't your clothes wet?\n"
+"<end>"
+msgstr ""
+
+#. Army soldier on guard
+msgctxt "type:0,entry:lmap_npc13_EP04_01,segment:1"
+msgid ""
+"<start>Anyway, civilians are prohibited\n"
+"from entering here. About face!\n"
+"All hands... advance!\n"
+"<end>"
+msgstr ""
+
+#. Army soldier on guard
+msgctxt "type:0,entry:lmap_npc13_EP05_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Because of the spy incident, we're\n"
+"tightening our security. No one\n"
+"comes in or out.\n"
+"<end>"
+msgstr ""
+
+#. Army soldier on guard
+msgctxt "type:0,entry:lmap_npc13_EP05_01,segment:1"
+msgid ""
+"<start>This area is secured. About face!\n"
+"All hands... advance!\n"
+"<end>"
+msgstr ""
+
+#. Huge man on a horse
+msgctxt "type:0,entry:lmap_npc14_EP07_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]It seems you've seen the star\n"
+"next to Ursa Major, shining in\n"
+"the northern sky...\n"
+"<end>"
+msgstr ""
+
+#. Huge man on a horse
+msgctxt "type:0,entry:lmap_npc14_EP07_01,segment:1"
+msgid ""
+"<start>The shadow of death is upon you.\n"
+"<end>"
+msgstr ""
+
+#. Huge man on a horse
+msgctxt "type:0,entry:lmap_npc14_EP09_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]It seems you've yet to see\n"
+"the star next to Ursa Major,\n"
+"shining in the northern sky...\n"
+"<end>"
+msgstr ""
+
+#. Huge man on a horse
+msgctxt "type:0,entry:lmap_npc14_EP09_01,segment:1"
+msgid ""
+"<start>We will meet again when the shadow\n"
+"of death falls upon you...\n"
+"<end>"
+msgstr ""
+
+#. Yarai-Ku Army soldier
+msgctxt "type:0,entry:lmap_npc15_Y_EP10_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I can't believe I was scared of\n"
+"a civilian...\n"
+"<end>"
+msgstr ""
+
+#. Yarai-Ku Army soldier
+msgctxt "type:0,entry:lmap_npc15_Y_EP10_01,segment:1"
+msgid ""
+"<start>That look underneath his derby...\n"
+"He wasn't your average law-\n"
+"abiding citizen, that's for sure.\n"
+"<end>"
+msgstr ""
+
+#. Yarai-Ku Army soldier
+msgctxt "type:0,entry:lmap_npc15_Y_EP10_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I can't believe I was scared of\n"
+"a civilian...\n"
+"<end>"
+msgstr ""
+
+#. Yarai-Ku Army soldier
+msgctxt "type:0,entry:lmap_npc15_Y_EP10_02,segment:1"
+msgid ""
+"<start>That bearded foreigner's mug...\n"
+"He wasn't your average law-\n"
+"abiding citizen, that's for sure.\n"
+"<end>"
+msgstr ""
+
+#. Chujou-Ku Army soldier
+msgctxt "type:0,entry:lmap_npc16_C_EP10_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The weather's so nice, and here\n"
+"I am stuck guarding this dump.\n"
+"<end>"
+msgstr ""
+
+#. Chujou-Ku Army soldier
+msgctxt "type:0,entry:lmap_npc16_C_EP10_01,segment:1"
+msgid ""
+"<start>Days like this, I just wanna walk\n"
+"down Ginza-Cho with a girl on\n"
+"my arm.\n"
+"<end>"
+msgstr ""
+
+#. Chujou-Ku Army soldier
+msgctxt "type:0,entry:lmap_npc16_C_EP10_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The rocket launch is complete.\n"
+"I just want to get this over with.\n"
+"<end>"
+msgstr ""
+
+#. Chujou-Ku Army soldier
+msgctxt "type:0,entry:lmap_npc16_C_EP10_02,segment:1"
+msgid ""
+"<start>Right now, I just wanna walk\n"
+"down Ginza-Cho with a cute\n"
+"girl beside me.\n"
+"<end>"
+msgstr ""
+
+#. Senju-Ku Army soldier
+msgctxt "type:0,entry:lmap_npc17_S_EP10_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I drew the short straw, so I\n"
+"get stuck guarding Senju-Ku.\n"
+"<end>"
+msgstr ""
+
+#. Senju-Ku Army soldier
+msgctxt "type:0,entry:lmap_npc17_S_EP10_01,segment:1"
+msgid ""
+"<start>The guy on patrol got roughed\n"
+"up by the Kantou Haguro-gumi.\n"
+"I hope he's all right.\n"
+"<end>"
+msgstr ""
+
+#. Senju-Ku Army soldier
+msgctxt "type:0,entry:lmap_npc17_S_EP10_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]We're under martial law. I feel\n"
+"sorry for my comrade in town, but...\n"
+"<end>"
+msgstr ""
+
+#. Senju-Ku Army soldier
+msgctxt "type:0,entry:lmap_npc17_S_EP10_02,segment:1"
+msgid ""
+"<start>I'm thanking my lucky stars I\n"
+"wasn't assigned to Fukagawa-Cho!\n"
+"<end>"
+msgstr ""
+
+#. Koutou-Ku Army soldier
+msgctxt "type:0,entry:lmap_npc18_K_EP10_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Th-Those Zero Division guys...\n"
+"That's going too far!\n"
+"<end>"
+msgstr ""
+
+#. Koutou-Ku Army soldier
+msgctxt "type:0,entry:lmap_npc18_K_EP10_01,segment:1"
+msgid ""
+"<start>No matter what we think of\n"
+"the Navy...\n"
+"<end>"
+msgstr ""
+
+#. Koutou-Ku Army soldier
+msgctxt "type:0,entry:lmap_npc18_K_EP10_01,segment:2"
+msgid ""
+"<start>I... I just sat here! I didn't do\n"
+"anything! It's not my fault!\n"
+"<end>"
+msgstr ""
+
+#. Hongo Army soldier
+msgctxt "type:0,entry:lmap_npc19_H_EP10_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]No one's gonna come out here.\n"
+"Frankly, it's a waste of time.\n"
+"<end>"
+msgstr ""
+
+#. Hongo Army soldier
+msgctxt "type:0,entry:lmap_npc19_H_EP10_01,segment:1"
+msgid ""
+"<start>I thought so, anyway, but here\n"
+"you are. Well, whatever, as long\n"
+"as you don't make any trouble.\n"
+"<end>"
+msgstr ""
+
+#. Hongo Army soldier
+msgctxt "type:0,entry:lmap_npc19_H_EP10_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hey! A wiseguy, eh? Poking\n"
+"around the Capital looking for\n"
+"out-of-the-way secrets?\n"
+"<end>"
+msgstr ""
+
+#. Hongo Army soldier
+msgctxt "type:0,entry:lmap_npc19_H_EP10_02,segment:1"
+msgid ""
+"<start>Well... that's fine. You don't\n"
+"get in my way and I won't\n"
+"get in yours.\n"
+"<end>"
+msgstr ""
+
+#. Old man on pilgrimage
+msgctxt "type:0,entry:lmap_npc20_INARI_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I heard the voice of Inari at\n"
+"the shrine. Really, I did!\n"
+"<end>"
+msgstr ""
+
+#. Old man on pilgrimage
+msgctxt "type:0,entry:lmap_npc20_INARI_01,segment:1"
+msgid ""
+"<start>If you treat Inari like just a\n"
+"statue, the heavens will punish\n"
+"you for your disrespect.\n"
+"<end>"
+msgstr ""
+
+#. Man reeking of liquor
+msgctxt "type:0,entry:lmap_npc21_JANPAI_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]That mountain o' junk ish a\n"
+"mountain o' treasure. Not everyone\n"
+"is shmart enough ta know.\n"
+"<end>"
+msgstr ""
+
+#. Man reeking of liquor
+msgctxt "type:0,entry:lmap_npc21_JANPAI_01,segment:1"
+msgid ""
+"<start>Keep yer eyesh wide open...\n"
+"Jusht like a real inveshtigator...\n"
+"<end>"
+msgstr ""
+
+#. Man reeking of liquor
+msgctxt "type:0,entry:lmap_npc21_JANPAI_01,segment:2"
+msgid ""
+"<start>Whoopsie, I shouldn'ta let that shlip.\n"
+"There'll be lessh here fer me\n"
+"ta claim.\n"
+"<end>"
+msgstr ""
+
+#. Injured Navy soldier
+msgctxt "type:0,entry:lmap_npc22_EP10_STOP04_0,segment:0"
+msgid ""
+"<start>[7:0003,00FF]Run... Anywhere... Just hurry...\n"
+"and get... far from... here...\n"
+"<end>"
+msgstr ""
+
+#. Injured Navy soldier
+msgctxt "type:0,entry:lmap_npc22_EP10_STOP04_0,segment:1"
+msgid ""
+"<start>I'll... hold it... back... D-Don't...\n"
+"come near... Harumi... Cho...\n"
+"<end>"
+msgstr ""
+
+#. Schoolgirl with dry skin
+msgctxt "type:0,entry:lmap_npc23_EP18_tower01_,segment:0"
+msgid ""
+"<start>[7:0005,00FF]See that brownish building to the\n"
+"northeast? It's another radio tower.\n"
+"<end>"
+msgstr ""
+
+#. Schoolgirl with dry skin
+msgctxt "type:0,entry:lmap_npc23_EP18_tower01_,segment:1"
+msgid ""
+"<start>They're building five radio towers\n"
+"in all. Waden One is just the first.\n"
+"<end>"
+msgstr ""
+
+#. Man with pointy hair
+msgctxt "type:0,entry:lmap_npc23_EP18_tower02_,segment:0"
+msgid ""
+"<start>[7:0005,00FF]See that brown building all the\n"
+"way to the left, by the corner?\n"
+"That's another radio tower.\n"
+"<end>"
+msgstr ""
+
+#. Man with pointy hair
+msgctxt "type:0,entry:lmap_npc23_EP18_tower02_,segment:1"
+msgid ""
+"<start>They're built to surround the Capital\n"
+"for the best reception.\n"
+"<end>"
+msgstr ""
+
+#. Man with pointy hair
+msgctxt "type:0,entry:lmap_npc23_EP18_tower02_,segment:2"
+msgid ""
+"<start>Thanks to them, I can listen to\n"
+"the horse races wherever I go.\n"
+"<end>"
+msgstr ""
+
+#. Old lady with a poultice
+msgctxt "type:0,entry:lmap_npc23_EP18_tower03_,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You see that brown tower on the\n"
+"right? Don't let its size fool you;\n"
+"that's a radio tower.\n"
+"<end>"
+msgstr ""
+
+#. Old lady with a poultice
+msgctxt "type:0,entry:lmap_npc23_EP18_tower03_,segment:1"
+msgid ""
+"<start>It can't beat Waden One, though.\n"
+"That one's the biggest, and I love\n"
+"the way it looks.\n"
+"<end>"
+msgstr ""
+
+#. Man with long rubber boots
+msgctxt "type:0,entry:lmap_npc23_EP18_tower04_,segment:0"
+msgid ""
+"<start>[7:0005,00FF]See that brown building on your\n"
+"left? That's a bona fide radio\n"
+"tower.\n"
+"<end>"
+msgstr ""
+
+#. Man with long rubber boots
+msgctxt "type:0,entry:lmap_npc23_EP18_tower04_,segment:1"
+msgid ""
+"<start>Y'know that \"Iroha\" song they\n"
+"teach kids?\n"
+"<end>"
+msgstr ""
+
+#. Man with long rubber boots
+msgctxt "type:0,entry:lmap_npc23_EP18_tower04_,segment:2"
+msgid ""
+"<start>They were originally gonna name\n"
+"the towers after the letters in\n"
+"that song.\n"
+"<end>"
+msgstr ""
+
+#. Man with long rubber boots
+msgctxt "type:0,entry:lmap_npc23_EP18_tower04_,segment:3"
+msgid ""
+"<start>One, Two, and Three were gonna\n"
+"be \"I,\" \"Ro,\" and \"Ha.\" For some\n"
+"reason, though, it didn't fly.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MAP_SAVE,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's a Dragon Cave. Mysterious\n"
+"power is flowing out of it...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MAP_SAVE,segment:1"
+msgid ""
+"<start>> Here, Raidou can record his\n"
+"findings without being disturbed.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MAP_SAVE,segment:2"
+msgid ""
+"<start>> Save?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MAP_SAVE_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:MAP_HEAL,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Recover health?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MAP_HEAL_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:MAP_HEAL2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [10:0001,00FF] and\n"
+"his demons were healed.\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL_FAST,segment:0"
+msgid ""
+"<start>[7:0007,00FF]*sob* *sob*\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL_FAST,segment:1"
+msgid ""
+"<start>...Who are you? I've never seen\n"
+"you around here...\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL_FAST,segment:2"
+msgid ""
+"<start>I'm Nakisawame. I heal everyone...\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL_2ND,segment:0"
+msgid ""
+"<start>[7:0007,00FF]*sob* Welcome.\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL_FULLMOON,segment:0"
+msgid ""
+"<start>[7:0007,00FF]*sob* Welcome. It's a full moon,\n"
+"so...\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL,segment:0"
+msgid ""
+"<start>[7:0007,00FF]Do you want me to heal you?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MAP_CHEAL_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]I'll need [3:0001,00FF] yen... Is that okay?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MAP_CHEAL2_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]This may sting a little, but only\n"
+"for a moment...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MAP_CHEAL4,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [10:0001,00FF] and\n"
+"his demons were healed.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MAP_CHEAL4D,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] was healed.\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL5,segment:0"
+msgid ""
+"<start>[7:0007,00FF]*sob* Don't die on me... Please...\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL6,segment:0"
+msgid ""
+"<start>[7:0007,00FF]*sob* So... You're going to die,\n"
+"too...\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL7,segment:0"
+msgid ""
+"<start>[7:0007,00FF]You don't have enough money...\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL7,segment:1"
+msgid ""
+"<start>*sob* So... You'll die just like\n"
+"all the rest...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EXITWARP,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Leave the area?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EXITWARP_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:ELVWARP,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's an elevator.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NG,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It looks like humans are unable\n"
+"to reach inside and take the\n"
+"contents.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's a glowing, red crystal.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI,segment:1"
+msgid ""
+"<start>> The contents inside shift and warp.\n"
+"Take the contents?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HOSEKI_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NOZOKI,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] fished around for the\n"
+"contents...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NOZOKI,segment:1"
+msgid ""
+"<start>[7:0003,00FF]......\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's a glowing, blue crystal.\n"
+"Take the contents?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAKARA_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_STILLGET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_MAKA_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF][3:0001,00FF] yen[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_D_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_D_MAKA_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] obtained\n"
+"[2:0005,00FF][3:0001,00FF] yen[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARAP,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> There's something on the ground.\n"
+"Pick it up?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARAP_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARAP_D_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] found something.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:1"
+msgid ""
+"<start>[7:0007,00FF]......\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:2"
+msgid ""
+"<start>> Raidou obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ZENISAGASI,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] found something.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ZENISAGASI,segment:1"
+msgid ""
+"<start>[7:0007,00FF]......\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ZENISAGASI,segment:2"
+msgid ""
+"<start>> Raidou obtained\n"
+"[2:0005,00FF][3:0001,00FF] yen[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MWALL_DEAD,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The Shikimi no Kage has been\n"
+"destroyed. The way ahead is clear.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MWALL_DEVILONLY,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's a Tainted Gate. A demon\n"
+"should be able to pass through.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou paid [3:0001,00FF] yen worth\n"
+"of streetcar fare and returned to\n"
+"the detective agency.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_NOP,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou returned to the detective\n"
+"agency.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_NG1,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou didn't have [3:0001,00FF] yen\n"
+"for the streetcar fare.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_NG1,segment:1"
+msgid ""
+"<start>> Gouto covered the rest.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:JIMUSYO_RETRN_NG2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]......\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_NG3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou didn't have [3:0001,00FF] yen\n"
+"for the streetcar fare.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_NG3,segment:1"
+msgid ""
+"<start>> The rest of the fare was paid\n"
+"out of Gouto's wallet.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_PASS,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou used the [2:0005,00FF]Streetcar Pass[2:0001,00FF] and\n"
+"returned to the detective agency.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:JIMUSYO_RETRN_REPAY1,segment:0"
+msgid ""
+"<start>[7:0007,00FF]Hey, [12:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:JIMUSYO_RETRN_REPAY1,segment:1"
+msgid ""
+"<start>It's about time you paid up for\n"
+"all the times I covered your\n"
+"streetcar fare.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_REPAY2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou paid Gouto back for all\n"
+"the times he borrowed money to pay\n"
+"his fare.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_REPAY3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> All the money Gouto lent to\n"
+"Raidou for the streetcar fare was\n"
+"returned to Gouto's wallet.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_HAJIKI1,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's not that easy to escape\n"
+"from here!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_HAJIKI2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> There's still more to\n"
+"investigate.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BAD_MAFU_HAJIKI,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The Mute ailment prevents the\n"
+"use of that ability.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_HAJIKI,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] felt it would be\n"
+"best if Raidou were here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_HAJIKI2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] felt the urge to\n"
+"report back to Raidou.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_HAJIKI3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] wondered if Raidou\n"
+"should investigate here, too.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_OPENERROR,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> That cannot be used here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] began a solo\n"
+"investigation.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOUKOKU_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] reported the\n"
+"findings of the investigation.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOUKOKU_START2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] talked animatedly\n"
+"about the particulars of the\n"
+"investigation.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOUKOKU_START3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] reported to Raidou\n"
+"despite its fatigue.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_INNENSTART,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] is eager to pick a\n"
+"fight.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_INNENSTART,segment:1"
+msgid ""
+"<start>[7:0007,00FF]> The encounter rate went up.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_TAKANESTART,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] played it hard\n"
+"to get.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_TAKANESTART,segment:1"
+msgid ""
+"<start>[7:0007,00FF]> The encounter rate went down.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_INNENEND,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The effects of Provoke wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_TAKANEEND,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The effects of Intimidate wore\n"
+"off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_ESTOMAEND,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The effects of Repulse Water\n"
+"wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REBERAMAEND,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The effects of the Attract Water\n"
+"wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_DRINKEND,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The effects of the Soda wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_MOUDOKUEND,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The effects of the poison wore\n"
+"off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK00_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried using\n"
+"Ignite.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK01_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried using\n"
+"Cool Down.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK02_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried searching\n"
+"areas with spiritual energy.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] scouted around the\n"
+"area.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_END_0,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] returned from the\n"
+"scouting mission.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_DV0,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> In this area...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_DV1,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [2:0004,00FF][3:0001,00FF] [3:0002,00FF][2:0001,00FF] \n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_DV2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> ...were spotted lurking around.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_DV3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> ...no demons were spotted.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_TAKARA0,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> As for items left in the area...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_TAKARA1,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [2:0004,00FF][3:0001,00FF][2:0001,00FF]\n"
+"have been confirmed.\n"
+"<end><start>> [14:0000,0000] told Raidou he'd\n"
+"have to to find any hidden items\n"
+"himself.\n"
+""
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_TAKARA_NOT,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> ...none were spotted.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_ITEM,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] also found\n"
+"[3:0001,00FF] x[3:0002,00FF] \n"
+"while scouting.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_ITEM,segment:1"
+msgid ""
+"<start>> Raidou obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK04_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried a good, hard\n"
+"strike.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK05_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried using the\n"
+"art of mind reading.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK10_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] filled the air with\n"
+"pheromones.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK01,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] is spacing out.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK02,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] looked at the\n"
+"human and was surprised.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK03,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's no use!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK04,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] is reminiscing\n"
+"about its home.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK05,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It seems humans are foreign to\n"
+"[14:0000,0000].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK06,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried hard to make\n"
+"conversation.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK06,segment:1"
+msgid ""
+"<start>> Alas, it was invisible to the\n"
+"human.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK07,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] hung back\n"
+"bashfully.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK07,segment:1"
+msgid ""
+"<start>> The human didn't notice.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK08,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] winked!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK08,segment:1"
+msgid ""
+"<start>> The human didn't notice.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK09,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] attempted\n"
+"intimidation!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK09,segment:1"
+msgid ""
+"<start>> But, [14:0000,0000] ended up as\n"
+"the one being intimidated.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK10,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried singing a\n"
+"song.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK10,segment:1"
+msgid ""
+"<start>> Eventually, it got bored and\n"
+"stopped.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK11,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried getting the\n"
+"first strike.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK11,segment:1"
+msgid ""
+"<start>> It was a futile effort.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK12,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] asked for MAG.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK12,segment:1"
+msgid ""
+"<start>> Alas, it was invisible to the\n"
+"human.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK13,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] asked for money.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK13,segment:1"
+msgid ""
+"<start>> Alas, it was invisible to the\n"
+"human.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK14,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] was startled.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK15,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The human turned this way as\n"
+"[14:0000,0000] tried to make\n"
+"conversation.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK15,segment:1"
+msgid ""
+"<start>> ...Or so it seemed. In fact,\n"
+"it was just a coincidence; demons\n"
+"are invisible to humans.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK16,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] bemoaned the rough\n"
+"treatment it received from\n"
+"[10:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:DEAD_CONTINUE,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The demon died and returned\n"
+"to the tube...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:M31CONTINUE,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou decided to come back and\n"
+"try again later.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_0,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] is trying to\n"
+"demonstrate its expertise...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_0,segment:1"
+msgid ""
+"<start>> Watch the demonstration?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAKUMI_0_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_A,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [3:0001,00FF] recovered full HP\n"
+"thanks to [14:0000,0000]'s magnificent\n"
+"acupuncture techniques.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_B,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [3:0001,00FF] recovered full MP\n"
+"thanks to [14:0000,0000]'s magnificent\n"
+"acupuncture techniques.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_C,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] pressed the\n"
+"wrong pressure point.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_C,segment:1"
+msgid ""
+"<start>> [3:0001,00FF] took major damage!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_1,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] pressed a miracle\n"
+"pressure point.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_1,segment:1"
+msgid ""
+"<start>> [3:0001,00FF]'s Strength went up\n"
+"by 1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] pressed a miracle\n"
+"pressure point.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_2,segment:1"
+msgid ""
+"<start>> [3:0001,00FF]'s Magic went up\n"
+"by 1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] pressed a miracle\n"
+"pressure point.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_3,segment:1"
+msgid ""
+"<start>> [3:0001,00FF]'s Vitality went up\n"
+"by 1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_4,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] pressed a miracle\n"
+"pressure point.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_4,segment:1"
+msgid ""
+"<start>> [3:0001,00FF]'s Luck went up\n"
+"by 1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_E,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] pressed the wrong\n"
+"pressure point.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_E,segment:1"
+msgid ""
+"<start>> [3:0001,00FF] started to feel\n"
+"queasy.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_F,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] pressed the wrong\n"
+"pressure point.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_F,segment:1"
+msgid ""
+"<start>> [3:0001,00FF] started to feel\n"
+"queasy.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_G,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] was moved by its\n"
+"creative instincts.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_G,segment:1"
+msgid ""
+"<start>> [14:0000,0000] turned\n"
+"[3:0001,00FF] into [3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_SEL_NO,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] looks sad...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_CANCEL,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] was going to\n"
+"demonstrate its expertise...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_CANCEL,segment:1"
+msgid ""
+"<start>> But, no one was watching.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_REIGAI_1,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000]'s mouth watered.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_REIGAI_1,segment:1"
+msgid ""
+"<start>> But, [14:0000,0000] resisted\n"
+"temptation.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_REIGAI_2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried acting\n"
+"snobby, so as not to be\n"
+"treated with contempt.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_REIGAI_3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] succumbed to the\n"
+"pressure and was unable to talk.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_REIGAI_4A,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] had a bad feeling\n"
+"about this.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_REIGAI_4B,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] stared at the\n"
+"voiceless thing.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_REIGAI_5,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] stared at the\n"
+"voiceless thing.\n"
+"<end>"
+msgstr ""

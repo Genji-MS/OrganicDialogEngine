@@ -1,0 +1,1079 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+msgctxt "type:0,entry:GIMMICK_TOUCH,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a glowing sphere...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:GIMMICK_TOUCH,segment:1"
+msgid ""
+"<start>> Will you touch it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:GIMMICK_TOUCH_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:CHANGE_AIR,segment:0"
+msgid ""
+"<start>[7:FF07]> The atmosphere around you\n"
+"changed.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:REVERSE_AIR,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you revert the effects?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:REVERSE_AIR_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:STEP1,segment:0"
+msgid ""
+"<start>[7:FF07]> Time passed quickly.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:RETURN_FLOOR,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you return?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:RETURN_FLOOR_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:OBJ_UGOKANAI,segment:0"
+msgid ""
+"<start>[7:FF07]> Nothing happened.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SINEN1,segment:0"
+msgid ""
+"<start>[7:FF07]There's blocks obstructing you?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:SINEN1_SEL,segment:0"
+msgid "<start>They're blocking me."
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SINEN1_YES,segment:0"
+msgid ""
+"<start>[7:FF07]I wanna go too, but I have no idea\n"
+"what to do!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SINEN1_YES,segment:1"
+msgid ""
+"<start>When I touched the glowing ball,\n"
+"everything felt different...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SINEN1_YES,segment:2"
+msgid ""
+"<start>For some reason, time felt like\n"
+"it was just flying by.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SINEN1_YES,segment:3"
+msgid ""
+"<start>It seems that the block lowers only\n"
+"on certain cycles of Kagutsuchi...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SINEN1_YES,segment:4"
+msgid ""
+"<start>Oh, yeah. If you take too much time,\n"
+"the blocks will fall and drop on you!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SINEN1_YES,segment:5"
+msgid ""
+"<start>If you figure it out, let me know.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SINEN1_NO,segment:0"
+msgid ""
+"<start>[7:FF07]Then, go home.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SINEN1_STOP,segment:0"
+msgid ""
+"<start>[7:FF07]Hmmm...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SINEN1_STOP2,segment:0"
+msgid ""
+"<start>[7:FF07]I'm sure it has something to do with\n"
+"that mark engraved on it...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SANSIMAI_INFO1,segment:0"
+msgid ""
+"<start>[7:FF07]> You sense a strong power.\n"
+"<end>"
+msgstr ""
+
+#. Cold-sounding woman
+msgctxt "type:0,entry:KOUMAN1,segment:0"
+msgid ""
+"<start>[7:FF07]Hahahahaha...\n"
+"<end>"
+msgstr ""
+
+#. Cold-sounding woman
+msgctxt "type:0,entry:KOUMAN1,segment:1"
+msgid ""
+"<start>Just as Lord Hikawa predicted...\n"
+"It seems a rat has wandered in!\n"
+"<end>"
+msgstr ""
+
+#. Arrogant-sounding woman
+msgctxt "type:0,entry:HIJO1,segment:0"
+msgid ""
+"<start>[7:FF07]Ohohoho...\n"
+"<end>"
+msgstr ""
+
+#. Arrogant-sounding woman
+msgctxt "type:0,entry:HIJO1,segment:1"
+msgid ""
+"<start>I assume you are here for that\n"
+"woman, but we three sisters are\n"
+"guarding the Obelisk...\n"
+"<end>"
+msgstr ""
+
+#. Arrogant-sounding woman
+msgctxt "type:0,entry:HIJO1,segment:2"
+msgid ""
+"<start>We are not like that useless Ose.\n"
+"<end>"
+msgstr ""
+
+#. Cruel-sounding woman
+msgctxt "type:0,entry:REIKOKU1,segment:0"
+msgid ""
+"<start>[7:FF07]Ahaha... If you want her back,\n"
+"you must defeat us.\n"
+"<end>"
+msgstr ""
+
+#. Cruel-sounding woman
+msgctxt "type:0,entry:REIKOKU1,segment:1"
+msgid ""
+"<start>Well, if you can get to us in\n"
+"the first place.\n"
+"<end>"
+msgstr ""
+
+#. Cold-sounding woman
+msgctxt "type:0,entry:KOUMAN2,segment:0"
+msgid ""
+"<start>[7:FF07]Kagutsuchi repeats the process of\n"
+"birth and death. It will not wait\n"
+"for you.\n"
+"<end>"
+msgstr ""
+
+#. Cold-sounding woman
+msgctxt "type:0,entry:KOUMAN2,segment:1"
+msgid ""
+"<start>Now... Come!\n"
+"<end>"
+msgstr ""
+
+#. Women
+msgctxt "type:0,entry:SANSIMAI,segment:0"
+msgid ""
+"<start>[7:FF07]Ahaha...\n"
+"Hahahahaha...\n"
+"Ohohoho...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SANSIMAI_INFO2,segment:0"
+msgid ""
+"<start>[7:FF07]> The women disappeared.\n"
+"<end>"
+msgstr ""
+
+#. Cold-looking woman
+msgctxt "type:0,entry:KLOTHO,segment:0"
+msgid ""
+"<start>[7:FF07]Hahahahaha... So, have you figured\n"
+"out how the puzzle works?\n"
+"<end>"
+msgstr ""
+
+#. Cold-looking woman
+msgctxt "type:0,entry:KLOTHO2,segment:0"
+msgid ""
+"<start>[7:FF07]I am Clotho, the youngest of\n"
+"the Moirae Sisters.\n"
+"<end>"
+msgstr ""
+
+#. Clotho
+msgctxt "type:0,entry:KLOTHO3,segment:0"
+msgid ""
+"<start>[7:FF07]I shall wind the thread of your life!\n"
+"<end>"
+msgstr ""
+
+#. Clotho
+msgctxt "type:0,entry:KLOTHO4,segment:0"
+msgid ""
+"<start>[7:FF07]Hahahahaha... You don't give up,\n"
+"do you?\n"
+"<end>"
+msgstr ""
+
+#. Clotho
+msgctxt "type:0,entry:KLOTHO5,segment:0"
+msgid ""
+"<start>[7:FF07]If you like me that much, I can make\n"
+"you our lover...\n"
+"<end>"
+msgstr ""
+
+#. Clotho
+msgctxt "type:0,entry:KLOTHO5,segment:1"
+msgid ""
+"<start>...But unfortunately, we have orders\n"
+"from Lord Hikawa.\n"
+"<end>"
+msgstr ""
+
+#. Clotho
+msgctxt "type:0,entry:KLOTHO5,segment:2"
+msgid ""
+"<start>This time, I shall wind what's left of\n"
+"your life!\n"
+"<end>"
+msgstr ""
+
+#. Arrogant-looking woman
+msgctxt "type:0,entry:LACHESIS,segment:0"
+msgid ""
+"<start>[7:FF07]Ohohoho... I will not allow you\n"
+"past here.\n"
+"<end>"
+msgstr ""
+
+#. Arrogant-looking woman
+msgctxt "type:0,entry:LACHESIS2,segment:0"
+msgid ""
+"<start>[7:FF07]I am Lachesis, the second of\n"
+"the Moirae Sisters.\n"
+"<end>"
+msgstr ""
+
+#. Lachesis
+msgctxt "type:0,entry:LACHESIS3,segment:0"
+msgid ""
+"<start>[7:FF07]I measure the length of life.\n"
+"<end>"
+msgstr ""
+
+#. Lachesis
+msgctxt "type:0,entry:LACHESIS3,segment:1"
+msgid ""
+"<start>Your thread is reaching its end!\n"
+"<end>"
+msgstr ""
+
+#. Lachesis
+msgctxt "type:0,entry:LACHESIS4,segment:0"
+msgid ""
+"<start>[7:FF07]Ohohoho... Persistent men are not\n"
+"well-liked, you know!\n"
+"<end>"
+msgstr ""
+
+#. Lachesis
+msgctxt "type:0,entry:LACHESIS5,segment:0"
+msgid ""
+"<start>[7:FF07]It seems that my measurements\n"
+"were a little off...\n"
+"<end>"
+msgstr ""
+
+#. Lachesis
+msgctxt "type:0,entry:LACHESIS5,segment:1"
+msgid ""
+"<start>I shall end your life for sure\n"
+"this time!\n"
+"<end>"
+msgstr ""
+
+#. Cruel-looking woman
+msgctxt "type:0,entry:ATROPOS,segment:0"
+msgid ""
+"<start>[7:FF07]Ahaha... Were you able to keep up\n"
+"with Kagutsuchi?\n"
+"<end>"
+msgstr ""
+
+#. Cruel-looking woman
+msgctxt "type:0,entry:ATROPOS2,segment:0"
+msgid ""
+"<start>[7:FF07]I am Atropos, the eldest of\n"
+"the Moirae Sisters.\n"
+"<end>"
+msgstr ""
+
+#. Atropos
+msgctxt "type:0,entry:ATROPOS3,segment:0"
+msgid ""
+"<start>[7:FF07]How unlucky of you to meet me.\n"
+"I cut the threads of fate...\n"
+"In other words...\n"
+"<end>"
+msgstr ""
+
+#. Atropos
+msgctxt "type:0,entry:ATROPOS3,segment:1"
+msgid ""
+"<start>Your fate is already sealed!\n"
+"<end>"
+msgstr ""
+
+#. Atropos
+msgctxt "type:0,entry:ATROPOS4,segment:0"
+msgid ""
+"<start>[7:FF07]Ahaha... You again?\n"
+"<end>"
+msgstr ""
+
+#. Atropos
+msgctxt "type:0,entry:ATROPOS5,segment:0"
+msgid ""
+"<start>[7:FF07]Are you done with your prayers?\n"
+"I will cut off any attachments\n"
+"you have to this world!\n"
+"<end>"
+msgstr ""
+
+#. Clotho
+msgctxt "type:0,entry:BOSS3_01,segment:0"
+msgid ""
+"<start>[7:FF07]Hahahahaha...! We aren't letting you\n"
+"pass that easily!\n"
+"<end>"
+msgstr ""
+
+#. Lachesis
+msgctxt "type:0,entry:BOSS3_02,segment:0"
+msgid ""
+"<start>[7:FF07]Do not underestimate us!\n"
+"<end>"
+msgstr ""
+
+#. Atropos
+msgctxt "type:0,entry:BOSS3_03,segment:0"
+msgid ""
+"<start>[7:FF07]We three Moirae Sisters will...\n"
+"<end>"
+msgstr ""
+
+#. Clotho
+msgctxt "type:0,entry:BOSS3_04,segment:0"
+msgid ""
+"<start>[7:FF07]Spin!\n"
+"<end>"
+msgstr ""
+
+#. Lachesis
+msgctxt "type:0,entry:BOSS3_05,segment:0"
+msgid ""
+"<start>[7:FF07]Measure!\n"
+"<end>"
+msgstr ""
+
+#. Atropos
+msgctxt "type:0,entry:BOSS3_06,segment:0"
+msgid ""
+"<start>[7:FF07]And snip your fate!!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TENJOH,segment:0"
+msgid ""
+"<start>[7:FF07]> There is light coming from above.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TENJOH,segment:1"
+msgid ""
+"<start>> Will you ascend?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TENJOH_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:f031_H_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained the Magatama\n"
+"[2:FF03]Djed[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:f031_FALL_DIE,segment:0"
+msgid ""
+"<start>[7:FF07]> If you fall from here, you will lose\n"
+"your life.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:f031_YUUKO_RESCUE,segment:0"
+msgid ""
+"<start>[7:FF07]> No one is here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:f031_GO_KAGUTUTI,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you go to the Tower of\n"
+"Kagutsuchi?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:f031_GO_KAG_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:BOSS_ROOM_IN,segment:0"
+msgid ""
+"<start>[7:FF07]> You sense strong power from\n"
+"the floor above?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BOSS_ROOM_IN,segment:1"
+msgid ""
+"<start>> Will you go up?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:BOSS_ROOM_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:EXITWARP,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you leave the area?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EXITWARP_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a Mystical Chest.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HOSEKI_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Mystical Chest.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA,segment:0"
+msgid ""
+"<start>[7:FF07]> You see a Cache Cube.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAKARA_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Cache Cube.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_STILLGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DH_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"the Magatama [2:FF05][3:FF01][2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_MAKA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01] Macca[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:0"
+msgid ""
+"<start>[7:FF07]> It's a trap.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:1"
+msgid ""
+"<start>> Your party took damage.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_KARAGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:0"
+msgid ""
+"<start>[7:FF07]> [3:FF03] found something.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:1"
+msgid ""
+"<start>[7:FF07]............\n"
+"> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_OPENERROR,segment:0"
+msgid ""
+"<start>[7:FF07]> It can't be used here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_LIGHTMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The light effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_ESTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The repel effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REBERAMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The attract effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REFUTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The levitation effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:WARP_ELV_MSG,segment:0"
+msgid ""
+"<start>[7:FF07]> Select a floor.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL1,segment:0"
+msgid "<start>[3:FF01][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL2,segment:0"
+msgid "<start>[3:FF02][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL3,segment:0"
+msgid "<start>[3:FF03][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL4,segment:0"
+msgid "<start>[3:FF04][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL5,segment:0"
+msgid "<start>[3:FF05][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL6,segment:0"
+msgid "<start>[3:FF06][80EA]"
+msgstr ""
+
+msgctxt "type:0,entry:F031_DOOR01,segment:0"
+msgid ""
+"<start>[7:FF07]> The door is closed tight...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_01_01,segment:0"
+msgid ""
+"<start>[7:FF07]This is the Obelisk.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_01_01,segment:1"
+msgid ""
+"<start>This is the closest you'll ever get to\n"
+"Kagutsuchi, in all of Tokyo.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_02_01,segment:0"
+msgid ""
+"<start>[7:FF07]The Maiden is at the top floor.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_02_01,segment:1"
+msgid ""
+"<start>She is collecting Magatsuhi with\n"
+"her powers...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_02_02,segment:0"
+msgid ""
+"<start>[7:FF07]I can't believe it...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_02_02,segment:1"
+msgid ""
+"<start>You actually stopped the Nightmare\n"
+"System...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_02_02,segment:2"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_03_01,segment:0"
+msgid ""
+"<start>[7:FF07]This tower is protected by\n"
+"the 'Moirae Sisters'.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_03_01,segment:1"
+msgid ""
+"<start>As long as they're here, you won't\n"
+"be able to catch even a glimpse of\n"
+"the Maiden.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_03_02,segment:0"
+msgid ""
+"<start>[7:FF07]Nooooo! The Moirae Sisters were...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_04_01,segment:0"
+msgid ""
+"<start>[7:FF07]The Moirae Sisters have set devices\n"
+"to stop intruders.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_04_01,segment:1"
+msgid ""
+"<start>You must control the flow of time.\n"
+"...What does that mean? You will\n"
+"soon find out...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_04_02,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_05_01,segment:0"
+msgid ""
+"<start>[7:FF07]You must touch the glowing sphere\n"
+"and control time to deactivate\n"
+"the device ahead.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_05_01,segment:1"
+msgid ""
+"<start>But, if you take too much time,\n"
+"the floor will crumble beneath you.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_05_01,segment:2"
+msgid ""
+"<start>...A malevolent device, fitting of\n"
+"the Moirae Sisters.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_05_02,segment:0"
+msgid ""
+"<start>[7:FF07]Hmm... Those devices appear to be\n"
+"functioning, even though the sisters\n"
+"were defeated.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_06_01,segment:0"
+msgid ""
+"<start>[7:FF07]The pillar at the center of\n"
+"the Obelisk sends collected\n"
+"Magatsuhi to the bottom.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_06_01,segment:1"
+msgid ""
+"<start>You saw all that Magatsuhi being\n"
+"stored at the bottom, right?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_06_02,segment:0"
+msgid ""
+"<start>[7:FF07]There's no more Magatsuhi flowing\n"
+"down the pillar...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_07_01,segment:0"
+msgid ""
+"<start>[7:FF07]Now that the Nightmare System has\n"
+"been activated, no one can stop\n"
+"the Assembly of Nihilo.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_07_01,segment:1"
+msgid ""
+"<start>The world of stillness is near...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_07_02,segment:0"
+msgid ""
+"<start>[7:FF07]The Nightmare System has been\n"
+"stopped...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_07_02,segment:1"
+msgid ""
+"<start>But, knowing Lord Hikawa, it\n"
+"probably isn't a problem for\n"
+"him...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_08_01,segment:0"
+msgid ""
+"<start>[7:FF07]Dang, there it is again...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_08_01,segment:1"
+msgid ""
+"<start>Do you hear it? The screaming of\n"
+"a woman, coming from above?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_08_01,segment:2"
+msgid ""
+"<start>...It's creepy!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_08_02,segment:0"
+msgid ""
+"<start>[7:FF07]Come to think of it, I stopped\n"
+"hearing that woman scream...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_08_02,segment:1"
+msgid ""
+"<start>...That's just as creepy!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_09,segment:0"
+msgid ""
+"<start>[7:FF07]There must be some sort of pattern\n"
+"to the movement of these blocks...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_09,segment:1"
+msgid ""
+"<start>Is there anyplace where I can\n"
+"overlook the entire area?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_10,segment:0"
+msgid ""
+"<start>[7:FF07]Commander Hikawa will do anything\n"
+"to realize his creation.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_10,segment:1"
+msgid ""
+"<start>You never know... To him, even\n"
+"the Maiden may just be...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_11_01,segment:0"
+msgid ""
+"<start>[7:FF07]Below here is where the Nihilo hide\n"
+"all their treasure.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_11_01,segment:1"
+msgid ""
+"<start>But, no one who has gone looking\n"
+"for it has ever come back alive...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_11_02,segment:0"
+msgid ""
+"<start>[7:FF07]Go upstairs if you have business\n"
+"with the Maiden.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_12_01,segment:0"
+msgid ""
+"<start>[7:FF07]The Moirae Sisters are waiting on\n"
+"the floor above.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_12_01,segment:1"
+msgid ""
+"<start>I hope you enjoy being tortured to\n"
+"death...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_12_02,segment:0"
+msgid ""
+"<start>[7:FF07]You're not bad, defeating\n"
+"the Moirae Sisters.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_12_02,segment:1"
+msgid ""
+"<start>...Screw Hikawa, I should just follow\n"
+"you!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_12_03,segment:0"
+msgid ""
+"<start>[7:FF07]Everyone went up. I don't think\n"
+"you'll find a soul down below.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_12_03,segment:1"
+msgid ""
+"<start>...Still, that was some earthquake.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_13_01,segment:0"
+msgid ""
+"<start>[7:FF07]The Moirae Sisters...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_13_01,segment:1"
+msgid ""
+"<start>Clotho is the 'spinner'...\n"
+"Um, what was Lachesis?\n"
+"Atropos is the 'inevitable'...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_13_01,segment:2"
+msgid ""
+"<start>Hmmm... One spins the thread,\n"
+"the last one cuts it...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_13_01,segment:3"
+msgid ""
+"<start>...What goes in the middle?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_13_02,segment:0"
+msgid ""
+"<start>[7:FF07]I got it!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_13_02,segment:1"
+msgid ""
+"<start>Lachesis is the 'apportioner'!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_01_02,segment:0"
+msgid ""
+"<start>[7:FF07]This is the Obelisk,\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_01_02,segment:1"
+msgid ""
+"<start>the only place in Tokyo that is\n"
+"connected to Kagutsuchi.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F031_SINEN_01_02,segment:2"
+msgid ""
+"<start>Everyone went upstairs...\n"
+"<end>"
+msgstr ""

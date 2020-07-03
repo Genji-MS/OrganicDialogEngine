@@ -1,0 +1,414 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07]The headquarters of the Gaea cult...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001,segment:1"
+msgid ""
+"<start>This is where it all started.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF07]They were a group who absorbed\n"
+"all forms of doctrine,\n"
+"for they believed they could discover\n"
+"the truth from chaos.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002,segment:1"
+msgid ""
+"<start>But even within that cult,\n"
+"he was regarded as a heretic.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07]Yes, I am referring to the man\n"
+"who changed your destiny...\n"
+"and that of the world.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:1"
+msgid ""
+"<start>He firmly believed that the ideal\n"
+"cannot be found in reality,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:2"
+msgid ""
+"<start>that it could only be brought\n"
+"about by one's own hand.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:3"
+msgid ""
+"<start>And ultimately, he reached beyond\n"
+"the scope of mankind and plotted\n"
+"the creation of the world.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF07]Fate is drawn to a strong will,\n"
+"it seems.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:1"
+msgid ""
+"<start>His plot became reality...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:2"
+msgid ""
+"<start>...when he uncovered the Scripture\n"
+"of Miroku, buried deep within\n"
+"the cult's library.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005,segment:0"
+msgid ""
+"<start>[7:FF07]With the Scripture in his possession,\n"
+"he reconstructed the spinning drum\n"
+"of Amala.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_006,segment:0"
+msgid ""
+"<start>[7:FF07]By deciphering the symbols on\n"
+"the drum, he gained access to\n"
+"the Amala Universe...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_006,segment:1"
+msgid ""
+"<start>and learned of the Conception...\n"
+"the fated destruction of the world.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_007,segment:0"
+msgid ""
+"<start>[7:FF07]...That incident at the park\n"
+"followed shortly thereafter.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_007,segment:1"
+msgid ""
+"<start>You see...\n"
+"For creation to be possible\n"
+"after the Conception, certain\n"
+"preparations were necessary.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_008,segment:0"
+msgid ""
+"<start>[7:FF07]The demons which he summoned\n"
+"were unleashed...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_008,segment:1"
+msgid ""
+"<start>...and a bloody act of carnage\n"
+"ensued.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_010,segment:0"
+msgid ""
+"<start>[7:FF07]He decided to take control of\n"
+"the inevitable--the death and\n"
+"rebirth of the world.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_010,segment:1"
+msgid ""
+"<start>Some members of the Gaea cult\n"
+"were against him,\n"
+"and the Order of Messiah\n"
+"tried to stop him, but...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_010,segment:2"
+msgid ""
+"<start>...he eliminated both threats at once,\n"
+"with the power of his demons.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_011,segment:0"
+msgid ""
+"<start>[7:FF07]With all opposition removed, \n"
+"he watched as the Conception\n"
+"took place,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_011,segment:1"
+msgid ""
+"<start>just as foretold in the prophecy\n"
+"of Miroku... No, just as he planned\n"
+"after unraveling the prophecy.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_011,segment:2"
+msgid ""
+"<start>The Assembly of Nihilo was created\n"
+"at that time as well, to aid him\n"
+"in creation.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_100,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I see that you are making steady\n"
+"progress in recovering\n"
+"the candelabra.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_100,segment:1"
+msgid ""
+"<start>[18:]...By the way, did you not encounter\n"
+"a large number of souls in this\n"
+"realm?\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_101,segment:0"
+msgid ""
+"<start>[7:FF07][18:]They are the memories of humans\n"
+"in your former world who were\n"
+"purified by death.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_101,segment:1"
+msgid ""
+"<start>[18:]Even after drifting to the farthest\n"
+"reaches of Amala, they still cannot\n"
+"let go of the past.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_102,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Many of them were involved with\n"
+"a man that you have met...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_102,segment:1"
+msgid ""
+"<start>[18:]...a man by the name of Hikawa.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_103,segment:0"
+msgid ""
+"<start>[7:FF07][18:]He is the one who led your world\n"
+"to destruction.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_103,segment:1"
+msgid ""
+"<start>[18:]You stand here as the result of\n"
+"his acts in the former world.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_104,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I commend you for making it\n"
+"this far. I wish to tell you\n"
+"something that you, as a human,\n"
+"would not otherwise have learned...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_104,segment:1"
+msgid ""
+"<start>[18:]...about his past, and what caused\n"
+"the Conception.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_105,segment:0"
+msgid ""
+"<start>[7:FF07][18:]That is what happened in Tokyo.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_105,segment:1"
+msgid ""
+"<start>[18:]The Conception occurred as he\n"
+"planned, and now creation will\n"
+"follow.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_106,segment:0"
+msgid ""
+"<start>[7:FF07][18:]However, the future is not set;\n"
+"we have yet to see what will happen.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_106_B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]The world can be [2:FF02]set free from\n"
+"the perpetual cycle of creation[2:FF01]...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_106_B,segment:1"
+msgid ""
+"<start>[18:]We have faith in you,\n"
+"and will continue to watch you.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_009,segment:0"
+msgid ""
+"<start>[7:FF07]Exterminate all who interfere\n"
+"with his plan,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_009,segment:1"
+msgid ""
+"<start>and dispose of those who do not\n"
+"share his ideal...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_009,segment:2"
+msgid ""
+"<start>He decided to take control of\n"
+"the inevitable--the death and\n"
+"rebirth of the world.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_012,segment:0"
+msgid ""
+"<start>[7:FF07]Nevertheless, the direction of\n"
+"the new world is still undetermined.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_012,segment:1"
+msgid ""
+"<start>Will the world he envisions become\n"
+"reality,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_012,segment:2"
+msgid ""
+"<start>or will a different world be born?\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_012,segment:3"
+msgid ""
+"<start>The answer to that question...\n"
+"The outcome...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_012,segment:4"
+msgid ""
+"<start>...may be decided by the actions\n"
+"you take from this point on.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_012,segment:5"
+msgid ""
+"<start>Be careful, and stray not from\n"
+"the path that you believe in...\n"
+"<end>"
+msgstr ""

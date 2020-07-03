@@ -1,0 +1,652 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 28/03/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Victor
+msgctxt "type:0,entry:EPI06_SCENE06_01,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]Welcome, Kuzunoha. I see you have\n"
+"a fair young lady with you today.\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI06_SCENE06_01_TUIKA01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou asked Victor about\n"
+"the crystal.\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI06_SCENE06_02,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]...You wish to find a crystal ball of\n"
+"spiritual power, here in the Capital?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI06_SCENE06_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hm......\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI06_SCENE06_04,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]I have been conducting research\n"
+"in various areas since my arrival\n"
+"in Japan...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI06_SCENE06_05,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]At one point in my studies, I did\n"
+"come across a document regarding\n"
+"a monk who built the Capital.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI06_SCENE06_06,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]He placed statues in a number of\n"
+"locations to act as protection for\n"
+"the Capital.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI06_SCENE06_07,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]These five statues were called\n"
+"the [2:0002,00FF]Goshiki Fudou[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI06_SCENE06_08,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]...However, the document hinted\n"
+"at a sixth, hidden statue.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI06_SCENE06_09,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]It did not correspond to a color\n"
+"like the other statues, and was\n"
+"called Mushoku Fudou.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI06_SCENE06_10,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]It was said to hold a [2:0002,00FF]crystal ball[2:0001,00FF]\n"
+"with the power to ward off evil.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI06_SCENE06_11,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]...I will admit, the document was\n"
+"quite old.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI06_SCENE06_12,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]...I have no way to know if\n"
+"that Fudou is the crystal you're\n"
+"looking for.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI06_SCENE06_13,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]However, you're welcome to search\n"
+"for it, if you believe it could be.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI06_SCENE06_14,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]If I remember correctly, the\n"
+"Mushoku Fudou was placed\n"
+"near an inlet.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI06_SCENE06_15,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]It was cross referenced as the\n"
+"[2:0002,00FF]Irie Fudou[2:0001,00FF]. I do hope I've been\n"
+"of some assistance.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE06_16,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]Irie Fudou... I suppose that could be it.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE06_17,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]Let's ask around about it a little more,\n"
+"[12:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE06_17,segment:1"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]Now that we have a name to\n"
+"go off of, it should be easier.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI06_SCENE06_18_TUIKA01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]What we need is someone who knows\n"
+"about the Capital.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI06_SCENE06_18_TUIKA01,segment:1"
+msgid ""
+"<start>[7:0005,00FF]...Time for more legwork,\n"
+"right [12:0001,00FF]?\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI11_SCENE05_01,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]What's going on up there,\n"
+"Kuzunoha? It sounds serious.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI11_SCENE05_02,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]Ah, you've brought something\n"
+"I need to have a look at?\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI11_SCENE05_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou showed Victor\n"
+"Tsiolkovski's Equation.\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI11_SCENE05_04,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]Russian, eh? I picked up a little bit\n"
+"during my travels.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI11_SCENE05_04,segment:1"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]...It's a theory on space flight,\n"
+"as far as I can tell.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI11_SCENE05_05,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]What is it for?\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI11_SCENE05_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou explained the situation\n"
+"to Victor.\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI11_SCENE05_07,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]I understand; you need this equation\n"
+"so that you can launch your rocket.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI11_SCENE05_08,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]Though it is possible to launch\n"
+"a rocket using this equation...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI11_SCENE05_09,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]...whether or not it reaches the\n"
+"satellite is a different story.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI11_SCENE05_10,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]You have to account for Earth's\n"
+"rotation, humidity, wind velocity,\n"
+"gravity... speed and altitude...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI11_SCENE05_11,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]To account for all those elements\n"
+"on top of the launch equation is--\n"
+"Even I can't do it.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI11_SCENE05_12,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]I would recommend giving up on\n"
+"this rocket plan and finding an\n"
+"alternative.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI11_SCENE05_13,segment:0"
+msgid ""
+"<start>[7:0005,00FF]An alternative? Geez, pops,\n"
+"we're all ears.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI11_SCENE05_14,segment:0"
+msgid ""
+"<start>[7:0005,00FF]There has to be some way to handle\n"
+"the calculation, [12:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI11_SCENE05_15,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]If only we had more time...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI11_SCENE05_16,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]Right now I'm working on a humanoid\n"
+"automaton with complex computation\n"
+"capabilities.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI11_SCENE05_17,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]...It's like an artificial life form that\n"
+"can out-think human beings.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI11_SCENE05_18,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]In theory, he would be able to\n"
+"solve your equation--but of course,\n"
+"he would have to exist first.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI11_SCENE05_19,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...Artificial life form? Kind of\n"
+"gives me the heebie jeebies.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI11_SCENE05_20,segment:0"
+msgid ""
+"<start>[7:0005,00FF]That reminds me!\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI11_SCENE05_21,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Dark Summoner had a weird\n"
+"mechanical body, didn't he?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI11_SCENE05_22,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Think he could handle all this\n"
+"mathematical nonsense?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI11_SCENE05_23,segment:0"
+msgid ""
+"<start>[7:0005,00FF]It's worth a shot, [12:0001,00FF]!\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI11_SCENE07_01,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]The more I see, the more amazed\n"
+"I am! I had no idea an android\n"
+"already existed!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_02,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]All right, already! I am meant\n"
+"to impress only the ladies,\n"
+"if you get my meaning.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_03,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]I would prefer to have a nice head\n"
+"on my shoulders, da?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI11_SCENE07_04,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]I much prefer it this way, as there is\n"
+"no risk of you getting away.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI11_SCENE07_05,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]Now, Kuzunoha, feel free to ask him\n"
+"whatever you wish.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI11_SCENE07_06,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]As for you, I'll fix your body\n"
+"as long as you answer everything\n"
+"truthfully.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_07,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]Okay, I understand.\n"
+"You need my brain, da?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_08,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]Show me the report again.\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI11_SCENE07_09,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou showed Rasputin the report\n"
+"and explained the situation.\n"
+"<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_10,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]I see. You want to destroy the satellite\n"
+"with a rocket.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_11,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]You do realize the scientist's rocket\n"
+"isn't enough, don't you?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_12,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]You can tell just by plugging\n"
+"the numbers into Tsiolkovski's\n"
+"Equation.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_13,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]That rocket has fuel and weight issues.\n"
+"It's not fit for launch.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI11_SCENE07_14,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]What do we need to adjust\n"
+"before it can work?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_15,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]The power output, first of all.\n"
+"That's the main concern.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_16,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]Something equivalent to a solid core\n"
+"nuclear rocket would be ideal, but...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_17,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]Since that isn't possible in this era...\n"
+"Hm...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_18,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]You might have a chance if you\n"
+"give it multi-stage propulsion to\n"
+"reduce its weight, post-launch.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_19,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]...Time the launch right, and\n"
+"it should work, in theory.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_20,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]...Tell this to your scientist:\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_21,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]Reduce the rocket's weight\n"
+"as much as possible.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_22,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]Launch it at exactly 15:00, on the dot.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_23,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]This way, it will cross Tai-itsu's\n"
+"orbit at the moment it is precisely\n"
+"overhead.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_24,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]Based on this report, I believe\n"
+"those are your best options.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EPI11_SCENE07_25,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]If they do this, will the rocket\n"
+"be able to reach the satellite?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_26,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]Reach it, yes. However, it still isn't\n"
+"enough to destroy it.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_27,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]Aha, it appears there is a control unit\n"
+"inside of the satellite.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_28,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]If you get inside and destroy that unit,\n"
+"it may trigger a larger explosion.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_29,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]Keep in mind that I told you\n"
+"how to launch your rocket.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE07_30,segment:0"
+msgid ""
+"<start>[22:0022,00FF,0006,00FF][7:0005,00FF]It's not my fault if you can't destroy\n"
+"the satellite.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI11_SCENE07_31,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Wait a minute; Rasputin's Russian,\n"
+"isn't he? I don't know why we didn't\n"
+"go to him in the first place.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI11_SCENE07_31,segment:1"
+msgid ""
+"<start>Oh well, at least we have a little bit\n"
+"of hope, now.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI11_SCENE07_32,segment:0"
+msgid ""
+"<start>[7:0005,00FF]It's getting close to 15:00, [12:0001,00FF]!\n"
+"Let's get this information to\n"
+"Dr. Tsukumo right away!\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI11_SCENE07_33,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I doubt we'll get a second chance\n"
+"to defeat the Soulless God!\n"
+"<end>"
+msgstr ""

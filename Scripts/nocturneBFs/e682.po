@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_A1,segment:0"
+msgid ""
+"<start>[7:FF07]You have done well to make it here.\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_A1,segment:1"
+msgid ""
+"<start>Therefore, I will do you the honor\n"
+"of fighting to my fullest ability.\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_A1,segment:2"
+msgid ""
+"<start>......\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_A2_SIZ,segment:0"
+msgid ""
+"<start>[7:FF07]...Our friendship dies here.\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_A2_SIZ,segment:1"
+msgid ""
+"<start>I side with Yosuga,\n"
+"and you with Shijima.\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_A2_SIZ,segment:2"
+msgid ""
+"<start>We are adversaries,\n"
+"each upholding our own Reason\n"
+"and contending for creation.\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_A2_MUS,segment:0"
+msgid ""
+"<start>[7:FF07]...Our friendship dies here.\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_A2_MUS,segment:1"
+msgid ""
+"<start>I side with Yosuga,\n"
+"and you with Musubi.\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_A2_MUS,segment:2"
+msgid ""
+"<start>We are adversaries,\n"
+"each upholding our own Reason\n"
+"and contending for creation.\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_A2_NON,segment:0"
+msgid ""
+"<start>[7:FF07]...Our friendship dies here.\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_A2_NON,segment:1"
+msgid ""
+"<start>We are adversaries,\n"
+"each upholding our own Reason\n"
+"and contending for creation.\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_A3,segment:0"
+msgid ""
+"<start>[7:FF07]As fate would have it,\n"
+"we are both beyond shedding tears.\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_A3,segment:1"
+msgid ""
+"<start>We need not hesitate\n"
+"to fight each other...\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_A4,segment:0"
+msgid ""
+"<start>[7:FF07]So, let us now decide\n"
+"who is truly superior.\n"
+"Challenge me with all your might!\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_B1,segment:0"
+msgid ""
+"<start>[7:FF07]I salute you, powerful one.\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_B1,segment:1"
+msgid ""
+"<start>Because you are the paladin of\n"
+"the Reason of Yosuga,\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_B1,segment:2"
+msgid ""
+"<start>I shall explain to you our fate.\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_B2,segment:0"
+msgid ""
+"<start>[7:FF07]Our goal is to create\n"
+"a new kingdom--\n"
+"the kingdom of Yosuga.\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_B2,segment:1"
+msgid ""
+"<start>However, no kingdom can be ruled\n"
+"by two kings.\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_B2,segment:2"
+msgid ""
+"<start>If we both were to assume authority,\n"
+"our kingdom would be doomed\n"
+"to fail.\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_B2,segment:3"
+msgid ""
+"<start>...Thus, our fate is to do battle\n"
+"and determine who should rightfully\n"
+"lead.\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_B3,segment:0"
+msgid ""
+"<start>[7:FF07]......\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_B3,segment:1"
+msgid ""
+"<start>...I greatly value your friendship,\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_B3,segment:2"
+msgid ""
+"<start>and that will not change,\n"
+"no matter what the outcome\n"
+"of this battle.\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_B3,segment:3"
+msgid ""
+"<start>Because you are a true friend,\n"
+"I shall wield my strength fully.\n"
+"Surely, you feel the same...\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_050_B3,segment:4"
+msgid ""
+"<start>...So, let us now decide\n"
+"who is truly superior.\n"
+"Challenge me with all your might!\n"
+"<end>"
+msgstr ""

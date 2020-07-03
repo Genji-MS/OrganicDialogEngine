@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_001,segment:0"
+msgid ""
+"<start>[7:FF07]Great, the entire park is closed.\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_001,segment:1"
+msgid ""
+"<start>I won't be able to get a single\n"
+"picture of the scene...\n"
+"Just my luck.\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_002,segment:0"
+msgid ""
+"<start>[7:FF07]...?\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_0021,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...What's up, kid?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HIJIRI_0022,segment:0"
+msgid "<start>What happened here?"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_0031,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Well, this is what they said on TV:\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_0031,segment:1"
+msgid ""
+"<start>[18:]\"The clash between a well-known\n"
+"company and a civic organization\n"
+"results in deaths\"...\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_00312,segment:0"
+msgid ""
+"<start>[7:FF07][18:]But, those who live on the fringe\n"
+"say...\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_00312,segment:1"
+msgid ""
+"<start>[18:]...that it was a struggle between\n"
+"two opposing cults.\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_0032,segment:0"
+msgid ""
+"<start>[18:][7:FF07]Oh... Okay.\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_0032,segment:1"
+msgid ""
+"<start>[18:]If you're not interested, then\n"
+"it's better not to get involved.\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_0032,segment:2"
+msgid ""
+"<start>[18:]You wouldn't believe me if\n"
+"I told you that there was a struggle\n"
+"between two religious cults...\n"
+"would you?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HIJIRI_009,segment:0"
+msgid ""
+"<start>[7:FF07]> Your cell phone started to ring.\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_011,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Huh? Isn't that your phone\n"
+"ringing?\n"
+"<end>"
+msgstr ""
+
+#. Classmate
+msgctxt "type:0,entry:TIAKI_001,segment:0"
+msgid ""
+"<start>[7:FF07]...Hi, [12:FF01]? It's me.\n"
+"<end>"
+msgstr ""
+
+#. Classmate
+msgctxt "type:0,entry:TIAKI_001,segment:1"
+msgid ""
+"<start>*sigh* I finally got a hold of you.\n"
+"What have you been doing all this\n"
+"time?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TIAKI_001_1,segment:0"
+msgid ""
+"<start>[7:FF07]> Please enter your classmate's\n"
+"name.\n"
+"[16:]<start><end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:TIAKI_002,segment:0"
+msgid ""
+"<start>[7:FF07]I could see if it was [12:FF03],\n"
+"but you're never late.\n"
+"Did something happen?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:TIAKI_002,segment:1"
+msgid ""
+"<start>Where are you now? Yoyogi Park?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:TIAKI_002,segment:2"
+msgid ""
+"<start>Well, since you didn't show up\n"
+"on time, [12:FF03] and I left\n"
+"without you. ...We're almost there.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:TIAKI_002,segment:3"
+msgid ""
+"<start>So yeah, I'm sorry, but can you\n"
+"come directly to the hospital?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:TIAKI_003,segment:0"
+msgid ""
+"<start>[7:FF07]You know which hospital it is?\n"
+"...Yeah, Shinjuku Medical Center.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:TIAKI_003,segment:1"
+msgid ""
+"<start>Just go east from Shinjuku Station,\n"
+"and you can't miss it.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:TIAKI_004,segment:0"
+msgid ""
+"<start>[7:FF07]Oh well.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:TIAKI_004,segment:1"
+msgid ""
+"<start>I wanted to talk to\n"
+"Ms. [11:FF02] about what\n"
+"I should do after graduation\n"
+"anyway.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TIAKI_004_2,segment:0"
+msgid "<start>I'll be there ASAP."
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:TIAKI_004_3,segment:0"
+msgid ""
+"<start>[7:FF07]Thanks, I'm not planning on\n"
+"staying there long.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:TIAKI_004_3,segment:1"
+msgid ""
+"<start>Okay then, see you later.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:TIAKI_004_4,segment:0"
+msgid ""
+"<start>[7:FF07]...What? I care about my future,\n"
+"thank you very much.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:TIAKI_004_4,segment:1"
+msgid ""
+"<start>Honestly, you and [12:FF03]\n"
+"should start planning ahead too.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:TIAKI_004_4,segment:2"
+msgid ""
+"<start>...Anyway, don't keep us waiting,\n"
+"okay?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:TIAKI_004_4,segment:3"
+msgid ""
+"<start>See you later.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TIAKI_005,segment:0"
+msgid ""
+"<start>[7:FF07]> [12:FF04] hung up.\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_006,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Hey, wait a minute... You're going to\n"
+"Shinjuku Medical Center?\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_006,segment:1"
+msgid ""
+"<start>......\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_0061,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...That's where I'm headed, too.\n"
+"What a coincidence.\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_007,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Here, take this.\n"
+"This issue isn't out yet.\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_007,segment:1"
+msgid ""
+"<start>[18:]You don't know what happened\n"
+"here, right?\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_007,segment:2"
+msgid ""
+"<start>[18:]Then, you probably don't know what\n"
+"kind of place that hospital is, either.\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_007,segment:3"
+msgid ""
+"<start>[18:]The report on the Gaea cult\n"
+"and the Scripture of Miroku...\n"
+"It's an interesting read.\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_010,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You wouldn't normally associate\n"
+"a hospital with the occult, but...\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_010,segment:1"
+msgid ""
+"<start>[18:]That place is different.\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_0101,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Heheh.\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_0101,segment:1"
+msgid ""
+"<start>[18:]False info is pretty common in\n"
+"the occult industry. If it does\n"
+"turn out to be wrong, just laugh it\n"
+"off, okay?\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_0101,segment:2"
+msgid ""
+"<start>[18:]Well, I'd better get going.\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:HIJIRI_0101,segment:3"
+msgid ""
+"<start>[18:]My name's Hijiri.\n"
+"If we ever meet again, let me know\n"
+"what you thought about my article.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HIJIRI_008,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained an issue of\n"
+"[2:FF02]Ayakashi Monthly[2:FF01].\n"
+"<end>"
+msgstr ""

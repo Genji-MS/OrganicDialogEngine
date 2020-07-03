@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[
+msgctxt "type:0,entry:YUUKO_001,segment:0"
+msgid ""
+"<start>[7:FF07][82A0][82A0][82DA][81CD][82FA][82A0]\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:YUUKO_001,segment:1"
+msgid ""
+"<start>[7:FF07][82A0][82DA][81CD][82A0][82A0][82FA][82A0]\n"
+"[12:FF01][82A0]\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:YUUKO_002,segment:0"
+msgid ""
+"<start>[7:FF07][82F9][81FF][80E6][80E3][82A0][82A0] [81D8][80E1] [82EC][82C3][81DB][81D6][82A0]\n"
+"[8589][80E4][82A0][82A0][8298] [80E3][87A3][81DD][82C4][82A0][82A0][81D3][82A0]\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:YUUKO_002,segment:1"
+msgid ""
+"<start>[7:FF07][82A0][82A5][85EA][80E2][82A2][82A0][82A0] [82DA][81CD][82A0][82FA][82A0][82A0]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[ [[[[[[
+msgctxt "type:0,entry:YUUKO_003,segment:0"
+msgid ""
+"<start>[7:FF07][81E9][82B7][80E9][80E8], [82C5][80E5] [84AD][81F9][81D0].\n"
+"[83FC][859A][8298] [81D5][82CC][80E7] [85D2][84A1][80E0][82A0][82A0]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[ [[[[[[
+msgctxt "type:0,entry:YUUKO_004,segment:0"
+msgid ""
+"<start>[7:FF07][8388][82DA]? [82B6][828D] [81D2][80E5] [82B3]?\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[ [[[[[[
+msgctxt "type:0,entry:YUUKO_004,segment:1"
+msgid ""
+"<start>[82D6][84B8][82AE] [81D0][82CC] [83FC][859A][80E8] \n"
+"[84A4][81ED][80E5] [8292][81FC][80E3][83AE]?\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[ [[[[[[
+msgctxt "type:0,entry:YUUKO_004,segment:2"
+msgid ""
+"<start>[81E9][858C][81D0][838C] [80E2][82E8][80E0] \n"
+"[82A8][81DB] [81D2][80E0] [83EC][82DB][83AE].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[ [[[[[[
+msgctxt "type:0,entry:YUUKO_004,segment:3"
+msgid ""
+"<start>[8292][81CA], [82FF][828D][8298] \n"
+"[82D6][84B8][8295] [80E2][82E8][80E0] [8387] [81E0][83FC][83AE].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[ [[[[[[
+msgctxt "type:0,entry:YUUKO_005,segment:0"
+msgid ""
+"<start>[7:FF07][82A0][82A0][82A0][82A0]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[ [[[[[[
+msgctxt "type:0,entry:YUUKO_005,segment:1"
+msgid ""
+"<start>[81E9][8599], [81F8][86F6][82DA][81D8].\n"
+"([82B9][81FC][84DD]).\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[ [[[[[[
+msgctxt "type:0,entry:YUUKO_005,segment:2"
+msgid ""
+"<start>[81D8][80E5] [82B1][81DB] [81D2][81D3].\n"
+"[81F8][8298][8299][80E5] [828E][81E7][8295] [84CA][80E2] [81D2][81D0], [81DB][82A0][82A0]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[ [[[[[[
+msgctxt "type:0,entry:YUUKO_005,segment:3"
+msgid ""
+"<start>[81DA][80E3] [81ED][80E5] [82B5], [80E2][81CD][81ED][81CF][81E7]?\n"
+""
+msgstr ""
+
+msgctxt "type:1,entry:KAIWA_SEL,segment:0"
+msgid "<start>[82B1][81CF][81D0]"
+msgstr ""
+
+#. [[[[[[ [[[[[[
+msgctxt "type:0,entry:YUUKO_006,segment:0"
+msgid ""
+"<start>[7:FF07][8497][8497], [85D5][82CC][82CD][81ED][82DA][81D8].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[ [[[[[[
+msgctxt "type:0,entry:YUUKO_006,segment:1"
+msgid ""
+"<start>[81E9][8599], ([82B9][81FC][84DD]).\n"
+"[81E9] [84CA][80E0] [879B] [82C5][80E3] [85DB] [8286][8299] [82EF].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[ [[[[[[
+msgctxt "type:0,entry:YUUKO_007,segment:0"
+msgid ""
+"<start>[7:FF07][81CA][82CD] [83E4][82E2][81DB] [81D2][80E0] [868E][80E2][82A2].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[ [[[[[[
+msgctxt "type:0,entry:YUUKO_007,segment:1"
+msgid ""
+"<start>[81F8][8295] [81E9], [8292][84B8][82AE] [82B1][81E7] [81CC][81ED][80E5] [84CA][80E2]\n"
+"[84A6][83BC][85C1] [82C5][80E3] [85DB] [8286][8299] [82EF][82A0][82A0].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[ [[[[[[
+msgctxt "type:0,entry:YUUKO_008,segment:0"
+msgid ""
+"<start>[7:FF07][81D2][8291][81CA], ([82B9][81FC][84DD])[82D0].\n"
+"[81D8][80E1], [828D][8688][81CD]?\n"
+"[81F8][80E5], [81D8][80E1] [82B1][81DB] [81D2][80E0] [82B6][82A2].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[ [[[[[[
+msgctxt "type:0,entry:YUUKO_008,segment:1"
+msgid ""
+"<start>[82C5][80E8][80E5] [85E5][81F6][81D6], [82C5][80E8][80E5] [80E3][82BB][80E2][81D6],\n"
+"[81F8][8295] [8296][82C6][80E0] [81E0][81DB] [81D2][81D3][82A0][82A0]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[ [[[[[[
+msgctxt "type:0,entry:YUUKO_008,segment:2"
+msgid ""
+"<start>([82B9][81FC][84DD]), [81DA] [80E2][82E8][80E0] [85F0][81E4] [82BF].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[ [[[[[[
+msgctxt "type:0,entry:YUUKO_009,segment:0"
+msgid ""
+"<start>[7:FF07][81E9][8599][82A0].\n"
+"[81DA] [80E2][82E8][80E4][82A0][8281][81FF][8286] [82EA][82F5][83DF].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[ [[[[[[
+msgctxt "type:0,entry:YUUKO_009,segment:1"
+msgid ""
+"<start>[82A0][82A0]([82B9][81FC][84DD]).\n"
+"[83B2][84AD][829B][80E8][81D4][838C], [81D0][81E6] [82B4][81D8][8299] [85C1] [82B6][82A2].\n"
+"[87B6][8497][80E3] [8286][828D] [84C0][8298] [81F9][8582], \n"
+"<end>"
+msgstr ""
+
+#. [[[[[[ [[[[[[
+msgctxt "type:0,entry:YUUKO_009,segment:2"
+msgid ""
+"<start>[81E9][81F6][81DB] [81E9] [85AC][8298][82AE][82A0]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[ [[[[[[
+msgctxt "type:0,entry:YUUKO_010,segment:0"
+msgid ""
+"<start>[7:FF07][8292][81CA], [8296][81D3][81D8].\n"
+"[80E2][83FB] [81E6][83EF][80E2] [8699][81D3][82A0][82A0][82A0][82A0]\n"
+"<end>"
+msgstr ""

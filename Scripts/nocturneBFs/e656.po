@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I saw what happened,\n"
+"[12:FF01]...\n"
+"Too bad [12:FF03] got away.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_1,segment:1"
+msgid ""
+"<start>[18:]I'll go after him.\n"
+"You don't have to go\n"
+"inside Amala anymore.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_2A,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Sorry, but I can't help you\n"
+"right now.\n"
+"I need to concentrate on this.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_2A,segment:1"
+msgid ""
+"<start>[18:]If there's somewhere you want\n"
+"to go, don't wait for me.\n"
+"If not, why don't you check out\n"
+"Asakusa?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_2A,segment:2"
+msgid ""
+"<start>[18:]Who knows...?\n"
+"You might find something new...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_2B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Sorry, but I can't help you\n"
+"right now.\n"
+"I need to concentrate on this.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_2B,segment:1"
+msgid ""
+"<start>[18:]If there's somewhere you want\n"
+"to go, don't wait for me.\n"
+"If not, why don't you check out\n"
+"Asakusa?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_2B,segment:2"
+msgid ""
+"<start>[18:]...Which reminds me,\n"
+"lately I've heard talk\n"
+"about Futomimi.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_2B,segment:3"
+msgid ""
+"<start>[18:]Are those Manikins\n"
+"up to something?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Damn that kid...\n"
+"What was he saying about being\n"
+"the master of Amala's power?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_3,segment:1"
+msgid ""
+"<start>[18:]That's it, playtime's over!\n"
+"I'm gonna kick you out of there,\n"
+"[12:FF03]!!\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_P1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]What's up, [12:FF01]?\n"
+"Find anything interesting?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_P1,segment:1"
+msgid ""
+"<start>[18:]I heard you can't get inside\n"
+"Mantra's headquarters right now.\n"
+"...The Manikins are worried.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_P1,segment:2"
+msgid ""
+"<start>[18:]Former members of Mantra could\n"
+"be involved, but most likely,\n"
+"they wouldn't try anything\n"
+"without a leader.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_P2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Which reminds me,\n"
+"lately I've heard talk\n"
+"about Futomimi.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_P2,segment:1"
+msgid ""
+"<start>[18:]Maybe those Manikins are up to\n"
+"something themselves...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I'll take care of [12:FF03],\n"
+"so don't worry.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_1,segment:1"
+msgid ""
+"<start>[18:]...I'll track him down and\n"
+"kick him out of the network.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I've got no updates\n"
+"on [12:FF03].\n"
+"Is he playing dead or what...?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_2,segment:1"
+msgid ""
+"<start>[18:]Oh well, he'll give himself away\n"
+"eventually.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_2,segment:2"
+msgid ""
+"<start>[18:]...In the meantime,\n"
+"why don't you go find out\n"
+"about Futomimi?\n"
+"<end>"
+msgstr ""

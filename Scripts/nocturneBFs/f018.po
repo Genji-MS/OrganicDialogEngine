@@ -1,0 +1,1110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+msgctxt "type:1,entry:YN_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI01_01,segment:0"
+msgid ""
+"<start>[7:FF07]Hey... Can you hear me now?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI01_01,segment:1"
+msgid ""
+"<start>Good. Looks like you're still safe.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI01_01,segment:2"
+msgid ""
+"<start>It seems that the Link failed and\n"
+"you fell into the Amala Network.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI01_01,segment:3"
+msgid ""
+"<start>But... The Amala Network is exactly\n"
+"that: a network.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI01_01,segment:4"
+msgid ""
+"<start>If there's an entrance, there's\n"
+"always an exit.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI01_01,segment:5"
+msgid ""
+"<start>Just leave it to me. I'll get you out,\n"
+"so head toward Ginza...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI01_02,segment:0"
+msgid ""
+"<start>[7:FF07]......?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI01_02,segment:1"
+msgid ""
+"<start>Something's up...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI01_03,segment:0"
+msgid ""
+"<start>[7:FF07]Are you stuck?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI01_03_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Alright, let me try something.\n"
+"Gimme a minute.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI01_03_NO,segment:0"
+msgid ""
+"<start>[7:FF07]Okay...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI01_03_NO,segment:1"
+msgid ""
+"<start>I've got an idea. Let me try\n"
+"something...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI01_04,segment:0"
+msgid ""
+"<start>[7:FF07]I'm starting to get it...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI01_04,segment:1"
+msgid ""
+"<start>Looks like the Amala Network never\n"
+"stays the same shape.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI01_04,segment:2"
+msgid ""
+"<start>Even you would have a hard time\n"
+"getting through here...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI01_04,segment:3"
+msgid ""
+"<start>Well, if something happens, call me.\n"
+"I'll do what I can.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI02_01,segment:0"
+msgid ""
+"<start>[7:FF07]...Geez, again?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI02_01,segment:1"
+msgid ""
+"<start>Hopefully, it'll be as smooth as\n"
+"the last time...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI02_02,segment:0"
+msgid ""
+"<start>[7:FF07]......!\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI02_02,segment:1"
+msgid ""
+"<start>...H...ey......\n"
+"Ca...n...yo...hear...e?\n"
+"Say...som...ing...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI02_02,segment:2"
+msgid ""
+"<start>...Dam...it...!\n"
+"Conn...ction's...unst...ble...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SYS_BOUGAI,segment:0"
+msgid ""
+"<start>[7:FF07]> You can no longer hear\n"
+"Hijiri's voice.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:KAIDAN_ATO,segment:0"
+msgid ""
+"<start>[7:FF07]> This is where the stairs\n"
+"disappeared...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HIJIRI02_03,segment:0"
+msgid ""
+"<start>[7:FF07]> You can hear a voice...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:HIJIRI02_04,segment:0"
+msgid ""
+"<start>[7:FF07]...y...he......y...\n"
+"It...me......Hijiri.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:HIJIRI02_04,segment:1"
+msgid ""
+"<start>...Can you hear me? Answer me!\n"
+"Can you hear me now?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HIJIRI02_04_YN,segment:0"
+msgid "<start>I can hear you."
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI02_04_YN_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Good! Looks like you're in a spot\n"
+"that gets good reception.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI02_04_YN_NO,segment:0"
+msgid ""
+"<start>[7:FF07]Yeah, real funny... I know you hear\n"
+"me, kid!\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI02_05,segment:0"
+msgid ""
+"<start>[7:FF07]Alright... Let's do it this way.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI02_05,segment:1"
+msgid ""
+"<start>From now on, if anything happens,\n"
+"let's meet up in stable places like\n"
+"the one you're in right now.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI02_05,segment:2"
+msgid ""
+"<start>...Oh, yeah. You're stuck, huh?\n"
+"Just wait a...sec...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI02_06,segment:0"
+msgid ""
+"<start>[7:FF07]...Damn.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI02_06,segment:1"
+msgid ""
+"<start>Looks like...communica...ion's...\n"
+"get...ing...ba...d......he...re...too...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI02_06,segment:2"
+msgid ""
+"<start>Let...s...meet...u...p...in...\n"
+"a...nother...stab...le...plac...e...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI02_06,segment:3"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI02_06,segment:4"
+msgid ""
+"<start>......Okay...?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HIJIRI02_07,segment:0"
+msgid ""
+"<start>[7:FF07]> You cannot hear Hijiri's voice\n"
+"anymore.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HIJIRI_END,segment:0"
+msgid ""
+"<start>[7:FF07]> You hear nothing.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HIJIRI07_01,segment:0"
+msgid ""
+"<start>[7:FF07]> You can hear a voice...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI07_02,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI07_02,segment:1"
+msgid ""
+"<start>It's good to know you're alive.\n"
+"Guess you didn't become a demon\n"
+"for nothing.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI07_02,segment:2"
+msgid ""
+"<start>You couldn't go any further, huh?\n"
+"Wait up.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI07_03,segment:0"
+msgid ""
+"<start>[7:FF07]..Oh yeah, there's something you\n"
+"should know.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI07_03,segment:1"
+msgid ""
+"<start>It seems that someone's trying to\n"
+"intercept my communication with\n"
+"you.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI07_03,segment:2"
+msgid ""
+"<start>Might be an enemy. Be care...ful...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI07_04,segment:0"
+msgid ""
+"<start>[7:FF07]......Looks like...it's...get...ing...\n"
+"...un...stable...he...re...to...o......\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI07_04,segment:1"
+msgid ""
+"<start>We'll...tal...k...la...er...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HIJIRI07_05,segment:0"
+msgid ""
+"<start>[7:FF07]> Hijiri's voice died away.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HIJIRI09_01,segment:0"
+msgid ""
+"<start>[7:FF07]> You can hear a voice...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI09_02,segment:0"
+msgid ""
+"<start>[7:FF07]You're finally here...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI09_02,segment:1"
+msgid ""
+"<start>The exit is close to where you are.\n"
+"Let me open the--\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI09_03,segment:0"
+msgid ""
+"<start>[7:FF07]............!\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI09_03,segment:1"
+msgid ""
+"<start>...Dammit, something's interfering...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI09_03,segment:2"
+msgid ""
+"<start>......He...y...\n"
+"Yo...u......ok...ay...?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI09_03,segment:3"
+msgid ""
+"<start>......hear...me......\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI09_03,segment:4"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HIJIRI09_04,segment:0"
+msgid ""
+"<start>[7:FF07]> You cannot hear Hijiri's voice\n"
+"anymore.\n"
+"<end>"
+msgstr ""
+
+#. Specter
+msgctxt "type:0,entry:SPECTOR01,segment:0"
+msgid ""
+"<start>[7:FF07]...H, hEy, WhO aRe YoU?\n"
+"<end>"
+msgstr ""
+
+#. Specter
+msgctxt "type:0,entry:SPECTOR01,segment:1"
+msgid ""
+"<start>YoU snEAk aRounD...\n"
+"YOu iN the w-W-w-Way!\n"
+"<end>"
+msgstr ""
+
+#. Specter
+msgctxt "type:0,entry:SPECTOR02,segment:0"
+msgid ""
+"<start>[7:FF07]!!!!\n"
+"<end>"
+msgstr ""
+
+#. Specter
+msgctxt "type:0,entry:SPECTOR02,segment:1"
+msgid ""
+"<start>YoUuuuUuuUU!\n"
+"I kNOW, I KnoW!\n"
+"<end>"
+msgstr ""
+
+#. Specter
+msgctxt "type:0,entry:SPECTOR02,segment:2"
+msgid ""
+"<start>This MaGATsuHi hEre.\n"
+"YoU waNT yOURsElf?\n"
+"yOu kilL me, hUh!?\n"
+"<end>"
+msgstr ""
+
+#. Specter
+msgctxt "type:0,entry:SPECTOR_YES,segment:0"
+msgid ""
+"<start>[7:FF07]I sEE! I kNEw iT!!\n"
+"<end>"
+msgstr ""
+
+#. Specter
+msgctxt "type:0,entry:SPECTOR_YES,segment:1"
+msgid ""
+"<start>Me fIx PrObLem...\n"
+"<end>"
+msgstr ""
+
+#. Specter
+msgctxt "type:0,entry:SPECTOR_YES,segment:2"
+msgid ""
+"<start>Me eAT yOU! aNd MaGaTSuhi ToO!\n"
+"Me EaT YOu, tOooOooOoO!!\n"
+"<end>"
+msgstr ""
+
+#. Specter
+msgctxt "type:0,entry:SPECTOR_NO,segment:0"
+msgid ""
+"<start>[7:FF07]......nO. YoU aRe LyiNg.\n"
+"Me woN'T Be fOoLED!\n"
+"<end>"
+msgstr ""
+
+#. Specter
+msgctxt "type:0,entry:SPECTOR_NO,segment:1"
+msgid ""
+"<start>YoU won'T pASS heRE.\n"
+"Me WOn't LeT yOU.\n"
+"<end>"
+msgstr ""
+
+#. Specter
+msgctxt "type:0,entry:SPECTOR_NO,segment:2"
+msgid ""
+"<start>G-G-GeT OUt oF HErE!!\n"
+"<end>"
+msgstr ""
+
+#. Specter
+msgctxt "type:0,entry:SPECTOR03,segment:0"
+msgid ""
+"<start>[7:FF07]......OWww...\n"
+"...UgH, aHhhH......\n"
+"<end>"
+msgstr ""
+
+#. Specter
+msgctxt "type:0,entry:SPECTOR03,segment:1"
+msgid ""
+"<start>...YoU......\n"
+"I eAt yOU oNE dAy......\n"
+"Me...ErGh...sWeAr IT......\n"
+"<end>"
+msgstr ""
+
+#. Specter
+msgctxt "type:0,entry:SPECTOR03,segment:2"
+msgid ""
+"<start>Me nO foRGEt yoUr uGLy FaCe!\n"
+"<end>"
+msgstr ""
+
+#. Specter
+msgctxt "type:0,entry:SPECTOR04,segment:0"
+msgid ""
+"<start>[7:FF07]YOUUuuuuUUU!\n"
+"<end>"
+msgstr ""
+
+#. Specter
+msgctxt "type:0,entry:SPECTOR04,segment:1"
+msgid ""
+"<start>YoU waNT yOURsElf!!\n"
+"This MaGATsuHi hEre.\n"
+"yOu ThInK kiLL me, Eh!?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI09_05,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI09_05,segment:1"
+msgid ""
+"<start>......Alright...\n"
+"It looks like...everything's\n"
+"stabilizing.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI09_05,segment:2"
+msgid ""
+"<start>Hey, [12:FF01], you okay?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI09_05_YES,segment:0"
+msgid ""
+"<start>[7:FF07]I see... You're getting used to being\n"
+"a demon, aren't ya?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI09_05_YES,segment:1"
+msgid ""
+"<start>I'll open the door. Hang on.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI09_05_NO,segment:0"
+msgid ""
+"<start>[7:FF07]Alright, I'll do the best I can to\n"
+"get you outta there.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI09_06,segment:0"
+msgid ""
+"<start>[7:FF07]If you go through the path I opened,\n"
+"you should reach [2:FF02]Ginza[2:FF01] safely.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI09_07,segment:0"
+msgid ""
+"<start>[7:FF07]You did take a slight detour, but\n"
+"at least you're there.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI09_07,segment:1"
+msgid ""
+"<start>Nice work. Now, let's hurry on.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HIJIRI09_08,segment:0"
+msgid ""
+"<start>[7:FF07]> You cannot hear Hijiri's voice\n"
+"anymore.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EXIT_NG,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a wall...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EXITWARP,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you leave the area?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EXITWARP_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a Mystical Chest.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HOSEKI_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Mystical Chest.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA,segment:0"
+msgid ""
+"<start>[7:FF07]> You see a Cache Cube.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAKARA_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Cache Cube.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_STILLGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DH_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"the Magatama [2:FF05][3:FF01][2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_MAKA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01] Macca[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:0"
+msgid ""
+"<start>[7:FF07]> It's a trap.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:1"
+msgid ""
+"<start>> Your party took damage.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_KARAGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:0"
+msgid ""
+"<start>[7:FF07]> [3:FF03] found something.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:1"
+msgid ""
+"<start>[7:FF07]............\n"
+"> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_OPENERROR,segment:0"
+msgid ""
+"<start>[7:FF07]> It can't be used here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_LIGHTMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The light effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_ESTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The repel effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REBERAMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The attract effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REFUTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The levitation effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:WARP_ELV_MSG,segment:0"
+msgid ""
+"<start>[7:FF07]> Select a floor.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL1,segment:0"
+msgid "<start>[3:FF01][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL2,segment:0"
+msgid "<start>[3:FF02][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL3,segment:0"
+msgid "<start>[3:FF03][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL4,segment:0"
+msgid "<start>[3:FF04][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL5,segment:0"
+msgid "<start>[3:FF05][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL6,segment:0"
+msgid "<start>[3:FF06][80EA]"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_KAIFUKU_01,segment:0"
+msgid ""
+"<start>[7:FF07]What...? Get lost!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_KAIFUKU_01,segment:1"
+msgid ""
+"<start>I don't wanna talk to anyone.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_KAIFUKU_01,segment:2"
+msgid ""
+"<start>I'll heal you if you just go away.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F018_KAIFUKU_02,segment:0"
+msgid ""
+"<start>[7:FF07]> ............\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F018_KAIFUKU_02,segment:1"
+msgid ""
+"<start>> The soul healed you.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_KAIFUKU_03,segment:0"
+msgid ""
+"<start>I'll heal you anytime. Just don't\n"
+"bug me.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F018_GIMIC,segment:0"
+msgid ""
+"<start>[7:FF07]> This is where the stairs were.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN01,segment:0"
+msgid ""
+"<start>[7:FF07]...What do you want? I'm not looking\n"
+"for someone to talk to.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN01,segment:1"
+msgid ""
+"<start>If you really want to talk, there's\n"
+"a place where you can talk to\n"
+"the outside world...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN01,segment:2"
+msgid ""
+"<start>...So talk all you want there.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN02_01,segment:0"
+msgid ""
+"<start>[7:FF07]If I were you, I'd go right for sure.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN02_01,segment:1"
+msgid ""
+"<start>Oops!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN02_01,segment:2"
+msgid ""
+"<start>I should learn to keep my mouth\n"
+"shut...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN02_02,segment:0"
+msgid ""
+"<start>[7:FF07]Er, left! I meant left!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN03,segment:0"
+msgid ""
+"<start>[7:FF07]You're not from around here,\n"
+"are you?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN03,segment:1"
+msgid ""
+"<start>Then, let me warn you...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN03,segment:2"
+msgid ""
+"<start>If you don't have a map, you'll get\n"
+"lost.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:YESNO_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN04_01,segment:0"
+msgid ""
+"<start>[7:FF07]You want me to tell you something\n"
+"good?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN04_NO,segment:0"
+msgid ""
+"<start>[7:FF07]I see... Guess I'm too nosy.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN04_YES,segment:0"
+msgid ""
+"<start>[7:FF07]You see the red things running\n"
+"along the walls and roof?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN04_YES,segment:1"
+msgid ""
+"<start>That's all Magatsuhi.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN04_YES,segment:2"
+msgid ""
+"<start>Magatsuhi is born from the flow of\n"
+"emotions, such as suffering, anxiety,\n"
+"and sadness...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN04_YES,segment:3"
+msgid ""
+"<start>That's right. Emotions bring forth\n"
+"great powers.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN05,segment:0"
+msgid ""
+"<start>[7:FF07]There's an enormous amount of\n"
+"Magatsuhi in the Amala Network.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN05,segment:1"
+msgid ""
+"<start>So, there are demons that jump in\n"
+"here, looking for Magatsuhi.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN05,segment:2"
+msgid ""
+"<start>Be careful not to be picked on.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN06_01,segment:0"
+msgid ""
+"<start>[7:FF07]Just a while back, this used to be\n"
+"connected to the Ginza terminal.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN06_01,segment:1"
+msgid ""
+"<start>But... the network is in a bad mood,\n"
+"as you can see.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN06_02,segment:0"
+msgid ""
+"<start>[7:FF07]*whistle*\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN06_02,segment:1"
+msgid ""
+"<start>The wall just went POOF! and\n"
+"disappeared.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN06_02,segment:2"
+msgid ""
+"<start>So, now it's connected to\n"
+"the Ginza terminal, but...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_SINEN06_02,segment:3"
+msgid ""
+"<start>...I wish you were here to see it\n"
+"happen.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_KAIFUKU_04,segment:0"
+msgid ""
+"<start>[7:FF07]What? Go away...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_KAIFUKU_04,segment:1"
+msgid ""
+"<start>I don't want to involve myself with\n"
+"anyone or anything!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_KAIFUKU_04,segment:2"
+msgid ""
+"<start>I'll heal you. Just get outta my face.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F018_KAIFUKU_05,segment:0"
+msgid ""
+"<start>[7:FF07]> ............\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F018_KAIFUKU_05,segment:1"
+msgid ""
+"<start>> You have been healed.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F018_KAIFUKU_06,segment:0"
+msgid ""
+"<start>I'll heal you anytime, so leave me\n"
+"alone.\n"
+"<end>"
+msgstr ""

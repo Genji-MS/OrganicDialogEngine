@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Dante
+msgctxt "type:0,entry:MSG_010_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Hey, kid.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_010_1,segment:1"
+msgid ""
+"<start>[18:]I had a feeling that\n"
+"I'd see you again.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_010_2,segment:0"
+msgid ""
+"<start>[7:FF07]And I was right...\n"
+"Looks like I hit the jackpot.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_010_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I'm not here to explain\n"
+"all the details,\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_010_3,segment:1"
+msgid ""
+"<start>[18:]but I bet you've already got\n"
+"some idea.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_010_3,segment:2"
+msgid ""
+"<start>[18:]That old geezer intends for\n"
+"the Fiends to kill each other off...\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_010_3,segment:3"
+msgid ""
+"<start>[18:]Why? Who knows...?\n"
+"But, you're not dumb enough\n"
+"to play into his hand, are you?\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_010_3C,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Then, get out of here.\n"
+"...And don't look back.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_010_3C,segment:1"
+msgid ""
+"<start>[18:]That's your only option.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_010_3C,segment:2"
+msgid ""
+"<start>[18:]...Am I right, kid?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:KAIWA_SEL,segment:0"
+msgid "<start>Yeah..."
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_010_3D,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Hm, I'm surprised that you'd agree.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_010_3D,segment:1"
+msgid ""
+"<start>[18:]...It's no playground around here.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_010_3D,segment:2"
+msgid ""
+"<start>[18:]Take my advice and lay low.\n"
+"Otherwise...\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_010_3B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]*sigh* You're asking for it, kid.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_010_3B2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Okay. Take one step beyond\n"
+"this point, and...\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_010_4,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Bang! ...Got it?\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_010_4B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Let's rock!\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_010_5,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Playtime's over. Now...\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_010_5B,segment:0"
+msgid ""
+"<start>[7:FF06][18:]Let's rock!\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_010_5C,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Now, turn around and go home.\n"
+"<end>"
+msgstr ""

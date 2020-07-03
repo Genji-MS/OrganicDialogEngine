@@ -1,0 +1,386 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_SITUMON_001,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Oh... I wasn't expecting you,\n"
+"[12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_SITUMON_001,segment:1"
+msgid ""
+"<start>[18:]My master is resting right now.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_SITUMON_001,segment:2"
+msgid ""
+"<start>[18:]If you're here for information,\n"
+"I'd be glad to help you.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_SITUMON_MODORI,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Is there anything else you want\n"
+"to ask about, [12:FF01]?\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_SITUMON_002,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Alright.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_SITUMON_002,segment:1"
+msgid ""
+"<start>[18:]I'll try to help you as much as I can.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_SITUMON_002,segment:2"
+msgid ""
+"<start>[18:]So, what is it that you'd like\n"
+"to know about?\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_SITUMON_003,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Then, you should get going.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_SITUMON_003,segment:1"
+msgid ""
+"<start>[18:]I look forward to seeing you again...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:KAIWA_SEL,segment:0"
+msgid "<start>I want to ask you about something."
+msgstr ""
+
+msgctxt "type:1,entry:KAIWA_SEL2,segment:0"
+msgid "<start>The Vortex World"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_SITUMON_004,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Okay...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_SITUMON_004,segment:1"
+msgid ""
+"<start>[18:]Listen closely.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_SITUMON_005,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Then, you should get going.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_SITUMON_005,segment:1"
+msgid ""
+"<start>[18:]I look forward to seeing you again...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I see that your quest for\n"
+"the candelabra is going well.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001,segment:1"
+msgid ""
+"<start>[18:]Those that stole the candelabra\n"
+"are unique and powerful demons...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001,segment:2"
+msgid ""
+"<start>[18:]They are [2:FF02]Fiends[2:FF01],\n"
+"manifestations of death.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Now that I think about it,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002,segment:1"
+msgid ""
+"<start>[18:]this all started because of one man\n"
+"who caused the Conception in\n"
+"the previous world.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07][18:]The Conception... Because of it,\n"
+"the Vortex World was born.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:1"
+msgid ""
+"<start>[18:]Kagutsuchi is the source of light\n"
+"and power for this world.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:2"
+msgid ""
+"<start>[18:]You who once lived as a human\n"
+"must be wandering this world\n"
+"without any understanding.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:3"
+msgid ""
+"<start>[18:]To show my appreciation,\n"
+"I would like to share with you\n"
+"my knowledge of the Vortex World\n"
+"and Kagutsuchi.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF07]Kagutsuchi... It is the light\n"
+"whose sole purpose is to empower\n"
+"the one who will oversee creation.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004B,segment:0"
+msgid ""
+"<start>[7:FF07]Creation is the act of bringing\n"
+"a new world into existence,\n"
+"made possible by the annihilation\n"
+"of the old world.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005,segment:0"
+msgid ""
+"<start>[7:FF07]Kagutsuchi will allow a life form\n"
+"of its choosing to determine\n"
+"the course of the new world.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005,segment:1"
+msgid ""
+"<start>There must be those in Tokyo who\n"
+"yearn to be chosen by Kagutsuchi,\n"
+"in order to realize their vision.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005B,segment:0"
+msgid ""
+"<start>[7:FF07]The shape of the world to come\n"
+"depends on who is chosen,\n"
+"and what their Reason is.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_006,segment:0"
+msgid ""
+"<start>[7:FF07]In the vast Amala Universe,\n"
+"this Vortex World is not the only\n"
+"place where creation occurs.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_006,segment:1"
+msgid ""
+"<start>Kagutsuchi rises, matures,\n"
+"and falls in countless other places.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_007,segment:0"
+msgid ""
+"<start>[7:FF07]There are millions--no, billions\n"
+"of worlds that you are unaware of,\n"
+"and they all experience the cycle\n"
+"of death and rebirth.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_007,segment:1"
+msgid ""
+"<start>That is the way of Amala,\n"
+"as determined by the Great Will.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_111,segment:0"
+msgid ""
+"<start>[7:FF07]With my master, I have watched how\n"
+"myriads of worlds came into being,\n"
+"how life prospered in those worlds,\n"
+"and how they fell to ruin...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_111,segment:1"
+msgid ""
+"<start>...all that time, seeking the answer\n"
+"to the unanswerable question,\n"
+"\"Why is a world reborn?\"\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_222,segment:0"
+msgid ""
+"<start>[7:FF07][18:]But now...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_222,segment:1"
+msgid ""
+"<start>[18:]We may be on the verge of finding\n"
+"the answer...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_222,segment:2"
+msgid ""
+"<start>...and it is your actions which hold\n"
+"the key.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_223,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Please retrieve the remaining\n"
+"candelabra as soon as possible,\n"
+"and then come see my master.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_223,segment:1"
+msgid ""
+"<start>[18:]My master has high hopes for you.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_223,segment:2"
+msgid ""
+"<start>[18:]The fallen angel has bestowed upon\n"
+"you great strength. Do not lose your\n"
+"life and let this gift be in vain.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_MENORA,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Hello, [12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_MENORA,segment:1"
+msgid ""
+"<start>[18:]My master is resting right now.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_MENORA,segment:2"
+msgid ""
+"<start>[18:]...I want you to know that I'm\n"
+"always thinking about you.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_MENORA,segment:3"
+msgid ""
+"<start>[18:]The Fiends possess strength\n"
+"beyond compare...\n"
+"But, I have confidence in you.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_MENORA,segment:4"
+msgid ""
+"<start>[18:][12:FF01],\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_MENORA,segment:5"
+msgid ""
+"<start>[18:]I know that you'll return all\n"
+"the candelabra to the Labyrinth\n"
+"of Amala.\n"
+"<end>"
+msgstr ""

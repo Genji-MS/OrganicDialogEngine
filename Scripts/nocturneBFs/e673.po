@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[
+msgctxt "type:0,entry:MSG_010_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Thanks for getting rid of him.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_1_R,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I'm impressed that he didn't die\n"
+"like a mud doll.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_1_R,segment:1"
+msgid ""
+"<start>[18:]But, he won't get in my way again.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]He had so much Magatsuhi\n"
+"stored here. Funny...\n"
+"Did he think that a mud doll\n"
+"could conceive a Reason?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...No, it was meant for me...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_1,segment:1"
+msgid ""
+"<start>[18:]This Magatsuhi will allow me\n"
+"to affirm my Reason...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:][2:FF03]The god who once died[2:FF01]\n"
+""
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:][2:FF03]is returning to us now...[2:FF01]\n"
+""
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:][2:FF03]Let us lay the sacred cloth[2:FF01]\n"
+""
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_4,segment:0"
+msgid ""
+"<start>[7:FF07][18:][2:FF03]across the coffin[2:FF01]\n"
+""
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_5,segment:0"
+msgid ""
+"<start>[7:FF07][18:][2:FF03]so the soul will never[2:FF01]\n"
+""
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_6,segment:0"
+msgid ""
+"<start>[7:FF07][18:][2:FF03]leave us again.[2:FF01]\n"
+""
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:MSG_070_1,segment:0"
+msgid ""
+"<start>[7:FF07]By this woman's wish,\n"
+"I have come to create\n"
+"the kingdom of Yosuga...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:MSG_070_1,segment:1"
+msgid ""
+"<start>[7:FF07]I am Baal Avatar,\n"
+"paragon of virtue and might,\n"
+"bringer of glory.\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_070_2,segment:0"
+msgid ""
+"<start>[7:FF07]I see the awakening\n"
+"of opposing forces...\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_070_2,segment:1"
+msgid ""
+"<start>One has already emerged\n"
+"in Sannou,\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_070_2,segment:2"
+msgid ""
+"<start>and another is about to rise\n"
+"in Ginza at this very moment!\n"
+"<end>"
+msgstr ""
+
+#. Baal Avatar
+msgctxt "type:0,entry:MSG_080_1,segment:0"
+msgid ""
+"<start>[7:FF07]I, too, shall endeavor to build\n"
+"a kingdom of beauty...\n"
+"<end>"
+msgstr ""

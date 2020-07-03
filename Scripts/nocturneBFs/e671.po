@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[
+msgctxt "type:0,entry:MSG_010_1,segment:0"
+msgid ""
+"<start>[7:FF07]Perfect.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_1,segment:1"
+msgid ""
+"<start>With this much Magatsuhi,\n"
+"there won't be any problem.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07]My god will emerge from\n"
+"the infinite space beyond\n"
+"the Amala Network.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:1"
+msgid ""
+"<start>[18:]He is outside of\n"
+"the flow of time,\n"
+"a being without a name...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:2"
+msgid ""
+"<start>[18:]He is the god of absolute solitude.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:3"
+msgid ""
+"<start>[18:]...But, it might be inconvenient\n"
+"for him to remain nameless.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:4"
+msgid ""
+"<start>[18:]Let's see, a drifting god...\n"
+"How about [2:FF02]Noah[2:FF01]?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:5"
+msgid ""
+"<start>[18:]Come forth, Noah...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_030_0,segment:0"
+msgid ""
+"<start>[7:FF07]> The voice of [12:FF03]\n"
+"can be heard...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_1,segment:0"
+msgid ""
+"<start>[7:FF07]What do you think of my god,\n"
+"[12:FF01]? Awesome, huh?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_1,segment:1"
+msgid ""
+"<start>The world of Musubi will soon\n"
+"be here...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_1,segment:2"
+msgid ""
+"<start>No longer will people be able to\n"
+"interfere with each other's lives.\n"
+"Everyone will be happy...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_2,segment:0"
+msgid ""
+"<start>[7:FF07]True independence will soon be\n"
+"a reality.\n"
+"<end>"
+msgstr ""

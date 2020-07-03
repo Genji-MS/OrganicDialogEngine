@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07]Oh, it's you...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_001,segment:1"
+msgid ""
+"<start>...What a surprise.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF07][18:]It's been a while since we last met,\n"
+"young man...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_002,segment:1"
+msgid ""
+"<start>[18:]Or should I say, \"Demi-fiend\"?\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_002,segment:2"
+msgid ""
+"<start>[18:]Frankly, it never crossed my mind\n"
+"before...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_002,segment:3"
+msgid ""
+"<start>[18:]But, it seems we were destined\n"
+"to meet again.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07]I accumulated enough Magatsuhi\n"
+"for creation when I destroyed\n"
+"the Mantra.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_003,segment:1"
+msgid ""
+"<start>[18:]That's why I didn't stop you\n"
+"from going to the Obelisk.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_003,segment:2"
+msgid ""
+"<start>[18:]I also wanted to verify that\n"
+"you were truly the Demi-fiend.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_003,segment:3"
+msgid ""
+"<start>[18:]However, not only did you defeat\n"
+"my subordinates,\n"
+"but you single-handedly set\n"
+"the Maiden free.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_003,segment:4"
+msgid ""
+"<start>[18:]The strength of the Demi-fiend,\n"
+"as written in the Scripture\n"
+"of Miroku...\n"
+"It was beyond my expectations.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_003,segment:5"
+msgid ""
+"<start>[18:]You might be able to aid me\n"
+"in delivering Shijima to the world...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...A man's greed is like fire.\n"
+"While it is small, it is warm\n"
+"and comfortable.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_005,segment:0"
+msgid ""
+"<start>[7:FF07][18:]But, fire eventually grows\n"
+"into flames, devouring everything\n"
+"in its path.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_005B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Mankind grew to covet fire.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_005B,segment:1"
+msgid ""
+"<start>[18:]Humans became dependent on\n"
+"its warmth, and averted their eyes\n"
+"from its destructive nature.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_006,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Humans should serve the world.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_006,segment:1"
+msgid ""
+"<start>[18:]By doing so, a life of repose\n"
+"would in turn be promised to them.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_007,segment:0"
+msgid ""
+"<start>[7:FF07][18:]What is desirable,\n"
+"what is undesirable...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_007,segment:1"
+msgid ""
+"<start>[18:]It is not man that makes\n"
+"the distinction...\n"
+"It is the world.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_007,segment:2"
+msgid ""
+"<start>[18:]Humans should be beacons\n"
+"that light the world.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_008,segment:0"
+msgid ""
+"<start>[7:FF07][18:]The light spins quietly--\n"
+"sometimes bright, sometimes dim--\n"
+"becoming one with the world.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_008,segment:1"
+msgid ""
+"<start>[18:]That is the ideal way of life.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_009,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Don't you agree,\n"
+"that the world should be ruled\n"
+"by serenity...?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TUIKA_TOI01,segment:0"
+msgid "<start>Yes, it should."
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_009_A,segment:0"
+msgid ""
+"<start>[7:FF07][18:]So, you understand the greatness\n"
+"of Shijima?\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_009_A,segment:1"
+msgid ""
+"<start>[18:]...You are on a different level\n"
+"than the masses, as I suspected.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_009_A,segment:2"
+msgid ""
+"<start>[18:]I will ask for your assistance\n"
+"when the time comes.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_009_B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...So, you are a mere demon\n"
+"after all.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_009_B,segment:1"
+msgid ""
+"<start>[18:]I was wrong to think that you would\n"
+"understand my ideal.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_009_C,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...It is now time for us to part.\n"
+"[18:]<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_009_C,segment:1"
+msgid ""
+"<start>I will not feel at ease until\n"
+"all this is over.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_009_C,segment:2"
+msgid ""
+"<start>Do you not sense something wicked\n"
+"in the air?\n"
+"[18:]<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_009_C,segment:3"
+msgid ""
+"<start>Someone is scheming to ignite\n"
+"the ember that still glows within\n"
+"the remains of Gozu-Tennoh.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_010,segment:0"
+msgid ""
+"<start>[7:FF07]I must not falter while others\n"
+"strive to establish their foolish\n"
+"Reasons...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_010,segment:1"
+msgid ""
+"<start>It is I who will create\n"
+"the new world!\n"
+"<end>"
+msgstr ""

@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_001,segment:0"
+msgid ""
+"<start>[7:FF07]...A world that loses its power will\n"
+"fade away into nothingness.\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_001,segment:1"
+msgid ""
+"<start>If such is the fate of this world,\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_001,segment:2"
+msgid ""
+"<start>then I shall return it to its mother's\n"
+"womb.\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_002,segment:0"
+msgid ""
+"<start>[7:FF07]The world must first die,\n"
+"for it to be born again...\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_003,segment:0"
+msgid ""
+"<start>[7:FF07]...That is the only way to salvation,\n"
+"as recorded in an ancient prophecy.\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_004,segment:0"
+msgid ""
+"<start>[7:FF07]The world will fall for its sins,\n"
+"and humans will all disappear...\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_004,segment:1"
+msgid ""
+"<start>But, I don't want you to meet\n"
+"the same fate.\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_004,segment:2"
+msgid ""
+"<start>I want to help you hold on to\n"
+"your life.\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_004_1,segment:0"
+msgid ""
+"<start>[7:FF07]To do so, I need to know your\n"
+"name.\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_004_1,segment:1"
+msgid ""
+"<start>Will you tell me who you are...?\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_005,segment:0"
+msgid ""
+"<start>[7:FF07]......\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_005,segment:1"
+msgid ""
+"<start>I see, so your name is\n"
+"[12:FF01] [11:FF01]...\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_005,segment:2"
+msgid ""
+"<start>As of now, your will to live shall be\n"
+"sustained.\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_005,segment:3"
+msgid ""
+"<start>Believe in it... and live.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:KAIWA_SEL,segment:0"
+msgid "<start>I will."
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_006,segment:0"
+msgid ""
+"<start>[7:FF07]I'm glad that you understand.\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_006,segment:1"
+msgid ""
+"<start>The time is near...\n"
+"It will take place very soon.\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_007,segment:0"
+msgid ""
+"<start>[7:FF07]You may not understand right now...\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_007,segment:1"
+msgid ""
+"<start>...but please don't forget what\n"
+"you've heard here...\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_008,segment:0"
+msgid ""
+"<start>[7:FF07]I am the nurturer of the next world.\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_008,segment:1"
+msgid ""
+"<start>It is my duty to create the world\n"
+"that is to come...\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_008,segment:2"
+msgid ""
+"<start>Now, I want you to say my name\n"
+"out loud.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:YUUKO_009,segment:0"
+msgid ""
+"<start>[7:FF07]That's right... My name is\n"
+"[12:FF02] [11:FF02].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:YUUKO_009,segment:1"
+msgid ""
+"<start>...[12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:YUUKO_009,segment:2"
+msgid ""
+"<start>I won't shed another tear,\n"
+"not even at the world's end.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:YUUKO_009,segment:3"
+msgid ""
+"<start>I'd like to see you in the next world,\n"
+"though...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:YUUKO_010,segment:0"
+msgid ""
+"<start>[7:FF07]Go ahead and wake up. It's time...\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_003_2SYUUME,segment:0"
+msgid ""
+"<start>[7:FF07]In what persona will you walk\n"
+"your path?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:KAIWA_SEL2,segment:0"
+msgid "<start>Hooded jacket."
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:HUKU_KYUU,segment:0"
+msgid ""
+"<start>[7:FF07]You prefer a new look, then?\n"
+"I'm sure you'll like it.\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:HUKU_SIN,segment:0"
+msgid ""
+"<start>[7:FF07]You want to stay the same as\n"
+"before? There's nothing wrong\n"
+"with that.\n"
+"<end>"
+msgstr ""

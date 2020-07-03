@@ -1,0 +1,29 @@
+֚ ܢ ܢ ܢ ܢ ܢ ܢ ܢࣨԷ₡ ः ᢨNMaki
+I can hear voices... It sounds like
+someone's talking inside.
+ᢨNStern voice
+I'm sorry, Mr. Kandori... The woman
+escaped.
+ᢨNSuspicious voice
+That was a mistake, Takeda. Well... leave
+her be. There's nowhere for her to go.
+ᢨNSuspicious voice
+It's more important that the scientists
+finish the Deva System's adjustments.
+ ᢨNStern voice
+Yes, Sir.
+ ᢨNNanjo
+He's definitely in there... Are you
+ready, <FirstName>?
+ ᢨNTakeda's voice
+I'm sorry, Mr. Kandori... The woman
+escaped.
+ ᢨNKandori's voice
+That was a mistake, Takeda. Well... leave
+her be. There's nowhere for her to go.
+ᢨNKandori's voice
+It's more important that the scientists
+finish the Deva System's adjustments.
+ ᢨNTakeda's voice
+Yes, Sir.
+        ے ے 

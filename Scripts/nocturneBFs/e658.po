@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Sakahagi
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]It's nice to have visitors,\n"
+"but this is ridiculous...\n"
+"<end>"
+msgstr ""
+
+#. Sakahagi
+msgctxt "type:0,entry:MSG_020_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You too, huh?\n"
+"You should've thought twice\n"
+"before coming here.\n"
+"<end>"
+msgstr ""
+
+#. Sakahagi
+msgctxt "type:0,entry:MSG_020_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]They all come for Magatsuhi,\n"
+"but then they find out that\n"
+"it's already mine.\n"
+"<end>"
+msgstr ""
+
+#. Sakahagi
+msgctxt "type:0,entry:MSG_020_4,segment:0"
+msgid ""
+"<start>[7:FF07][18:]There was a girl who showed up\n"
+"not long before you.\n"
+"<end>"
+msgstr ""
+
+#. Sakahagi
+msgctxt "type:0,entry:MSG_020_5,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Yeah, I taught her a lesson...\n"
+"a painful one. Hehehe...\n"
+"<end>"
+msgstr ""
+
+#. Sakahagi
+msgctxt "type:0,entry:MSG_020_6,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Didn't I tell you before?\n"
+"I won't be used by demons.\n"
+"<end>"
+msgstr ""
+
+#. Sakahagi
+msgctxt "type:0,entry:MSG_020_7,segment:0"
+msgid ""
+"<start>[7:FF07][18:]With all my Magatsuhi,\n"
+"I'll be the one using them.\n"
+"<end>"
+msgstr ""
+
+#. Sakahagi
+msgctxt "type:0,entry:MSG_020_8,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Not just any demons...\n"
+"Even the strong ones.\n"
+"<end>"
+msgstr ""
+
+#. Sakahagi
+msgctxt "type:0,entry:MSG_030_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]That skin of yours will make\n"
+"a nice coat!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_050_1,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained the [2:FF02]Yahirono Himorogi[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_050_1,segment:1"
+msgid ""
+"<start>> However, the power of Magatsuhi\n"
+"seemed to be absent from it...\n"
+"<end>"
+msgstr ""

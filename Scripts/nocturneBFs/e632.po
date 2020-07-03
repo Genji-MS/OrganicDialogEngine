@@ -1,0 +1,347 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07]*sigh* Thank god it's just you.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_1,segment:1"
+msgid ""
+"<start>[18:]I thought I was ambushed.\n"
+"Don't scare me like that!\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_1,segment:0"
+msgid ""
+"<start>[7:FF07]...Well, you look like you're alright.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_1,segment:1"
+msgid ""
+"<start>[18:]I'm sorry about what happened\n"
+"last time. Yeah, I screwed up...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_1,segment:2"
+msgid ""
+"<start>[18:]But, it worked out for the best.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_1,segment:3"
+msgid ""
+"<start>[18:]I had no idea they had a base\n"
+"this big...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_1,segment:4"
+msgid ""
+"<start>[18:]If I had used that thing correctly,\n"
+"you would have been here\n"
+"all by yourself.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...I have some idea what's going on.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_3,segment:1"
+msgid ""
+"<start>[18:]Mantra launched their assault\n"
+"at just the right time.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_3,segment:2"
+msgid ""
+"<start>[18:]Thanks to them,\n"
+"my arrival went unnoticed.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_3,segment:3"
+msgid ""
+"<start>......\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_3,segment:4"
+msgid ""
+"<start>[18:]Hey, this might sound crazy, but...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_3,segment:5"
+msgid ""
+"<start>[18:]Did you join the Mantra?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MSG_030_2,segment:0"
+msgid "<start>Yeah, I did."
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...I see.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_1,segment:1"
+msgid ""
+"<start>[18:]Well, it's your decision,\n"
+"so I won't say anything...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Oh, so it's just a rumor.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_2,segment:1"
+msgid ""
+"<start>[18:]You seem so much stronger,\n"
+"I thought it might be true.\n"
+"...Oh well.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_1,segment:0"
+msgid ""
+"<start>[7:FF07]This entire room is a facility\n"
+"for collecting Magatsuhi.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_1,segment:1"
+msgid ""
+"<start>[18:]We're at the center of that big hole\n"
+"you see from outside.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_070_1,segment:0"
+msgid ""
+"<start>[7:FF07]It was destroyed during the assault,\n"
+"and now it's completely shut down.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_070_1,segment:1"
+msgid ""
+"<start>[18:]But, this place was filled\n"
+"with tons of Magatsuhi\n"
+"just a moment ago.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_080_1,segment:0"
+msgid ""
+"<start>[7:FF07]Those Mantra guys beat the hell\n"
+"outta this place.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_080_1,segment:1"
+msgid ""
+"<start>[18:]I don't blame them...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_080_1,segment:2"
+msgid ""
+"<start>[18:]Anybody would assume that this is\n"
+"the core of Nihilo.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_090_1,segment:0"
+msgid ""
+"<start>[7:FF07]They just left here, acting like\n"
+"they ruled the world...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_090_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...not realizing that Hikawa\n"
+"fooled them.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_100_1,segment:0"
+msgid ""
+"<start>[7:FF07]I wouldn't have known either,\n"
+"if I didn't use the Amala Network\n"
+"to get here.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_100_1,segment:1"
+msgid ""
+"<start>[18:]...The flow of Magatsuhi seems\n"
+"a little strange.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_100_1,segment:2"
+msgid ""
+"<start>[18:]It's cleverly disguised,\n"
+"but this is just bait.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_100_1,segment:3"
+msgid ""
+"<start>[18:]The real core must be located\n"
+"somewhere else inside the base.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_100_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...And that's where Hikawa will be.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_110_1,segment:0"
+msgid ""
+"<start>[7:FF07]Damn it, I better not stick around\n"
+"much longer...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_120_1,segment:0"
+msgid ""
+"<start>[7:FF07]The commotion caused by\n"
+"the Mantra has pretty much\n"
+"died down.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_120_1,segment:1"
+msgid ""
+"<start>[18:]It'll be even more dangerous now.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_120_1,segment:2"
+msgid ""
+"<start>[18:]I wanted to meet Hikawa in person,\n"
+"but...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_120_1,segment:3"
+msgid ""
+"<start>[18:]I'm not gonna fool myself.\n"
+"I know I won't survive that long.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_120_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]On your way here, did you see\n"
+"a corridor that you couldn't enter,\n"
+"one that was spinning?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_120_2,segment:1"
+msgid ""
+"<start>[18:]I deactivated it,\n"
+"so you should be able to\n"
+"go through it now.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_120_2,segment:2"
+msgid ""
+"<start>[18:]That's about all the help I can offer.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_120_2,segment:3"
+msgid ""
+"<start>[18:]...It's up to you to decide\n"
+"how to deal with Hikawa.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_120_2,segment:4"
+msgid ""
+"<start>[18:]You've come this far...\n"
+"If you turn back now,\n"
+"you'll regret it, right?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_120_2,segment:5"
+msgid ""
+"<start>[18:]Alright then... See ya.\n"
+"<end>"
+msgstr ""

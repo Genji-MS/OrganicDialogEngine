@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07]...How should I act\n"
+"at a time like this? \n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_001,segment:1"
+msgid ""
+"<start>[18:]...Should I be happy?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_001_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Like, \"I'm glad we're both okay.\"?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_001_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]It's you, [12:FF01], right?\n"
+"...I can tell.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Don't worry...\n"
+"Nothing phases me anymore.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_002_001,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I realized...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_002B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]No matter how much I cry or shout,\n"
+"this nightmare won't end.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_002B_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I'm... a little tired.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07][12:FF01]...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_003,segment:1"
+msgid ""
+"<start>[18:]Do you know what happened\n"
+"to the world?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TIAKI_001,segment:0"
+msgid "<start>The Conception occurred."
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_004_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]The Conception?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_004_1,segment:1"
+msgid ""
+"<start>[18:]You mean...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_004_1_A,segment:0"
+msgid ""
+"<start>[18:]What was written in that magazine\n"
+"actually happened?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_004_1_B,segment:0"
+msgid ""
+"<start>[7:FF07]......\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_004_1_C,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...I see.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_004_1_C,segment:1"
+msgid ""
+"<start>[18:]...I feel sick to my stomach.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_004_W1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...I see.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_004_W2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I fell unconscious at the hospital,\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_004_W3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...and when I woke up,\n"
+"there were demons everywhere.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_004_W3,segment:1"
+msgid ""
+"<start>[18:]No one was around,\n"
+"and my cell phone didn't work.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_004_B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]So, I ran outside for help, but...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_004_B_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...it wasn't just the hospital\n"
+"that had changed.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_005,segment:0"
+msgid ""
+"<start>[7:FF07]You saw how it was out there, right?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_005,segment:1"
+msgid ""
+"<start>[18:]I couldn't even tell where my house\n"
+"used to be...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_005,segment:2"
+msgid ""
+"<start>[18:]I seriously thought that I was\n"
+"the only person still alive.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_005,segment:3"
+msgid ""
+"<start>[18:]...I'm so glad to see you,\n"
+"[12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_005,segment:4"
+msgid ""
+"<start>[18:]Maybe... there's still hope.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_006_1,segment:0"
+msgid ""
+"<start>[7:FF07]There's got to be other survivors,\n"
+"don't you think?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_006_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Ms. [11:FF02]\n"
+"and [12:FF03]\n"
+"might be around somewhere, too.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_007_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I'll go look for them.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_007_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...I'm not ready to give up entirely.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_007_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]They must be alive.\n"
+"Fate can't be that cruel.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_007_B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Otherwise...\n"
+"I don't know what I'll do.\n"
+"<end>"
+msgstr ""

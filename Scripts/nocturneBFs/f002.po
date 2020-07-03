@@ -1,0 +1,629 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+msgctxt "type:0,entry:SINJIKU,segment:0"
+msgid ""
+"<start>[7:FF07]> Shinjuku Station...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SINJIKU,segment:1"
+msgid ""
+"<start>> It's as quiet as a tomb.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SINJIKU2,segment:0"
+msgid ""
+"<start>[7:FF07]> Nothing is showing on\n"
+"the giant screen...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:KOKOTOKYO,segment:0"
+msgid ""
+"<start>[7:FF07]You don't know where you are?\n"
+"...You're joking, right?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:KOKOTOKYO,segment:1"
+msgid ""
+"<start>Tokyo, of course!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:KOKOTOKYO,segment:2"
+msgid ""
+"<start>All of the humans are gone, though.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:KOKOTOKYO2,segment:0"
+msgid ""
+"<start>[7:FF07]Hmmm... I just passed through\n"
+"Shinjuku, so...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:KOKOTOKYO2,segment:1"
+msgid ""
+"<start>If I go south, I should reach\n"
+"Yoyogi and Shibuya.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:KOKOTOKYO3,segment:0"
+msgid ""
+"<start>[7:FF07]I just saw a girl heading toward\n"
+"Shibuya.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:KOKOTOKYO3,segment:1"
+msgid ""
+"<start>I guess she really was a human...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:KOKOTOKYO3,segment:2"
+msgid ""
+"<start>What? You're a human, too!?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:KOKOTOKYO3,segment:3"
+msgid ""
+"<start>Or... are you a demon?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:KOKOTOKYO4,segment:0"
+msgid ""
+"<start>[7:FF07]*squint* I can see Aoyama over there...\n"
+"I think.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:KOKOTOKYO4,segment:1"
+msgid ""
+"<start>Looks like it's safe.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:KOKOTOKYO4,segment:2"
+msgid ""
+"<start>But, you can't get there from here.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:KOKOTOKYO4,segment:3"
+msgid ""
+"<start>I already tried going from\n"
+"Yoyogi Park, and that didn't work...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EXITWARP,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you leave the area?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EXITWARP_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a Mystical Chest.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HOSEKI_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Mystical Chest.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA,segment:0"
+msgid ""
+"<start>[7:FF07]> You see a Cache Cube.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAKARA_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Cache Cube.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_STILLGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DH_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"the Magatama [2:FF05][3:FF01][2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_MAKA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01] Macca[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:0"
+msgid ""
+"<start>[7:FF07]> It's a trap.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:1"
+msgid ""
+"<start>> Your party took damage.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_KARAGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:0"
+msgid ""
+"<start>[7:FF07]> [3:FF03] found something.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:1"
+msgid ""
+"<start>[7:FF07]............\n"
+"> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_OPENERROR,segment:0"
+msgid ""
+"<start>[7:FF07]> It can't be used here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_LIGHTMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The light effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_ESTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The repel effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REBERAMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The attract effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REFUTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The levitation effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:WARP_ELV_MSG,segment:0"
+msgid ""
+"<start>[7:FF07]> Select a floor.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL1,segment:0"
+msgid "<start>[3:FF01][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL2,segment:0"
+msgid "<start>[3:FF02][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL3,segment:0"
+msgid "<start>[3:FF03][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL4,segment:0"
+msgid "<start>[3:FF04][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL5,segment:0"
+msgid "<start>[3:FF05][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL6,segment:0"
+msgid "<start>[3:FF06][80EA]"
+msgstr ""
+
+msgctxt "type:0,entry:INFTEST1,segment:0"
+msgid ""
+"<start>[7:FF07]> Message Test\n"
+"Next are the choices.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:INFTEST1_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:INFTEST1_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Yes, you say?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:INFTEST1_NO,segment:0"
+msgid ""
+"<start>[7:FF07]No, you say?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_01,segment:0"
+msgid ""
+"<start>[7:FF07]...Huh?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_01,segment:1"
+msgid ""
+"<start>How'd you get out of the hospital?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_01,segment:2"
+msgid ""
+"<start>Wasn't Forneus there?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_02,segment:0"
+msgid ""
+"<start>[7:FF07]Whatcha lookin' around for?\n"
+"This your first time in Tokyo?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F002_SINEN_02_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_02_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Then, let me tell you something.\n"
+"This is Shinjuku, and if you go south\n"
+"from here...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_02_YES,segment:1"
+msgid ""
+"<start>...Well, Tokyo's round, so I'm just\n"
+"talking relatively here...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_02_YES,segment:2"
+msgid ""
+"<start>If you go south, you'll see\n"
+"[2:FF02]Yoyogi Park[2:FF01] and [2:FF02]Shibuya[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_02_YES,segment:3"
+msgid ""
+"<start>Speaking of which, I saw a human\n"
+"head toward Shibuya.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_02_NO,segment:0"
+msgid ""
+"<start>[7:FF07]I see... It's my first time here.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_02_NO,segment:1"
+msgid ""
+"<start>Hmm, according to the guide map...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_02_02,segment:0"
+msgid ""
+"<start>[7:FF07]It's like we're all stuck inside of\n"
+"a sphere here in Tokyo.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_02_02,segment:1"
+msgid ""
+"<start>Hmmm... Ginza isn't on this side of\n"
+"the sphere, it seems.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_02_02,segment:2"
+msgid ""
+"<start>...Man, Tokyo's nothing like\n"
+"what the guide map says!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_02_03,segment:0"
+msgid ""
+"<start>[7:FF07]...I see.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_02_03,segment:1"
+msgid ""
+"<start>Shinjuku, Ginza, Ikebukuro,\n"
+"Asakusa... Then, back around to\n"
+"Shinjuku.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_02_03,segment:2"
+msgid ""
+"<start>Tokyo's round, after all...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_02_04,segment:0"
+msgid ""
+"<start>[7:FF07]...I'm getting the hang of it.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_02_04,segment:1"
+msgid ""
+"<start>The Obelisk of Chiyoda and\n"
+"the Amala Temple of Sannou...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_02_04,segment:2"
+msgid ""
+"<start>These two spots are sandwiching\n"
+"Kagutsuchi from the top and bottom.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_02_04,segment:3"
+msgid ""
+"<start>...Well, there is no up or down in\n"
+"Tokyo, since it's round...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_03,segment:0"
+msgid ""
+"<start>[7:FF07]By gum!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_03,segment:1"
+msgid ""
+"<start>It's just like I said...\n"
+"The world's all round!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_03,segment:2"
+msgid ""
+"<start>But even now, no one believes me!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_03,segment:3"
+msgid ""
+"<start>I hear prophecies from Jupiter!\n"
+"You believe me, don'tcha? *hic*\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F002_SINEN_03_SEL,segment:0"
+msgid "<start>Of course I do."
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_03_NO,segment:0"
+msgid ""
+"<start>[7:FF07]By gum! Why doesn't anyone\n"
+"believe me? *hic*\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_03_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Oh! You believe me!?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_03_YES,segment:1"
+msgid ""
+"<start>Then, I'll tell you somethin' good!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_03_YES,segment:2"
+msgid ""
+"<start>The 'Demi-fiend' is the one that's\n"
+"going to create the new world...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_03_YES,segment:3"
+msgid ""
+"<start>By gum! You wouldn't be... Naw!\n"
+"*hic*\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_04,segment:0"
+msgid ""
+"<start>[7:FF07]Hey, if it isn't [12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_04,segment:1"
+msgid ""
+"<start>...Have you heard of the Tokyo\n"
+"rumor?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F002_SINEN_04_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_04_NO,segment:0"
+msgid ""
+"<start>[7:FF07]A guy with a strong will is going to\n"
+"change this chaotic world...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_04_NO,segment:1"
+msgid ""
+"<start>...That's a good one, huh?\n"
+"Tokyo's forever in chaos!\n"
+"Hahahahahahaha!!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_04_YES,segment:0"
+msgid ""
+"<start>[7:FF07]...Well, it's just a rumor!\n"
+"Hahahahahahaha!!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_05,segment:0"
+msgid ""
+"<start>[7:FF07]You can see Yoyogi Park from here.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_05,segment:1"
+msgid ""
+"<start>I wonder if the east side of the park\n"
+"is being occupied by the fairies.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_05_02,segment:0"
+msgid ""
+"<start>[7:FF07]I saw all these fairies fly off from\n"
+"Yoyogi Park.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F002_SINEN_05_03,segment:0"
+msgid ""
+"<start>[7:FF07]Kagutsuchi's shining bright...\n"
+"<end>"
+msgstr ""

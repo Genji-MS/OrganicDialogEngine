@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Mysterious voice
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07]...You've withstood the attacks of\n"
+"the Fiends, and now you stand here\n"
+"before me.\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:MSG_001_001,segment:0"
+msgid ""
+"<start>[7:FF07]For this feat, I shall grant you\n"
+"audience.\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:MSG_001_001,segment:1"
+msgid ""
+"<start>Come forward.\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:MSG_001_010,segment:0"
+msgid ""
+"<start>[7:FF07]...I am chief among those who fell\n"
+"from heaven.\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:MSG_001_010,segment:1"
+msgid ""
+"<start>With the angel of darkness,\n"
+"I lead the demons of chaos.\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:MSG_001_010,segment:2"
+msgid ""
+"<start>...I am Beelzebub, ruler of death\n"
+"and warden of souls.\n"
+"<end>"
+msgstr ""
+
+#. Beelzebub
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF07]So you're [13:FF01],\n"
+"Lord Lucifer's favorite...\n"
+"<end>"
+msgstr ""
+
+#. Beelzebub
+msgctxt "type:0,entry:MSG_002,segment:1"
+msgid ""
+"<start>I've heard about you.\n"
+"<end>"
+msgstr ""
+
+#. Beelzebub
+msgctxt "type:0,entry:MSG_002,segment:2"
+msgid ""
+"<start>With the power given to you by\n"
+"Lord Lucifer, you are trying to\n"
+"create a new demon, correct?\n"
+"<end>"
+msgstr ""
+
+#. Beelzebub
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07]...What, you didn't know?\n"
+"That's what the candelabra are for.\n"
+"<end>"
+msgstr ""
+
+#. Beelzebub
+msgctxt "type:0,entry:MSG_003,segment:1"
+msgid ""
+"<start>When all the candelabra have been\n"
+"returned to their rightful places,\n"
+"a new demon of chaos will be born...\n"
+"<end>"
+msgstr ""
+
+#. Beelzebub
+msgctxt "type:0,entry:MSG_003,segment:2"
+msgid ""
+"<start>I have no idea how he talked you\n"
+"into collecting them, but...\n"
+"I've got to say, you're quite gullible.\n"
+"<end>"
+msgstr ""
+
+#. Beelzebub
+msgctxt "type:0,entry:MSG_003,segment:3"
+msgid ""
+"<start>Remember this,\n"
+"[13:FF01]...\n"
+"<end>"
+msgstr ""
+
+#. Beelzebub
+msgctxt "type:0,entry:MSG_003,segment:4"
+msgid ""
+"<start>The demons of chaos are all waiting\n"
+"for that moment...\n"
+"<end>"
+msgstr ""
+
+#. Beelzebub
+msgctxt "type:0,entry:MSG_003,segment:5"
+msgid ""
+"<start>...the moment when the new demon\n"
+"is born, and Lord Lucifer makes\n"
+"his final decision...\n"
+"<end>"
+msgstr ""
+
+#. Beelzebub
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF07]The army of chaos will rise\n"
+"at Lord Lucifer's command.\n"
+"<end>"
+msgstr ""
+
+#. Beelzebub
+msgctxt "type:0,entry:MSG_004,segment:1"
+msgid ""
+"<start>To bring about that glorious event,\n"
+"I would gladly assist you.\n"
+"<end>"
+msgstr ""
+
+#. Beelzebub
+msgctxt "type:0,entry:MSG_005,segment:0"
+msgid ""
+"<start>[7:FF07]But, you must first demonstrate that\n"
+"you are worthy of my help...\n"
+"<end>"
+msgstr ""
+
+#. Beelzebub
+msgctxt "type:0,entry:MSG_006,segment:0"
+msgid ""
+"<start>[7:FF07]My true form is more suitable\n"
+"for this test...\n"
+""
+msgstr ""
+
+#. Beelzebub
+msgctxt "type:0,entry:MSG_007,segment:0"
+msgid ""
+"<start>[7:FF07]Now, prove your strength to me!!\n"
+"<end>"
+msgstr ""
+
+#. Beelzebub
+msgctxt "type:0,entry:MSG_007,segment:1"
+msgid ""
+"<start>Unleash the demonic power given\n"
+"to you by Lord Lucifer!!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_BEL01,segment:0"
+msgid ""
+"<start>[7:FF07]> A voice echoes through the hall...\n"
+"<end>"
+msgstr ""
+
+#. Beelzebub
+msgctxt "type:0,entry:MSG_BEL02,segment:0"
+msgid ""
+"<start>[7:FF07]...You did not disappoint me,\n"
+"[13:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Beelzebub
+msgctxt "type:0,entry:MSG_BEL02,segment:1"
+msgid ""
+"<start>Your power is indeed a source\n"
+"of hope for chaos...\n"
+"<end>"
+msgstr ""
+
+#. Beelzebub
+msgctxt "type:0,entry:MSG_BEL02,segment:2"
+msgid ""
+"<start>When we meet again,\n"
+"I'll fulfill my promise...\n"
+"<end>"
+msgstr ""
+
+#. Beelzebub
+msgctxt "type:0,entry:MSG_BEL02,segment:3"
+msgid ""
+"<start>...I shall see you at the Cathedral\n"
+"of Shadows...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_BEL03,segment:0"
+msgid ""
+"<start>[7:FF07]> The voice could no longer\n"
+"be heard...\n"
+"<end>"
+msgstr ""

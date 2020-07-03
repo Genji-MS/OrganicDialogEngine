@@ -1,0 +1,558 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 28/03/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Victor
+msgctxt "type:0,entry:GOH_ENTER,segment:0"
+msgid ""
+"<start>[7:0005,00FF]This is the Gouma-Den, my personal\n"
+"laboratory. Welcome!\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:GOH_LEAVE,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Gouma-Den is open to all who\n"
+"control demons. Come again!\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:GOH_CUSTOM,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Ever since I set up shop here, I\n"
+"have performed experiment after\n"
+"experiment.\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:GOH_CUSTOM,segment:1"
+msgid ""
+"<start>The result is a brand-new process;\n"
+"a fusion method unlike any other!\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:GOH_CUSTOM,segment:2"
+msgid ""
+"<start>Gaze upon it in awe!\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:GOH_CUSTOM,segment:3"
+msgid ""
+"<start>I call it... [2:0002,00FF]Sacrifice[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:GOH_CUSTOM,segment:4"
+msgid ""
+"<start>It is a process for transferring\n"
+"the powers of one demon to another.\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:GOH_CUSTOM,segment:5"
+msgid ""
+"<start>If you want to know how it works,\n"
+"I would be delighted to give you\n"
+"a lecture on the subject.\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:GOH_KEN,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Ever since I set up shop here, I\n"
+"have performed experiment after\n"
+"experiment.\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:GOH_KEN,segment:1"
+msgid ""
+"<start>The result is a brand-new process;\n"
+"a fusion method unlike any other!\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:GOH_KEN,segment:2"
+msgid ""
+"<start>Steady yourself, for its grandeur\n"
+"may shock you.\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:GOH_KEN,segment:3"
+msgid ""
+"<start>It is a process to give swords\n"
+"demonic powers, known as... [2:0002,00FF]Forge[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:GOH_KEN,segment:4"
+msgid ""
+"<start>Remember it well! You can infuse\n"
+"your demon's powers to your katana.\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:GOH_KEN,segment:5"
+msgid ""
+"<start>If you want to know how it works,\n"
+"I would be delighted to give you\n"
+"a lecture on the subject.\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:GOH_KEN,segment:6"
+msgid ""
+"<start>...There seems to be one small\n"
+"peculiarity, though.\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:GOH_KEN,segment:7"
+msgid ""
+"<start>Perhaps I've tinkered with the\n"
+"machine too much, but it's become\n"
+"a little unstable.\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:GOH_KEN,segment:8"
+msgid ""
+"<start>Keep that in mind from now on.\n"
+"<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP01_VIC_01,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]Demon fusion is a forbidden\n"
+"science, using medieval alchemy\n"
+"together with modern technology.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP01_VIC_02,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]If you want to witness the power\n"
+"of my work for yourself, bring\n"
+"your demons here anytime.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP02_VIC_01,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]I have heard rumors of this Red\n"
+"Cape, but it is a real monster,\n"
+"you say?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP02_VIC_02,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]To warp and mutate the human body\n"
+"without the help of alchemy...\n"
+"Very interesting.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP02_VIC_03,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]If you can capture it and bring it\n"
+"here, it would greatly aid in my\n"
+"research.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP03_VIC_01,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]The Kuzunoha use \"tubes\" to\n"
+"confine demons, do they?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP03_VIC_02,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]It seems to be little more than\n"
+"steel cast into a tube... I assume\n"
+"there is some enchantment on it?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP03_VIC_03,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]If you don't mind... could I\n"
+"borrow one for my studies?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP04_VIC_01,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]Have you ever been on a ship\n"
+"before?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP04_VIC_02,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]There's nothing like an ocean voyage.\n"
+"The vast expanse of waves will do\n"
+"your heart good.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP04_VIC_03,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]I suggest you try it sometime.\n"
+"Take it from me, though... Avoid\n"
+"the Arctic Ocean.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP05_VIC_01,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]The Dark Realm is a juncture\n"
+"between the Real World and the\n"
+"Netherworld.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP05_VIC_02,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]You summoners have the ability\n"
+"to go to and from there as you\n"
+"please...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP05_VIC_03,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]As a researcher of the black\n"
+"sciences, I admit to being\n"
+"jealous!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP06_VIC_01,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]Thanks to your help, I've gathered\n"
+"reams of data for my research.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP06_VIC_02,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]I'd like to use it for new\n"
+"experiments, but this basement is\n"
+"much too small for that.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP06_VIC_03,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]If only I had a giant building,\n"
+"something that wouldn't arouse\n"
+"people's suspicions...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP06_VIC_04,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]The Mushoku Fudou at the inlet was\n"
+"once worshipped in order to protect\n"
+"the Capital.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP06_VIC_05,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]There was supposedly a crystal\n"
+"with spiritual power fitted into\n"
+"its body.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP06_VIC_06,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]They called it the Irie Fudou.\n"
+"Does that help?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP07_VIC_01,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]What's this? A technique where you\n"
+"undertake another person's curse?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP07_VIC_02,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]Japanese magic sounds like an\n"
+"intriguing subject for further\n"
+"study... very interesting.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP07_VIC_03,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]I'd like to see something like\n"
+"that with my own eyes. Why don't\n"
+"you run along and agree to it?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP07_VIC_04,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]Ahh, Kuzunoha. I see you have\n"
+"been cursed.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP07_VIC_05,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]I never thought I'd be able to\n"
+"examine a live specimen... It's\n"
+"more than I had hoped!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP07_VIC_06,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]This could prove very useful in\n"
+"my research. Come back here\n"
+"often, won't you?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP08_VIC_01,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]I have heard there is a man using\n"
+"the power of radio waves to affect\n"
+"the human body.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP08_VIC_02,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]Clearly, electricity plays a large part\n"
+"in my work here.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP08_VIC_03,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]Though radio waves and electricity\n"
+"have the same roots and seem similar,\n"
+"they are quite different.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP08_VIC_04,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]I'd like to meet this person.\n"
+"Think of the advances in our\n"
+"science...!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP09_VIC_01,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]Your aura seems different today...\n"
+"Are you really Kuzunoha?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP09_VIC_02,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]Well, no matter.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP09_VIC_03,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]Kuzunoha or no Kuzunoha, any\n"
+"summoner wanting to fuse demons\n"
+"is welcome in my Gouma-Den.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP10_VIC_01,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]Are you saying Rasputin interfered\n"
+"with your investigation?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP10_VIC_02,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]You don't mean the Mad Monk of the\n"
+"Romanov dynasty, do you?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP10_VIC_03,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]I wonder... Has he escaped death\n"
+"and fled here to the Capital as\n"
+"I have...?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP11_VIC_01,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]What is all that noise outside?\n"
+"Is something wrong?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP11_VIC_02,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]Wh-What!? A giant mechanical\n"
+"monster is rampaging through the\n"
+"streets?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP11_VIC_03,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]If only I could see it with my\n"
+"own eyes... Ah, the perils of\n"
+"tinkering with one's own body.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP11_VIC_04,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]If I only had an artificial man\n"
+"with calculating powers beyond\n"
+"that of human minds...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP11_VIC_05,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]Perhaps then, I might be able to\n"
+"solve this equation.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP11_VIC_06,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]Alas, my research has yet to make it\n"
+"to such an advanced stage.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP11_VIC_07,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]If you're looking for the\n"
+"mechanical man, I reassembled him\n"
+"and let him go, as promised.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP11_VIC_08,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]I did... borrow a few unusual\n"
+"parts for my studies, but he should\n"
+"have no difficulties in functioning.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP11_VIC_09,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]With these, my research has\n"
+"advanced one step further\n"
+"towards completion!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP12_VIC_01,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]When one has lived as long as I\n"
+"have, regrets are inevitable.\n"
+"Everyone makes mistakes.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Victor
+msgctxt "type:0,entry:EP12_VIC_02,segment:0"
+msgid ""
+"<start>[22:000D,00FF,0006,00FF][7:0005,00FF]On the other hand, perhaps life\n"
+"is good precisely because you\n"
+"only live once. Don't you think?\n"
+"[23:]<end>"
+msgstr ""

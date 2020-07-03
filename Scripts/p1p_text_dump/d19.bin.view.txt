@@ -1,0 +1,48 @@
+֏ ܢ ܢ ܢ ܢ ܢ ܢ ܢ   맃 ᛴ ۦ 尃 ः < The door is tightly sealed.
+         ے ے   맃 ᛴ ۦ 尃 ः < The door is tightly sealed.
+It seems it cannot be opened yet...
+         ے 맃 ᛴ ۦ 尃 ः < A mysterious message is written on the
+door in old-looking script.
+< "Henceforth, a strict rule will be
+imposed upon intruders.
+< "Those who stray from the path shall
+not be allowed further travel.
+< "Look not from the path and continue
+forward. Should you come to a wall,
+head right.
+< "Whatever hardship you may encounter,
+lose not sight of the original path."
+        ے ے   맃 ᛴ ۦ 尃 ः < Malicious power is emanating from
+the monument...
+< Examine the monument?
+        ے ے   맃 ᛴ ۦ 尃 ः < The demonic presence emanating from
+the monument has subsided. You hear a
+door open somewhere on this floor...
+        ے    맃 ᛴ ۦ 尃 ः < The door is tightly sealed.
+< It seems a demonic power on this floor
+is holding it shut...
+         ے맃 ᛴ ۦ 尃 ः < A mysterious message is written on the
+door in old-looking script.
+< "Danger lurks in the center of the
+room. Go forth while staying near the
+walls at all times."
+         ے   맃 ᛴ ۦ 尃 ः < The door is tightly sealed.
+< It seems to be connected to the lamps
+in the four corners of this floor...
+         ے 맃 ᛴ ۦ 尃 ः < A mysterious message is written on the
+door in old-looking script.
+< "Danger lurks at the edges of the
+room. Go forth through the room's
+center without touching the walls."
+         ے    맃 ᛴ ۦ 尃 ः < The door is tightly sealed.
+< It seems to be connected to the
+numerous lamps on this floor...
+        ے    맃 ᛴ ۦ 尃 ः < Malicious power is emanating from
+the monument...
+< It seems to be the last monument...
+Examine it?
+        ے  맃 ᛴ ۦ 尃 ः < Light pours from the monument and
+coalesces into matter.
+< Obtained ᐩC0࿌Snow MedalᐩC00.
+< ᐩC07You have conquered Devil's Peak!ᐩC00
+        

@@ -1,0 +1,2837 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 28/03/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]Here, you'll find that people are\n"
+"loose with rumors and information.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK01_002,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]What you overhear may be of some\n"
+"use to you, Mr. Kuzunoha.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]We've just got a new soda in.\n"
+"Go ahead and try some!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]Oh, Mr. Kuzunoha, I didn't know\n"
+"you were a cat fancier.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK03_002,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]Aren't cats great? When I'm\n"
+"stroking one, all my cares just\n"
+"melt away.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK04,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]Everyone around here names their\n"
+"cats things like Rusty or Princess.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK04_002,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]I'd never give a cat such a \n"
+"pedestrian name.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK05,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]Just the other day, I picked up\n"
+"a stray cat.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK05_002,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]He was mewling in front of the\n"
+"store. The poor thing was\n"
+"starving...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK05_003,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]He's so precious. I'm trying to\n"
+"think of a name for him now.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK06,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]I picked up another stray to go\n"
+"along with the first one.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK06_002,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]This one's spotted. He's every\n"
+"bit as cute!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK07,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]Do you think there's a network of\n"
+"information among cats, just like\n"
+"the one between humans here?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK07_002,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]I ask because lately, more and\n"
+"more stray cats have been\n"
+"gathering behind the shop.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK07_003,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]They're cute, but... It's\n"
+"becoming expensive to care for\n"
+"them all.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK08,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]Mr. Kuzunoha, can I have a word\n"
+"with you?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK08_002,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]I love each and every one of those\n"
+"cats, but there are simply too\n"
+"many for me to handle now.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK08_003,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]So, I was thinking of giving a\n"
+"few of them away to people who\n"
+"want one.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK08_004,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]How about you? Do you need\n"
+"another cat?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK09,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]Oh, Mr. Kuzunoha! I found a person\n"
+"willing to take in a stray cat.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK09_002,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]But... just as I was handing her\n"
+"over, I looked at the lady, and\n"
+"my mind went fuzzy.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK09_003,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]Before I knew what I was doing, I\n"
+"had told her I'd changed my mind.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK09_004,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]I felt strange, as if my body had\n"
+"been taken over or something.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK10,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]Mr. Kuzunoha... I've been feeling\n"
+"so strange lately.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK10_002,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]You may laugh, but... I've started\n"
+"to see cats as humans.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK10_003,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]Especially the one that just showed\n"
+"up. She's so beautiful, with\n"
+"such luscious curves...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_RANK10_004,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]Wh... What am I saying...? Maybe\n"
+"I'm overworking myself.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]So, you're the new Kuzunoha, eh?\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_01,segment:1"
+msgid ""
+"<start>If you want to hunt demons, you\n"
+"don't need muscle... you need\n"
+"brains.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_01_TUIKA,segment:0"
+msgid ""
+"<start>[7:0005,00FF]If there's anything you want to know,\n"
+"just ask.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:NWD_NPC01_ep02_SEL,segment:0"
+msgid "<start>Basic combat"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The lesson: the basic principle of\n"
+"combat is to exploit your enemy's\n"
+"[2:0004,00FF]weakness[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_02,segment:1"
+msgid ""
+"<start>If you're facing an enemy you've\n"
+"never seen before, you won't know\n"
+"their weakness, of course.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_02,segment:2"
+msgid ""
+"<start>In that case, try using different\n"
+"kinds of bullets and different\n"
+"demons to attack them.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_02,segment:3"
+msgid ""
+"<start>Fire, Ice, Force, Electricity,\n"
+"Physical, Death... Demons all have\n"
+"some sort of weakness.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_02,segment:4"
+msgid ""
+"<start>You can tell when you've found it,\n"
+"because they'll be immobile,\n"
+"leaving them wide open.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_02,segment:5"
+msgid ""
+"<start>That's your chance to attack and\n"
+"deal [2:0004,00FF]critical[2:0001,00FF] damage.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_02,segment:6"
+msgid ""
+"<start>Landing an attack like that can\n"
+"really give you a rush of power.\n"
+"So endeth the lesson.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I see you're a fighter who works\n"
+"with both a gun and a sword.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_03,segment:1"
+msgid ""
+"<start>The lesson: how to fight effectively\n"
+"using them in tandem.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_03,segment:2"
+msgid ""
+"<start>First, the gun.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_03,segment:3"
+msgid ""
+"<start>It's useful against demons, even\n"
+"if there's some distance between\n"
+"you and the target.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_03,segment:4"
+msgid ""
+"<start>It's not as powerful as the sword,\n"
+"but even a normal bullet can\n"
+"momentarily stun your opponent.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_03,segment:5"
+msgid ""
+"<start>Not as long as hitting them in\n"
+"their weak spot, but enough to\n"
+"give you a slight advantage.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_03,segment:6"
+msgid ""
+"<start>That brief opening is a prime\n"
+"opportunity to send in your demons,\n"
+"and use your sword.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_03,segment:7"
+msgid ""
+"<start>Once they're immobile, run up to\n"
+"them and slash away. If you can\n"
+"do that, you've got it made.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_03,segment:8"
+msgid ""
+"<start>Remember, though, these are demons\n"
+"we're talking about. Don't go around\n"
+"shooting people, got it?\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_03,segment:9"
+msgid ""
+"<start>So endeth the lesson.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The lesson: coordination between\n"
+"yourself and your demons. It's what\n"
+"makes you a real Devil Summoner.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_04,segment:1"
+msgid ""
+"<start>Don't think that summoning demons\n"
+"at random will do you any good.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_04,segment:2"
+msgid ""
+"<start>The first rule of summoning is to\n"
+"summon the ones who can exploit\n"
+"the enemy's weaknesses.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_04,segment:3"
+msgid ""
+"<start>If you or your demons attack while\n"
+"the enemy's weakness leaves them\n"
+"immobile...\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_04,segment:4"
+msgid ""
+"<start>The demon's morale will increase,\n"
+"giving you a chance to perform a\n"
+"[2:0004,00FF]Combination Skill[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_04,segment:5"
+msgid ""
+"<start>There's no rule that says you can\n"
+"only use one demon per battle, so\n"
+"go ahead and switch 'em at will.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_04,segment:6"
+msgid ""
+"<start>Once you master manipulating\n"
+"demons and using all the different\n"
+"Combination Skills...\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_04,segment:7"
+msgid ""
+"<start>You shouldn't have any trouble\n"
+"with the trials ahead of you.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_04,segment:8"
+msgid ""
+"<start>So endeth the lesson.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hang on. I've got one more piece\n"
+"of advice before you go.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_05,segment:1"
+msgid ""
+"<start>Yatagarasu gave you that Mystic Eye,\n"
+"right? Never mind how I know that.\n"
+"The point is...\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_05,segment:2"
+msgid ""
+"<start>You can use it to see the abilities\n"
+"of any enemy whose weakness\n"
+"you've exploited before.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_05,segment:3"
+msgid ""
+"<start>With that thing, you can see their\n"
+"specialties as well as their weaknesses.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep02_05,segment:4"
+msgid ""
+"<start>Know your enemy like you know\n"
+"yourself. The more you learn, the\n"
+"less you'll be caught off guard.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC01_ep02_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF][2:0004,00FF]> The Mystic Eye can be used by\n"
+"pressing the R1 button in battle\n"
+"and selecting \"Analyze.\"[2:0001,00FF]\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep05_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Oh, it's you, Kuzunoha. You look\n"
+"like you're moving up in the world.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep05_01,segment:1"
+msgid ""
+"<start>You'll always be a greenhorn to me,\n"
+"but I'm glad to help out the less\n"
+"fortunate.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep05_01_TUIKA,segment:0"
+msgid ""
+"<start>[7:0005,00FF]How about it? Want another lesson\n"
+"from the top demon hunter around\n"
+"these parts?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:NWD_NPC01_ep05_SEL,segment:0"
+msgid "<start>A summoner's stats"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep05_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The lesson: [2:0002,00FF]Magic[2:0001,00FF] and [2:0002,00FF]Luck[2:0001,00FF] stats\n"
+"are more important than you'd think\n"
+"where demons are concerned.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep05_02,segment:1"
+msgid ""
+"<start>If a summoner has high Magic,\n"
+"the demons he summons will also\n"
+"be more powerful.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep05_02,segment:2"
+msgid ""
+"<start>Even a weak summoner can summon\n"
+"hefty demons as long as he's got\n"
+"high Magic.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep05_02,segment:3"
+msgid ""
+"<start>Higher magic also makes it cheaper\n"
+"as far as MAG goes to summon\n"
+"a demon.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep05_02,segment:4"
+msgid ""
+"<start>You can't win battles on strength\n"
+"alone. Remember that.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep05_02,segment:5"
+msgid ""
+"<start>That's Magic. Now, about Luck.\n"
+"This has to do with your demons'\n"
+"investigation skills.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep05_02,segment:6"
+msgid ""
+"<start>For the skills that pick things up,\n"
+"like items or money, the summoner's\n"
+"Luck plays a big part.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep05_02,segment:7"
+msgid ""
+"<start>It also comes into play if you have to\n"
+"retreat from an opponent who's got\n"
+"the upper hand...\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep05_02,segment:8"
+msgid ""
+"<start>...as well as whether or not you'll be\n"
+"affected by poison and stone attacks.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep05_02,segment:9"
+msgid ""
+"<start>It's easy to overlook, but in the\n"
+"long run, Luck can really save\n"
+"your bacon.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep05_02,segment:10"
+msgid ""
+"<start>So endeth the lesson.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep05_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The lesson: there are things a\n"
+"Devil Summoner should carry at\n"
+"all times.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep05_03,segment:1"
+msgid ""
+"<start>The most important of these is the\n"
+"Anti-Mind.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep05_03,segment:2"
+msgid ""
+"<start>It can cure various status ailments\n"
+"that your demons contract, so\n"
+"always have a spare few of these.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep05_03,segment:3"
+msgid ""
+"<start>If you don't, you could end up\n"
+"in a situation where your demons\n"
+"can't do squat to the enemy.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep05_03,segment:4"
+msgid ""
+"<start>Don't just think of yourself all the time\n"
+"in battle. Your demons need attention,\n"
+"too.\n"
+"<end>"
+msgstr ""
+
+#. Man in a tailored suit
+msgctxt "type:0,entry:NWD_NPC01_ep05_03,segment:5"
+msgid ""
+"<start>So endeth the lesson.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][2:0001,00FF]Oh, so you're the boy who claimed\n"
+"the title of Raidou the 14th?\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_01,segment:1"
+msgid ""
+"<start>Do you need any help to get\n"
+"started, dear?\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_01,segment:2"
+msgid ""
+"<start>No one knows their stuff the way\n"
+"I do when it comes to demons.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_01,segment:3"
+msgid ""
+"<start>I just can't help researching\n"
+"the little guys; they're just\n"
+"too cute!\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_01_TUIKA,segment:0"
+msgid ""
+"<start>[7:0005,00FF][2:0001,00FF]So, what do you want to know?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:NWD_NPC02_ep02_SEL,segment:0"
+msgid "<start>How to catch demons"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][2:0001,00FF]You already know about exploiting\n"
+"enemy weaknesses and all that,\n"
+"right?\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_02,segment:1"
+msgid ""
+"<start>Well, when a demon gets hit in\n"
+"its weak spot, it becomes immobile\n"
+"for a second or two.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_02,segment:2"
+msgid ""
+"<start>All you've got to do is get close\n"
+"when they're stunned and perform\n"
+"the art of confinement.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_02,segment:3"
+msgid ""
+"<start>The rest is up to you.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_02,segment:4"
+msgid ""
+"<start>If you're strong enough to handle\n"
+"the demon, it'll get sucked into\n"
+"your tube and fight alongside you.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_02,segment:5"
+msgid ""
+"<start>If you're not, well, just train\n"
+"some more and try again.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_02,segment:6"
+msgid ""
+"<start>Cheer up, Raidou dear, it's not\n"
+"all bad news. Listen to this...\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_02,segment:7"
+msgid ""
+"<start>If you're having trouble making\n"
+"a demon your ally, don't just rush\n"
+"in and try to confine it.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_02,segment:8"
+msgid ""
+"<start>Haste makes waste, I always say!\n"
+"What you should do first is drain\n"
+"the demon's life, bit by bit.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_02,segment:9"
+msgid ""
+"<start>Once it's weak, you'll have a much\n"
+"better chance of confining it.\n"
+"That's the real trick.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_02,segment:10"
+msgid ""
+"<start>Demons say such cute things when\n"
+"they get sucked into a tube!\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_02,segment:11"
+msgid ""
+"<start>Keep an eye on the moon, though.\n"
+"Depending on its phase, it might\n"
+"be impossible to confine them.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_02,segment:12"
+msgid ""
+"<start>Of course, different rules apply\n"
+"when you're trying to catch a\n"
+"[2:0004,00FF]Skill-order[2:0001,00FF] demon.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_02,segment:13"
+msgid ""
+"<start>Good luck out there! Be careful!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC02_ep02_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][2:0004,00FF]> The art of confinement is a\n"
+"technique to make demons your\n"
+"allies.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC02_ep02_03,segment:1"
+msgid ""
+"<start>> You can confine demons as long\n"
+"as they have a lower level than\n"
+"yours.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC02_ep02_03,segment:2"
+msgid ""
+"<start>> There are two exceptions:\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC02_ep02_03,segment:3"
+msgid ""
+"<start>> The first is the phase of the\n"
+"moon. On full moons, demons turn\n"
+"wild and cannot be confined.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC02_ep02_03,segment:4"
+msgid ""
+"<start>> The second is the Skill order.\n"
+"These demons cannot be confined\n"
+"under normal circumstances.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC02_ep02_03,segment:5"
+msgid ""
+"<start>> Unlike other demons, they can\n"
+"only be confined during certain\n"
+"periods of time.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC02_ep02_03,segment:6"
+msgid ""
+"<start>> Pay attention to a demon's order\n"
+"when attempting to confine it.[2:0001,00FF]\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF][2:0001,00FF]You mean once you've confined them?\n"
+"Sure, I'll tell you all about it.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_04,segment:1"
+msgid ""
+"<start>Each demon has different skills\n"
+"depending on its order.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_04,segment:2"
+msgid ""
+"<start>The most basic skill is the ability\n"
+"to go [2:0004,00FF]solo[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_04,segment:3"
+msgid ""
+"<start>You can send the demon out on its\n"
+"own to search places too dangerous\n"
+"for humans.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_04,segment:4"
+msgid ""
+"<start>A flying demon might fly over rivers\n"
+"or up to high places, and a small demon\n"
+"could fit in tight spaces.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_04,segment:5"
+msgid ""
+"<start>Other demons can find money or\n"
+"items as they walk around.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_04,segment:6"
+msgid ""
+"<start>Still others use their abilities\n"
+"only when you order them to.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_04,segment:7"
+msgid ""
+"<start>All the demons will use everything\n"
+"they've got to do their best.\n"
+"It's so adorable!\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_04,segment:8"
+msgid ""
+"<start>You've got some demons with you,\n"
+"so why don't you give it a try?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC02_ep02_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF][2:0004,00FF]>A demon's investigation skills\n"
+"depend on its order.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC02_ep02_05,segment:1"
+msgid ""
+"<start>> For example, the Pyro order has\n"
+"Ignite, while the Pagan order has\n"
+"Read Mind.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC02_ep02_05,segment:2"
+msgid ""
+"<start>> If a [2:0002,00FF]\"?\"[2:0004,00FF] appears in the Action\n"
+"Window, you can use an\n"
+"investigation skill.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC02_ep02_05,segment:3"
+msgid ""
+"<start>> If you find something like that,\n"
+"summon different orders of demons\n"
+"to see if anything presents itself.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC02_ep02_05,segment:4"
+msgid ""
+"<start>> Demons also have an investigation\n"
+"skill unrelated to their order.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC02_ep02_05,segment:5"
+msgid ""
+"<start>> These skills vary according to\n"
+"the characteristics of that\n"
+"particular demon.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC02_ep02_05,segment:6"
+msgid ""
+"<start>> Some of these are not used\n"
+"through the Action Window.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC02_ep02_05,segment:7"
+msgid ""
+"<start>> Press the R1 button to bring up\n"
+"the Investigation Menu. There will\n"
+"be a command not usually seen there.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC02_ep02_05,segment:8"
+msgid ""
+"<start>> Selecting this will direct the\n"
+"demon to use its skill.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC02_ep02_05,segment:9"
+msgid ""
+"<start>> Other investigation skills take\n"
+"effect just by walking around.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC02_ep02_05,segment:10"
+msgid ""
+"<start>> By summoning many different types\n"
+"of demons, you can try out all\n"
+"the investigation skills.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF][2:0001,00FF]Well, best of luck, Raidou dear.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_06,segment:1"
+msgid ""
+"<start>Oh, wait, I almost forgot. Demons\n"
+"want MAG whenever you summon them.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_06,segment:2"
+msgid ""
+"<start>If you run out of MAG, you won't\n"
+"be able to use demons, so be careful!\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_06,segment:3"
+msgid ""
+"<start>If you're out of MAG, you can fight\n"
+"a few battles, or trade in demons\n"
+"at this very shop.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep02_06,segment:4"
+msgid ""
+"<start>Personally, I think it's cute how\n"
+"the demons always ask for more\n"
+"MAG. They're hungry little guys!\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep05_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]How are things going, Raidou dear?\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep05_01,segment:1"
+msgid ""
+"<start>Are you taking good care of your\n"
+"cute little demons?\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep05_01,segment:2"
+msgid ""
+"<start>If you have any questions about\n"
+"demon care, I'll be happy to help!\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep05_01_TUIKA,segment:0"
+msgid ""
+"<start>[7:0005,00FF]What do you need to know?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:NWD_NPC02_ep05_SEL,segment:0"
+msgid "<start>Using demons in battle"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep05_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Demons are skilled at more than\n"
+"investigation. They can use skills\n"
+"during battle, too.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep05_02,segment:1"
+msgid ""
+"<start>They run around doing using\n"
+"everything they can to help their\n"
+"summoner. Isn't that adorable?\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep05_02,segment:2"
+msgid ""
+"<start>The skills each demon has depends on\n"
+"its order.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep05_02,segment:3"
+msgid ""
+"<start>That lets you split up their roles\n"
+"depending on the situation.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep05_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You'll sometimes find red crystals\n"
+"in the Dark Realm.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep05_03,segment:1"
+msgid ""
+"<start>They're like treasure chests,\n"
+"except that humans can't open\n"
+"them.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep05_03,segment:2"
+msgid ""
+"<start>Demons, on the other hand, can\n"
+"crack them open and take the\n"
+"contents.\n"
+"<end>"
+msgstr ""
+
+#. Stunningly beautiful woman
+msgctxt "type:0,entry:NWD_NPC02_ep05_03,segment:3"
+msgid ""
+"<start>What's inside depends on the demon's\n"
+"personality, so mind which demon\n"
+"you use.\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep02_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Ooh, just in time, m'boy! I've\n"
+"just remembered something good.\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep02_01,segment:1"
+msgid ""
+"<start>A young summoner like you might\n"
+"find it useful. Want to hear it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:NWD_NPC03_ep02_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep02_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Take a seat, m'boy, and I'll tell you\n"
+"all about it.\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep02_02,segment:1"
+msgid ""
+"<start>It's something to watch out for\n"
+"when summoning demons. Listen\n"
+"carefully, now.\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep02_02,segment:2"
+msgid ""
+"<start>You use different demons all the time\n"
+"for battle and investigation, don'tcha?\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep02_02,segment:3"
+msgid ""
+"<start>An efficient summoner would preset\n"
+"the demons he wants in each situation.\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep02_02,segment:4"
+msgid ""
+"<start>One fer walking around town, and\n"
+"one fer fighting enemies.\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep02_02,segment:5"
+msgid ""
+"<start>You see, m'boy?\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep02_02,segment:6"
+msgid ""
+"<start>Why don't you go ahead and give it\n"
+"a whirl?\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep02_02,segment:7"
+msgid ""
+"<start>Careful, though, since re-summoning\n"
+"demons will eat up your MAG right\n"
+"quick.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC03_ep02_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][2:0004,00FF]> You can set a demon to be summoned\n"
+"automatically at the start of battle\n"
+"from the Default menu.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC03_ep02_03,segment:1"
+msgid ""
+"<start>[2:0004,00FF]> Press the [82C7] button to open the\n"
+"Main Menu, then select \"Demon,\"\n"
+"then \"Default.\"\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC03_ep02_03,segment:2"
+msgid ""
+"<start>> There, you can select which demon\n"
+"is automatically summoned during\n"
+"battle.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC03_ep02_03,segment:3"
+msgid ""
+"<start>> The selected demon will appear\n"
+"by Raidou's side at the start of\n"
+"each battle.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NPC03_ep02_03,segment:4"
+msgid ""
+"<start>> It is wise to keep the demons\n"
+"you use the most, for battle and\n"
+"investigation, close at hand.[2:0001,00FF]\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep05_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Ooh, just in time, m'boy! I've\n"
+"just remembered something good.\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep05_01_TUIKA,segment:0"
+msgid ""
+"<start>[7:0005,00FF]A couple of things come to mind.\n"
+"Which one would you like to know?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:NWD_NPC03_ep05_SEL,segment:0"
+msgid "<start>About the Shikimi no Kage"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep05_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Shikimi no Kage... Well,\n"
+"each one has a different weakness,\n"
+"so pay attention to that.\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep05_02,segment:1"
+msgid ""
+"<start>If you don't hit its weakness,\n"
+"then it's like, well, pounding on\n"
+"a brick wall. Completely useless.\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep05_02,segment:2"
+msgid ""
+"<start>Make sure you keep different types\n"
+"of demons and bullets around to\n"
+"handle the various walls.\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep05_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]No one knows much about the Red\n"
+"Capes. Who are they? What are they\n"
+"here for? It's a mystery.\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep05_03,segment:1"
+msgid ""
+"<start>They've got to be up to something,\n"
+"though, since Red Capes have been\n"
+"popping up all over the Capital.\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep05_03,segment:2"
+msgid ""
+"<start>Take care, m'boy, that you don't\n"
+"end up as a Red Cape yourself.\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep10_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Ooh, just in time, m'boy! I've\n"
+"just remembered something good.\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep10_01,segment:1"
+msgid ""
+"<start>There's a small forest called\n"
+"Kasuminomori just to the north of\n"
+"Kasumidai.\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep10_01,segment:2"
+msgid ""
+"<start>I hear there's a secret passage\n"
+"leading underground there that\n"
+"only a select few know about.\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep10_01,segment:3"
+msgid ""
+"<start>You can't get there by train,\n"
+"though. You've gotta go by sea,\n"
+"so keep that in mind.\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep11_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Ooh, just in time, m'boy! I've\n"
+"just remembered something good.\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep11_01,segment:1"
+msgid ""
+"<start>Keep tabs on your demon's order\n"
+"when you get it out solo and it\n"
+"gets into a scrap.\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep11_01,segment:2"
+msgid ""
+"<start>If your demon picks a fight with a\n"
+"demon it can't defeat, it's all over.\n"
+"<end>"
+msgstr ""
+
+#. Unassuming old man
+msgctxt "type:0,entry:NWD_NPC03_ep11_01,segment:3"
+msgid ""
+"<start>It could get nasty if your demon's\n"
+"weakness is something like [2:0002,00FF]Force[2:0001,00FF]\n"
+"or [2:0002,00FF]Ice[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep02_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Oh! You are a Japanese summoner,\n"
+"mais oui?\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep02_01,segment:1"
+msgid ""
+"<start>I am a summoner also. I 'ave\n"
+"come to Japan to learn 'ow your\n"
+"summoners do things.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep02_01,segment:2"
+msgid ""
+"<start>Allow me to tell you what I 'ave\n"
+"learned.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep02_01_TUIKA,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Shall I tell you one of ze\n"
+"rumors I 'eard?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:NWD_NPC04_ep02_SEL,segment:0"
+msgid "<start>The Konnou-Ya rumor"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep02_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Konnou-Ya, yes? Ze owner is most\n"
+"pig-headed, if I may say so.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep02_02,segment:1"
+msgid ""
+"<start>Only for 'is most excellent\n"
+"customers does he [2:0004,00FF]change ze price[2:0001,00FF]\n"
+"and [2:0004,00FF]sell new merchandise[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep02_02,segment:2"
+msgid ""
+"<start>Ze Japanese are so cheap! I 'ave\n"
+"already noted it down in my book.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep02_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Oh, zis soda parlour here? Shin-Sekai\n"
+"is a place most magnifique.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep02_03,segment:1"
+msgid ""
+"<start>If you come here often, [2:0004,00FF]zey will\n"
+"offer you more sodas[2:0001,00FF], and [2:0004,00FF]you can\n"
+"get more MAG for ze demons[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep02_03,segment:2"
+msgid ""
+"<start>But, you are only coming 'ere so\n"
+"recently, and zat will not apply\n"
+"to you yet.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep02_03,segment:3"
+msgid ""
+"<start>Ze men and women of underground\n"
+"Japan come 'ere and get giggly\n"
+"on ze soda.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep02_03,segment:4"
+msgid ""
+"<start>'owever, ze effects only last until\n"
+"ze new moon, so do not forget.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep04_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Ah, Monsieur Summoner! It 'as\n"
+"been a while, 'as it not? I 'ave been\n"
+"doing more research.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep04_01_TUIKA,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Would you like to 'ear it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:NWD_NPC04_ep04_SEL,segment:0"
+msgid "<start>Shop rumors"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep04_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Ah, ze wonders of Asia! Ze incense\n"
+"mystical is a treasure tres desirable.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep04_02,segment:1"
+msgid ""
+"<start>It was used for ze aromatherapy,\n"
+"to relaxe ze body and mind of\n"
+"'umans and demons alike.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep04_02,segment:2"
+msgid ""
+"<start>Zere are four varieties, and it is\n"
+"rumored zat a few are hidden\n"
+"somewhere in ze Capital.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep04_02,segment:3"
+msgid ""
+"<start>I 'ear zey're at [2:0004,00FF]a factory[2:0001,00FF], [2:0004,00FF]a seaside city[2:0001,00FF],\n"
+"and [2:0004,00FF]a strange laboratory[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep04_02,segment:4"
+msgid ""
+"<start>I 'ear also of one in [2:0004,00FF]a place to train[2:0001,00FF]\n"
+"zat only summoners can reach.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep04_02,segment:5"
+msgid ""
+"<start>But, to just go zere is not enough.\n"
+"You must also [2:0004,00FF]inspect[2:0001,00FF] ze area.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep04_02,segment:6"
+msgid ""
+"<start>Do you 'ave a book? You should be\n"
+"writing zis down, like I do.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep04_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Ah, ze famous conqueror Genghis\n"
+"Khan.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep04_03,segment:1"
+msgid ""
+"<start>I 'eard someone saw a man who\n"
+"looked just like 'im.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep04_03,segment:2"
+msgid ""
+"<start>Zis was at a place only kitsune...\n"
+"'ow you say, ze fox, knows.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep04_03,segment:3"
+msgid ""
+"<start>Is zat right? Kitsune? Yoki-tsune?\n"
+"Yoshitsune...? Something like zat.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep04_03,segment:4"
+msgid ""
+"<start>Write zat down before you forget.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep07_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]'allo! It is good to see you\n"
+"again, Monsieur Summoner!\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep07_01,segment:1"
+msgid ""
+"<start>You have ze curse, yes? It is very\n"
+"'azardous.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep07_01,segment:2"
+msgid ""
+"<start>I will pray zat your curse is\n"
+"lifted.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]It 'as been some time, Monsieur\n"
+"Summoner! I have nearly completed\n"
+"ze research.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_01_TUIKA,segment:0"
+msgid ""
+"<start>[7:0005,00FF]What would you like to 'ear?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:NWD_NPC04_ep08_SEL,segment:0"
+msgid "<start>Shop rumors"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Zis is what I 'ear as I walk\n"
+"around the Capital.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:NWD_NPC01_ep08_SEL02,segment:0"
+msgid "<start>Telephone girl rumor"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Zis mysterious telephone girl...\n"
+"Do you not know of 'er?\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_03,segment:1"
+msgid ""
+"<start>Alors, ze poor girl [2:0004,00FF]is dead[2:0001,00FF]. It is\n"
+"a sad story to break one's 'eart.\n"
+"Quelle dommage...\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_03,segment:2"
+msgid ""
+"<start>Anyway, as zey built ze Capital,\n"
+"ze phone booths became commonplace.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_03,segment:3"
+msgid ""
+"<start>Some say zey occasionally 'ear\n"
+"ze phone begin to ring suddenly,\n"
+"with no one on ze other end.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_03,segment:4"
+msgid ""
+"<start>At least, ze humans cannot 'ear\n"
+"who is calling.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_03,segment:5"
+msgid ""
+"<start>Only ze [2:0004,00FF]demons who knew ze girl\n"
+"very well[2:0001,00FF] can 'ear who is speaking.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_03,segment:6"
+msgid ""
+"<start>Zis is important, what I am telling you!\n"
+"You should be writing it down.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_03,segment:7"
+msgid ""
+"<start>I wonder, 'ow would you know\n"
+"which demon knew zis girl? A 'ard\n"
+"rumor to test, non?\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Ze Training Hall? Mais oui, I thought\n"
+"every summoner knew about zis.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_04,segment:1"
+msgid ""
+"<start>Zere is no better place to 'one\n"
+"your skills.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_04,segment:2"
+msgid ""
+"<start>Not only zat, but zey 'old many\n"
+"secrets for ze enterprising summoner.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_04,segment:3"
+msgid ""
+"<start>Zere are four branches to ze\n"
+"Training Hall.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_04,segment:4"
+msgid ""
+"<start>But, you will have to cross ze sea\n"
+"to reach them. Are you writing\n"
+"zis down?\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Zere are four branches to ze\n"
+"Training Hall.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_05,segment:1"
+msgid ""
+"<start>Each one 'as ze peculiarities.\n"
+"I'll tell you about zem.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_05,segment:2"
+msgid ""
+"<start>Devil Summoners challenge ze\n"
+"Training Halls to obtain, how\n"
+"you say, ze treasure.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_05,segment:3"
+msgid ""
+"<start>'owever, ze summoners zemselves\n"
+"do not face zese challenges. Only\n"
+"zere demons can do it.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_05,segment:4"
+msgid ""
+"<start>Why do you not have ze book to\n"
+"write zis down? It is important!\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Ahh, yes, one other thing. Zis is\n"
+"'ard to believe, but you should\n"
+"know.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_06,segment:1"
+msgid ""
+"<start>Zere 'ave been sightings of a cow\n"
+"with ze 'uman face lately, around\n"
+"ze Capital.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_06,segment:2"
+msgid ""
+"<start>It is not easy to find, and zey say\n"
+"it runs away as soon as people\n"
+"see it.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep08_06,segment:3"
+msgid ""
+"<start>If you should see such a thing,\n"
+"you will let me know, oui? Bon\n"
+"soir, Monsieur Summoner.\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep11_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Ah! It is ze privilege to see you again,\n"
+"Monsieur Summoner! ...What is\n"
+"ze matter?\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep11_01,segment:1"
+msgid ""
+"<start>Where is ze kitty you always 'ave\n"
+"with you?\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep11_01,segment:2"
+msgid ""
+"<start>Un chat adorable, it was. Is ze kitty\n"
+"on 'oliday?\n"
+"<end>"
+msgstr ""
+
+#. La femme exotique
+msgctxt "type:0,entry:NWD_NPC04_ep11_01,segment:3"
+msgid ""
+"<start>You will bring it back with you\n"
+"next time, oui?\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep02_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]So, you're the punk who claimed\n"
+"the name of Raidou, huh?\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep02_01,segment:1"
+msgid ""
+"<start>Well, to me you look like a scrawny\n"
+"kid who doesn't know fusion from\n"
+"fewmets.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep02_01,segment:2"
+msgid ""
+"<start>If you want to become a summoner\n"
+"in the big leagues, you better listen to\n"
+"my advice.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep02_01,segment:3"
+msgid ""
+"<start>[7:0005,00FF]You been going to the Gouma-Den\n"
+"regularly?\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep02_01,segment:4"
+msgid ""
+"<start>Victor's always got a new experiment\n"
+"brewing. Sometimes he comes up with\n"
+"a totally new process.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep02_01,segment:5"
+msgid ""
+"<start>No harm checking in there once in\n"
+"a while.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep03_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Did you know your sword's power\n"
+"changes depending on which demon\n"
+"you fuse it with? 's true.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep03_01,segment:1"
+msgid ""
+"<start>Some of them will boost not just\n"
+"the sword, but give a little power\n"
+"to the wielder as well.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep03_01,segment:2"
+msgid ""
+"<start>No harm in trying out different\n"
+"fusions, so don't be afraid.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep03_01,segment:3"
+msgid ""
+"<start>Your elemental affinity changes\n"
+"with the sword, too.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep03_01,segment:4"
+msgid ""
+"<start>Sometimes you might want different\n"
+"types of swords depending on what\n"
+"you'll be facing out there.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep04_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You think you know everything,\n"
+"do you? Well, listen up, boy, cause\n"
+"there's still Pagan and Skill demons.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep04_01,segment:1"
+msgid ""
+"<start>If you fuse them, forget everything\n"
+"you knew about skill inheritance.\n"
+"They're a whole different story.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep04_01,segment:2"
+msgid ""
+"<start>If you can use them well, though,\n"
+"you can make some really heavy\n"
+"hitters.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep05_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Skill inheritance isn't random,\n"
+"boy. There's a pattern to it you\n"
+"have to learn how to see.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep05_01,segment:1"
+msgid ""
+"<start>It's got to do with the phase of\n"
+"the moon during fusion, and the\n"
+"looks of the demon to be fused.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep05_01,segment:2"
+msgid ""
+"<start>If you don't like the skill it'll\n"
+"inherit, you can try waiting for\n"
+"the moon to wax or wane.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep06_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You been using the Devil Chart?\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep06_01,segment:1"
+msgid ""
+"<start>The smart play is to register demons\n"
+"when their Loyalty is high.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep06_01,segment:2"
+msgid ""
+"<start>That'll make your job a lot easier\n"
+"when it comes time for fusion.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep06_01,segment:3"
+msgid ""
+"<start>Of course, it might get a little hard\n"
+"on your wallet, but you seem like\n"
+"a rich kid.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep07_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Even you must have noticed by now\n"
+"that there's a limit to how much a\n"
+"given demon's abilities can grow.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep07_01,segment:1"
+msgid ""
+"<start>You could just always fuse demons\n"
+"who've hit their peak, but...\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep07_01,segment:2"
+msgid ""
+"<start>If you use incense, you can raise\n"
+"a demon's limit by increasing its\n"
+"basic stats.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep07_01,segment:3"
+msgid ""
+"<start>Your favorite demon with ultimate\n"
+"powers... it's every summoner's\n"
+"dream, kid.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep08_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I've heard you've trounced a lot of\n"
+"powerful demons. Not bad, kid.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep08_01,segment:1"
+msgid ""
+"<start>Question is, did you know\n"
+"you could control the big boys?\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep08_01,segment:2"
+msgid ""
+"<start>By using fusion at the Gouma-Den,\n"
+"you can make an ally out of any\n"
+"past enemy.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep08_01,segment:3"
+msgid ""
+"<start>You've seen their power with your\n"
+"own eyes... Don't tell me you wouldn't\n"
+"want them on your side.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep09_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Demon fusion isn't an exact\n"
+"science, whatever Victor tells\n"
+"you. Accidents do happen.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep09_01,segment:1"
+msgid ""
+"<start>Sometimes it works in your favor,\n"
+"like if you get a demon you\n"
+"weren't expecting through Binary.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep09_01,segment:2"
+msgid ""
+"<start>But, sometimes you'll lose your\n"
+"demon for nothing in Sacrifice,\n"
+"and them's the breaks.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep09_01,segment:3"
+msgid ""
+"<start>It does seem like there are some\n"
+"conditions that'll cause accidents\n"
+"more often, though...\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_ep09_01,segment:4"
+msgid ""
+"<start>Watch out for 'em.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_EP10_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You never know what'll happen in\n"
+"a fusion accident, but it's not\n"
+"always a bad thing.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_EP10_01,segment:1"
+msgid ""
+"<start>Sometimes, a demon with a higher\n"
+"level than yours will be born...\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_EP10_01,segment:2"
+msgid ""
+"<start>In a Sacrifice accident, the demon\n"
+"might get a bigger boost than you\n"
+"were expecting.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_EP10_01,segment:3"
+msgid ""
+"<start>If you're sure you won't regret\n"
+"it, you could always try to make\n"
+"an accident happen on purpose.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_EP11_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I've got a new theory on the way\n"
+"demons inherit skills in Binary.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_EP11_01,segment:1"
+msgid ""
+"<start>You were paying attention before\n"
+"when I told you about a law\n"
+"governing skill inheritance, right?\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_EP11_01,segment:2"
+msgid ""
+"<start>Well, it seems the law changes\n"
+"during a full moon, new moon,\n"
+"young moon, and waning moon.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_EP11_01,segment:3"
+msgid ""
+"<start>During the new moon, I've heard\n"
+"you can do fusions where the\n"
+"demon doesn't inherit any skills.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_EP11_01,segment:4"
+msgid ""
+"<start>It seems like a dumb idea at\n"
+"first, but if you're smart about\n"
+"it, it can come in handy.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_EP11_01,segment:5"
+msgid ""
+"<start>If you want to know how, figure it\n"
+"out, kid. I can't be around to\n"
+"hold your hand forever.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_EP12_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You still playing the rookie, kid?\n"
+"That act isn't fooling anyone\n"
+"anymore.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_EP12_01,segment:1"
+msgid ""
+"<start>I don't have anything left to tell you\n"
+"about fusion.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_EP12_01,segment:2"
+msgid ""
+"<start>A veteran summoner like you is\n"
+"too sharp to need my advice.\n"
+"<end>"
+msgstr ""
+
+#. Bandaged drunkard
+msgctxt "type:0,entry:NWD_NPC05_EP12_01,segment:3"
+msgid ""
+"<start>Good luck out there, pal.\n"
+"<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP02_01_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]If you manage to catch the Red Cape\n"
+"at Kurisu-zaka during the full moon...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP02_01_1,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]You better give your old pal\n"
+"Kichou Asakura the exclusive!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP02_01_2,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]I'm counting on you, Raidou!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP02_02_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]Oh, Raidou. Did you see the\n"
+"Red Cape?\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAE_EP02_SEL,segment:0"
+msgid "<start>Yes, I did."
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP02_03_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]R-Really!? Show me where! I-I need\n"
+"to get a photo...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP02_03_1,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]...What? He ran away?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP02_03_2,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]What kind of detective lets a\n"
+"crook like the Red Cape get off\n"
+"scot-free!?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP02_03_3,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]Maybe it's me, but I think that\n"
+"Narumi sap is starting to rub\n"
+"off on you, Raidou...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP02_04_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]That's strange... I heard it from\n"
+"a reliable source...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP02_04_1,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]Sorry Raidou, but I guess you'll\n"
+"have to carry on with the\n"
+"investigation.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP02_04_2,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]Here, have a little extra for\n"
+"expenses. I won't tell Narumi...\n"
+"Good luck.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP04_01_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]Raidou...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP04_01_1,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]You didn't see anything...\n"
+"peculiar at Daidouji Factory\n"
+"the other day, did you?\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAE_EP04_SEL,segment:0"
+msgid "<start>Sure did."
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP04_02_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]...You did? You did!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP04_02_1,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]Was it... It didn't happen to be...\n"
+"Floating dolls, maybe...?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP04_02_2,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]N-Never mind. Forget I spoke.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP04_02_3,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]I won't press you about it...\n"
+"But, gosh Raidou, you are a\n"
+"strange one.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP04_03_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]I-I see. Well, that's okay...\n"
+"Forget I said anything.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP04_03_1,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF]Must've been a dream... I don't\n"
+"know what else to call it.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP04_04_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]A little bird told me you're\n"
+"investigating Harumi-Cho now,\n"
+"Raidou.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP04_04_1,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]Speaking of which, it seems any\n"
+"merchant bearing Japanese colors\n"
+"is being attacked.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP04_04_2,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]Some say monsters are doing it...\n"
+"But I think the real story is\n"
+"something different.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP04_04_3,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]That foreign trader who came to\n"
+"power right when the attacks\n"
+"started happening? Elfman?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP04_04_4,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]I think if anything needs\n"
+"investigating around here,\n"
+"it's him.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP06_01_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]Some construction workers at a\n"
+"Ginza-Cho site found a jizo statue.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP06_01_1,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]Sounds to me like it's worth\n"
+"checking out. Why dont you hop\n"
+"to it, Raidou?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP07_01_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]Something wrong, Raidou? You look\n"
+"a little green around the gills.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP07_01_1,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]Narumi's got you running ragged,\n"
+"hasn't he?\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAE_EP07_SEL,segment:0"
+msgid "<start>Yes, he has."
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP07_02_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]I knew it!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP07_02_1,segment:0"
+msgid ""
+"<start>That lazy piker always makes you do\n"
+"all the work! Some nerve, calling\n"
+"it the Narumi Detective Agency!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP07_02_2,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]You should go on strike, Raidou.\n"
+"Hold out for better wages or at\n"
+"least some vacation time.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP07_03_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]If you say so...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP07_03_1,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]Seems to me you'd be more\n"
+"productive if you rested once in\n"
+"a while, but what do I know?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP07_03_2,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]C'mon, come sit next to me and\n"
+"have a soda. Narumi doesn't have\n"
+"to know if you take a minute off.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP08_01_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]You're just in time, Raidou.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP08_01_1,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]I just got a juicy tip. Want to hear it?\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAE_EP08_SEL,segment:0"
+msgid "<start>Sure."
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP08_02_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]I was digging up dirt on the Red Cape,\n"
+"and guess what I found?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP08_02_1,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]Sightings have been concentrated at\n"
+"five locations across the Capital...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP08_02_2,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]And all five correspond with those\n"
+"radio towers the Army is building!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP08_02_3,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]Too perfect to be a coincidence,\n"
+"isn't it?  Well, I thought so.\n"
+"Look into it for me, Raidou.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP08_03_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]Well, your loss. Come back if you\n"
+"change your mind.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP10_01_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]Narumi came around here not long\n"
+"ago...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP10_01_1,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]For once, that bum looked serious.\n"
+"\"Keep your investigation on the\n"
+"down low,\" he said.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP10_01_2,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]Ha! As if Kichou Asakura would be\n"
+"scared off by the warnings of\n"
+"someone like Narumi!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP10_01_3,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]...That's what I've got to say to\n"
+"him. So please, Raidou, bring him\n"
+"back safely.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP11_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]Whew! You're a lifesaver, Raidou.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP11_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]I was just sitting here organizing\n"
+"my notes on Harumi-Cho, and I lost\n"
+"the whole morning to that pill!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP11_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]Sheesh... Sometimes, beauty like\n"
+"mine is is more trouble than it's\n"
+"worth.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP12_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]Do what you have to do with\n"
+"confidence.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP12_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0008,00FF,0006,00FF]I'll be rooting for you, Raidou.\n"
+"[23:]<end>"
+msgstr ""

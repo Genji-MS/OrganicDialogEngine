@@ -1,0 +1,402 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Soul
+msgctxt "type:0,entry:F29_AREA1_NPC1,segment:0"
+msgid ""
+"<start>[7:FF07]This subway leads to Yoyogi Park.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F29_AREA2_NPC1,segment:0"
+msgid ""
+"<start>[7:FF07]Yoyogi's the place where a bunch of\n"
+"demonstrators died, right?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F29_AREA2_NPC1,segment:1"
+msgid ""
+"<start>That's scary!!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F29_AREA2_NPC2,segment:0"
+msgid ""
+"<start>[7:FF07]Hey you!! How many times do I have\n"
+"to tell you?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F29_AREA2_NPC2,segment:1"
+msgid ""
+"<start>Stay behind the white line!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F29_AREA2_NPC3,segment:0"
+msgid ""
+"<start>[7:FF07]There still seems to be demons\n"
+"running around Yoyogi.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F29_AREA2_NPC4,segment:0"
+msgid ""
+"<start>[7:FF07]Are you going to Yoyogi Park to\n"
+"participate in the demonstration?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F29_AREA7_NPC1,segment:0"
+msgid ""
+"<start>[7:FF07]Violence cannot be forgiven!!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F29_AREA7_NPC2,segment:0"
+msgid ""
+"<start>[7:FF07]We are demonstrators that work\n"
+"hard to make a better city!!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F29_AREA7_NPC3,segment:0"
+msgid ""
+"<start>[7:FF07]Apathy is not the answer! We must\n"
+"fight for what we believe in!!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F29_AREA7_NPC4,segment:0"
+msgid ""
+"<start>[7:FF07]What the heck?! What's up with all\n"
+"these souls?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F29_AREA7_NPC5,segment:0"
+msgid ""
+"<start>[7:FF07]For a future without discrimination!\n"
+"For a city our children can play in!!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F29_AREA8_NPC1,segment:0"
+msgid ""
+"<start>[7:FF07]Yoyogi Park is just beyond the exit.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F29_AREA8_NPC1,segment:1"
+msgid ""
+"<start>Now, let's join together and fight for\n"
+"our beliefs!!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F29_AREA8_NPC2,segment:0"
+msgid ""
+"<start>[7:FF07]Protect our children from\n"
+"the temptations of juvenile\n"
+"delinquency!!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F29_AREA8_NPC3,segment:0"
+msgid ""
+"<start>[7:FF07]I'll fight it, even if I'm the only one\n"
+"doing it!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F29_AREA8_NPC3,segment:1"
+msgid ""
+"<start>I demand that the government not\n"
+"not censor my pornography!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F29_AREA8_NPC3,segment:2"
+msgid ""
+"<start>...Oops.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EXITWARP,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you leave the area?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EXITWARP_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a Mystical Chest.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HOSEKI_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Mystical Chest.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA,segment:0"
+msgid ""
+"<start>[7:FF07]> You see a Cache Cube.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAKARA_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Cache Cube.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_STILLGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DH_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"the Magatama [2:FF05][3:FF01][2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_MAKA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01] Macca[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:0"
+msgid ""
+"<start>[7:FF07]> It's a trap.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:1"
+msgid ""
+"<start>> Your party took damage.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_KARAGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:0"
+msgid ""
+"<start>[7:FF07]> [3:FF03] found something.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:1"
+msgid ""
+"<start>[7:FF07]............\n"
+"> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_OPENERROR,segment:0"
+msgid ""
+"<start>[7:FF07]> It can't be used here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_LIGHTMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The light effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_ESTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The repel effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REBERAMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The attract effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REFUTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The levitation effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:WARP_ELV_MSG,segment:0"
+msgid ""
+"<start>[7:FF07]> Select a floor.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL1,segment:0"
+msgid "<start>[3:FF01][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL2,segment:0"
+msgid "<start>[3:FF02][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL3,segment:0"
+msgid "<start>[3:FF03][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL4,segment:0"
+msgid "<start>[3:FF04][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL5,segment:0"
+msgid "<start>[3:FF05][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL6,segment:0"
+msgid "<start>[3:FF06][80EA]"
+msgstr ""
+
+msgctxt "type:0,entry:F029_MANE_DEAD,segment:0"
+msgid ""
+"<start>[7:FF07]> There is no response from\n"
+"the Manikin.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F029_MANE01,segment:0"
+msgid ""
+"<start>[7:FF07]J-J-Just awhile back, Sakahagi...\n"
+"went to Yoyogi...\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F029_MANE01,segment:1"
+msgid ""
+"<start>Th-Th-Thank goodness it was\n"
+"dark...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F029_SINEN01_01,segment:0"
+msgid ""
+"<start>[7:FF07]A vicious-looking Manikin passed\n"
+"by a short while back.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F029_SINEN01_01,segment:1"
+msgid ""
+"<start>After that, a female human passed\n"
+"by.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F029_SINEN01_01,segment:2"
+msgid ""
+"<start>It's usually quiet here, but...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F029_SINEN01_02,segment:0"
+msgid ""
+"<start>[7:FF07]This is a rather quiet place,\n"
+"compared to Tokyo in general.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F029_SINEN02_01,segment:0"
+msgid ""
+"<start>[7:FF07]Yoyogi Park is the place that\n"
+"all the fairies are guarding.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F029_SINEN02_01,segment:1"
+msgid ""
+"<start>That vicious Manikin won't be able\n"
+"to do anything just by himself.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F029_SINEN02_02,segment:0"
+msgid ""
+"<start>[7:FF07]That lady who was heading to\n"
+"Yoyogi Park was lookin' fiiiiiine!\n"
+"<end>"
+msgstr ""

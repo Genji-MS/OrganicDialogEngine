@@ -1,0 +1,4908 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 28/03/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+msgctxt "type:0,entry:EPI01_SCENE01_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Taisho year 20, the Capital...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE01_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I look outside and see the same\n"
+"old scenery, every day.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE01_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The bright sun... the hazy sky...\n"
+"People going about their\n"
+"business...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE01_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Every one of them doing the\n"
+"same thing like clockwork.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE01_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]All it would take is a little of\n"
+"the demonic in their lives...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE01_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...to give their world a little\n"
+"occult spice.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE01_06B,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I'm a private detective who\n"
+"specializes in that sort of\n"
+"case.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE01_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The bright sun darkens, and the\n"
+"hazy sky becomes gray, signaling\n"
+"the bad news ahead.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE01_08,segment:0"
+msgid ""
+"<start>[7:0005,00FF]It's under that type of sky that\n"
+"I get work, investigating the\n"
+"certain catastrophe to come.\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:EPI01_SCENE01_09,segment:0"
+msgid ""
+"<start>[22:0018,00FF,0006,00FF][7:0005,00FF][2:0002,00FF]Narumi Detective Agency[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Girl's voice
+msgctxt "type:0,entry:EPI01_SCENE01_10,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hello...? Um, is this the Narumi\n"
+"Detective Agency?\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE01_11,segment:0"
+msgid ""
+"<start>[22:0018,00FF,0006,00FF][7:0005,00FF]That's what I said.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Girl's voice
+msgctxt "type:0,entry:EPI01_SCENE01_12,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Are you the detective? I heard\n"
+"there's no caper you can't solve.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE01_13,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0018,00FF,0006,00FF]Cute.  But, we only take the...\n"
+"special cases, if you catch\n"
+"my meaning.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Girl's voice
+msgctxt "type:0,entry:EPI01_SCENE01_14,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I... I have this problem. And, I\n"
+"don't really know what to do.\n"
+"I want to talk to you about it.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE01_16,segment:0"
+msgid ""
+"<start>[22:0018,00FF,0006,00FF][7:0005,00FF]Uh huh...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Girl's voice
+msgctxt "type:0,entry:EPI01_SCENE01_17,segment:0"
+msgid ""
+"<start>[7:0005,00FF]So, um... Could you meet me at\n"
+"the [2:0002,00FF]Ushigome-gaeri Bridge[2:0001,00FF] right away?\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE01_18,segment:0"
+msgid ""
+"<start>[22:0018,00FF,0006,00FF][7:0005,00FF]Listen kid, I'm sure you're a nice\n"
+"bird, but I'm not in the mood for\n"
+"prank calls. Where are your parents?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Girl's voice
+msgctxt "type:0,entry:EPI01_SCENE01_19,segment:0"
+msgid ""
+"<start>[7:0005,00FF]No, I mean it! I'm telling you\n"
+"straight! Please, sir! Please help!\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE01_20,segment:0"
+msgid ""
+"<start>[22:0018,00FF,0007,00FF][7:0005,00FF]...Hey! Hello...?\n"
+"You there, kid!?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE01_21,segment:0"
+msgid ""
+"<start>[22:0018,00FF,0006,00FF][7:0005,00FF]Wonder what that's about.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE01_22,segment:0"
+msgid ""
+"<start>[22:0018,00FF,0006,00FF][7:0005,00FF]...She did say please.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE01_27,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Well, [2:0004,00FF]Ichijo-modori Bridge is nearby[2:0001,00FF].\n"
+"[2:0004,00FF]Let's go have a look[2:0001,00FF], Raido.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE01_02_01_01,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]What do you make of all that\n"
+"business last night?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE01_02_01_02,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I've heard a lot of weird rumors\n"
+"about that bridge.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE01_02_01_03,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]You know what they say, right?\n"
+"...About people disappearing and\n"
+"then showing up outta nowhere?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE01_02_02,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Think that could be what we\n"
+"witnessed back there?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE01_02_03,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Still... a girl asking us to kill her?\n"
+"That's slightly disturbing.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE01_02_03,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...Not to mention the red soldier guys.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE01_02_04,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Hey Raidou, think you can find out\n"
+"who that bird was? Maybe her name\n"
+"or something?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE01_02_05,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]It's bad business to have a client\n"
+"vanish right under our nose. We\n"
+"should at least look into it.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI01_SCENE01_02_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...This case does seem a bit\n"
+"out of the ordinary.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI01_SCENE01_02_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Narumi's right. Let's investigate\n"
+"this further, [12:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE01_02_08,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Being a detective is all about legwork.\n"
+"That is, your legwork, as you ask\n"
+"around town for information.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE01_02_09,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I'd go, but it's easier for you to\n"
+"do it anyway. You know, with\n"
+"those demons of yours.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE17_01,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Hey there, Raido. How's the\n"
+"investigation going?\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE17_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raido told Narumi about the\n"
+"girl's diary and ths overheard\n"
+"conversation.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE17_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]......\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE17_04,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]So, a possessed dame held\n"
+"captive underground... you\n"
+"don't say.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE17_05,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]That stuff her uncle told her...\n"
+"And those guys you overheard...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE17_06,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I dunno who that uncle character\n"
+"was talking to, but it sounded\n"
+"pretty interesting, don't you think?[23:]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EPI01_SCENE17_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE17_07,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Looks like you're getting the hang\n"
+"of detective work, Raido.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE17_08,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]If you [2:0002,00FF]tap[2:0001,00FF] that conversation, you\n"
+"might learn something.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE17_09,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...You just aren't getting it, are\n"
+"you Raido? Let me teach you\n"
+"something about detective work.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE17_10,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Those two were talking about\n"
+"Kaya, right?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE17_11,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Don't you think you might learn\n"
+"something if you [2:0002,00FF]tap[2:0001,00FF] that\n"
+"conversation?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE17_12,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Which means... use a demon to\n"
+"investigate further.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE17_13,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...Now, who could he be talking\n"
+"to? And, about what?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE17_14,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Maybe you'll learn something\n"
+"about where Kaya's being held.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE17_15,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I'm counting on you.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE19_01,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Hey, Raidou. How's the investigation\n"
+"going?\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE19_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou told Narumi about the\n"
+"developments thus far.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE19_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]......\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE19_04,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]So the bird thought she'd be\n"
+"possessed by a demon, and she's\n"
+"imprisoned underground somewhere.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE19_05,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...The head of the Daidouji family\n"
+"has taken ill, and well...\n"
+"We watched Kaya get abducted.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE19_06,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]So generally, I would say that\n"
+"her uncle, Kiyoshi, is suspicious.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE19_07,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Let's say he wants to inherit his\n"
+"family's wealth... That still wouldn't\n"
+"explain everything.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE19_08,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Kaya contacted us. Just as\n"
+"we were getting somewhere, she\n"
+"was abducted by those men.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE19_09,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]So... who were they? Where'd\n"
+"they take her? We also need to\n"
+"know who Kiyoshi was talking to.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE19_10,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...These aren't things we can figure\n"
+"out on our own. You'll have to go\n"
+"back to the Daidouji Residence.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE19_11,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Have a chat with Kiyoshi. Find out\n"
+"who the other man was.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE23_01,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Geez... Of course we'd get dragged\n"
+"into something crazy like this,\n"
+"Raidou.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE23_02,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]What started as a kidnapping is\n"
+"now an ancient family secret...\n"
+"and demons are involved.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE23_03,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...Not to mention the girl's uncle\n"
+"turning into a monster and charging\n"
+"off to God-knows-where.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE23_04,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Did you ever stop to consider a\n"
+"normal life? Hm? You bring in\n"
+"the strangest cases. Seriously.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI01_SCENE23_05,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...But, the police could never handle\n"
+"demons. *sigh* What do you think\n"
+"we should do next?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI01_SCENE23_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]This is no ordinary caper, now that\n"
+"demons are involved.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI01_SCENE23_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF]No matter what Narumi says, he\n"
+"knows you're the only one who can\n"
+"solve this and protect the Capital.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI01_SCENE23_08,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...That red-caped monster is our\n"
+"only lead right now. We have to\n"
+"track him down.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI01_SCENE23_09,segment:0"
+msgid ""
+"<start>[7:0005,00FF]But, we don't know where he skipped\n"
+"off to, do we? ...Let's rest for now.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI01_SCENE23_10,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Kaya being abducted, and Kiyoshi\n"
+"turning into a monster...\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI01_SCENE23_11,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...This is just the beginning.\n"
+"Sooner or later, we'll find something\n"
+"that ties everything together.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI01_SCENE23_12,segment:0"
+msgid ""
+"<start>[7:0005,00FF]That's when we can make our move,\n"
+"[12:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE23_13,segment:0"
+msgid ""
+"<start>[7:0005,00FF]And thus, Raidou took the case.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE23_14,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Neither he nor Narumi suspected the\n"
+"the forces responsible would shake\n"
+"the Capital to its very foundation.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE23_15,segment:0"
+msgid ""
+"<start>[7:0005,00FF][8498][8486][86A3][8080][8DA1]\n"
+"Episode 1  -  End\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE01_01,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Okay, so whaddya want?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE01_02,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]We've got a lot of work to do here,\n"
+"so if you just want to hang out,\n"
+"do it somewhere else.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_03,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0007,00FF][7:0005,00FF]Hang out? Excuse me! I came here\n"
+"today as a client!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE01_04,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0007,00FF][7:0005,00FF]Ohhhhh no! No way, no how.\n"
+"Now beat it, y'hear?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE01_05,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Take your noise somewhere else.\n"
+"Like I said, we're really busy.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_06,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Really?\n"
+"\"Really busy,\" huh?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_07,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]If you're going to feed me lines,\n"
+"I'd appreciate it if you did a\n"
+"better job.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_08,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Are you guys honestly that busy,\n"
+"Raidou?[23:]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EPI02_SCENE01_SEL,segment:0"
+msgid "<start>Nod"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_09,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]*gasp* Not you too!\n"
+"Do you see that, Mr. Narumi?\n"
+"You're a bad influence.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_09_02,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Just let me say my piece--\n"
+"it won't take long.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_10,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]See that? It's nice to have an\n"
+"honest detective in this town.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_10_02,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Just be a man and listen to me\n"
+"for a minute, okay?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE01_11,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Fine, okay. You made your point,\n"
+"dollface. I'm listening.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE01_11,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]So, what's the caper? Did you drop\n"
+"your wallet somewhere?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_12,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]I was on my way to [2:0002,00FF]Ryugu[2:0001,00FF] in\n"
+"Ginza-Cho for an interview\n"
+"the other day.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_12,segment:1"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]So, on the way back, I spotted\n"
+"a big crowd in front of the\n"
+"restaurant...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_12,segment:2"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]I asked for the skinny, and this guy\n"
+"tells me the [2:0002,00FF]Red Cape[2:0001,00FF] had shown up.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE01_13,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0007,00FF][7:0005,00FF]The Red Cape!?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_14,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]That's right. I figured you would've\n"
+"heard of him.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_14,segment:1"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]He's some strange fella who's been\n"
+"seen all over the Capital--\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE01_15,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...supposedly to kidnap children\n"
+"and attack the elderly.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_16,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Before that, I had assumed he was\n"
+"just a fictional character.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_16,segment:1"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]...Just a rumor started by all the\n"
+"anxiety of the Capital today.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_17,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]But, this is a photo I took right as I\n"
+"left the restaurant...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_17,segment:1"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Take a look.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI02_SCENE01_18,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...Unthinkable! That's the monster\n"
+"ol' Daidouji turned into!\n"
+"<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_19,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]This would be enough to change\n"
+"anyone's mind.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_19,segment:1"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]The Red Cape's no rumor...\n"
+"He really exists right there,\n"
+"clear as day!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE01_20,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...And, you want us to catch this\n"
+"Red Cape?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_21,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Exactly! How'd you know?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_21,segment:1"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]You couldn't let a mystery like this\n"
+"slip by, could you?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE01_22,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Slow down there, Tae. No reason\n"
+"to put myself in harm's way.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_23,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Are you sure about that? The owner of\n"
+"Ryugu told me something interesting\n"
+"during our interview...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_23,segment:1"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]How are you going to pay all\n"
+"those bills, Mr. Narumi? Aren't\n"
+"they stacking up pretty high?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE01_24,segment:0"
+msgid ""
+"<start>[7:0005,00FF]......\n"
+"<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_25,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]I don't mind paying in advance.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE01_26,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0007,00FF][7:0005,00FF]Say no more!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE01_26,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0007,00FF][7:0005,00FF]We would be honored to accept\n"
+"your request, Ms. Asakura!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_27,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]...*sigh*\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_27_02,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]At any rate, I figure you'll want\n"
+"to hold onto this picture for\n"
+"the investigation.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE01_28,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Here you go, Raidou. It's time\n"
+"for you to rustle up some info\n"
+"on Red Cape.\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI02_SCENE01_29,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou obtained the\n"
+"[2:0005,00FF]Photo of Red Cape[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI02_SCENE01_30,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...Yeah, that's mutated Kiyoshi,\n"
+"alright. No doubt about it.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI02_SCENE01_31,segment:0"
+msgid ""
+"<start>[7:0005,00FF]We let him escape from the\n"
+"Daidouji Residence, but we'll\n"
+"get him this time.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI02_SCENE01_32,segment:0"
+msgid ""
+"<start>[7:0005,00FF]It's a good thing he turned up,\n"
+"at any rate...\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI02_SCENE01_32,segment:1"
+msgid ""
+"<start>If we can nab him, it should get us\n"
+"one step closer to finding Kaya.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI02_SCENE01_32_tuika,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> [2:0004,00FF]Ginza-Cho[2:0001,00FF] can now be reached\n"
+" on the Main Map.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE01_33,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0007,00FF][7:0005,00FF]...So, Tae, baby!\n"
+"Where's that money?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_34,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Uh... Come to think of it,\n"
+"I don't have any cash on me.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_34,segment:1"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]I am sorry.\n"
+"I'll just have to pay you later.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE01_34,segment:2"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]I'm sure I can get you the money\n"
+"before Raidou wraps up this\n"
+"investigation.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE01_35,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0007,00FF][7:0005,00FF]Tch... dames.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE17_01,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Hey Raidou, any progress in\n"
+"the investigation?\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI02_SCENE17_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou updated Narumi on\n"
+"the case.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE17_03,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Let me sort this out...\n"
+"Kiyoshi Daidouji was a regular\n"
+"at Ryugu...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE17_03,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...and the red-caped monster\n"
+"appeared in that area.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE17_04,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]We've been after Red Cape because\n"
+"of Tae, but...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE17_05,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...it might get us somewhere in\n"
+"the Daidouji case.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE17_06,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]*sigh* I guess we should be happy\n"
+"we're getting all these cases...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE17_07,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Raidou, I want you to stay on\n"
+"the Red Cape's trail,\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE17_08,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]cause we don't get paid until\n"
+"you nab the Red Cape.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE17_09,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0003,00FF,0006,00FF]...Which reminds me!\n"
+"Tae called earlier.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE17_10,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]She was checking in on you...\n"
+"Ahhh, I don't really like that. She's\n"
+"our client, not our boss.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE17_11,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]But, I'm buried in work here as\n"
+"it is, so... Can you take care of\n"
+"that, too?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE17_12,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Tae said she had found out something\n"
+"important, and wanted to talk to us\n"
+"about it.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE17_TUIKA01,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...I personally think we're doing fine\n"
+"on our own--but we have to keep\n"
+"things copacetic with our client.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE17_13,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Tae's putting her article together\n"
+"at the soda joint in Ginza.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE17_TUIKA02,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]So, do me a favor and go listen\n"
+"to whatever she has to say.\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI02_SCENE17_14,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The phone rang.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE17_15,segment:0"
+msgid ""
+"<start>[22:0018,00FF,0006,00FF][7:0005,00FF]...Narumi Detective Agency.\n"
+"Who is this?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Ryugu
+msgctxt "type:0,entry:EPI02_SCENE17_16,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I haven't seen you around lately,\n"
+"Mr. Narumi.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE17_17,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...!?\n"
+"<end>"
+msgstr ""
+
+#. Owner of Ryugu
+msgctxt "type:0,entry:EPI02_SCENE17_18,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I was wondering if we could\n"
+"discuss your running tab...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI02_SCENE17_19,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...This is going to take a while,\n"
+"so we should head over to the\n"
+"soda joint.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_01,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...I wish I could wrap my head around\n"
+"all this Red Cape business.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_02,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Daidouji and Denpachi were\n"
+"acquaintances, right?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_03,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...But, what would cause both men\n"
+"to turn into Red Cape?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_04,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Not only that, but I just spoke to\n"
+"Tae over the phone.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_04,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I asked when she planned on paying\n"
+"us, since we found Red Cape.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_05,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]So, she says to me...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_06,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]\"The same red-caped monster has\n"
+"been seen all across the Capital.\"\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_06,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Does that mean there are others\n"
+"besides Kiyoshi and Denpachi that\n"
+"can turn into Red Cape?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_07,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...Anyway, she's not going to pay\n"
+"us until we've solved the entire\n"
+"Red Cape mystery.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_07,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]How can she do this to us after\n"
+"you worked so hard? *sigh*\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_08,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]You know... I really do feel sorry\n"
+"for that Denpachi fellow.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_08,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Yeah, he committed a crime...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_08,segment:2"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]But, he deserved a better death\n"
+"than that, don't you think?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_09,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]He made an honest living running\n"
+"the rickshaw... He loved his sister...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_10,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Raidou... His last words were about\n"
+"Kiyoshi Daidouji, right?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_10,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I'd like you to check out the\n"
+"Daidouji Factory.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_10,segment:2"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]If we're going to find any leads\n"
+"into Kaya's abduction--they're\n"
+"going to be in that factory.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_11,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]We have to puzzle all this out\n"
+"before any more victims turn up.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_11,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Every man has a right to live\n"
+"normally and die normally...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_11,segment:2"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]This Red Cape business is\n"
+"simply unnatural...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_08_B,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Well, at least Denpachi survived\n"
+"in the end...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_08_B,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Yes, he committed a crime...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_08_B,segment:2"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]But, once he's made peace with\n"
+"that, he can go back to living an\n"
+"honest life like anyone else.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_09_B,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I'm sure his loving sister will be\n"
+"there for him through it all.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_10_B,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Hey, Raidou, Denpachi gave you\n"
+"information on Kiyoshi, right?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_10_B,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Would you mind checking out\n"
+"the Daidouji Factory?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_10_B,segment:2"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]It's probably our best chance of\n"
+"finding a lead in Kaya Daidouji's\n"
+"abduction.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_11_B,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...We can't let this Red Cape\n"
+"situation go on for much longer.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_11_B,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Normal, upstanding people shouldn't\n"
+"have to turn into monsters.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_11_B,segment:2"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]So, Raidou...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI02_SCENE29_11_B,segment:3"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]If we can't stop this, it's only going to\n"
+"get worse. [20:003D,0001]...I'm counting on you.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE01_01,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I took the liberty of digging up\n"
+"some dirt on that factory\n"
+"Denpachi mentioned.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE01_02,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]It's the Daidouji Factory, located\n"
+"in Fukagawa-Cho, Senju-Ku.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE01_03,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]It's owned by Kiyoshi Daidouji,\n"
+"so it must tie in somehow.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE01_04,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Business was fine for a while, but\n"
+"they've since gone bankrupt.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE01_05,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Kiyoshi did what he could,\n"
+"but I guess there was no way\n"
+"he could save the business.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE01_06,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]The factory's closed down and\n"
+"the land is up for sale to pay down\n"
+"his debt.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE01_07,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I assume he wanted to keep his\n"
+"factory... until the very end.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE01_08,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Raidou, I need you to go to the\n"
+"factory and see if Kiyoshi is\n"
+"hiding out there.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE01_08,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]But, be careful.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE01_08,segment:2"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Tae mentioned something...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE01_08,segment:3"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...I guess Red Cape's been seen\n"
+"around the factory.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE01_08,segment:4"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]She was real excited, and flapping\n"
+"about going there to get the scoop.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE01_08,segment:5"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I tried to tell her it'd be dangerous,\n"
+"but she wouldn't listen... Dames.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE01_08,segment:6"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]So uh, do me a favor, okay?\n"
+"While you're looking for Kiyoshi...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE01_08,segment:7"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...make sure Tae stays outta trouble\n"
+"too, wouldja?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE14_01,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...That certainly sounds like\n"
+"an ordeal, Raidou.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE14_02,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]A Dark Summoner...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE14_03,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]If I had to guess, I'd wager he's going to\n"
+"get in the way of our investigation.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE14_04,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]At least you were able to save\n"
+"those factory workers, right?\n"
+"Not to mention Tae.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE14_04,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...But, we can't sit by while that\n"
+"Dark Summoner continues doing\n"
+"who-knows-what.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE14_05,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]And, like you said...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE14_05,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]He knows where Kaya Daidouji is.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE14_06,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I still wish we had more to go on,\n"
+"but at least this is something.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE14_07,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Still, who could this Rasputin guy be,\n"
+"really?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI03_SCENE14_08,segment:0"
+msgid ""
+"<start>[22:0009,00FF,0006,00FF][7:0005,00FF]I have come with a missive of import\n"
+"for Raidou Kuzunoha the 14th...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE14_09,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...Hm?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE14_10,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Heeeey, how have you been?\n"
+"Fancy a drink? Maybe a smoke?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI03_SCENE14_11,segment:0"
+msgid ""
+"<start>[22:0009,00FF,0006,00FF][7:0005,00FF]Please spare the frivolity, this is\n"
+"an urgent matter.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI03_SCENE14_11,segment:1"
+msgid ""
+"<start>[22:0009,00FF,0006,00FF][7:0005,00FF]Raidou, I've come about the\n"
+"Dark Summoner you encountered.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI03_SCENE14_11,segment:2"
+msgid ""
+"<start>[22:0009,00FF,0006,00FF][7:0005,00FF]Rasputin is a Russian monk who,\n"
+"according to records, perished\n"
+"fifteen years ago.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI03_SCENE14_11,segment:3"
+msgid ""
+"<start>[22:0009,00FF,0006,00FF][7:0005,00FF]But, in actuality he is a Dark\n"
+"Summoner--one who is beyond\n"
+"our sphere of influence.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE14_12,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Hold the phone...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI03_SCENE14_13,segment:0"
+msgid ""
+"<start>[22:0009,00FF,0006,00FF][7:0005,00FF]We toil, using the power of Devil\n"
+"Summoners, to maintain peace\n"
+"in this world.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI03_SCENE14_13,segment:1"
+msgid ""
+"<start>[22:0009,00FF,0006,00FF][7:0005,00FF]Not only in Japan, but also other\n"
+"countries around the world.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI03_SCENE14_14,segment:0"
+msgid ""
+"<start>[22:0009,00FF,0006,00FF][7:0005,00FF]However... there are some who resent\n"
+"our control, and choose to reject\n"
+"this arrangement.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI03_SCENE14_15,segment:0"
+msgid ""
+"<start>[22:0009,00FF,0006,00FF][7:0005,00FF]However... there are some who choose\n"
+"to use their powers for selfish ends.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI03_SCENE14_15,segment:1"
+msgid ""
+"<start>[22:0009,00FF,0006,00FF][7:0005,00FF]We don't know the motives of such\n"
+"summoners, but their values are\n"
+"different from ours.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI03_SCENE14_15,segment:2"
+msgid ""
+"<start>[22:0009,00FF,0006,00FF][7:0005,00FF]We refer to them as Dark Summoners.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI03_SCENE14_16,segment:0"
+msgid ""
+"<start>[22:0009,00FF,0006,00FF][7:0005,00FF]Though we know not what they are\n"
+"after, we do know their skills are\n"
+"unmatched.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:EPI03_SCENE14_17,segment:0"
+msgid ""
+"<start>[22:0009,00FF,0006,00FF][7:0005,00FF]If you choose to approach Rasputin,\n"
+"use the utmost caution.\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI03_SCENE14_18,segment:0"
+msgid ""
+"<start>[22:0009,00FF,0006,00FF][7:0005,00FF]> The Herald of Yatagarasu left.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE14_19,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...Must really be dangerous if she\n"
+"came all this way.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE14_20,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...In any case...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE14_21,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...going after Rasputin is about all\n"
+"we can do at this point.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE14_22,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]The missing girl, the mystery of\n"
+"Red Cape, the Hiruko...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE14_23,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Rasputin's the only guy we know\n"
+"who has all the answers.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI03_SCENE14_24,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I'll work through the details a little\n"
+"bit later. You need to rest first.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE01_01,segment:0"
+msgid ""
+"<start>[22:0018,00FF,0006,00FF][7:0005,00FF]Right... Uh huh... Okay, thanks.\n"
+"I'll talk to you later.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE01_02,segment:0"
+msgid ""
+"<start>[22:0018,00FF,0006,00FF][7:0005,00FF]...I knew finding other clues\n"
+"wouldn't be easy.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE01_03,segment:0"
+msgid ""
+"<start>[22:0018,00FF,0006,00FF][7:0005,00FF]The only leads we have are\n"
+"that his name's Rasputin and\n"
+"he's Russian.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_04,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Eee hee hee... Hello, Mr. Narumi.\n"
+"And, how're you doing, kid?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE01_05,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]It's not like you to leave the shop.\n"
+"Something the matter?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_06,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Well you see, I do have a problem of\n"
+"sorts...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_07,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]It's been some time since I last\n"
+"received any shipments.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_08,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]I've just about run out of stock\n"
+"and it's hurting business.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE01_09,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Out of stock? So just place an order\n"
+"for more goods.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_10,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Oh, how I wish it were something\n"
+"that simple.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_11,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]I've always ordered my stock from\n"
+"[2:0002,00FF]Mr. Harada[2:0001,00FF] in Harumi-Cho.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_12,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Lately though, my shipments from\n"
+"Harada have been disappearing.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_13,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]I gave them a phone call and\n"
+"discovered Mr. Harada had passed\n"
+"away recently.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE01_14,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I'm very sorry to hear that,\n"
+"but I do have important detective\n"
+"work to get back to.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE01_15,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Please send along our condolences,\n"
+"though.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_16,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]You must let me finish, Mr. Narumi.\n"
+"I came here for your service!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE01_17,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Huh? My service?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_18,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]That's right. Mr. Harada's passing\n"
+"doesn't explain anything about\n"
+"the disappearing cargo, does it?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_19,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]They haven't stopped business--\n"
+"they keep shipping out product.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_20,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]...Yet I don't have any merchandise.\n"
+"Does that seem ordinary to YOU?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_21,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]You should enjoy this one.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_21,segment:1"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Only Harada [8086] Co.'s cargo is\n"
+"disappearing. None of my associates\n"
+"have had this problem.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_21,segment:2"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]The cargo's unloaded from the ship\n"
+"and then... poof! Gone.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_21,segment:3"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]...So? What do you think?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE01_22,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...Well, the goods are clearly being\n"
+"taken at night, after they're unloaded\n"
+"but before you come.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_23,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]That was my assumption as well,\n"
+"naturally.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_23,segment:1"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]So... I hired more sailors to stand\n"
+"watch over the shipment, intent on\n"
+"spotting the thief.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_24,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]But, all of a sudden, everything\n"
+"just vanished into thin air.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_25,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]...And not just the cargo. Several\n"
+"of the sailors disappeared too.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_26,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Disappeared right in front of\n"
+"their fellow sailors... Interesting,\n"
+"isn't it?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE01_27,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I'm listening.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_28,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]So, whether you care about\n"
+"saving my business or simply\n"
+"satisfying your curiosity...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_29,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]...could you do something about\n"
+"this situation?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE01_30,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Do something...? What the heck\n"
+"am I supposed to do!?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_31,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]You're a detective, aren't you?\n"
+"I'm sure you'll figure something\n"
+"out.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_31,segment:1"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Otherwise, I'll be forced to close down\n"
+"Konnou-Ya.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_31,segment:2"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]And, if that happens, you'll be\n"
+"affected too, am I right?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE01_32,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...Technically, yeah...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_33,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Then we have a deal!\n"
+"I'm counting on you two.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE01_34,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...Fine. Hey, hold on a minute...\n"
+"You said [2:0002,00FF]Harumi-Cho[2:0001,00FF], right?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_SCENE01_35,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]As a matter of fact, I did.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE01_36,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Well, that works out for us.\n"
+"Harumi-Cho is the Capital's\n"
+"largest seaport.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE01_37,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Raidou, I want you to investigate\n"
+"Harumi-Cho and try to figure out\n"
+"this Konnou-Ya cargo caper.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE01_37,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...And while you're there, maybe\n"
+"ask some people about our Russian\n"
+"comrade. Da?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE01_37,segment:2"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I'll try working my usual channels,\n"
+"as well.\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI04_SCENE01_38,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> [2:0004,00FF]Harumi-Cho[2:0001,00FF] can now be reached\n"
+"on the Main Map.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE04_01,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Welcome back, Raidou.\n"
+"What's the good word from\n"
+"Harumi-Cho?\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI04_SCENE04_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou filled Narumi in\n"
+"on the details.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE04_03,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]So... Still no dirt on Rasputin\n"
+"then, huh?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE04_04,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]As for the Konnou-Ya case,\n"
+"it's all riding on what happens to\n"
+"that next ship. Harada's in a fix.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE04_05,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]It's a bizarre case, that's for sure...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE04_06,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]But, it doesn't seem to have\n"
+"anything to do with Rasputin.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE04_07,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]On the other hand, I checked with\n"
+"the Department of the Interior about\n"
+"Rasputin.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE04_08,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...And didn't find anything either.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE04_09,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]There isn't record of any foreigners\n"
+"named Rasputin being in Japan.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE04_10,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]But then, I had a thought...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE04_11,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]If Rasputin's an illegal alien,\n"
+"we aren't going to find him\n"
+"via legal means, are we?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE04_12,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Would you mind contacting the\n"
+"Haguro-gumi again?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE04_13,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Satake's well versed in the Capital's...\n"
+"seedier happenings.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE04_14,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I think we've got a chance\n"
+"running that angle.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE04_15,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]At least, it's the best bet we've got.\n"
+"Whaddya say, Raidou?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE20_01,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]One mystery leads to another,\n"
+"and this case keeps getting\n"
+"bigger and bigger.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE20_02,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]We helped out the owner of\n"
+"Konnou-Ya and that's swell,\n"
+"but...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE20_03,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...in the end, we still haven't\n"
+"managed to find Kaya.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE20_04,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]What we did find was a curious\n"
+"mechanical man.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE20_05,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]And, according to his story...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE20_06,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Something called the Super Soldier\n"
+"Project is underway.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE20_07,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]And, Kaya is involved in that\n"
+"very project somehow.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE20_08,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Assuming our clockwork friend\n"
+"is on the level...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE20_09,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]This case goes a lot deeper than\n"
+"a simple kidnapping.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI04_SCENE20_10,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]It could be bigger than we ever\n"
+"thought possible.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE01_01,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]So I take it we're going to believe\n"
+"what the Dark Summoner told us\n"
+"about Kaya.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE01_02,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...Kasumidai, huh? Not sure\n"
+"the military would let us just\n"
+"waltz on by, but--\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI05_SCENE01_03,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]You boys miss me?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI05_SCENE01_04,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Got another favor to ask,\n"
+"if you've got the time.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE01_05,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]We've had an earful of your talk\n"
+"already, doll. Beat it.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI05_SCENE01_06,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Give it a rest, Shouhei.\n"
+"...We got a strange phone call\n"
+"at the newspaper today.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI05_SCENE01_07,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Believe it or not, it was some\n"
+"big cheese from the military.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE01_08,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...The military!?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI05_SCENE01_09,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Yes, and he wants to tell us about\n"
+"some spiffy new military project.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE01_10,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...Smells fishy to me.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI05_SCENE01_11,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Same thing the boss said, but\n"
+"think about it...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI05_SCENE01_12,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Military personnel leaking hush-\n"
+"hush information? Kind of risky,\n"
+"if it's just a prank.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI05_SCENE01_13,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]He had a name for it and everything--\n"
+"called it the Super Soldier Project.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI05_SCENE01_14,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]No, this guy sounded on the up and up;\n"
+"to me, at least.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI05_SCENE01_15,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Bare minimum, he's worth a listen,\n"
+"don't you think?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE01_16,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...Listen? You're actually gonna meet\n"
+"this mug?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI05_SCENE01_17,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]I'll say. We've already made plans to\n"
+"meet up in Kasumidai this afternoon.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI05_SCENE01_18,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Which brings us to the favor.\n"
+"...Can you come with me, Shouhei?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI05_SCENE01_19,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]I mean, if he's leaking military secrets,\n"
+"it's a sure bet the military will be\n"
+"watching.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI05_SCENE01_20,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]That's a dangerous situation\n"
+"for a girl like me to be in alone.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE01_21,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...You're only helpless when\n"
+"it works to your advantage.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE01_22,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Kasumidai though, huh?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE01_23,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Raidou, would you mind accompanying\n"
+"our friend Tae on her date?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE01_24,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]It is, after all, about a top-secret\n"
+"military project.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE01_25,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]This could be the big break\n"
+"we're looking for.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE01_26,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...Even if Tae's been fed a line,\n"
+"at least she'll get you into\n"
+"Kasumidai, right?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE01_27,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Super Soldier Project...?\n"
+"What a whopper.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI05_SCENE01_28,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]So, you're coming along, Raidou?\n"
+"Thank you.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI05_SCENE01_29,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Let's forget that wallflower and scram,\n"
+"shall we?\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI05_SCENE01_30,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou and Tae left the\n"
+"detective agency.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE01_31,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]A \"Super\" project, huh?\n"
+"Could it... Nah, that was a\n"
+"long time ago...\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI05_SCENE01_32,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> [2:0004,00FF]Kasumidai[2:0001,00FF] can now be reached\n"
+"on the Main Map.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_01,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Kaya Daidouji...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_02,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]After all that searching, here she is\n"
+"in our office.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_03,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]So, they were performing some sort of\n"
+"hocus-pocus underground?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_04,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I don't even want to know, just\n"
+"as long as she's okay.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_05,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]Uh-Um... Where am I?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_06,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Looks like our Jane is waking up.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_07,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]...Oh, you're... the detective.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_08,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Nice to see you too, doll.\n"
+"Glad you're all right.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_09,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]My well-trained subordinate Raidou\n"
+"found you in an underground facility\n"
+"of some sort.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_10,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]Raidou...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_11,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Well, I mean, remember that I'm\n"
+"the one who put him on the job.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_12,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]Oh, is that so? Thank you very much\n"
+"for your efforts, Mr. Raidou,\n"
+"Mr. Narumi.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_13,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]So... do you remember all that\n"
+"\"kill me\" noise? Care to explain it\n"
+"to us?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_14,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]...My family has a terrible curse\n"
+"passed down every generation--\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_15,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]The demon possession, right?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_16,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]Yes... The girls are killed\n"
+"when they turn 16...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_17,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...Sounds like a bum rap.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_18,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]A-As my birthday came closer,\n"
+"my father started looking at me\n"
+"differently...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_19,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]Then, one day, he put me\n"
+"in an underground cell.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_20,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...Which is that cavern Raidou\n"
+"found, I'd wager.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_21,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]Yes, that's right. I didn't want to\n"
+"hurt anyone...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_22,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]But, I didn't have the courage to\n"
+"end my own life, either.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_23,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]Th-That's when my uncle said\n"
+"he knew how to save me.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_24,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]He said if w-we exorcised the demon,\n"
+"I could go on living as a normal girl.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_25,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]It's all I could think about.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_26,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]So, as instructed by my uncle...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_27,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]I snuck out of the house without\n"
+"my father noticing.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_28,segment:0"
+msgid ""
+"<start>[7:0005,00FF]......\n"
+"<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_29,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]But... the man who was waiting for me\n"
+"outside wasn't my uncle; it was\n"
+"Munakata, the military officer.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_30,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Munakata, huh...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_31,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]All that talk of exorcising the demon\n"
+"was just a lie.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_32,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]All they really wanted was to take\n"
+"the power of that demon for\n"
+"themselves.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_33,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]I... I managed to break free, and ran.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_34,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]But, if I went back home, Father\n"
+"would still have killed me.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_35,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]I had nowhere to go...\n"
+"I... I didn't know what to do.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_36,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...So you called us.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_37,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]Right. I was just... I was so lost,\n"
+"and I didn't have anyone else to\n"
+"turn to.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_38,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I see. So, where do you plan to go\n"
+"from here?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_39,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]I......\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_40,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]You go back home, you're still\n"
+"left holding the bag, right?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_41,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...But, walking around on your own\n"
+"just makes you a target for Munakata\n"
+"again.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_42,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...That's the ticket! Why don't you\n"
+"work with us here at the detective\n"
+"agency?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_43,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]We've been looking for a secretary\n"
+"to get me away from this paperwork\n"
+"anyway, right Raidou?\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EPI05_SCENE14_SEL,segment:0"
+msgid "<start>Sure."
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_44,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]See? Even Raidou thinks so.\n"
+"Everything's swell.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_45,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Oh, sucks to you.\n"
+"Don't worry about him, Kaya.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_46,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Raidou can be a real wet blanket\n"
+"sometimes.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_47,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]...Are you sure it's fine?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_48,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Having a bird around'll do this place\n"
+"some good. Besides, it's dangerous\n"
+"for you out there.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI05_SCENE14_49,segment:0"
+msgid ""
+"<start>[22:0004,00FF,0006,00FF][7:0005,00FF]Well, if you really don't mind,\n"
+"it sounds nifty to me!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI05_SCENE14_50,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Absolutely! Now that's a good excuse\n"
+"to celebrate!\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI05_SCENE14_51,segment:0"
+msgid ""
+"<start>[7:0005,00FF]And so, our little lost girl\n"
+"became a part of the Narumi\n"
+"Detective Agency.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI05_SCENE14_52,segment:0"
+msgid ""
+"<start>[7:0005,00FF]But, it wasn't over.\n"
+"No, that was simply the beginning\n"
+"of an even larger case.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI06_SCENE01_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...You're up early, [12:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI06_SCENE01_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Narumi's already gone.\n"
+"Looks like he decided to get out\n"
+"and do something for a change.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI06_SCENE01_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...No reason to panic, though.\n"
+"We don't have any proof he's\n"
+"actually on a job.\n"
+"<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI06_SCENE01_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]This is the owner of Konnou-Ya.\n"
+"Is Mr. Narumi there?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI06_SCENE01_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou explained that Narumi\n"
+"stepped out of the office.\n"
+"<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI06_SCENE01_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Oh, he's not there? His order came in.\n"
+"He'd told me it was urgent.\n"
+"<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI06_SCENE01_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Would you mind coming to pick\n"
+"it up? I want to make sure he\n"
+"gets it as soon as possible.\n"
+"<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI06_SCENE01_08,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I'm paid in advance you know,\n"
+"so I don't like holding onto\n"
+"merchandise that's already sold.\n"
+"<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI06_SCENE01_08,segment:1"
+msgid ""
+"<start>[7:0005,00FF]Hurry on over; there's no value\n"
+"in dallying!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI06_SCENE01_09,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The owner of Konnou-Ya hung up.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI06_SCENE01_10,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Great, the one time Narumi's not\n"
+"sitting here, his order comes in.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI06_SCENE01_11,segment:0"
+msgid ""
+"<start>[7:0005,00FF]It looks like Kaya's left the building\n"
+"as well.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI06_SCENE01_12,segment:0"
+msgid ""
+"<start>[7:0005,00FF]*sigh* Raidou Kuzunoha and Gouto,\n"
+"professional errand boys.\n"
+"<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_01,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]Oh, Raidou... You're back.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_02,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]Me? Oh, I just went out to get\n"
+"some fresh air.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_03,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]...What's the matter?\n"
+"You look all balled up.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_04,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]...Oh, it's my hair, right?\n"
+"Um... Do you like it?[23:]<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EPI06_SCENE03_04SEL,segment:0"
+msgid "<start>Smile and compliment her"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_04_YES01,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]...Thank you! I was afraid you were\n"
+"going to laugh at me.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_04_YES02,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]A lot of things have been happening,\n"
+"so I thought a change of pace might\n"
+"do me some good.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_04_YES03,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]I'm so glad you don't hate it.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_04_NO01,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]...You don't like it, do you?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_04_NO02,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]A lot of things have been happening,\n"
+"so I thought a change might, um...\n"
+"do me some good.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_04_NO03,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]...Maybe it was a mistake,\n"
+"though.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]......\n"
+"<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_06,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]Say, Raidou? Mr. Narumi told me\n"
+"you had another name.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_07,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]Would it be all right if you told me\n"
+"what it was? I'd like to call you\n"
+"by your real name.\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI06_SCENE03_08,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou told Kaya his real name.\n"
+"<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_09,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF][12:0001,00FF]... It's a nice,\n"
+"simple name.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_10,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]I have something I'd like to tell you\n"
+"too, [12:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_11,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]Could you spare a minute?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_12,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]Back when I was being held captive\n"
+"by Munakata...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_13,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]...I overheard him talking to someone.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_13,segment:1"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]He mentioned an object he needed\n"
+"for his Super Soldier Project.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_14,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]And, once he's gotten a hold\n"
+"of this thing...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_14,segment:1"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]...he can eliminate millions of\n"
+"Capital citizens, just like that.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_15,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]That's... the kind of thing we should\n"
+"take care of, don't you think?\n"
+"...To stop his scheming?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_16,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]We should look for it together,\n"
+"[12:0001,00FF]!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_17,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]If we can find it before they do,\n"
+"we might be able to stop them.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_17b,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]Munakata described it as... as a\n"
+"crystal ball full of spiritual energy.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_18,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]It was enshrined a long time ago\n"
+"in order to protect the Capital.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_19,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]...But, he said nobody knows where\n"
+"it is anymore.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_20,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]I bet we could find it though,\n"
+"[12:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_TUIKA01,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]Let's start tomorrow!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_TUIKA02,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]Rise and shine, [12:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE03_TUIKA03,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]Are you all set to hunt for that\n"
+"crystal ball thing?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI06_SCENE03_TUIKA04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...So the girl's keen on this crystal\n"
+"of infinite power which we don't\n"
+"have a clue where to find.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI06_SCENE03_TUIKA05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Thanks for nothing, dollface.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI06_SCENE03_TUIKA06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]But, if the Capital is really in danger,\n"
+"we don't have a choice.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI06_SCENE03_21,segment:0"
+msgid ""
+"<start>[7:0005,00FF]C'mon, [12:0001,00FF]. Let's see\n"
+"what we can do.\n"
+"<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE01_01,segment:0"
+msgid ""
+"<start>[22:001E,00FF,0006,00FF][7:0005,00FF]Allow me to explain, detective.\n"
+"Or, should I say, Devil Summoner\n"
+"Raidou Kuzunoha...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI07_SCENE01_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hey [12:0001,00FF], that guy--\n"
+"<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE01_03,segment:0"
+msgid ""
+"<start>[22:001E,00FF,0006,00FF][7:0005,00FF]Surprised? I don't blame you.\n"
+"Thank you for the other day,\n"
+"by the way.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE01_04,segment:0"
+msgid ""
+"<start>[22:001E,00FF,0006,00FF][7:0005,00FF]I was actually sent by the Navy.\n"
+"Sorry I had to keep you in the dark,\n"
+"before.\n"
+"<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE01_05,segment:0"
+msgid ""
+"<start>[22:001E,00FF,0006,00FF][7:0005,00FF]I was on a top secret mission to\n"
+"spy on the Army... Munakata's\n"
+"movements in particular.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE01_06,segment:0"
+msgid ""
+"<start>[22:001E,00FF,0006,00FF][7:0005,00FF]...But, the Navy was being monitored\n"
+"as well, and now the situation is\n"
+"rather grave.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE01_07,segment:0"
+msgid ""
+"<start>[22:001E,00FF,0006,00FF][7:0005,00FF]I trust your ability, Raidou, so\n"
+"I need you to do something for me.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE01_08,segment:0"
+msgid ""
+"<start>[22:001E,00FF,0006,00FF][7:0005,00FF]Will you come with me?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE01_09,segment:0"
+msgid ""
+"<start>[22:001E,00FF,0006,00FF][7:0005,00FF]...Him? Oh, don't worry about\n"
+"Mr. Narumi. We roughed him up\n"
+"a little, but...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE01_10,segment:0"
+msgid ""
+"<start>[22:001E,00FF,0006,00FF][7:0005,00FF]As long as you cooperate, he won't\n"
+"need to suffer any further.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI07_SCENE01_11,segment:0"
+msgid ""
+"<start>[7:0005,00FF]He's pretty much backed us\n"
+"into a corner, here.\n"
+"<end>"
+msgstr ""
+
+#. Sadakichi
+msgctxt "type:0,entry:EPI07_SCENE01_12,segment:0"
+msgid ""
+"<start>[22:001E,00FF,0006,00FF][7:0005,00FF]We'll let Mr. Narumi rest.\n"
+"Please follow me, Raidou.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI07_SCENE06_01,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...Your chums in the Navy\n"
+"explained it all, Raidou.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI07_SCENE06_01,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]First you save the Admiral, now\n"
+"they expect you to stop Munakata.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI07_SCENE06_02,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]You've got kind of a bum deal,\n"
+"being used like that.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI07_SCENE06_03,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Still, we can't sit by while Munakata\n"
+"goes and has his way with Japan.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI07_SCENE06_04,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]So... Waden One, huh?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI07_SCENE06_04,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]It's like his base of operations, isn't it?\n"
+"That's gonna be a real powder keg.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI07_SCENE06_05,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Speaking of which... Did you get\n"
+"my order from Konnou-Ya?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI07_SCENE06_05,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Hey, thanks a lot.\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI07_SCENE06_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou handed Narumi\n"
+"the box of ammunition.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI07_SCENE06_07,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]This is it, all right.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI07_SCENE06_08,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I don't like the idea of using this stuff\n"
+"to hurt people...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI07_SCENE06_09,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]But, a man's gotta defend himself\n"
+"in our line of work, right?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI07_SCENE06_10,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]You should take some along with you,\n"
+"Raidou.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI07_SCENE06_10,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]You'll need the extra edge if you're\n"
+"infiltrating Waden One.\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI07_SCENE06_11,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou obtained [2:0005,00FF]Fatal Bullet[2:0001,00FF] x24.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI07_SCENE06_12,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]The rest is mine.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI07_SCENE06_12,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]You head over to Waden One.\n"
+"...I have my own business to\n"
+"attend to.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI08_SCENE01_01,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]All right, you ready to go?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI08_SCENE01_02,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]It's do-or-die time, Raidou.\n"
+"We can't have some soulless army\n"
+"running around, now can we?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI08_SCENE01_03,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...But, there's one thing I want to say,\n"
+"first.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI08_SCENE01_04,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]What the Navy told you is\n"
+"only one side of the story.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI08_SCENE01_05,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I know-- er, knew a person who\n"
+"wanted the best for this country.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI08_SCENE01_06,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]He proposed the Super Military\n"
+"Project as a means to revive\n"
+"the nation's glory.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI08_SCENE01_07,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]There's a lot to this case we still\n"
+"don't know about--including Kaya's\n"
+"role in it all.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI08_SCENE01_09,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]You're going to have to decide\n"
+"for yourself where the truth lies\n"
+"in all of this.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI08_SCENE01_08,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...I'll be taking care of things\n"
+"on my end.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI08_SCENE01_08,segment:1"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Don't take any wooden nickels\n"
+"out there, got it?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI10_SCENE02_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...Aaand, Narumi's not here.\n"
+"Where's that sap wandered off to\n"
+"now?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI10_SCENE02_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hey, [12:0001,00FF], what's that\n"
+"on the table?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI10_SCENE02_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou found a note on the desk.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI10_SCENE02_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hey Raidou,\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI10_SCENE02_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I'm sure you'll make it back\n"
+"to read this letter.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI10_SCENE02_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I thought about your last case,\n"
+"and I shouldn't have put you in\n"
+"such danger.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI10_SCENE02_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF]This thing goes beyond kidnapping;\n"
+"it's a nasty conspiracy that could\n"
+"cause a real shake-up.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI10_SCENE02_08,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Munakata's plans for the Super Soldier\n"
+"Project... The Navy...\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI10_SCENE02_09,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...It's too big a case for a detective\n"
+"trainee like you.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI10_SCENE02_10,segment:0"
+msgid ""
+"<start>[7:0005,00FF]If you are safely at home reading this,\n"
+"listen to me and drop this case.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI10_SCENE02_11,segment:0"
+msgid ""
+"<start>[7:0005,00FF]As the Chief of the Narumi\n"
+"Detective Agency, it's my job\n"
+"to put an end to this.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI10_SCENE02_12,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Please just wait for me to get back.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI10_SCENE02_13,segment:0"
+msgid ""
+"<start>[7:0005,00FF]-Shouhei\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI10_SCENE02_14,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Is Narumi completely ossified!?\n"
+"He can't take this on by himself!\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI10_SCENE02_15,segment:0"
+msgid ""
+"<start>[7:0005,00FF]......\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI10_SCENE02_16,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...Oh well, we should at least\n"
+"try to find him, [12:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI10_SCENE02_17,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Munakata's demons are going to\n"
+"tear that moron apart.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI10_SCENE02_17,segment:1"
+msgid ""
+"<start>[7:0005,00FF]Still... We need some clue to trace\n"
+"his steps...\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI10_SCENE02_17,segment:2"
+msgid ""
+"<start>[7:0005,00FF]He mentioned the Navy, didn't he?\n"
+"<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_01,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]I probably shouldn't be this surprised\n"
+"that you made it back safely.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_02,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]But, it's not every day a man\n"
+"returns from a dimensional rift.\n"
+"Da?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_03,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]You can relax--I no longer have\n"
+"any reason to attack you.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_04,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]...Why, you ask?\n"
+"Because my job here is done.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_05,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]I was hired as a bodyguard until the\n"
+"Super Soldier Project was underway.\n"
+"Munakata has no further use for me.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_06,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]With Kaya, that swarm of the dead,\n"
+"and his Soulless God...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_07,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]No one can stop him now.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_08,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]...Oh, the Soulless God?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_09,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]*chuckle* I suppose there is no harm\n"
+"in telling you. My contract is up.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_10,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]Look out the window.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_11,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]That is the Tai-itsu satellite.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_12,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]It's able to supply an infinite amount\n"
+"of energy using the properties of\n"
+"EL 200.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_13,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]The energy from the satellite will be\n"
+"sent back to the radio towers set up\n"
+"around the Capital.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_14,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]It's with that energy that Munakata\n"
+"will summon the Soulless God. Once\n"
+"that happens, the Capital is through.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_15,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]If you really want to protect\n"
+"the Capital, there's not much\n"
+"time left.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI10_SCENE05_16,segment:0"
+msgid ""
+"<start>[7:0005,00FF]This smells fishy, [12:0001,00FF]...\n"
+"Why's he telling us all of this?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI10_SCENE05_17,segment:0"
+msgid ""
+"<start>[7:0005,00FF]How do we know his contract is\n"
+"actually up? How do we know there\n"
+"ever was a contract!?\n"
+"<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_18,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]...It's your choice, whether you\n"
+"believe me or not.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_19,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]But, you need to realize that if\n"
+"you do nothing, the Capital will\n"
+"be destroyed--no question.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_20,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]You might just be the only one\n"
+"who can stop this.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_21,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]To be honest, I was also entrusted\n"
+"with a specific duty.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_22,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]I gave it up, though.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_23,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]In the end, it wasn't something\n"
+"my pride would allow me to do.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_24,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]The more I saw of Munakata's plan,\n"
+"the less I wanted to be involved.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_25,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]I've realized a number of things\n"
+"since arriving here...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_26,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]...the foremost of which being\n"
+"that I need to think and act\n"
+"for myself. That's the best way.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_27,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]...It's the most human way to behave,\n"
+"don't you think so?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_28,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]...And that is my story.\n"
+"Decide for yourself where to\n"
+"go from here.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_29,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]I will say that if you plan on going\n"
+"after Munakata, you might pay his\n"
+"subterranean facility another visit.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_29_TUIKA01,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]You should be able to get in\n"
+"using these two orbs...\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI10_SCENE05_29_TUIKA02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou obtained the [2:0005,00FF]Chigaeshi Orb[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI10_SCENE05_29_TUIKA02,segment:1"
+msgid ""
+"<start>[7:0005,00FF]> Raidou obtained the [2:0005,00FF]Shiomitsu Orb[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_29_TUIKA03,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]Figure out how to use them yourself.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_29_TUIKA03,segment:1"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]Using them right should open up\n"
+"the [2:0004,00FF]secret passage north of Kasumidai[2:0001,00FF]\n"
+"for you.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_30,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]Shouldn't be difficult for you to\n"
+"sneak in unnoticed from there.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_31,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]It's up to you, tsovarich.\n"
+"I'll enjoy watching the show.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI10_SCENE05_32,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]Raidou versus Munakata...\n"
+"Who will decide the future of\n"
+"the Capital, and all of Japan?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]......\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_02,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...The Soulless God...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_03,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Munakata--er, Sukuna-hikona said\n"
+"they were going to annihilate\n"
+"the Capital.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_04,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]At this rate, he's going to be\n"
+"right on the money.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_05,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]But, that thing looks pretty\n"
+"hard-boiled.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_06,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]How are we going to stop it, Raidou?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI11_SCENE01_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Think about what we've learned\n"
+"up to this point, [12:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI11_SCENE01_08,segment:0"
+msgid ""
+"<start>[7:0005,00FF]It seems like a lot of our cases lately\n"
+"have tied into this Soulless God\n"
+"somehow.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI11_SCENE01_09,segment:0"
+msgid ""
+"<start>[7:0005,00FF]If we really knuckle-down and\n"
+"think about this, maybe we can\n"
+"figure it out.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI11_SCENE01_10,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Three heads are better than two;\n"
+"get Narumi involved.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EPI11_SCENE01_SEL01,segment:0"
+msgid "<start>Talk about the Red Cape"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_11,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Red Cape, huh? Looking back,\n"
+"they must have had it planned out\n"
+"all along.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_12,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Think about the victims: Kiyoshi\n"
+"Daidouji, Denpachi Iida, etcetera...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_13,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]They all felt very strongly about\n"
+"something, but didn't know what\n"
+"to do about it.[23:]\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_14,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]The Hiruko are born in ordinary\n"
+"people, right? They used those\n"
+"things to create the Soulless God.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_15,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I heard the Waden One tower\n"
+"gave off radio waves...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_16,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...which drew the Hiruko out of\n"
+"affected individuals.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_17,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]If we'd known about that sooner,\n"
+"we could have stopped it all by\n"
+"sabotaging the radio towers.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_18,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...But, too little too late, eh?[23:]\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_19,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Sukuna-hikona was that demon who\n"
+"took control of Munakata...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_20,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Nobody's going to believe a high-\n"
+"ranking officer was really a demon.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_21,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]But, at least we know the truth,\n"
+"I suppose.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_22,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]There has to be some kind of clue...\n"
+"something he's done...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_23,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...some way to stop the Soulless God![23:]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EPI11_SCENE01_SEL02,segment:0"
+msgid "<start>Talk about the Red Cape"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_24,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]The Tai-itsu satellite...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_25,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]If we believe what Rasputin said,\n"
+"that's gotta be the key.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_26,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]They launched it in order to supply\n"
+"energy to the Soulless God.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_27,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I have no idea how it all works, but...\n"
+"it could be our solution.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_28,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]If we can blow that satellite up,\n"
+"the monster won't have any power.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_29,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Only problem is...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_30,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...how are we supposed to destroy\n"
+"something so high up?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_31,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Any ideas, Raidou?[23:]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EPI11_SCENE01_SEL03,segment:0"
+msgid "<start>Fly up and destroy it."
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_32,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Well that's the obvious solution,\n"
+"flyboy, but we don't have the means\n"
+"to pull it off.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_33,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Airplanes don't exactly grow on trees\n"
+"around here.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_34,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]......\n"
+"Hold the phone! Hey, Raidou!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_35,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Didn't you meet some guy who was\n"
+"into flying and such?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_36,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Think you could pay him a visit?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_37,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...Ask if he would like to help us\n"
+"destroy the satellite.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_38,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I'll do some sniffing around while\n"
+"you're busy with that.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI11_SCENE01_39,segment:0"
+msgid ""
+"<start>[7:0005,00FF]We can't let them destroy the Capital.\n"
+"Let's go!\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_40,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Defeat that thing!?\n"
+"Uh, Raidou? Anybody home?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_41,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]That isn't possible, not even for\n"
+"a Devil Summoner.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_42,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]You saw what it did earlier!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_43,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]It's absolutely out of our league.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_44,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]There's gotta be some other way\n"
+"we can stop it.[23:]\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_45,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...Even you're out of ideas,\n"
+"huh Raidou?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_46,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]*sigh* We can't just sit around here\n"
+"all day, though.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_47,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]There has to be a way we can stop\n"
+"that thing without having to face it\n"
+"head on...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_48,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Still nothing?[23:]\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI11_SCENE01_TUIKA_01,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...There has to be something we're\n"
+"missing. Anything come to mind?[23:]\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI12_SCENE03_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]......\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI12_SCENE03_02,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]What do you think Kaya meant by\n"
+"\"change\" history, Raidou?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI12_SCENE03_03,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I've heard of dames having mood\n"
+"swings, but Kaya was like a whole\n"
+"different person.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI12_SCENE03_04,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]The Capital is safe, but did we really\n"
+"finish the job?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI12_SCENE03_05,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]What about the girl who asked\n"
+"for our help?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI12_SCENE03_06,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]The girl who, out of desperation,\n"
+"begged us to kill her. Are we going to\n"
+"just forget about her?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI12_SCENE03_07,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]...Huh? What's eating you?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:EPI12_SCENE03_08,segment:0"
+msgid ""
+"<start>[7:0005,00FF]--dou... Raidou, can you hear me?\n"
+"It's me, Gouto.\n"
+"<end>"
+msgstr ""
+
+#. Gouto's voice
+msgctxt "type:0,entry:EPI12_SCENE03_09,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Go after Kaya. You already have\n"
+"the power to do so.\n"
+"<end>"
+msgstr ""
+
+#. Gouto's voice
+msgctxt "type:0,entry:EPI12_SCENE03_10,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The technique that brought us back\n"
+"from the other world will take you\n"
+"to her.\n"
+"<end>"
+msgstr ""
+
+#. Gouto's voice
+msgctxt "type:0,entry:EPI12_SCENE03_11,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Follow her, and defeat the being\n"
+"that has possessed her--the mastermind\n"
+"behind all this.\n"
+"<end>"
+msgstr ""
+
+#. Gouto's voice
+msgctxt "type:0,entry:EPI12_SCENE03_12,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You can do it, [12:0001,00FF]; you're\n"
+"Raidou the 14th, after all.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI12_SCENE03_13,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Hey, uh... Earth to Raidou.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI12_SCENE03_14,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Did you think of a way to help Kaya?\n"
+"Is that it?[23:]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EPI12_SCENE03_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI12_SCENE03_15,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I see.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI12_SCENE03_16,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I don't think there's much I can do\n"
+"to help at this point, Raidou.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI12_SCENE03_17,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]This is in your hands now.\n"
+"Don't get me wrong--if anyone\n"
+"can pull it off, I know it's you.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI12_SCENE03_18,segment:0"
+msgid ""
+"<start>[7:0005,00FF]......\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI12_SCENE03_19,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]You don't need to hide it, Raidou.\n"
+"I won't stop you.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:EPI12_SCENE03_20,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Go save the girl! If anyone can\n"
+"pull that off, it's you.\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:TGS_EVE02_01,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][829D][8FD3][85AF][819F][879D][81A8][8CBC][8185][89E5][80E6][80FD][84F1][83DE]\n"
+"[89E6][8181][8184][80E8][80ED][87A2][8189][81A0][80E2][80E9][8188][80E2][818B][80E5][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:TGS_EVE02_02,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][829D][81FA][81B5][81DA][81B7][8080][8FF0][84C4][818C][8EFC][8189][8182][80E2][8184]\n"
+"[87DB][8197][8184][80ED][81AA][81A9][809F]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:TGS_EVE02_03,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][80FB][818C][83C8][84A3][829D][8080][80FB][80F5][8184][8480][88A4][80F3][81A7][81AD][81AA][80FD][818C][80E9]\n"
+"[81AD][80E9][81A9][8CCC][8BAD][8185][80E2][80E2][80E9][81A7][80F3][80DF][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:TGS_EVE02_04,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][81FA][81B5][81DA][81B7][8188][81A7]\n"
+"[2:0002,00FF][8AC4][83C7][81B0][83D4][8181][80FD][85AB][80EB][85AF][819D][2:0001,00FF][80EA][84D3][848D][81A9][8185][80F5][81A5][809F]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:TGS_EVE02_05,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][8186][81A8][80E0][80E6][80F8][8080][90D0][84A5][8FF7][81B0][86AB][80E2][8184][819C][81AD][81A8]\n"
+"[2:0002,00FF][84F1][83DE][8189][8182][80E2][8184][85AB][80EB][85AF][819D][2:0001,00FF][81B0][848F][8188][8181][8184][80EB][8184][818B][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:TGS_EVE02_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF][12:0001,00FF][8080][8CBE][8196][84D3][81A9][8188][81A7][84EB][81B0][8182][80EF][81AB][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:TGS_EVE02_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF][8CBE][8189][818D][83EB][83C7][80EA][8BB4][81B1][8185][80E2][81A9][829D]\n"
+"[889C][83F4][818D][84EB][8183][80E9][818A][80EA][8080][80E8][83E7][818D][8482][80F6][81A9][818D][80F8][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:TGS_EVE02_08,segment:0"
+msgid ""
+"<start>[7:0005,00FF][86AB][80E2][8184][80E2][81A9][80FE][80EF][8185]\n"
+"[83EB][83C7][818C][8199][80E4][80E9][81A7][80E8][83E7][8189][81A6][8181][8184][80EB][8184]\n"
+"[2:0002,00FF][81E1][81D9][81FC][2:0001,00FF][8189][8188][81A9][80FE][81AB][80E4][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:TGS_EVE02_09,segment:0"
+msgid ""
+"<start>[7:0005,00FF][83EB][83C7][8186][818C][81E1][81D9][81FC][8189][84EB][81B0][8182][80EF][8188][80EA][81A7]\n"
+"[2:0004,00FF][84F1][83DE][8189][8182][80E2][8184][85AB][80EB][85AF][819D][2:0001,00FF][81B0][848F][80E6][8289]\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:MAH_EVE_01,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]Say now! I see you've got something\n"
+"good there, Raidou.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:MAH_EVE_02,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF]I'll let you take a break if you'll\n"
+"play me at a game or three.\n"
+"[23:]<end>"
+msgstr ""

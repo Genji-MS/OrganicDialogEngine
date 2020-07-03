@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_020_1,segment:0"
+msgid ""
+"<start>[7:FF07]...Well, what do we have here?\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_TUIKA,segment:0"
+msgid ""
+"<start>[7:FF07]Who dares to disrupt this stillness?\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_TUIKA,segment:1"
+msgid ""
+"<start>How irritating...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_020_2,segment:0"
+msgid ""
+"<start>[7:FF07]...A well-known poet once said,\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_020_2,segment:1"
+msgid ""
+"<start>[18:]\"April is the cruelest month.\"\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_020_2,segment:2"
+msgid ""
+"<start>[18:]Why? Because it is then that one\n"
+"must wake up from a long sleep\n"
+"and face the barren world.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_020_2,segment:3"
+msgid ""
+"<start>[18:]Looking back on the past,\n"
+"it is evident that the history\n"
+"of mankind is comprised of\n"
+"meaningless events.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_020_2,segment:4"
+msgid ""
+"<start>[18:]The worthless overgrowth of\n"
+"a civilization blind to its sins,\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_020_2,segment:5"
+msgid ""
+"<start>[18:]continuous bloodshed and war,\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_020_2,segment:6"
+msgid ""
+"<start>[18:]and thousands of years of repeating\n"
+"the same mistakes again and again.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_020_2,segment:7"
+msgid ""
+"<start>[18:]...The world must start over\n"
+"from the beginning.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_030_1,segment:0"
+msgid ""
+"<start>[7:FF07]The way to salvation was foretold\n"
+"in the Scripture of Miroku,\n"
+"and today is the day that\n"
+"the prophecy shall be fulfilled.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_030_1,segment:1"
+msgid ""
+"<start>[18:]The old world will sink\n"
+"like a setting sun,\n"
+"and the new world will arise\n"
+"in its place.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_040_1,segment:0"
+msgid ""
+"<start>[7:FF07]...Who are you?\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_040_1,segment:1"
+msgid ""
+"<start>From what I remember,\n"
+"you're not one of our followers\n"
+"who survived the purge at the park.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_040_3,segment:0"
+msgid ""
+"<start>[7:FF07]...An acquaintance of\n"
+"Ms. [11:FF02]?\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_040_3,segment:1"
+msgid ""
+"<start>[18:]Come to think of it,\n"
+"this was a hospital, wasn't it?\n"
+"I see, you came to visit her.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_050_1,segment:0"
+msgid ""
+"<start>[7:FF07]......\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_050_1,segment:1"
+msgid ""
+"<start>[18:]...Such a troublesome Maiden.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_050_1B,segment:0"
+msgid ""
+"<start>[7:FF07]Well...\n"
+"I'll leave the teaching to the teacher.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_050_1B,segment:1"
+msgid ""
+"<start>[18:]Please leave this room.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_050_1B,segment:2"
+msgid ""
+"<start>[18:]I would like to enjoy this blissful end\n"
+"in solitude.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_HIKAWA_040_2,segment:0"
+msgid ""
+"<start>[7:FF07]...[12:FF01], I'll be waiting\n"
+"on the roof.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_HIKAWA_040_2,segment:1"
+msgid ""
+"<start>[18:]We'll have a good view\n"
+"of the city from there.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_HIKAWA_040_2B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Come, see it with your own eyes.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_HIKAWA_040_2B,segment:1"
+msgid ""
+"<start>[18:]Witness that which will change\n"
+"the world...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_070_1,segment:0"
+msgid ""
+"<start>[7:FF07]However, even a pebble creates\n"
+"ripples when cast in water.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_070_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I do feel pity for you, but...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_070_2B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...your life ends here!\n"
+""
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_070_3,segment:0"
+msgid ""
+"<start>[7:FF07]...Do not fear.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_070_3,segment:1"
+msgid ""
+"<start>All the inhabitants of this world\n"
+"will follow before long.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_HIKAWA_070_3,segment:2"
+msgid ""
+"<start>[7:FF07]Your time has come just\n"
+"a bit sooner, that's all.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HIKAWA_001,segment:0"
+msgid "<start>Face him."
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:TUIKA_001,segment:0"
+msgid ""
+"<start>[7:FF07]Fool...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:TUIKA_001,segment:1"
+msgid ""
+"<start>[7:FF07]No one can overcome their fate.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:TUIKA_002,segment:0"
+msgid ""
+"<start>[7:FF07]What a futile attempt...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:TUIKA_002,segment:1"
+msgid ""
+"<start>One should face death honorably.\n"
+"<end>"
+msgstr ""
+
+#. Woman's voice
+msgctxt "type:0,entry:YUUKO_001,segment:0"
+msgid ""
+"<start>[7:FF07]Stop!\n"
+""
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:YUUKO_002,segment:0"
+msgid ""
+"<start>[7:FF07]What, can't you let one person go?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:YUUKO_002,segment:1"
+msgid ""
+"<start>[18:][7:FF07]It should have absolutely no effect\n"
+"on our plan.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:TUIKA_003,segment:0"
+msgid ""
+"<start>[7:FF07]The insignificance of the gesture\n"
+"makes no difference.\n"
+"I will not allow any exceptions.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:YUUKO_003,segment:0"
+msgid ""
+"<start>[7:FF07][18:]If you don't save him...\n"
+"I'll stop cooperating with you.\n"
+"<end>"
+msgstr ""

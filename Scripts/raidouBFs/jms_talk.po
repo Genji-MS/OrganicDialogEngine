@@ -1,0 +1,879 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 28/03/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Narumi
+msgctxt "type:0,entry:JMS_ENTER_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hey, Raidou. What's the good word?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JMS_ENTER_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Narumi isn't here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JMS_ENTER_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Narumi is on the telephone.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JMS_ENTER_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Narumi is resting.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:JMS_LEAVE,segment:0"
+msgid ""
+"<start>[7:0005,00FF]If you get stuck, my door is always\n"
+"open. Keep up the good work.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP01_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Oh yeah, I almost forgot.\n"
+"Here y'go, Raidou.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NARUMI_EP01_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou obtained [2:0005,00FF]1,000 yen[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP01_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]It's for expenses. The detective\n"
+"biz runs on money, just like\n"
+"everything else.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP01_03,segment:1"
+msgid ""
+"<start>Go stop by [2:0002,00FF]Konnou-Ya[2:0001,00FF] down the street\n"
+"before you start beating the bushes\n"
+"for that girl.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP01_03,segment:2"
+msgid ""
+"<start>You never know what you might\n"
+"find in that joint.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP01_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...What kind of dame would ask\n"
+"someone to kill her? We can't\n"
+"let this go, Raidou.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP01_04,segment:1"
+msgid ""
+"<start>I've got a hunch that this case is\n"
+"bigger than we know.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP01_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]An Ouran High student, huh?\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP01_05,segment:1"
+msgid ""
+"<start>She must have been friends with\n"
+"some of the schoolgirls there.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP01_05,segment:2"
+msgid ""
+"<start>Why don't you find girls wearing\n"
+"Ouran uniforms, see what they\n"
+"know?\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP01_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Another schoolgirl was kidnapped\n"
+"right under your nose!?\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP01_06,segment:1"
+msgid ""
+"<start>Cripes, Raidou, that's the kind\n"
+"of thing that gives a detective\n"
+"agency a bad name!\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP01_06,segment:2"
+msgid ""
+"<start>I don't care if you have to go in\n"
+"the Dark Realm after her, just\n"
+"bring her back safe.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP01_TUIKA,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The schoolgirl's safe? Good work,\n"
+"Raidou.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP01_TUIKA,segment:1"
+msgid ""
+"<start>If she's settled down, you ought\n"
+"to go talk to her again.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP01_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF]A curse? In this day and age? \n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP01_07,segment:1"
+msgid ""
+"<start>Even if it is an old family tradition,\n"
+"that sounds a little fishy.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP01_07,segment:2"
+msgid ""
+"<start>\"In the depths of the abyss, the demon's\n"
+"blood must be slain,\" huh?\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP01_07,segment:3"
+msgid ""
+"<start>If you ask me, Rin's hit it on the nose.\n"
+"I think something's going on in that\n"
+"basement.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP01_07,segment:4"
+msgid ""
+"<start>All right, Raidou, your next\n"
+"assignment is to check out the\n"
+"Daidouji Residence.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP01_08,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Looks like you'll have to ask her\n"
+"uncle and that guest of his directly.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP01_08,segment:1"
+msgid ""
+"<start>Go back to the Daidouji's place,\n"
+"see if you can find anything else.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP02_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Raidou, I've got a... special\n"
+"assignment for you at Ryugu. It's\n"
+"not somewhere I can easily go...\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP02_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]If the rickshaw runner knows\n"
+"Kiyoshi, maybe he also knows where\n"
+"he's gone.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP02_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The runner lives in Fukagawa-Cho,\n"
+"huh...\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP02_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Aaah, you'll be fine. But, uh...\n"
+"good luck out there, Raidou.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP02_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Kantou Haguro-gumi is an old\n"
+"yakuza group. They're big on trust\n"
+"and chivalry.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP02_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]They can get rowdy, but they're\n"
+"some good eggs. There's no harm\n"
+"in chatting with them.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP02_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Special Guards in red that\n"
+"snatched the Daidouji girl are in\n"
+"Fukagawa-Cho now?\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP02_08,segment:0"
+msgid ""
+"<start>[7:0005,00FF]What's their game, anyway?\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP02_09,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Well, if they've carried someone\n"
+"off, it's a safe bet we want him.\n"
+"Go rescue him and see what he knows.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP02_TUIKA02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hm? If you need a lock pick, I'm\n"
+"sure Konnou-Ya carries 'em.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP02_10,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Tracking down elopers isn't my forte...\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP02_11,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Satake's better at that sort of thing.\n"
+"Why don't you try Daikoku-Yu?\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP02_TUIKA,segment:0"
+msgid ""
+"<start>[7:0005,00FF]So you can only meet the Red\n"
+"Cape if you go to Kurisu-zaka\n"
+"during a full moon?\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP02_TUIKA,segment:1"
+msgid ""
+"<start>I thought that was werewolves...\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP02_TUIKA,segment:2"
+msgid ""
+"<start>Well, it's worth a try, I suppose.\n"
+"I'll let you take this one, Raidou.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP02_13,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Funny thing for a demon to leave\n"
+"behind, but I guess nothing about\n"
+"this case is normal.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP02_14,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hmmm... Raidou, take this to\n"
+"Shizu's place, will ya?\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP02_15,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I hope this hunch I've got is wrong,\n"
+"but...\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP02_16,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You need to brace Denpachi. Go\n"
+"look around for him.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP02_17,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Raidou, hurry to Ginza-Cho and\n"
+"put the kibosh on that Red Cape!\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP02_18,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Things are bad enough... We can't\n"
+"let him compound his mistakes.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP03_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]It's the Daidouji Factory, northeast\n"
+"of Fukagawa-Cho. Don't make a wrong\n"
+"turn at the Red-Light District.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP03_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Kiyoshi's locked away tight behind\n"
+"a maze, huh? Sounds like bait for\n"
+"a trap to me.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP03_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]But, we can't just give up every\n"
+"time there's an obstacle in the\n"
+"way. Go get 'em, Raidou.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP03_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]What is this, the third Red Cape?\n"
+"They just keep on coming, huh?\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP03_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]We've got to find out why people\n"
+"become Red Capes. If only we could\n"
+"discover the common factor...\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP03_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Our best play is to hear Kiyoshi's\n"
+"story. Keep at it, Raidou.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP04_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Go see what you can find out at\n"
+"Harumi-Cho. Take your time,\n"
+"there's no rush on this one.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP04_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Human traffic, huh? Ask the Haguro-\n"
+"gumi. Satake might know something\n"
+"about illegal immigration.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP04_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]So, Elfman's the mastermind\n"
+"controlling Harumi-Cho, is he?\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP04_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]He was partners with Harada [8086] Co.\n"
+"until six months ago, so the owner\n"
+"of Ryugu ought to know him.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP04_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Maybe you'd be a better one to\n"
+"talk with her, Raidou.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP04_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]We'd be in a pickle if Konnou-Ya\n"
+"went under, that's for sure.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP04_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Oh, well. Go give Harada [8086] Co.'s\n"
+"sailors a hand.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP04_08,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Elfman's holed up in the Catholic\n"
+"Church?\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP04_08,segment:1"
+msgid ""
+"<start>Hmm. The only way to get out there\n"
+"is by ship.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP04_09,segment:0"
+msgid ""
+"<start>[7:0005,00FF]He's our only lead on Rasputin.\n"
+"I'm assigning you to find a way\n"
+"across.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP04_10,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Elfman's dead? Huh... Whoever was\n"
+"posing as him did a good job of\n"
+"filling his shoes.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP04_11,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Let's find out who this faker is,\n"
+"Raidou. It's up to us to avenge\n"
+"the dead.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NARUMI_EP07_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Narumi is unconscious...\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP07_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Owww... Those Navy guys are\n"
+"rougher than my worst hangover.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP07_02,segment:1"
+msgid ""
+"<start>[7:0005,00FF]Still, if Yatagarasu is getting\n"
+"involved...\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP07_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]That must be the highest of the\n"
+"top brass you substituted for.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP07_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I don't know what you've gotten\n"
+"yourself into, but... Take care\n"
+"of yourself, Raidou.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP08_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Waden One is at the peak of\n"
+"Sakuradayama, past Harumi-Cho.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP08_01,segment:1"
+msgid ""
+"<start>Watch yourself, Raidou.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP08_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Hiruko are clinging to the\n"
+"radio tower?\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP08_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]That thing always looked fishy to\n"
+"me, but I'm worried about what kind\n"
+"of radio waves it's sending out...\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP11_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I have my doubts that heap can\n"
+"actually fly, but...\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP11_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...No, forget it. There's no time\n"
+"to waste, let's do our jobs.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP11_03,segment:0"
+msgid ""
+"<start>[22:0012,00FF,0006,00FF][7:0005,00FF]Remember, you're an agent.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP11_04,segment:0"
+msgid ""
+"<start>[22:0012,00FF,0006,00FF][7:0005,00FF]Your primary objective is to\n"
+"accomplish the mission at any\n"
+"cost.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP11_05,segment:0"
+msgid ""
+"<start>[22:0012,00FF,0006,00FF][7:0005,00FF]...Relax, I'm just razzing you.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP11_06,segment:0"
+msgid ""
+"<start>[22:0012,00FF,0006,00FF][7:0005,00FF]I know you don't have it in\n"
+"you to put your buddy and\n"
+"your demon in danger.\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:1,entry:NARUMI_EP11_SEL,segment:0"
+msgid "<start>I've accepted my fate."
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP11_07,segment:0"
+msgid ""
+"<start>[22:0012,00FF,0006,00FF][7:0005,00FF]...When you're right, you're right.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP11_08,segment:0"
+msgid ""
+"<start>[22:0012,00FF,0006,00FF][7:0005,00FF]But, I want nothing but smiling\n"
+"faces when this is all over.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP11_09,segment:0"
+msgid ""
+"<start>[22:0012,00FF,0006,00FF][7:0005,00FF]Tae, the owner of Ryugu, Satake,\n"
+"Sadakichi... and Kaya, of course.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP11_10,segment:0"
+msgid ""
+"<start>[22:0012,00FF,0006,00FF][7:0005,00FF]You're full of surprises, Raidou.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP11_11,segment:0"
+msgid ""
+"<start>[22:0012,00FF,0006,00FF][7:0005,00FF]I used to think you were a real\n"
+"stick in the mud, but... looks like\n"
+"my winning personality is rubbing off.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP12_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]We can't do business without a client.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_EP12_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Bring her back safe. It's all down\n"
+"to you, Raidou.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_TGS_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Go look around Tsukudo-Cho for\n"
+"information on the girl who\n"
+"disappeared at Ushigome-gaeri.\n"
+"<end>"
+msgstr ""
+
+#. Narumi
+msgctxt "type:0,entry:NARUMI_TGS_01,segment:1"
+msgid ""
+"<start>I'm counting on you.\n"
+"<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP02_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I know it'll be tough, but we're\n"
+"all rooting for you, Raidou.\n"
+"<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP02_01,segment:1"
+msgid ""
+"<start>Say, if you run into the Red Cape\n"
+"out there, could you get an interview\n"
+"for me?\n"
+"<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP02_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Off to Fukagawa-Cho? It's risky\n"
+"there, so be careful.\n"
+"<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP02_03,segment:1"
+msgid ""
+"<start>Oh! And keep clear of the north\n"
+"side of town, got it?\n"
+"<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP02_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I think our readers would love to\n"
+"know more about the yakuza. Can\n"
+"you interview them for me?\n"
+"<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP02_04,segment:1"
+msgid ""
+"<start>An exclusive interview with the\n"
+"kingpin of the Capital underground!\n"
+"What a scoop that'd be!\n"
+"<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP02_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Keep your distance from the\n"
+"Special Guard, Raidou.\n"
+"<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP02_05,segment:1"
+msgid ""
+"<start>You guys are my best source!\n"
+"I don't know what I'd do if\n"
+"you had to close down.\n"
+"<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP02_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Love without obstacles is so\n"
+"romantic... But, it doesn't happen\n"
+"to everyone.\n"
+"<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:TAE_EP02_06,segment:1"
+msgid ""
+"<start>Eloping, huh...? Just like in the\n"
+"flicks! It's so touching...\n"
+"<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KONNO_EP04_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I'm counting on you, boy.\n"
+"<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KONNO_EP04_01,segment:1"
+msgid ""
+"<start>I won't let Konnou-Ya close down\n"
+"while I'm still kicking.\n"
+"<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:KAYA_EP06_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I'll go with you. Two will be able\n"
+"to find it easier than one.\n"
+"<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:RASU_EP10_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You can get into the subterranean\n"
+"facility from a hidden entrance\n"
+"north of Kasumidai.\n"
+"<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:RASU_EP10_01,segment:1"
+msgid ""
+"<start>Think you can stop Munakata...?\n"
+"I'll sit back and watch the fireworks\n"
+"from here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NARUMI_EP02_12,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Narumi is busy on the phone and\n"
+"can't talk now.\n"
+"<end>"
+msgstr ""

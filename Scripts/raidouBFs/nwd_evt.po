@@ -1,0 +1,729 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 28/03/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]Welcome. Are you Raidou Kuzunoha\n"
+"of the Narumi Detective Agency?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_01,segment:1"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]This is a place where those who know\n"
+"the secret goings-on of the world,\n"
+"light and dark, gather.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Shin-Sekai
+msgctxt "type:0,entry:NWD_MASTER_01,segment:2"
+msgid ""
+"<start>[7:0005,00FF][22:000F,00FF,0006,00FF]Everyone knows the truth of demons\n"
+"here. Feel free to talk to our patrons\n"
+"and exchange information.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE19_01,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]There you are, Raidou.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE19_02,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Been investigating the Red Cape\n"
+"for me, have you? Ducky!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE19_03,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]You're so much more reliable than\n"
+"your lazy piker of a boss.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE19_04,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]I've been following my own leads,\n"
+"of course.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE19_05,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]There have been Red Cape sightings\n"
+"around here in Ginza-Cho, did you\n"
+"know?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE19_06,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]And, that's just the tip of the\n"
+"iceberg!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE19_07,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF][2:0002,00FF]The Red Cape is always seen on the\n"
+"night of a full moon.[2:0001,00FF]\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE19_08,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]There was a full moon on the night\n"
+"of my interview, too.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE19_09,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Which means, Raidou...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE19_09,segment:1"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]If we're going to catch the Red Cape,\n"
+"we'd best go hunting for it on a\n"
+"full moon.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE19_10,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]He's been most commonly spotted\n"
+"on the road connecting Ryugu to\n"
+"central Ginza-Cho.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE19_11,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Around [2:0004,00FF]Kurisu-zaka, beneath the\n"
+"overpass[2:0001,00FF].\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE19_12,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Sorry to be a pest, Raidou, but\n"
+"could you go check it out during\n"
+"a full moon?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE19_13,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]If everything goes according to\n"
+"plan, you should be able to\n"
+"catch the Red Cape!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE19_14,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Plus, I'll reward you with this.\n"
+"Don't tell Narumi--this'll be\n"
+"our little secret.\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI02_SCENE19_15,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou obtained [2:0005,00FF]3,000 yen[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE19_16,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]It's my way of saying thanks for\n"
+"doing such a swell job. Use it\n"
+"for whatever you want.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI02_SCENE19_17,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Good luck, Raidou. If you catch\n"
+"the Red Cape, you've got my\n"
+"business card! Get in touch!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_01,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]A reporter's work is never done,\n"
+"eh Raidou?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_02,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Oh! You've found yourself a cutie pie,\n"
+"I see.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE11_03,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]Um, hello... My name is Kaya.\n"
+"I've been working at the detective\n"
+"agency.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_04,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]I know, dear; Mr. Narumi already\n"
+"filled me in.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_04,segment:1"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Kaya, was it? The name's Kichou\n"
+"Asakura, ace reporter. Nice to\n"
+"meetcha.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_05,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]What are you two kids up to?\n"
+"Out on another case?\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI06_SCENE11_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou asked Tae about\n"
+"the Irie Fudou.\n"
+"<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_07,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Hm... Irie Fudou...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_08,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Raidou, did you know this area\n"
+"used to be under water?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_09,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]It was part of the Hibiya inlet\n"
+"until they reclaimed the area\n"
+"during the Edo period.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_10,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]...I know there was a Fudou statue\n"
+"here before that.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_11,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]...The local people worshipped it,\n"
+"actually.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_12,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]I want to say that's the Irie Fudou\n"
+"you're looking for.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Kaya
+msgctxt "type:0,entry:EPI06_SCENE11_13,segment:0"
+msgid ""
+"<start>[22:0005,00FF,0006,00FF][7:0005,00FF]And... does that statue still exist\n"
+"somewhere?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_14,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]*smirk* You crazy kids are in luck.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_14,segment:1"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]I came across that scoop just\n"
+"the other day while researching\n"
+"a story on Ginza-Cho.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_14,segment:2"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]This comes straight from the\n"
+"horse's mouth...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_15,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]An odd stone statue was found\n"
+"at the center of Ginza-Cho, and\n"
+"nobody knows where it came from.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_16,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]See, there are all kinds of\n"
+"development projects going on\n"
+"in Ginza-Cho right now.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_17,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]One of the construction teams\n"
+"found the statue in question.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_18,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Well, the construction company\n"
+"was all balled up about what to do\n"
+"with the thing.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_18,segment:1"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]...Which is where I came in,\n"
+"looking for any information in\n"
+"the old town records.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_19,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]I don't know if it's your Irie Fudou...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_19,segment:1"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]...but at least it's an old statue, right?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI06_SCENE11_19,segment:2"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]I'd wager its as good a shot as you're\n"
+"likely to get.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE06_01,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]Oh-ho, so you're back safely.\n"
+"Have you defeated Munakata?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE06_02,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]Looks like you weren't able to\n"
+"stop the real threat, though. Heh.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE06_03,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]Well, it's not my problem.\n"
+"Right now...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE06_04,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]It's more important that she and I\n"
+"discuss our future together.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI11_SCENE06_05,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]H-Hey, lay off that stuff. You're\n"
+"giving me the creeps.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI11_SCENE06_TUIKA,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Oh! Raidou, you got here just in\n"
+"time...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI11_SCENE06_06,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]This lush won't stop bugging me.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI11_SCENE06_07,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Isn't there something you can do\n"
+"about him?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE06_08,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]Come on, babe, even if you and\n"
+"this guy already have a thing\n"
+"going...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE06_09,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]There's no reason we can't have a little\n"
+"fun on the side.  What do you say?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI11_SCENE06_10,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...Can this guy really help?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI11_SCENE06_11,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Well, I guess there's no way to know\n"
+"until we try it. Let's ask him.\n"
+"<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE06_12,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]Can't you see I'm busy here?\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI11_SCENE06_13,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou gave Rasputin\n"
+"Tsiolkovski's Equation.\n"
+"<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE06_14,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]This is... a basic equation for\n"
+"matter propulsion. One of my\n"
+"country's scientists derived it.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE06_15,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]Why are you showing me this?\n"
+"...You want me to help you\n"
+"launch a rocket?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE06_16,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]Shove off! Can't you see the lady\n"
+"and myself are having a private\n"
+"moment here?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI11_SCENE06_17,segment:0"
+msgid ""
+"<start>[7:0005,00FF]......\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI11_SCENE06_18,segment:0"
+msgid ""
+"<start>[7:0005,00FF]We might have to get our hands\n"
+"dirty, [12:0001,00FF], but we've\n"
+"got to take him with us.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI11_SCENE06_19,segment:0"
+msgid ""
+"<start>[7:0005,00FF]All we've got to do is drag him\n"
+"to Victor's place... It's up to him\n"
+"how hard it'll be.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EPI11_SCENE06_SEL,segment:0"
+msgid "<start>Ask again"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE06_20,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]What an irritating brat! Shoo, kid,\n"
+"you bother me.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Rasputin
+msgctxt "type:0,entry:EPI11_SCENE06_21,segment:0"
+msgid ""
+"<start>[22:0007,00FF,0006,00FF][7:0005,00FF]Nobody likes a stubborn man.\n"
+"Get out of here already.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI12_SCENE04_01,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Raidou! Are you all right? ...Is\n"
+"Narumi okay?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI12_SCENE04_02,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Things aren't so bad here, but\n"
+"it's pandemonium down south.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI12_SCENE04_03,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Buildings in ruins, fires everywhere...\n"
+"The citizens are panicking, and\n"
+"I don't blame 'em.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI12_SCENE04_04,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]This huge monster just came outta\n"
+"nowhere and leveled the city...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI12_SCENE04_05,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]...Say... Raidou...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI12_SCENE04_06,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]I've got a hunch you already know\n"
+"all of this, don't you?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI12_SCENE04_07,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]In fact, I'd bet good money that\n"
+"you were the one who stopped it.\n"
+"Am I right?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI12_SCENE04_08,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]And yet... I can tell, it's not over.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI12_SCENE04_09,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]I can read it all over your face.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI12_SCENE04_10,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Well, I won't ask you any favors\n"
+"right now. So, Raidou...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI12_SCENE04_11,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Just do what you have to. I know\n"
+"you can.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI12_SCENE04_12,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Even if I don't understand what's\n"
+"going on... I'll be rooting for you.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI12_SCENE04_13,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]If anybody can save us, it's you,\n"
+"Raidou!\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI12_SCENE04_14,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The Amatsu Kanagi began to glow\n"
+"in response to Tae's words.\n"
+"<end>"
+msgstr ""
+
+#. Tae
+msgctxt "type:0,entry:EPI12_SCENE04_15,segment:0"
+msgid ""
+"<start>[22:0008,00FF,0006,00FF][7:0005,00FF]Well, I've said my piece. Be careful,\n"
+"Raidou.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Gouto's voice
+msgctxt "type:0,entry:EPI12_SCENE04_16,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Looks like the Amatsu Kanagi is\n"
+"gaining power.\n"
+"<end>"
+msgstr ""
+
+#. Gouto's voice
+msgctxt "type:0,entry:EPI12_SCENE04_17,segment:0"
+msgid ""
+"<start>[7:0005,00FF]It's still not enough, though...\n"
+"<end>"
+msgstr ""
+
+#. Gouto's voice
+msgctxt "type:0,entry:EPI12_SCENE04_18,segment:0"
+msgid ""
+"<start>[7:0005,00FF]We still need more power,\n"
+"[12:0001,00FF]. Move on to\n"
+"another person.\n"
+"<end>"
+msgstr ""
+
+#. Gouto's voice
+msgctxt "type:0,entry:EPI12_SCENE04_19,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You'll need to perform the ritual\n"
+"at Ushigome-gaeri Bridge.\n"
+"<end>"
+msgstr ""
+
+#. Gouto's voice
+msgctxt "type:0,entry:EPI12_SCENE04_20,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The game's afoot, Raidou! Let's\n"
+"settle this once and for all!\n"
+"<end>"
+msgstr ""

@@ -1,0 +1,2002 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+msgctxt "type:0,entry:F22_AREA1_DEBUG,segment:0"
+msgid ""
+"<start>[7:FF07]> Cerberus was erased.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F22_AREA1_NPC1,segment:0"
+msgid ""
+"<start>[7:FF07]Are you trying to get to Ikebukuro,\n"
+"too?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F22_AREA1_NPC1,segment:1"
+msgid ""
+"<start>I say you should turn back.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F22_AREA1_NPC1,segment:2"
+msgid ""
+"<start>There's a crazy dog blocking\n"
+"the way up ahead. He's a real\n"
+"ruffian!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F22_AREA1_NPC2,segment:0"
+msgid ""
+"<start>[7:FF07]Hey! Did you see that giant dog?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F22_AREA1_NPC2_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F22_AREA1_NPC2_YES,segment:0"
+msgid ""
+"<start>[7:FF07]That dog... Maybe it's guarding\n"
+"the Mantra... Or, maybe it just likes\n"
+"hounding people.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F22_AREA1_NPC2_NO,segment:0"
+msgid ""
+"<start>[7:FF07]If you rover on up ahead, you'll see\n"
+"him. Be careful not to get eaten.\n"
+"He's a doggone menace!\n"
+"<end>"
+msgstr ""
+
+#. Cerberus
+msgctxt "type:0,entry:F22_AREA3_KEL1,segment:0"
+msgid ""
+"<start>[7:FF07]GRRRRRRRRR.........\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F22_AREA3_KEL2,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a ferocious dog blocking\n"
+"the path!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F22_AREA8_NPC1,segment:0"
+msgid ""
+"<start>[7:FF07]The Mantra are collecting Magatsuhi\n"
+"while using Ikebukuro as their\n"
+"headquarters.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F22_AREA8_NPC1,segment:1"
+msgid ""
+"<start>I saw a bunch of Manikins being\n"
+"taken there.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F22_AREA8_NPC2,segment:0"
+msgid ""
+"<start>[7:FF07]Eep!! D-D-D-Don't kill me!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F22_AREA8_NPC2,segment:1"
+msgid ""
+"<start>Oh, sorry... Wrong demon.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F22_AREA8_NPC2,segment:2"
+msgid ""
+"<start>I was just attacked by the Mantra.\n"
+"Aside from the usual brutality,\n"
+"they used very harsh language!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F22_AREA8_NPC3,segment:0"
+msgid ""
+"<start>[7:FF07]Stability created by regulations, or\n"
+"chaos resulting from freedom...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F22_AREA8_NPC3,segment:1"
+msgid ""
+"<start>Which is the better world...?\n"
+"That's a difficult choice...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F22_AREA8_NPC4,segment:0"
+msgid ""
+"<start>[7:FF07]My, what a handsome boy!\n"
+"I can give you a massage!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F22_AREA8_NPC4_SEL,segment:0"
+msgid "<start>Okay."
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F22_AREA8_NPC4_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Mmmm... You're pretty tense...\n"
+"Ahhh... How's this...?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F22_AREA8_NPC4_KAIHUKU,segment:0"
+msgid ""
+"<start>[7:FF07]> You fully recovered!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F22_AREA8_NPC4_NO,segment:0"
+msgid ""
+"<start>[7:FF07]Oh, that's too bad.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F22_AREA8_NPC4_NO,segment:1"
+msgid ""
+"<start>If you'd like a relaxing massage,\n"
+"talk to me anytime!\n"
+"<end>"
+msgstr ""
+
+#. Pixie (temp)
+msgctxt "type:0,entry:F22_AREA13_NPC1,segment:0"
+msgid ""
+"<start>[7:FF07]Hey, do you like this underpass?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F22_AREA13_NPC1_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Pixie (temp)
+msgctxt "type:0,entry:F22_AREA13_NPC1_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Are you stupid?\n"
+"I hate this place!!\n"
+"<end>"
+msgstr ""
+
+#. Pixie (temp)
+msgctxt "type:0,entry:F22_AREA13_NPC1_YES,segment:1"
+msgid ""
+"<start>There's nothing to drink\n"
+"down here but dirty water!!\n"
+"<end>"
+msgstr ""
+
+#. Pixie (temp)
+msgctxt "type:0,entry:F22_AREA13_NPC1_NO,segment:0"
+msgid ""
+"<start>[7:FF07]You, too? Ew! They need to do\n"
+"something about this dirty water.\n"
+"<end>"
+msgstr ""
+
+#. Pixie (temp)
+msgctxt "type:0,entry:F22_AREA13_NPC1_NO,segment:1"
+msgid ""
+"<start>I'm all thirsty, and there's\n"
+"nothing down here. \n"
+"<end>"
+msgstr ""
+
+#. Pixie (temp)
+msgctxt "type:0,entry:F22_AREA13_NPC2,segment:0"
+msgid ""
+"<start>[7:FF07]What is it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F22_AREA13_NPC2_SEL,segment:0"
+msgid "<start>Give her clean water."
+msgstr ""
+
+#. Pixie (temp)
+msgctxt "type:0,entry:F22_AREA13_NPC2_YARU,segment:0"
+msgid ""
+"<start>[7:FF07]You're giving this to me???\n"
+"Thank you sooo much!!\n"
+"<end>"
+msgstr ""
+
+#. Pixie (temp)
+msgctxt "type:0,entry:F22_AREA13_NPC2_YARU,segment:1"
+msgid ""
+"<start>I'll give you this in return!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F22_AREA13_NPC2_TAKARA,segment:0"
+msgid ""
+"<start>[7:FF07]> The main character obtained\n"
+"1 rare item.\n"
+"<end>"
+msgstr ""
+
+#. Pixie (temp)
+msgctxt "type:0,entry:F22_AREA13_NPC2_NANDEMO,segment:0"
+msgid ""
+"<start>Don't talk to me if you've got\n"
+"nothing to say! Speaking makes\n"
+"me even thirstier! *cough*\n"
+"<end>"
+msgstr ""
+
+#. Pixie (temp)
+msgctxt "type:0,entry:F22_AREA13_NPC3,segment:0"
+msgid ""
+"<start>[7:FF07]Take good care of my treasure!\n"
+"It's 'precious' to me!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F22_AREA13_YURE,segment:0"
+msgid ""
+"<start>[7:FF07]> The flames of the [2:FF02]Candelabrum\n"
+"of Sovereignty[2:FF01] are flickering wildly...\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:F22_AREA13_NAZO,segment:0"
+msgid ""
+"<start>[7:FF07]> You can feel the presence of\n"
+"a terrifying demon...\n"
+"[16:]<start><end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:F22_AREA13_NAZO,segment:1"
+msgid ""
+"<start>The flames of the candelabrum\n"
+"beckon me to the battlefield!\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:F22_AREA13_NAZO,segment:2"
+msgid ""
+"<start>I do not know who you are, but...\n"
+"If you have a candelabrum,\n"
+"it is our destiny to fight.\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:F22_AREA13_NAZO,segment:3"
+msgid ""
+"<start>Let us duel to the death within\n"
+"my realm, where no one can\n"
+"interrupt us!\n"
+"<end>"
+msgstr ""
+
+#. Lady's voice
+msgctxt "type:0,entry:F22_AREA13_SHUKU,segment:0"
+msgid ""
+"<start>[7:FF07]...So, those holding candelabra did\n"
+"attract each other...\n"
+"<end>"
+msgstr ""
+
+#. Lady's voice
+msgctxt "type:0,entry:F22_AREA13_SHUKU,segment:1"
+msgid ""
+"<start>[12:FF01], I have a favor to\n"
+"ask of you.\n"
+"<end>"
+msgstr ""
+
+#. Lady's voice
+msgctxt "type:0,entry:F22_AREA13_SHUKU,segment:2"
+msgid ""
+"<start>There is no hurry, but could you\n"
+"bring your candelabrum to us?\n"
+"<end>"
+msgstr ""
+
+#. Lady's voice
+msgctxt "type:0,entry:F22_AREA13_SHUKU,segment:3"
+msgid ""
+"<start>I will allow you access to\n"
+"the [2:FF02]Labyrinth of Amala[2:FF01] from\n"
+"the terminal.\n"
+"<end>"
+msgstr ""
+
+#. Lady's voice
+msgctxt "type:0,entry:F22_AREA13_SHUKU,segment:4"
+msgid ""
+"<start>I will explain the details\n"
+"once you arrive.\n"
+"<end>"
+msgstr ""
+
+#. Lady's voice
+msgctxt "type:0,entry:F22_AREA13_SHUKU,segment:5"
+msgid ""
+"<start>Until then, please make sure\n"
+"you do not lose the candelabrum...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F22_AREA13_SHUKU_02,segment:0"
+msgid ""
+"<start>[7:FF07]> You hear a familiar voice.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F22_AREA13_SHUKU_03,segment:0"
+msgid ""
+"<start>[7:FF07]> You can no longer hear\n"
+"the lady's voice.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F22_AREA13_GOAMARA,segment:0"
+msgid ""
+"<start>[7:FF07]> You used the terminal and\n"
+"headed to the Labyrinth of Amala...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F22_AREA20_NPC1_1,segment:0"
+msgid ""
+"<start>[7:FF07]Great timing! I have something to\n"
+"ask you...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F22_AREA20_NPC1_1,segment:1"
+msgid ""
+"<start>Of those two forces that are\n"
+"waging war right now--Nihilo and\n"
+"the Mantra...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F22_AREA20_NPC1_1,segment:2"
+msgid ""
+"<start>Which side are you on?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F22_AREA20_NPC1_1_SEL,segment:0"
+msgid "<start>Mighty Mantra's side."
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F22_AREA20_NPC1_1_MANTOR,segment:0"
+msgid ""
+"<start>[7:FF07]The Mantra's city of Ikebukuro is\n"
+"a place ruled by violence.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F22_AREA20_NPC1_1_MANTOR,segment:1"
+msgid ""
+"<start>You can't complain if you are\n"
+"maimed. No one complains if you\n"
+"kill someone.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F22_AREA20_NPC1_1_MANTOR,segment:2"
+msgid ""
+"<start>I see that you have the stomach to\n"
+"endure that rule.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F22_AREA20_NPC1_1_NIHIRO,segment:0"
+msgid ""
+"<start>[7:FF07]...You are against rule by power?\n"
+"Do you not have confidence in your\n"
+"own power? How odd...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F22_AREA20_NPC1_1_NIHIRO,segment:1"
+msgid ""
+"<start>...Allow me to judge your power!!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F22_AREA20_NPC1_2,segment:0"
+msgid ""
+"<start>[7:FF07]I am amazed by *pant* your power...\n"
+"I must *pant* train harder...\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:F22_AREA4_MANE_A,segment:0"
+msgid ""
+"<start>[7:FF07]......Ah!!\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:F22_AREA4_MANE_I,segment:0"
+msgid ""
+"<start>[7:FF07]......Whoa!!\n"
+"<end>"
+msgstr ""
+
+#. Man on the right
+msgctxt "type:0,entry:F22_AREA4_MANE_U,segment:0"
+msgid ""
+"<start>[7:FF07]......Ack!! He's this far already!?\n"
+"<end>"
+msgstr ""
+
+#. Man on the left
+msgctxt "type:0,entry:F22_AREA4_MANE_U2,segment:0"
+msgid ""
+"<start>[7:FF07]A demon...? Is he a [2:FF02]Mantra[2:FF01] demon?\n"
+"<end>"
+msgstr ""
+
+#. Man on the right
+msgctxt "type:0,entry:F22_AREA4_MANE_E,segment:0"
+msgid ""
+"<start>[7:FF07]...Huh!? Mantra!?\n"
+"<end>"
+msgstr ""
+
+#. Man on the right
+msgctxt "type:0,entry:F22_AREA4_MANE_E,segment:1"
+msgid ""
+"<start>Ummmmmm......\n"
+"<end>"
+msgstr ""
+
+#. Man on the right
+msgctxt "type:0,entry:F22_AREA4_MANE_E,segment:2"
+msgid ""
+"<start>Anyway, let's report this to\n"
+"everyone!\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:F22_AREA9_MANE_1,segment:0"
+msgid ""
+"<start>[7:FF07]......Ahhh!! H-He's here...!\n"
+"<end>"
+msgstr ""
+
+#. People
+msgctxt "type:0,entry:F22_AREA9_MANE_2,segment:0"
+msgid ""
+"<start>[7:FF07]...Th-The demon's here!\n"
+"<end>"
+msgstr ""
+
+#. People
+msgctxt "type:0,entry:F22_AREA9_MANE_3,segment:0"
+msgid ""
+"<start>[7:FF07]...Th-The Mantra!?\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:F22_AREA9_MANE_MUGON,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Old man
+msgctxt "type:0,entry:F22_AREA9_ROJIN0,segment:0"
+msgid ""
+"<start>[7:FF07]A Mantra demon...\n"
+"<end>"
+msgstr ""
+
+#. Old man
+msgctxt "type:0,entry:F22_AREA9_ROJIN1,segment:0"
+msgid ""
+"<start>[7:FF07]......It's over......\n"
+"<end>"
+msgstr ""
+
+#. Old man
+msgctxt "type:0,entry:F22_AREA9_ROJIN1,segment:1"
+msgid ""
+"<start>...It's all over...\n"
+"<end>"
+msgstr ""
+
+#. Old man
+msgctxt "type:0,entry:F22_AREA9_ROJIN2,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Old man
+msgctxt "type:0,entry:F22_AREA9_ROJIN2,segment:1"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+#. Old man
+msgctxt "type:0,entry:F22_AREA9_ROJIN2,segment:2"
+msgid ""
+"<start>............?\n"
+"<end>"
+msgstr ""
+
+#. Old man
+msgctxt "type:0,entry:F22_AREA9_ROJIN2,segment:3"
+msgid ""
+"<start>......Huh?\n"
+"<end>"
+msgstr ""
+
+#. Old man
+msgctxt "type:0,entry:F22_AREA9_ROJIN2,segment:4"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+#. Old man
+msgctxt "type:0,entry:F22_AREA9_ROJIN2,segment:5"
+msgid ""
+"<start>Hey, he's not a Mantra! Never seen\n"
+"a demon of the likes of him in\n"
+"their army!\n"
+"<end>"
+msgstr ""
+
+#. Old man
+msgctxt "type:0,entry:F22_AREA9_ROJIN2,segment:6"
+msgid ""
+"<start>...I was worried for nothing. Now,\n"
+"I can get back to my rocking chair.\n"
+"<end>"
+msgstr ""
+
+#. Old man
+msgctxt "type:0,entry:F22_AREA9_ROJIN2_02,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Old man
+msgctxt "type:0,entry:F22_AREA9_ROJIN2_02,segment:1"
+msgid ""
+"<start>...What?\n"
+"<end>"
+msgstr ""
+
+#. Old man
+msgctxt "type:0,entry:F22_AREA9_ROJIN2_02,segment:2"
+msgid ""
+"<start>Are we that peculiar to you?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F22_AREA9_ROJIN_SEL,segment:0"
+msgid "<start>Actually, yeah."
+msgstr ""
+
+#. Old man
+msgctxt "type:0,entry:F22_AREA9_ROJIN2_YES,segment:0"
+msgid ""
+"<start>[7:FF07]We're [2:FF02]Manikins[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Old man
+msgctxt "type:0,entry:F22_AREA9_ROJIN2_YES,segment:1"
+msgid ""
+"<start>You can probably tell a lot about us\n"
+"just by seeing where we live.\n"
+"<end>"
+msgstr ""
+
+#. Old man
+msgctxt "type:0,entry:F22_AREA9_ROJIN2_YES,segment:2"
+msgid ""
+"<start>...Now, go home! Everyone else, do\n"
+"the same.\n"
+"<end>"
+msgstr ""
+
+#. Old man
+msgctxt "type:0,entry:F22_AREA9_ROJIN2_NO,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Old man
+msgctxt "type:0,entry:F22_AREA9_ROJIN2_NO,segment:1"
+msgid ""
+"<start>I thought that you'd never seen\n"
+"a [2:FF02]Manikin[2:FF01] before.\n"
+"<end>"
+msgstr ""
+
+#. Old man
+msgctxt "type:0,entry:F22_AREA9_ROJIN2_NO,segment:2"
+msgid ""
+"<start>That was a waste of time...\n"
+"Everyone, back to business!\n"
+"<end>"
+msgstr ""
+
+#. Manikins
+msgctxt "type:0,entry:F22_AREA9_MANE_4,segment:0"
+msgid ""
+"<start>[7:FF07]Oh......\n"
+"<end>"
+msgstr ""
+
+#. Manikins
+msgctxt "type:0,entry:F22_AREA9_MANE_4,segment:1"
+msgid ""
+"<start>I guess he's not a Mantra demon...\n"
+"<end>"
+msgstr ""
+
+#. Manikins
+msgctxt "type:0,entry:F22_AREA9_MANE_5,segment:0"
+msgid ""
+"<start>[7:FF07]...We were worried for nothing.\n"
+"<end>"
+msgstr ""
+
+#. Old Manikin
+msgctxt "type:0,entry:F22_AREA9_ROJIN3,segment:0"
+msgid ""
+"<start>[7:FF07]From the moment us Manikins are\n"
+"born, we're destined to become\n"
+"slaves.\n"
+"<end>"
+msgstr ""
+
+#. Old Manikin
+msgctxt "type:0,entry:F22_AREA9_ROJIN3,segment:1"
+msgid ""
+"<start>...Even now, many of our people are\n"
+"suffering at the hands of the Mantra.\n"
+"<end>"
+msgstr ""
+
+#. Old Manikin
+msgctxt "type:0,entry:F22_AREA9_ROJIN3,segment:2"
+msgid ""
+"<start>But, we have a heart too, y'know!\n"
+"We can feel pain like anyone else.\n"
+"<end>"
+msgstr ""
+
+#. Old Manikin
+msgctxt "type:0,entry:F22_AREA9_ROJIN3,segment:3"
+msgid ""
+"<start>Being a slave is miserable...\n"
+"That's why we escaped to this\n"
+"underpass...\n"
+"<end>"
+msgstr ""
+
+#. Old Manikin
+msgctxt "type:0,entry:F22_AREA9_ROJIN3,segment:4"
+msgid ""
+"<start>We live in a constant state of fear\n"
+"that the Mantra will attack us at any\n"
+"moment...\n"
+"<end>"
+msgstr ""
+
+#. Old Manikin
+msgctxt "type:0,entry:F22_AREA9_ROJIN4,segment:0"
+msgid ""
+"<start>[7:FF07]That's why we've sealed off the path\n"
+"up ahead.\n"
+"<end>"
+msgstr ""
+
+#. Old Manikin
+msgctxt "type:0,entry:F22_AREA9_ROJIN4,segment:1"
+msgid ""
+"<start>I'm sorry, but we can't open\n"
+"the gate to Ikebukuro.\n"
+"<end>"
+msgstr ""
+
+#. Old Manikin
+msgctxt "type:0,entry:F22_AREA9_ROJIN4,segment:2"
+msgid ""
+"<start>Please go back...\n"
+"<end>"
+msgstr ""
+
+#. Old Manikin
+msgctxt "type:0,entry:F22_AREA9_ROJIN4,segment:3"
+msgid ""
+"<start>Now, then... We must return to our\n"
+"duties.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F22_AREA9_INAI,segment:0"
+msgid ""
+"<start>[7:FF07]> The Manikins returned to\n"
+"their rooms.\n"
+"<end>"
+msgstr ""
+
+#. Manikin gatekeeper
+msgctxt "type:0,entry:F22_AREA20_MOBAHN1,segment:0"
+msgid ""
+"<start>[7:FF07]Hey! Stop right there.\n"
+"<end>"
+msgstr ""
+
+#. Manikin gatekeeper
+msgctxt "type:0,entry:F22_AREA20_MOBAHN1,segment:1"
+msgid ""
+"<start>This path leads to Ikebukuro,\n"
+"the base of the Mantra.\n"
+"<end>"
+msgstr ""
+
+#. Manikin gatekeeper
+msgctxt "type:0,entry:F22_AREA20_MOBAHN1,segment:2"
+msgid ""
+"<start>It would be real bad if the Mantra\n"
+"came, so I can't open the gate.\n"
+"<end>"
+msgstr ""
+
+#. Manikin gatekeeper
+msgctxt "type:0,entry:F22_AREA20_MOBAHN1_2,segment:0"
+msgid ""
+"<start>[7:FF07]I can't let you pass.\n"
+"<end>"
+msgstr ""
+
+#. Manikin gatekeeper
+msgctxt "type:0,entry:F22_AREA20_MOBAHN1_2,segment:1"
+msgid ""
+"<start>It wouldn't be good if the Mantra\n"
+"came, so I can't open the gate.\n"
+"<end>"
+msgstr ""
+
+#. Manikin gatekeeper
+msgctxt "type:0,entry:F22_AREA20_MOBAHN2,segment:0"
+msgid ""
+"<start>[7:FF07]How many times do I have to tell\n"
+"you? I can't let you pass...\n"
+"<end>"
+msgstr ""
+
+#. Manikin gatekeeper
+msgctxt "type:0,entry:F22_AREA20_MOBAHN2,segment:1"
+msgid ""
+"<start>.............\n"
+"<end>"
+msgstr ""
+
+#. Manikin gatekeeper
+msgctxt "type:0,entry:F22_AREA20_MOBAHN2,segment:2"
+msgid ""
+"<start>...What's this?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F22_AREA20_MOBAHN3,segment:0"
+msgid ""
+"<start>[7:FF07]> You gave the gatekeeper\n"
+"the [2:FF02]Manikin's Letter[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Manikin gatekeeper
+msgctxt "type:0,entry:F22_AREA20_MOBAHN4,segment:0"
+msgid ""
+"<start>[7:FF07]...? A letter from him?\n"
+"<end>"
+msgstr ""
+
+#. Manikin gatekeeper
+msgctxt "type:0,entry:F22_AREA20_MOBAHN4,segment:1"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+#. Manikin gatekeeper
+msgctxt "type:0,entry:F22_AREA20_MOBAHN4,segment:2"
+msgid ""
+"<start>............?\n"
+"<end>"
+msgstr ""
+
+#. Manikin gatekeeper
+msgctxt "type:0,entry:F22_AREA20_MOBAHN4,segment:3"
+msgid ""
+"<start>............!\n"
+"<end>"
+msgstr ""
+
+#. Manikin gatekeeper
+msgctxt "type:0,entry:F22_AREA20_MOBAHN4,segment:4"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+#. Manikin gatekeeper
+msgctxt "type:0,entry:F22_AREA20_MOBAHN4,segment:5"
+msgid ""
+"<start>...I got it. If that's the case,\n"
+"it can't be helped.\n"
+"<end>"
+msgstr ""
+
+#. Manikin gatekeeper
+msgctxt "type:0,entry:F22_AREA20_MOBAHN4,segment:6"
+msgid ""
+"<start>...Go ahead and pass.\n"
+"<end>"
+msgstr ""
+
+#. Manikin gatekeeper
+msgctxt "type:0,entry:F22_AREA20_MOBAHN4_2,segment:0"
+msgid ""
+"<start>[7:FF07]Ask me anytime if you want to get\n"
+"through.\n"
+"<end>"
+msgstr ""
+
+#. Manikin gatekeeper
+msgctxt "type:0,entry:F22_AREA20_MOBAHN5,segment:0"
+msgid ""
+"<start>[7:FF07]...Going through?\n"
+"<end>"
+msgstr ""
+
+#. Manikin gatekeeper
+msgctxt "type:0,entry:F22_AREA20_MOBAHN6,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Manikin gatekeeper
+msgctxt "type:0,entry:F22_AREA20_MOBAHN7,segment:0"
+msgid ""
+"<start>[7:FF07]...Open the gate?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F22_AREA20_MOBAHN_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN1,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN1,segment:1"
+msgid ""
+"<start>...Hey.\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN2,segment:0"
+msgid ""
+"<start>[7:FF07]Are you that demon everyone is\n"
+"talking about?\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN2,segment:1"
+msgid ""
+"<start>I'm a collector of many things,\n"
+"especially things that have to do\n"
+"with humans.\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN2,segment:2"
+msgid ""
+"<start>So, I leave the underpass every\n"
+"so often, convincing the gatekeeper\n"
+"to let me through.\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN2A,segment:0"
+msgid ""
+"<start>[7:FF07]Well, if you need some advice,\n"
+"I'll help you.\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN2A,segment:1"
+msgid ""
+"<start>...Maybe you could help me collect\n"
+"'stuff'...\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN3,segment:0"
+msgid ""
+"<start>[7:FF07]Is something wrong?\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN3,segment:1"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN3,segment:2"
+msgid ""
+"<start>...The gatekeeper is preventing you\n"
+"from passing by to get to Ikebukuro,\n"
+"huh?\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN3,segment:3"
+msgid ""
+"<start>Would you like me to persuade him\n"
+"to let you through?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F22_AREA23_SENEN_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN_NO,segment:0"
+msgid ""
+"<start>[7:FF07]Are you sure? Okay, suit yourself.\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN_NO,segment:1"
+msgid ""
+"<start>I doubt you'll be able to get that\n"
+"gatekeeper to let you through.\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN_NO,segment:2"
+msgid ""
+"<start>Come back if you change your mind.\n"
+"I'll be here.\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN4,segment:0"
+msgid ""
+"<start>[7:FF07]Alright, I'll persuade the gatekeeper\n"
+"to let you through.\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN4,segment:1"
+msgid ""
+"<start>But, only on one condition...\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN4,segment:2"
+msgid ""
+"<start>You have to find something that I'm\n"
+"looking for.\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN5,segment:0"
+msgid ""
+"<start>[7:FF07]I want a [2:FF02]Bill[2:FF01]. It's a small portrait\n"
+"painted by humans in a greenish\n"
+"color.\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN5,segment:1"
+msgid ""
+"<start>It's small, yet detailed, and it\n"
+"uses watermarking technology that\n"
+"changes patterns...\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN5,segment:2"
+msgid ""
+"<start>It had value at one time, I think.\n"
+"I heard that some humans valued it\n"
+"more than their lives!\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN5,segment:3"
+msgid ""
+"<start>I'd like to find one, but I have\n"
+"no clue as to where I can find it.\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN5,segment:4"
+msgid ""
+"<start>I heard that there were plenty\n"
+"where [2:FF02]people crowded together[2:FF01].\n"
+"...A city, perhaps?\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN5A,segment:0"
+msgid ""
+"<start>[7:FF07]Maybe you'll be able to do it.\n"
+"You're a demon, after all.\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN5A,segment:1"
+msgid ""
+"<start>Anyways... I entrust you with finding\n"
+"that Bill.\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN6,segment:0"
+msgid ""
+"<start>[7:FF07]*gasp* A real BILL!!!\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN6,segment:1"
+msgid ""
+"<start>We had a deal, right? C'mon, c'mon!\n"
+"Oh, this is great!!!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F22_AREA23_SENEN7,segment:0"
+msgid ""
+"<start>[7:FF07]> You handed over the [2:FF02]Bill[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN8,segment:0"
+msgid ""
+"<start>[7:FF07]As I said, a deal's a deal.\n"
+"Hold on a sec.\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN9,segment:0"
+msgid ""
+"<start>[7:FF07]...Here you go. Give this [2:FF02]letter[2:FF01] to\n"
+"the gatekeeper. This should get you\n"
+"through.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F22_AREA23_SENEN10,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained the [2:FF02]Manikin's letter[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN11,segment:0"
+msgid ""
+"<start>[7:FF07]See you later... I hope you get to\n"
+"Ikebukuro safely.\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN11_2,segment:0"
+msgid ""
+"<start>[7:FF07]Ooooooh... It says '1000' on it!!\n"
+"Wonder what that's worth...?\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN11_2,segment:1"
+msgid ""
+"<start>Hmmm... Where's the switch to\n"
+"activate the watermark?\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN12,segment:0"
+msgid ""
+"<start>[7:FF07]Did you find a Bill? \n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN12,segment:1"
+msgid ""
+"<start>I heard that there were plenty\n"
+"where [2:FF02]people crowded together[2:FF01].\n"
+"...A city, perhaps?\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN14,segment:0"
+msgid ""
+"<start>[7:FF07]The Mantra are busy attacking\n"
+"Nihilo, so now's a great chance to\n"
+"collect stuff around Ikebukuro!\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:F22_AREA23_SENEN14,segment:1"
+msgid ""
+"<start>To go, or not to go...\n"
+"That is the question!\n"
+"I'd hate to get killed...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F22_AREA23_SENEN15,segment:0"
+msgid ""
+"<start>[7:FF07]> No one is here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F22_AREA23_SENEN13,segment:0"
+msgid ""
+"<start>[7:FF07]> You feel like\n"
+"the story progressed.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F22_AREA23_SENEN13,segment:1"
+msgid ""
+"<start>A [2:FF05]flag[2:FF01] seems to\n"
+"have been raised.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F22_AREA0_NPC1,segment:0"
+msgid ""
+"<start>[7:FF07]> This is a spare NPC.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:FIRE_YURE,segment:0"
+msgid ""
+"<start>[7:FF07]> The flame of\n"
+"the [2:FF02]Candelabrum of Sovereignty[2:FF01]\n"
+"is wavering wildly...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:KEHAI,segment:0"
+msgid ""
+"<start>[7:FF07]> You can feel the presence \n"
+"of a terrifying demon...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:KEHAI,segment:1"
+msgid ""
+"<start>> Will you stay here?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:YES_NO_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:KEHAI2,segment:0"
+msgid ""
+"<start>[7:FF07]> Are you sure?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TRY_RUNAWAY,segment:0"
+msgid ""
+"<start>[7:FF02]> ............\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:RUNAWAY,segment:0"
+msgid ""
+"<start>[7:FF07]> It looks like you'll\n"
+"be able to get away.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SIPPAI,segment:0"
+msgid ""
+"<start>[7:FF07]> It looks like you\n"
+"won't be able to escape.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:SIPPAI2,segment:0"
+msgid ""
+"<start>[7:FF07]I know that\n"
+"you have a candelabrum!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:SIPPAI_KOTEN,segment:0"
+msgid ""
+"<start>[7:FF07]The flames of the candelabrum\n"
+"burn passionately!\n"
+"You won't escape!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EXITWARP,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you leave the area?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EXITWARP_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a Mystical Chest.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HOSEKI_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Mystical Chest.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA,segment:0"
+msgid ""
+"<start>[7:FF07]> You see a Cache Cube.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAKARA_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Cache Cube.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_STILLGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DH_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"the Magatama [2:FF05][3:FF01][2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_MAKA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01] Macca[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:0"
+msgid ""
+"<start>[7:FF07]> It's a trap.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:1"
+msgid ""
+"<start>> Your party took damage.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_KARAGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:0"
+msgid ""
+"<start>[7:FF07]> [3:FF03] found something.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:1"
+msgid ""
+"<start>[7:FF07]............\n"
+"> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_OPENERROR,segment:0"
+msgid ""
+"<start>[7:FF07]> It can't be used here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_LIGHTMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The light effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_ESTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The repel effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REBERAMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The attract effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REFUTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The levitation effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:WARP_ELV_MSG,segment:0"
+msgid ""
+"<start>[7:FF07]> Select a floor.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL1,segment:0"
+msgid "<start>[3:FF01][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL2,segment:0"
+msgid "<start>[3:FF02][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL3,segment:0"
+msgid "<start>[3:FF03][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL4,segment:0"
+msgid "<start>[3:FF04][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL5,segment:0"
+msgid "<start>[3:FF05][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL6,segment:0"
+msgid "<start>[3:FF06][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:F022_YESNO_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Old Manikin
+msgctxt "type:0,entry:F022_MANEKATA01_01,segment:0"
+msgid ""
+"<start>[7:FF07]...Oh, you again.\n"
+"<end>"
+msgstr ""
+
+#. Old Manikin
+msgctxt "type:0,entry:F022_MANEKATA01_01,segment:1"
+msgid ""
+"<start>Is it bothering you that much?\n"
+"<end>"
+msgstr ""
+
+#. Old Manikin
+msgctxt "type:0,entry:F022_MANEKATA01_YES,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Old Manikin
+msgctxt "type:0,entry:F022_MANEKATA01_YES,segment:1"
+msgid ""
+"<start>...We're Manikins.\n"
+"<end>"
+msgstr ""
+
+#. Old Manikin
+msgctxt "type:0,entry:F022_MANEKATA01_YES,segment:2"
+msgid ""
+"<start>Our destiny is to be slaves to\n"
+"the demons.\n"
+"<end>"
+msgstr ""
+
+#. Old Manikin
+msgctxt "type:0,entry:F022_MANEKATA01_YES,segment:3"
+msgid ""
+"<start>...But, we can also feel pain,\n"
+"you know.\n"
+"<end>"
+msgstr ""
+
+#. Old Manikin
+msgctxt "type:0,entry:F022_MANEKATA01_YES,segment:4"
+msgid ""
+"<start>That's why we live in hiding\n"
+"in this underpass.\n"
+"<end>"
+msgstr ""
+
+#. Old Manikin
+msgctxt "type:0,entry:F022_MANEKATA01_YES,segment:5"
+msgid ""
+"<start>...Get it? So, please leave us be.\n"
+"<end>"
+msgstr ""
+
+#. Old Manikin
+msgctxt "type:0,entry:F022_MANEKATA01_NO,segment:0"
+msgid ""
+"<start>[7:FF07]...Then, leave us be.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F022_MANEKATA02,segment:0"
+msgid ""
+"<start>[7:FF07]We're like humans, but we're not...\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F022_MANEKATA02,segment:1"
+msgid ""
+"<start>We were made to look like them, for\n"
+"some reason or another. It can't be\n"
+"helped.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F022_MANEKATA03_01,segment:0"
+msgid ""
+"<start>[7:FF07]Eeeeeeeeep! D-D-D-Don't kill me!\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F022_MANEKATA03_01,segment:1"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F022_MANEKATA03_01,segment:2"
+msgid ""
+"<start>Oops... Wrong demon.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F022_MANEKATA03_02,segment:0"
+msgid ""
+"<start>[7:FF07]I-I-I-I thought I was going to be\n"
+"killed!\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F022_MANEKATA03_03,segment:0"
+msgid ""
+"<start>[7:FF07]I've decided to stay here.\n"
+"I've grown attached to this\n"
+"place.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F022_MANEKATA04,segment:0"
+msgid ""
+"<start>[7:FF07]This underpass is built like a maze,\n"
+"so it's perfect for a hideout.\n"
+"<end>"
+msgstr ""
+
+#. Manikin kid
+msgctxt "type:0,entry:F022_MANEKATA05,segment:0"
+msgid ""
+"<start>[7:FF07]You! You know [2:FF02]Gozu-Tennoh[2:FF01]?\n"
+"<end>"
+msgstr ""
+
+#. Manikin kid
+msgctxt "type:0,entry:F022_MANEKATA05_YES,segment:0"
+msgid ""
+"<start>[7:FF07]...You're cool.\n"
+"<end>"
+msgstr ""
+
+#. Manikin kid
+msgctxt "type:0,entry:F022_MANEKATA05_NO,segment:0"
+msgid ""
+"<start>[7:FF07]You blow.\n"
+"<end>"
+msgstr ""
+
+#. Manikin kid
+msgctxt "type:0,entry:F022_MANEKATA05_NO,segment:1"
+msgid ""
+"<start>Gozu-Tennoh is the leader of\n"
+"the Mantra!\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F022_MANEKATA06,segment:0"
+msgid ""
+"<start>[7:FF07]The Mantra and the Assembly of\n"
+"Nihilo oppose each other because\n"
+"their ideals differ.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F022_MANEKATA06,segment:1"
+msgid ""
+"<start>They have different ideas of how\n"
+"Tokyo should be run, you see.\n"
+"<end>"
+msgstr ""
+
+#. Female Manikin
+msgctxt "type:0,entry:F022_MANEKATA07,segment:0"
+msgid ""
+"<start>[7:FF07]Did you meet the Manikin who\n"
+"collects junk?\n"
+"<end>"
+msgstr ""
+
+#. Female Manikin
+msgctxt "type:0,entry:F022_MANEKATA07_YES,segment:0"
+msgid ""
+"<start>[7:FF07]You did?\n"
+"<end>"
+msgstr ""
+
+#. Female Manikin
+msgctxt "type:0,entry:F022_MANEKATA07_YES,segment:1"
+msgid ""
+"<start>He's weird...\n"
+"<end>"
+msgstr ""
+
+#. Female Manikin
+msgctxt "type:0,entry:F022_MANEKATA07_NO,segment:0"
+msgid ""
+"<start>[7:FF07]...I see.\n"
+"<end>"
+msgstr ""
+
+#. Female Manikin
+msgctxt "type:0,entry:F022_MANEKATA07_NO,segment:1"
+msgid ""
+"<start>He likes things that humans used.\n"
+"If you want to meet him, he's\n"
+"downstairs.\n"
+"<end>"
+msgstr ""
+
+#. Female Manikin
+msgctxt "type:0,entry:F022_MANEKATA08_01,segment:0"
+msgid ""
+"<start>[7:FF07]Many of our fellow Manikins are\n"
+"suffering in Ikebukuro as slaves of\n"
+"the [2:FF02]Mantra[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Female Manikin
+msgctxt "type:0,entry:F022_MANEKATA08_01,segment:1"
+msgid ""
+"<start>...Um, the Mantra are a group of\n"
+"demons based in Ikebukuro. Dunno\n"
+"if you knew...\n"
+"<end>"
+msgstr ""
+
+#. Female Manikin
+msgctxt "type:0,entry:F022_MANEKATA08_02,segment:0"
+msgid ""
+"<start>[7:FF07]The Mantra are headed for Nihilo's\n"
+"headquarters in Ginza.\n"
+"<end>"
+msgstr ""
+
+#. Female Manikin
+msgctxt "type:0,entry:F022_MANEKATA08_02,segment:1"
+msgid ""
+"<start>They used this underpass to get\n"
+"there, so we all locked ourselves\n"
+"inside of our rooms.\n"
+"<end>"
+msgstr ""
+
+#. Female Manikin
+msgctxt "type:0,entry:F022_MANEKATA08_03,segment:0"
+msgid ""
+"<start>[7:FF07]Everyone headed to Asakusa, where\n"
+"Futomimi is.\n"
+"<end>"
+msgstr ""
+
+#. Female Manikin
+msgctxt "type:0,entry:F022_MANEKATA08_03,segment:1"
+msgid ""
+"<start>This place has become desolate\n"
+"now.\n"
+"<end>"
+msgstr ""
+
+#. Female Manikin
+msgctxt "type:0,entry:F022_MANEKATA08_04,segment:0"
+msgid ""
+"<start>[7:FF07]I prefer this underpass.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F022_SINEN01,segment:0"
+msgid ""
+"<start>[7:FF07]Ikebukuro is west of here.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F022_SINEN01,segment:1"
+msgid ""
+"<start>If you're going back to Ginza,\n"
+"head east.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F022_SINEN02_01,segment:0"
+msgid ""
+"<start>[7:FF07]If the Mantra and Nihilo ever go\n"
+"at it...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F022_SINEN02_01,segment:1"
+msgid ""
+"<start>This place'll be toast in no time.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F022_SINEN02_02,segment:0"
+msgid ""
+"<start>[7:FF07]The Mantra and Nihilo have finally\n"
+"started it! Inquiring minds want to\n"
+"know...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F022_SINEN02_02,segment:1"
+msgid ""
+"<start>Will the Mantra win with power, or\n"
+"will Nihilo win with strategy?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F022_SINEN02_03,segment:0"
+msgid ""
+"<start>[7:FF07]The Assembly of Nihilo...\n"
+"They're quite a dangerous bunch...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F022_DEVIL01,segment:0"
+msgid ""
+"<start>[7:FF07]Hitting on me in a place like this?!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F022_DEVIL01,segment:1"
+msgid ""
+"<start>Well, demons with a gift for gab\n"
+"have skills that calm opponents\n"
+"down when they get upset.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F022_DEVIL01,segment:2"
+msgid ""
+"<start>A smooth talker like that would be\n"
+"popular with the ladies!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F022_SINEN03,segment:0"
+msgid ""
+"<start>[7:FF07]This is the Great Underpass of\n"
+"Ginza that connects Ginza to\n"
+"Ikebukuro.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F022_SINEN03,segment:1"
+msgid ""
+"<start>...It's a loooooong tunnel full of\n"
+"full of poisonous demons!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F022_SINEN04,segment:0"
+msgid ""
+"<start>[7:FF07]The terminal up ahead is\n"
+"an [2:FF02]S terminal[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F022_SINEN04,segment:1"
+msgid ""
+"<start>You can use it to return to\n"
+"the parent terminal.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F022_SINEN05,segment:0"
+msgid ""
+"<start>[7:FF07]Are you headed to Ikebukuro?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F022_SINEN05_NO,segment:0"
+msgid ""
+"<start>[7:FF07]...I see. It's probably for\n"
+"the best.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F022_SINEN05_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Ikebukuro's right there after\n"
+"you get out of this hall.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F022_SINEN05_YES,segment:1"
+msgid ""
+"<start>But, there hasn't been a single\n"
+"being that's escaped the Mantra's\n"
+"clutches once they've been caught!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F022_SINEN05_YES,segment:2"
+msgid ""
+"<start>...Gozu-Tennoh isn't a pushover.\n"
+"You'd better be careful.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F022_SINEN05_02,segment:0"
+msgid ""
+"<start>[7:FF07]A bunch of Mantra demons came\n"
+"through here on their way to fight\n"
+"Nihilo.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F022_SINEN05_02,segment:1"
+msgid ""
+"<start>Phew!! I'm sooooo glad they didn't\n"
+"spot me!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F022_SINEN05_03,segment:0"
+msgid ""
+"<start>[7:FF07]Shijima...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F022_SINEN05_03,segment:1"
+msgid ""
+"<start>The commander of Nihilo is\n"
+"planning to create a world\n"
+"based on the Reason of Shijima.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F022_SINEN05_03,segment:2"
+msgid ""
+"<start>I think I like the idea...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F022_DOOR01,segment:0"
+msgid ""
+"<start>[7:FF07]> The door is closed tight.\n"
+"<end>"
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:F022_SINEN06_01,segment:0"
+msgid ""
+"<start>[7:FF07]The g-g-g-grim reaper!\n"
+"<end>"
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:F022_SINEN06_01,segment:1"
+msgid ""
+"<start>Up ahead! Up ahead!\n"
+"<end>"
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:F022_SINEN06_02,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:F022_SINEN06_02,segment:1"
+msgid ""
+"<start>...Is the reaper still there?\n"
+"<end>"
+msgstr ""

@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Lady of the Fount
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07]...This is the Fountain of Life,\n"
+"where the wounded find refuge...\n"
+"<end>"
+msgstr ""
+
+#. Lady of the Fount
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF06]Welcome to the Fountain of Life...\n"
+"<end>"
+msgstr ""
+
+#. Lady of the Fount
+msgctxt "type:0,entry:MSG_002,segment:1"
+msgid ""
+"<start>Your name has reached\n"
+"my humble ears...\n"
+"I will assist you to the best\n"
+"of my ability.\n"
+"<end>"
+msgstr ""
+
+#. Lady of the Fount
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF06]Welcome to the Fountain of Life...\n"
+"<end>"
+msgstr ""
+
+#. Lady of the Fount
+msgctxt "type:0,entry:MSG_003_002,segment:0"
+msgid ""
+"<start>[7:FF06]I know your story, and I know that\n"
+"within you lies a tremendous\n"
+"power...\n"
+"<end>"
+msgstr ""
+
+#. Lady of the Fount
+msgctxt "type:0,entry:MSG_003_002,segment:1"
+msgid ""
+"<start>Please allow me to release\n"
+"whatever power I may.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_UP,segment:0"
+msgid ""
+"<start>[7:FF06]> [13:FF01]'s stats increased.\n"
+"<end>"
+msgstr ""
+
+#. Lady of the Fount
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF06]Oh... There is still power inside\n"
+"you which has yet to be set free.\n"
+"<end>"
+msgstr ""
+
+#. Lady of the Fount
+msgctxt "type:0,entry:MSG_004,segment:1"
+msgid ""
+"<start>I will try to release it.\n"
+"<end>"
+msgstr ""
+
+#. Lady of the Fount
+msgctxt "type:0,entry:MSG_005,segment:0"
+msgid ""
+"<start>[7:FF06]All of the power that lay dormant\n"
+"inside you has now been unleashed.\n"
+"<end>"
+msgstr ""
+
+#. Lady of the Fount
+msgctxt "type:0,entry:MSG_005,segment:1"
+msgid ""
+"<start>Though I know not what you have\n"
+"endured, it is your past\n"
+"experiences which are the source\n"
+"of your untapped power.\n"
+"<end>"
+msgstr ""
+
+#. Lady of the Fount
+msgctxt "type:0,entry:MSG_005,segment:2"
+msgid ""
+"<start>I hope your new found strength\n"
+"serves you well...\n"
+"<end>"
+msgstr ""

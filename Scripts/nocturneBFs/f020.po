@@ -1,0 +1,1533 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+msgctxt "type:0,entry:SECOND_ENT,segment:0"
+msgid ""
+"<start>> Light is coming from the hole. \n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SECOND_ENT,segment:1"
+msgid ""
+"<start>> Will you hold your hand over it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SWITCH,segment:0"
+msgid ""
+"<start>[7:FF07]> There's a switch.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SWITCH,segment:1"
+msgid ""
+"<start>> Will you operate it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:YN_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Mysterious demon
+msgctxt "type:0,entry:CUBE_GARD01,segment:0"
+msgid ""
+"<start>[7:FF07]Oh, no you don't!\n"
+"<end>"
+msgstr ""
+
+#. Mysterious demon
+msgctxt "type:0,entry:CUBE_GARD01,segment:1"
+msgid ""
+"<start>I won't let you get past here.\n"
+"<end>"
+msgstr ""
+
+#. Mysterious demon
+msgctxt "type:0,entry:CUBE_GARD01,segment:2"
+msgid ""
+"<start>How's this?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:CUBE_GARD01_01,segment:0"
+msgid ""
+"<start>[7:FF07]> The demon has operated the switch.\n"
+"<end>"
+msgstr ""
+
+#. Demon guard
+msgctxt "type:0,entry:CUBE_GARD02,segment:0"
+msgid ""
+"<start>How dare you!! You're dead meat!!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:CUBE_GARD03,segment:0"
+msgid ""
+"<start>> You defeated the demon guard.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SAIDAN01_01,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a pedestal emitting\n"
+"white light...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SAIDAN02_01,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a pedestal emitting\n"
+"yellow light...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SAIDAN03_01,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a pedestal emitting\n"
+"green light...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SAIDAN04_01,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a pedestal emitting\n"
+"red light...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SAIDAN01_02,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you use the White Kila?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SAIDAN02_02,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you use the Yellow Kila?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SAIDAN03_02,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you use the Green Kila?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SAIDAN04_02,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you use the Red Kila?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SAIDAN01_04,segment:0"
+msgid ""
+"<start>[7:FF07]> The pedestal is no longer emitting\n"
+"light.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SAIDAN02_04,segment:0"
+msgid ""
+"<start>[7:FF07]> The pedestal is no longer emitting\n"
+"light.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SAIDAN03_04,segment:0"
+msgid ""
+"<start>[7:FF07]> The pedestal is no longer emitting\n"
+"light.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SAIDAN04_04,segment:0"
+msgid ""
+"<start>[7:FF07]> The pedestal is no longer emitting\n"
+"light.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TURO_NG,segment:0"
+msgid ""
+"<start>[7:FF07]> The floor is too unstable to proceed\n"
+"ahead.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TURO_OK,segment:0"
+msgid ""
+"<start>[7:FF07]> The floor is stable.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI01,segment:0"
+msgid ""
+"<start>This dome is camouflage; the real\n"
+"thing is downstairs.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI01,segment:1"
+msgid ""
+"<start>You saw that spinning room, right?\n"
+"I'll fix that, as always.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI01,segment:2"
+msgid ""
+"<start>You'd go even if I told you not to,\n"
+"right? ...Yeah, that's what I thought.\n"
+"<end>"
+msgstr ""
+
+#. Demon guard
+msgctxt "type:0,entry:HEISHI01,segment:0"
+msgid ""
+"<start>[7:FF07]Alright, that's enough...\n"
+"<end>"
+msgstr ""
+
+#. Demon guard
+msgctxt "type:0,entry:HEISHI02,segment:0"
+msgid ""
+"<start>[7:FF07]*chuckle* Don't even try to resist...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:HEISHI03,segment:0"
+msgid ""
+"<start>[7:FF07]I found you.\n"
+"<end>"
+msgstr ""
+
+#. Demon guard
+msgctxt "type:0,entry:HEISHI04,segment:0"
+msgid ""
+"<start>[7:FF07]Now, let's finish this...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HEISHI_KARI,segment:0"
+msgid ""
+"<start>[7:FF07]> You defeated the demon guard.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HEISHI_KARI02,segment:0"
+msgid ""
+"<start>[7:FF07]> You defeated the demon guards.\n"
+"<end>"
+msgstr ""
+
+#. Small terminal
+msgctxt "type:0,entry:TERMINAL,segment:0"
+msgid ""
+"<start>> Link to the altar?\n"
+"<end>"
+msgstr ""
+
+#. Eligor
+msgctxt "type:0,entry:BOSSHOUMOTU01,segment:0"
+msgid ""
+"<start>[7:FF07]I am Eligor, one of the fallen angels.\n"
+"<end>"
+msgstr ""
+
+#. Eligor
+msgctxt "type:0,entry:BOSSHOUMOTU01,segment:1"
+msgid ""
+"<start>I guard this Kila under the order of\n"
+"our commander.\n"
+"<end>"
+msgstr ""
+
+#. Eligor
+msgctxt "type:0,entry:BOSSHOUMOTU02,segment:0"
+msgid ""
+"<start>Now... You seem to have some\n"
+"brains, unlike those Mantra fools.\n"
+"<end>"
+msgstr ""
+
+#. Eligor
+msgctxt "type:0,entry:BOSSHOUMOTU03,segment:0"
+msgid ""
+"<start>[7:FF07]I like those with intelligence.\n"
+"<end>"
+msgstr ""
+
+#. Eligor
+msgctxt "type:0,entry:BOSSHOUMOTU03,segment:1"
+msgid ""
+"<start>To show you my respect, I will kill\n"
+"you painlessly.\n"
+"<end>"
+msgstr ""
+
+#. Eligor
+msgctxt "type:0,entry:BOSSHOUMOTU03_02,segment:0"
+msgid ""
+"<start>[7:FF07]I won't let you have the Kila...\n"
+"<end>"
+msgstr ""
+
+#. Eligor
+msgctxt "type:0,entry:BOSSHOUMOTU03_03,segment:0"
+msgid ""
+"<start>[7:FF07]Die!!\n"
+""
+msgstr ""
+
+#. Berith
+msgctxt "type:0,entry:BERI01,segment:0"
+msgid ""
+"<start>[7:FF07]Halt...\n"
+"<end>"
+msgstr ""
+
+#. Berith
+msgctxt "type:0,entry:BERI01,segment:1"
+msgid ""
+"<start>I am Berith, the great duke of hell.\n"
+"<end>"
+msgstr ""
+
+#. Berith
+msgctxt "type:0,entry:BERI01,segment:2"
+msgid ""
+"<start>Insolent scoundrel, put down\n"
+"the Kila and begone!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:BERI01_SEL,segment:0"
+msgid "<start>If you say so."
+msgstr ""
+
+#. Berith
+msgctxt "type:0,entry:BERI01_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Then, hurry and begone!\n"
+"<end>"
+msgstr ""
+
+#. Berith
+msgctxt "type:0,entry:BERI01_YES,segment:1"
+msgid ""
+"<start>No, wait...\n"
+"<end>"
+msgstr ""
+
+#. Berith
+msgctxt "type:0,entry:BERI01_YES,segment:2"
+msgid ""
+"<start>I can see your future...\n"
+"<end>"
+msgstr ""
+
+#. Berith
+msgctxt "type:0,entry:BERI01_YES,segment:3"
+msgid ""
+"<start>I can see your face and body\n"
+"bloodied by my hands...\n"
+"<end>"
+msgstr ""
+
+#. Berith
+msgctxt "type:0,entry:BERI01_YES,segment:4"
+msgid ""
+"<start>If that is the future, then so shall\n"
+"it be! Die!!\n"
+"<end>"
+msgstr ""
+
+#. Berith
+msgctxt "type:0,entry:BERI02,segment:0"
+msgid ""
+"<start>[7:FF07]I see...\n"
+"<end>"
+msgstr ""
+
+#. Berith
+msgctxt "type:0,entry:BERI02,segment:1"
+msgid ""
+"<start>Then, prepare yourself...\n"
+"<end>"
+msgstr ""
+
+#. Berith
+msgctxt "type:0,entry:BERI02,segment:2"
+msgid ""
+"<start>...for my spear shall pierce through\n"
+"your insolent skull!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BOSS01_WIN,segment:0"
+msgid ""
+"<start>> You defeated Beiji-Weng!\n"
+"<end>"
+msgstr ""
+
+#. Ose
+msgctxt "type:0,entry:BOSS03,segment:0"
+msgid ""
+"<start>[7:FF07]So, you're here...\n"
+"<end>"
+msgstr ""
+
+#. Ose
+msgctxt "type:0,entry:BOSS03,segment:1"
+msgid ""
+"<start>I'm Ose... one of the fallen angels,\n"
+"and a mighty warrior of Nihilo.\n"
+"<end>"
+msgstr ""
+
+#. Ose
+msgctxt "type:0,entry:BOSS03,segment:2"
+msgid ""
+"<start>Commander Hikawa is in the room\n"
+"behind me.\n"
+"<end>"
+msgstr ""
+
+#. Ose
+msgctxt "type:0,entry:BOSS04,segment:0"
+msgid ""
+"<start>[7:FF07]However...\n"
+"<end>"
+msgstr ""
+
+#. Ose
+msgctxt "type:0,entry:BOSS04,segment:1"
+msgid ""
+"<start>Only by my death will you gain entry.\n"
+"I do warn you...  I've never been\n"
+"defeated!\n"
+"<end>"
+msgstr ""
+
+#. Ose
+msgctxt "type:0,entry:BOSS05,segment:0"
+msgid ""
+"<start>[7:FF07]Prepare for your journey to\n"
+"oblivion!\n"
+""
+msgstr ""
+
+msgctxt "type:0,entry:BOSS03_WIN,segment:0"
+msgid ""
+"<start>> You defeated Legion!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SYOKERA01,segment:0"
+msgid ""
+"<start>> You see the [2:FF02]Red Kila[2:FF01] before you.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SYOKERA01,segment:1"
+msgid ""
+"<start>> Will you take it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SYOKERA01_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained the [2:FF02]Red Kila[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SYOKERA03,segment:0"
+msgid ""
+"<start>[7:FF07]> You see the [2:FF02]White Kila[2:FF01] before you.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SYOKERA03,segment:1"
+msgid ""
+"<start>> Will you take it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SYOKERA03_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained the [2:FF02]White Kila[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SYOKERA_NONE,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty... \n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:KIUN01,segment:0"
+msgid ""
+"<start>[7:FF07]Hahahaha... What took you so long?\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:KIUN01,segment:1"
+msgid ""
+"<start>Had a hard time figuring out those\n"
+"switches at the storehouse?\n"
+"<end>"
+msgstr ""
+
+#. Kaiwan
+msgctxt "type:0,entry:KIUN02,segment:0"
+msgid ""
+"<start>[7:FF07]I'm Kaiwan...\n"
+"<end>"
+msgstr ""
+
+#. Kaiwan
+msgctxt "type:0,entry:KIUN03,segment:0"
+msgid ""
+"<start>[7:FF07]Sorry, but I can't let you have\n"
+"the Kila. So, take a hike.\n"
+"<end>"
+msgstr ""
+
+#. Kaiwan
+msgctxt "type:0,entry:KIUN03,segment:1"
+msgid ""
+"<start>Hahahaha!!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:KIUN_SYS,segment:0"
+msgid ""
+"<start>[7:FF07]> Kaiwan fled.\n"
+"<end>"
+msgstr ""
+
+#. Kaiwan
+msgctxt "type:0,entry:KIUN01_BTL,segment:0"
+msgid ""
+"<start>[7:FF07]No, no...\n"
+"<end>"
+msgstr ""
+
+#. Kaiwan
+msgctxt "type:0,entry:KIUN01_BTL,segment:1"
+msgid ""
+"<start>I am Kaiwan, but I'm not the one\n"
+"with the Kila.\n"
+"<end>"
+msgstr ""
+
+#. Kaiwan
+msgctxt "type:0,entry:KIUN01_BTL,segment:2"
+msgid ""
+"<start>Can't you tell the difference, fool!?\n"
+"<end>"
+msgstr ""
+
+#. Kaiwan
+msgctxt "type:0,entry:KIUN02_BTL,segment:0"
+msgid ""
+"<start>[7:FF07]No, no...\n"
+"<end>"
+msgstr ""
+
+#. Kaiwan
+msgctxt "type:0,entry:KIUN02_BTL,segment:1"
+msgid ""
+"<start>I am Kaiwan, but I'm not the one\n"
+"with the Kila.\n"
+"<end>"
+msgstr ""
+
+#. Kaiwan
+msgctxt "type:0,entry:KIUN02_BTL,segment:2"
+msgid ""
+"<start>Are you blind or something!?\n"
+"<end>"
+msgstr ""
+
+#. Kaiwan
+msgctxt "type:0,entry:KIUN03_BTL,segment:0"
+msgid ""
+"<start>[7:FF07]No, no...\n"
+"<end>"
+msgstr ""
+
+#. Kaiwan
+msgctxt "type:0,entry:KIUN03_BTL,segment:1"
+msgid ""
+"<start>I am Kaiwan, but I'm not the one\n"
+"with the Kila.\n"
+"<end>"
+msgstr ""
+
+#. Kaiwan
+msgctxt "type:0,entry:KIUN03_BTL,segment:2"
+msgid ""
+"<start>What an insult! You're gonna pay!\n"
+"<end>"
+msgstr ""
+
+#. Kaiwan's voice
+msgctxt "type:0,entry:KEL01_BTL,segment:0"
+msgid ""
+"<start>[7:FF07]Hahahaha! You've met an unlucky\n"
+"one, alright...\n"
+"<end>"
+msgstr ""
+
+#. Kaiwan's voice
+msgctxt "type:0,entry:KEL01_BTL,segment:1"
+msgid ""
+"<start>Well, I guess it suits you...\n"
+"<end>"
+msgstr ""
+
+#. Kaiwan's voice
+msgctxt "type:0,entry:KEL01_BTL,segment:2"
+msgid ""
+"<start>Hahahahahaha!\n"
+"<end>"
+msgstr ""
+
+#. Kaiwan's voice
+msgctxt "type:0,entry:KEL02_BTL,segment:0"
+msgid ""
+"<start>[7:FF07]Looks like you've run into some\n"
+"nasty demons, boy.\n"
+"<end>"
+msgstr ""
+
+#. Kaiwan's voice
+msgctxt "type:0,entry:KEL02_BTL,segment:1"
+msgid ""
+"<start>I'm sure you'll have fun playing\n"
+"together!\n"
+"<end>"
+msgstr ""
+
+#. Kaiwan
+msgctxt "type:0,entry:KIUN_T_BTL1,segment:0"
+msgid ""
+"<start>[7:FF07]That's right... I'm the real one.\n"
+"<end>"
+msgstr ""
+
+#. Kaiwan
+msgctxt "type:0,entry:KIUN_T_BTL2,segment:0"
+msgid ""
+"<start>[7:FF07]It's been fun! It's truly regrettable,\n"
+"but I have to kill you now.\n"
+"<end>"
+msgstr ""
+
+#. Kaiwan
+msgctxt "type:0,entry:KIUN_T_BTL3,segment:0"
+msgid ""
+"<start>[7:FF07]...Playtime's over.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:KIUN_SYS_WIN,segment:0"
+msgid ""
+"<start>[7:FF07]> You defeated Kaiwan.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:KIUN_SYS_WIN_NG,segment:0"
+msgid ""
+"<start>[7:FF07]> There is no Kila.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:KIUN_SYS_WIN_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained the [2:FF02]Green Kila[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Koppa
+msgctxt "type:0,entry:SAIDAN_DVL01,segment:0"
+msgid ""
+"<start>[7:FF07]Those idiot Mantra demons fell for it\n"
+"hook, line and sinker.\n"
+"<end>"
+msgstr ""
+
+#. Koppa
+msgctxt "type:0,entry:SAIDAN_DVL01,segment:1"
+msgid ""
+"<start>They're probably getting cocky,\n"
+"thinking that they destroyed\n"
+"the core unit.\n"
+"<end>"
+msgstr ""
+
+#. Incubus
+msgctxt "type:0,entry:SAIDAN_DVL02,segment:0"
+msgid ""
+"<start>[7:FF07]Power-shmower. Power's nothing\n"
+"without brains!\n"
+"<end>"
+msgstr ""
+
+#. Koppa
+msgctxt "type:0,entry:SAIDAN_DVL03,segment:0"
+msgid ""
+"<start>[7:FF07]......Hm?\n"
+"<end>"
+msgstr ""
+
+#. Koppa
+msgctxt "type:0,entry:SAIDAN_DVL03_02,segment:0"
+msgid ""
+"<start>[7:FF07]Who're you?\n"
+"<end>"
+msgstr ""
+
+#. Incubus
+msgctxt "type:0,entry:SAIDAN_DVL04,segment:0"
+msgid ""
+"<start>[7:FF07]Hmmm...\n"
+"<end>"
+msgstr ""
+
+#. Incubus
+msgctxt "type:0,entry:SAIDAN_DVL04,segment:1"
+msgid ""
+"<start>I don't know who you're with, but\n"
+"it looks like you have some brains.\n"
+"<end>"
+msgstr ""
+
+#. Incubus
+msgctxt "type:0,entry:SAIDAN_DVL04,segment:2"
+msgid ""
+"<start>You just wanna make a name for\n"
+"yourself by taking Commander\n"
+"Hikawa's head, huh?\n"
+"<end>"
+msgstr ""
+
+#. Koppa
+msgctxt "type:0,entry:SAIDAN_DVL04_02,segment:0"
+msgid ""
+"<start>[7:FF07]Just our luck... We were getting\n"
+"bored of the Mantra's stupidity.\n"
+"<end>"
+msgstr ""
+
+#. Koppa
+msgctxt "type:0,entry:SAIDAN_DVL04_02,segment:1"
+msgid ""
+"<start>We need to welcome our guests and\n"
+"show them off to their afterlife\n"
+"comfortably.\n"
+"<end>"
+msgstr ""
+
+#. Demons
+msgctxt "type:0,entry:SAIDAN_DVL05,segment:0"
+msgid ""
+"<start>[7:FF07]Dieeeeeeeeeeee!!\n"
+""
+msgstr ""
+
+msgctxt "type:0,entry:SAIDAN_SYS01,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained the [2:FF02]Yellow Kila[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Berith
+msgctxt "type:0,entry:F20_AREA01_MOBAHN1,segment:0"
+msgid ""
+"<start>[7:FF07]Halt!\n"
+"<end>"
+msgstr ""
+
+#. Berith
+msgctxt "type:0,entry:F20_AREA01_MOBAHN1,segment:1"
+msgid ""
+"<start>This is the [2:FF02]Assembly of Nihilo[2:FF01],\n"
+"the place for those who seek\n"
+"silence.\n"
+"<end>"
+msgstr ""
+
+#. Berith
+msgctxt "type:0,entry:F20_AREA01_MOBAHN1,segment:2"
+msgid ""
+"<start>Demons who only believe in power\n"
+"are not permitted!\n"
+"<end>"
+msgstr ""
+
+#. Berith
+msgctxt "type:0,entry:F20_AREA01_MOBAHN1,segment:3"
+msgid ""
+"<start>Leave these grounds immediately!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:f020_H_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained the Magatama\n"
+"[2:FF03]Ankh[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NISE,segment:0"
+msgid ""
+"<start>[7:FF07]> No one is here...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:CUBE04,segment:0"
+msgid ""
+"<start>[7:FF07]There are so many cubes upstairs,\n"
+"it's easy to get lost!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:CUBE04,segment:1"
+msgid ""
+"<start>If I remember correctly, you need to\n"
+"turn all the switches blue.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:CUBE04,segment:2"
+msgid ""
+"<start>Oh yeah... I hear a Mantra demon\n"
+"got in, so watch out!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NISE_ENT,segment:0"
+msgid ""
+"<start>[7:FF07]> You can hear sounds coming from\n"
+"inside the room.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NISE_ENT,segment:1"
+msgid ""
+"<start>> Will you enter?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HON_ENT,segment:0"
+msgid ""
+"<start>[7:FF07]> You sense a strong power from\n"
+"beyond the door.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HON_ENT,segment:1"
+msgid ""
+"<start>> Will you enter?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EXITWARP,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you leave the area?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EXITWARP_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a Mystical Chest.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HOSEKI_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Mystical Chest.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA,segment:0"
+msgid ""
+"<start>[7:FF07]> You see a Cache Cube.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAKARA_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Cache Cube.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_STILLGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DH_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"the Magatama [2:FF05][3:FF01][2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_MAKA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01] Macca[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:0"
+msgid ""
+"<start>[7:FF07]> It's a trap.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:1"
+msgid ""
+"<start>> Your party took damage.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_KARAGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:0"
+msgid ""
+"<start>[7:FF07]> [3:FF03] found something.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:1"
+msgid ""
+"<start>[7:FF07]............\n"
+"> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_OPENERROR,segment:0"
+msgid ""
+"<start>[7:FF07]> It can't be used here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_LIGHTMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The light effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_ESTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The repel effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REBERAMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The attract effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REFUTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The levitation effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:WARP_ELV_MSG,segment:0"
+msgid ""
+"<start>[7:FF07]> Select a floor.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL1,segment:0"
+msgid "<start>[3:FF01][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL2,segment:0"
+msgid "<start>[3:FF02][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL3,segment:0"
+msgid "<start>[3:FF03][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL4,segment:0"
+msgid "<start>[3:FF04][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL5,segment:0"
+msgid "<start>[3:FF05][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL6,segment:0"
+msgid "<start>[3:FF06][80EA]"
+msgstr ""
+
+msgctxt "type:0,entry:F020_DOOR01,segment:0"
+msgid ""
+"<start>[7:FF07]> You can hear sounds coming from\n"
+"inside the room.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F020_DOOR01,segment:1"
+msgid ""
+"<start>> Will you enter?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F020_DOOR01_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:F020_DOOR02,segment:0"
+msgid ""
+"<start>[7:FF07]> You sense a strong power from\n"
+"beyond the door.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F020_DOOR02,segment:1"
+msgid ""
+"<start>> Will you enter?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F020_DOOR02_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:F020_KIUNDOOR01,segment:0"
+msgid ""
+"<start>[7:FF07]> The door is locked.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F020_KIUNDOOR02,segment:0"
+msgid ""
+"<start>[7:FF07]> The door is unlocked.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F020_KIUNDOOR02,segment:1"
+msgid ""
+"<start>> Will you enter?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F020_KIUNDOOR02_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:F020_DOOR03,segment:0"
+msgid ""
+"<start>[7:FF07]> The door is locked tight.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F020_DEVIL01,segment:0"
+msgid ""
+"<start>[7:FF07]Hahaha! World of stillness, my ass!\n"
+"Creation? Yeah, right!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F020_DEVIL01,segment:1"
+msgid ""
+"<start>The Assembly of Nihilo is in\n"
+"shambles! Hahahahahaha!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F020_DEVIL02,segment:0"
+msgid ""
+"<start>[7:FF07]We already destroyed the core!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F020_DEVIL02,segment:1"
+msgid ""
+"<start>It's all over for Nihilo. The Mantra\n"
+"has won!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F020_DEVIL03,segment:0"
+msgid ""
+"<start>[7:FF07]...Dammit! I haven't seen\n"
+"the Commander or the Maiden at all.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F020_DEVIL03,segment:1"
+msgid ""
+"<start>Oh well... We got all their treasure,\n"
+"anyway.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F020_DEVIL04,segment:0"
+msgid ""
+"<start>[7:FF07]The round thing up ahead is\n"
+"the core--the heart of this\n"
+"structure...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F020_DEVIL04,segment:1"
+msgid ""
+"<start>...Or was, at least. It ended pretty\n"
+"fast.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F020_DEVIL04,segment:2"
+msgid ""
+"<start>So, was the report about needing\n"
+"[2:FF02]four Kilas[2:FF01] to unlock the core\n"
+"a hoax?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F020_DEVIL04,segment:3"
+msgid ""
+"<start>...Well, Nihilo probably got scared of\n"
+"the Mantra and ran away.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F020_DEVIL05_01,segment:0"
+msgid ""
+"<start>[7:FF07]Huh?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F020_DEVIL05_01,segment:1"
+msgid ""
+"<start>I can hear something coming from\n"
+"that door.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F020_DEVIL05_01,segment:2"
+msgid ""
+"<start>...Hell, we won. What's there to\n"
+"worry about?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F020_DEVIL05_02,segment:0"
+msgid ""
+"<start>[7:FF07]Huh?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F020_DEVIL05_02,segment:1"
+msgid ""
+"<start>I can't hear anything coming from\n"
+"that door anymore.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F020_DEVIL05_02,segment:2"
+msgid ""
+"<start>...Hell, we won. What's there to\n"
+"worry about?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F020_DEVIL06,segment:0"
+msgid ""
+"<start>[7:FF07]You're the demon that won the trial!\n"
+"So, you decided to come here, huh?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F020_DEVIL06,segment:1"
+msgid ""
+"<start>...Well, you're too late.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F020_DEVIL06,segment:2"
+msgid ""
+"<start>We already finished our attack.\n"
+"Hahahahahahaha!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN01,segment:0"
+msgid ""
+"<start>[7:FF07]...Oh, a wise guy, eh???\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN01,segment:1"
+msgid ""
+"<start>Did you come here after\n"
+"Commander Hikawa?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN01_NO,segment:0"
+msgid ""
+"<start>[7:FF07]If you're just here to get in some\n"
+"rubbernecking, I suggest you turn\n"
+"back.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN01_NO,segment:1"
+msgid ""
+"<start>I can't guarantee your safety\n"
+"anywhere past here.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN01_YES01,segment:0"
+msgid ""
+"<start>[7:FF07]Commander Hikawa is on Floor B15\n"
+"of the core.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN01_YES01,segment:1"
+msgid ""
+"<start>But, you need the [2:FF02]four Kilas[2:FF01],\n"
+"stakes that control the Magatsuhi\n"
+"in this structure, to get to him.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN01_YES01,segment:2"
+msgid ""
+"<start>You saw those four pedestals on\n"
+"the way here, right? Use the Kilas\n"
+"there...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN01_YES02,segment:0"
+msgid ""
+"<start>[7:FF07]Occasionally, there are visitors like\n"
+"you, but they all disappear up ahead.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN01_YES02,segment:1"
+msgid ""
+"<start>They all fall prey to the traps made\n"
+"by the great Commander Hikawa.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN01_YES02,segment:2"
+msgid ""
+"<start>So, why tell you all this? I figure\n"
+"you have the right to know before\n"
+"you die...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN01_YES03,segment:0"
+msgid ""
+"<start>[7:FF07]...Well, even if this place goes down,\n"
+"we still have an ace up our sleeve.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN02_01,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN02_01,segment:1"
+msgid ""
+"<start>This is the storehouse for\n"
+"Magatsuhi.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN02_01,segment:2"
+msgid ""
+"<start>It's separated into three floors,\n"
+"and each leads to a storeroom\n"
+"where a Kila is kept.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN02_01,segment:3"
+msgid ""
+"<start>You see that switch? It's set up\n"
+"so that it changes the flow of\n"
+"Magatsuhi.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN02_01,segment:4"
+msgid ""
+"<start>*chuckle*\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN02_01,segment:5"
+msgid ""
+"<start>In other words, if you don't use\n"
+"the switches properly, you'll never\n"
+"make it to the storerooms.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN02_02,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN03_01,segment:0"
+msgid ""
+"<start>[7:FF07]In each of the storerooms is\n"
+"a demon guarding the Kila.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN03_01,segment:1"
+msgid ""
+"<start>Even if someone were to make it\n"
+"that far, they'd be killed anyway.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN03_01,segment:2"
+msgid ""
+"<start>So, that's why we don't have to\n"
+"panic.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN03_02,segment:0"
+msgid ""
+"<start>[7:FF07]...Even if you make it to Floor B15,\n"
+"'he' is guarding Commander Hikawa.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN03_02,segment:1"
+msgid ""
+"<start>So, that's why we have nothing to\n"
+"fear.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN04,segment:0"
+msgid ""
+"<start>[7:FF07]Oh, a demon...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN04,segment:1"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN04,segment:2"
+msgid ""
+"<start>Well... you can get to the storeroom\n"
+"on the floor above by turning\n"
+"the four switches blue.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN04,segment:3"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN04,segment:4"
+msgid ""
+"<start>An intruder got this far...?\n"
+"I hope Commander Hikawa isn't\n"
+"slipping!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN05,segment:0"
+msgid ""
+"<start>[7:FF07]The Assembly of Nihilo is aiming for\n"
+"a world of silence,\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN05,segment:1"
+msgid ""
+"<start>a world where we throw away our\n"
+"individuality and become a part of\n"
+"the grand universe.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN05,segment:2"
+msgid ""
+"<start>There is no pain or struggling\n"
+"due to individuality.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN05,segment:3"
+msgid ""
+"<start>...Commander Hikawa is wonderful.\n"
+"All shall be bliss...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN06,segment:0"
+msgid ""
+"<start>[7:FF07]We not only have Commander\n"
+"Hikawa, but also the Maiden.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN06,segment:1"
+msgid ""
+"<start>She will be the foundation for our\n"
+"new world.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN06,segment:2"
+msgid ""
+"<start>So, no matter how much demons\n"
+"like you cause trouble, we won't\n"
+"be disturbed.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F020_SINEN06,segment:3"
+msgid ""
+"<start>...The world we desire has no need\n"
+"for emotions in the first place...\n"
+"<end>"
+msgstr ""

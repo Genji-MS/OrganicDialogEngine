@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Voice
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF06]...You have come at last.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_001_GOOD,segment:0"
+msgid ""
+"<start>[7:FF06]How can you be the one standing\n"
+"before me...?\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_002_GOOD,segment:0"
+msgid ""
+"<start>[7:FF06]Why have you been chosen...?\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_002_GOOD,segment:1"
+msgid ""
+"<start>You, with a heart that follows\n"
+"no rule... The bearer of unnamed\n"
+"Reason...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_003_GOOD,segment:0"
+msgid ""
+"<start>[7:FF06]Your heart longs for the kingdom\n"
+"of freedom, a world that has no\n"
+"set future...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_003_GOOD,segment:1"
+msgid ""
+"<start>Will you disregard the past sins\n"
+"of the world, to pursue such\n"
+"an ideal?\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_004_GOOD,segment:0"
+msgid ""
+"<start>[7:FF06]...The Great Will once granted\n"
+"the world freedom,\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_004_GOOD,segment:1"
+msgid ""
+"<start>in hopes that it would evolve\n"
+"to a new level.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_004_GOOD,segment:2"
+msgid ""
+"<start>However, it was that freedom which\n"
+"gave rise to evil, brought darkness,\n"
+"and led the world to destruction...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_004_GOOD,segment:3"
+msgid ""
+"<start>Freedom is the seed of disaster;\n"
+"its sole fruit is ruin.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_004_GOOD,segment:4"
+msgid ""
+"<start>I will not allow the world\n"
+"to be doomed to failure!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_004_GOOD,segment:5"
+msgid ""
+"<start>My power was meant for one\n"
+"who sought the world's rebirth,\n"
+"upholding a worthy Reason!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_005_GOOD,segment:0"
+msgid ""
+"<start>[7:FF06][12:FF01], you have become\n"
+"a slave of freedom,\n"
+"like that fallen angel!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_005_GOOD,segment:1"
+msgid ""
+"<start>Begone, demon!\n"
+"My light, searing with anger,\n"
+"shall wipe you from existence!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_001_BAD,segment:0"
+msgid ""
+"<start>[7:FF06]How can you be the one\n"
+"standing before me...?\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_001_BAD,segment:1"
+msgid ""
+"<start>Why have you been chosen...?\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_002_BAD,segment:0"
+msgid ""
+"<start>[7:FF06]I came into being for the creation\n"
+"of a new world,\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_002_BAD,segment:1"
+msgid ""
+"<start>and those with Reasons came here\n"
+"to make their visions reality.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_002_BAD,segment:2"
+msgid ""
+"<start>Alas, their dreams were shattered,\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_002_BAD,segment:3"
+msgid ""
+"<start>and the possibility of a new world\n"
+"has been crushed forever...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_002_BAD,segment:4"
+msgid ""
+"<start>...by the hand of a demon.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_003_BAD,segment:0"
+msgid ""
+"<start>[7:FF06]You may have sought the power\n"
+"of creation,\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_003_BAD,segment:1"
+msgid ""
+"<start>but no matter how strong\n"
+"your conviction, a demon\n"
+"can never acquire a Reason.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_003_BAD,segment:2"
+msgid ""
+"<start>Whether or not you were aware\n"
+"of that, you purged the world\n"
+"of those who sympathized with\n"
+"other philosophies of creation.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_003_BAD,segment:3"
+msgid ""
+"<start>Your body is brimming with strength,\n"
+"yet your soul is empty.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_003_BAD,segment:4"
+msgid ""
+"<start>I see before me the incarnation\n"
+"of bane itself.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_004_BAD,segment:0"
+msgid ""
+"<start>[7:FF06]...Now, there is no reason\n"
+"for this world to exist.\n"
+"I shall have to wait for\n"
+"the next opportunity.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_004_BAD,segment:1"
+msgid ""
+"<start>You are responsible for the death\n"
+"of this world. I cannot forgive\n"
+"such a transgression!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_004_BAD,segment:2"
+msgid ""
+"<start>Begone, demon!\n"
+"May you be cursed eternally!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_004_BAD,segment:3"
+msgid ""
+"<start>False seeker of power,\n"
+"you are evil incarnate!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_002_SIZIMA,segment:0"
+msgid ""
+"<start>[7:FF06]So, you stand before me with\n"
+"the Reason of Shijima...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_002_MUSUBI,segment:0"
+msgid ""
+"<start>[7:FF06]So, you stand before me with\n"
+"the Reason of Musubi...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_002_YOSUGA,segment:0"
+msgid ""
+"<start>[7:FF06]So, you stand before me with\n"
+"the Reason of Yosuga...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_003_SIZIMA,segment:0"
+msgid ""
+"<start>[7:FF06]Your heart wishes for a kingdom\n"
+"that will flourish in the silence\n"
+"of time. Very well...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_003_MUSUBI,segment:0"
+msgid ""
+"<start>[7:FF06]Your heart wishes for a kingdom\n"
+"rooted in solitude. Very well...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_003_YOSUGA,segment:0"
+msgid ""
+"<start>[7:FF06]Your heart wishes for a kingdom\n"
+"which rejoices in conflict.\n"
+"Very well...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF06]The time of creation is upon you.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_004,segment:1"
+msgid ""
+"<start>Whether or not you succeed\n"
+"depends on your strength,\n"
+"bearer of Reason...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_005,segment:0"
+msgid ""
+"<start>[7:FF06]I shall now unleash my light,\n"
+"the power of creation!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_005,segment:1"
+msgid ""
+"<start>Triumph over me!\n"
+"Show me the strength that will\n"
+"make the world new!!\n"
+"<end>"
+msgstr ""
+
+#. Kagutsuchi
+msgctxt "type:0,entry:MSG_006,segment:0"
+msgid ""
+"<start>[7:FF04]You have shown me your strength...\n"
+"Undoubtedly, you are capable of\n"
+"creating a new world.\n"
+"<end>"
+msgstr ""
+
+#. Kagutsuchi
+msgctxt "type:0,entry:MSG_007,segment:0"
+msgid ""
+"<start>[7:FF04]However, the true battle\n"
+"still awaits you.\n"
+"<end>"
+msgstr ""
+
+#. Kagutsuchi
+msgctxt "type:0,entry:MSG_008,segment:0"
+msgid ""
+"<start>[7:FF04]Creation is a battle\n"
+"without an enemy.\n"
+"<end>"
+msgstr ""
+
+#. Kagutsuchi
+msgctxt "type:0,entry:MSG_006_GOOD,segment:0"
+msgid ""
+"<start>[7:FF04]How absurd...\n"
+"<end>"
+msgstr ""
+
+#. Kagutsuchi
+msgctxt "type:0,entry:MSG_006_GOOD,segment:1"
+msgid ""
+"<start>You wish for me to unleash\n"
+"my power when all Reasons\n"
+"have been forsaken?\n"
+"<end>"
+msgstr ""
+
+#. Kagutsuchi
+msgctxt "type:0,entry:MSG_007_GOOD,segment:0"
+msgid ""
+"<start>[7:FF04]The kingdom you would create\n"
+"promises nothing but suffering...\n"
+"<end>"
+msgstr ""
+
+#. Kagutsuchi
+msgctxt "type:0,entry:MSG_008_GOOD,segment:0"
+msgid ""
+"<start>[7:FF04]Demon... Human...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_003_MANIAX,segment:0"
+msgid ""
+"<start>[7:FF06]Persuaded by the fallen angel,\n"
+"you destroyed the seeds of creation,\n"
+"denying the reincarnation of\n"
+"the world.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_003_MANIAX,segment:1"
+msgid ""
+"<start>With the cold heart of a demon,\n"
+"you rejected the possibility\n"
+"of evolution.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_003_MANIAX,segment:2"
+msgid ""
+"<start>By casting aside your humanity,\n"
+"you became the living incarnation\n"
+"of bane itself.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_004_MANIAX,segment:0"
+msgid ""
+"<start>[7:FF06]Begone, accursed one!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_004_MANIAX,segment:1"
+msgid ""
+"<start>I shall never forgive you for causing\n"
+"the death of the world!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_004_MANIAX,segment:2"
+msgid ""
+"<start>My light, searing with anger,\n"
+"shall wipe you from existence!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_005_MANIAX,segment:0"
+msgid ""
+"<start>[7:FF06]How foolish...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_005_MANIAX,segment:1"
+msgid ""
+"<start>What good can come of this,\n"
+"when you are tainted black...?\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_005_MANIAX,segment:2"
+msgid ""
+"<start>...Be forewarned,\n"
+"demon who was once human.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_005_MANIAX,segment:3"
+msgid ""
+"<start>Though I may perish,\n"
+"your soul will never again\n"
+"be at ease.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_006_MANIAX,segment:0"
+msgid ""
+"<start>[7:FF06]...The final hour is imminent.\n"
+"Darkness shall face justice in\n"
+"the last battle...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_006_MANIAX,segment:1"
+msgid ""
+"<start>You will not escape from the fire\n"
+"of judgment...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_006_MANIAX,segment:2"
+msgid ""
+"<start>Let fear grip your heart!\n"
+"Because of your transgressions,\n"
+"you will be cursed for all eternity!\n"
+"<end>"
+msgstr ""

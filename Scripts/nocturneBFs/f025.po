@@ -1,0 +1,2708 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+msgctxt "type:0,entry:NO_MAN1,segment:0"
+msgid ""
+"<start>[7:FF07]> No one is here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:KANSHU6,segment:0"
+msgid ""
+"<start>[7:FF07]> There is no response.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:KANSHU6,segment:1"
+msgid ""
+"<start>> You need something to activate it.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HAMAGURI,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a mysterious wall.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HAMAGURI,segment:1"
+msgid ""
+"<start>> Will you use the Umugi Stone?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HAMAGURI_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HAMAGURI_YES,segment:0"
+msgid ""
+"<start>[7:FF07]> You used the Umugi Stone.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HAMAGURI_HASSEI,segment:0"
+msgid ""
+"<start>[7:FF07]> The building has been shrouded in\n"
+"a mirage.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HAMAGURI_NO,segment:0"
+msgid ""
+"<start>[7:FF07]> You left it as is.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HAMAGURI_DENAI,segment:0"
+msgid ""
+"<start>[7:FF07]> It is no longer working.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TOJI,segment:0"
+msgid ""
+"<start>[7:FF07]> The mysterious wall is spewing\n"
+"smoke.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TOJI,segment:1"
+msgid ""
+"<start>> Will you use the Umugi Stone?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TOJI_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:TOJI_YES,segment:0"
+msgid ""
+"<start>[7:FF07]> You used the Umugi Stone.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TOJI2,segment:0"
+msgid ""
+"<start>[7:FF07]> The mirage is disappearing.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TOJI_NO,segment:0"
+msgid ""
+"<start>[7:FF07]> You left it as is.\n"
+"<end>"
+msgstr ""
+
+#. Ex-guard
+msgctxt "type:0,entry:KANSHU,segment:0"
+msgid ""
+"<start>[7:FF07]Heheheh...\n"
+"<end>"
+msgstr ""
+
+#. Ex-guard
+msgctxt "type:0,entry:KANSHU,segment:1"
+msgid ""
+"<start>Gozu-Tennoh is gone. This prison\n"
+"now belongs to [2:FF02]Mizuchi[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Ex-guard
+msgctxt "type:0,entry:KANSHU,segment:2"
+msgid ""
+"<start>...I feel like torturing those [2:FF02]Manikins\n"
+"in the mirage[2:FF01]! I think I'll go do that\n"
+"right now. Heheheh...\n"
+"<end>"
+msgstr ""
+
+#. Ex-guard
+msgctxt "type:0,entry:KANSHU2,segment:0"
+msgid ""
+"<start>[7:FF07]Who the hell are you!?\n"
+"<end>"
+msgstr ""
+
+#. Ex-guard
+msgctxt "type:0,entry:KANSHU2,segment:1"
+msgid ""
+"<start>Wait, you couldn't be...!?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:KANSHU_SEL,segment:0"
+msgid "<start>You better believe it."
+msgstr ""
+
+#. Ex-guard
+msgctxt "type:0,entry:KANSHU_YES,segment:0"
+msgid ""
+"<start>[7:FF07]...I-I don't care!\n"
+"<end>"
+msgstr ""
+
+#. Ex-guard
+msgctxt "type:0,entry:KANSHU_YES,segment:1"
+msgid ""
+"<start>This is paradise for us ex-Mantra!\n"
+"<end>"
+msgstr ""
+
+#. Ex-guard
+msgctxt "type:0,entry:KANSHU_YES,segment:2"
+msgid ""
+"<start>Whatever you did during that attack\n"
+"on Nihilo doesn't mean shit here!!\n"
+"<end>"
+msgstr ""
+
+#. Ex-guard
+msgctxt "type:0,entry:KANSHU_NO,segment:0"
+msgid ""
+"<start>[7:FF07]Whaddya think you're doing here\n"
+"then, punk!?\n"
+"<end>"
+msgstr ""
+
+#. Ex-guard
+msgctxt "type:0,entry:KANSHU_NO,segment:1"
+msgid ""
+"<start>This is paradise for us ex-Mantra!\n"
+"<end>"
+msgstr ""
+
+#. Ex-guard
+msgctxt "type:0,entry:KANSHU_NO,segment:2"
+msgid ""
+"<start>I'll give you a taste of my torturing\n"
+"techniques!!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:KANSHU_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained the [2:FF02]Umugi Stone[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:KANSHU_GONE,segment:0"
+msgid ""
+"<start>[7:FF07]> The demon disappeared.\n"
+"<end>"
+msgstr ""
+
+#. Ex-guard's voice
+msgctxt "type:0,entry:KANSHU3,segment:0"
+msgid ""
+"<start>[7:FF07]C'mon, c'mon, c'mon! You better\n"
+"keep it up, or you'll be dead!\n"
+"<end>"
+msgstr ""
+
+#. Ex-guard's voice
+msgctxt "type:0,entry:KANSHU3,segment:1"
+msgid ""
+"<start>You want me to stop? You REALLY\n"
+"want me to stop?\n"
+"<end>"
+msgstr ""
+
+#. Ex-guard's voice
+msgctxt "type:0,entry:KANSHU3,segment:2"
+msgid ""
+"<start>...Well, too bad!!\n"
+"<end>"
+msgstr ""
+
+#. Ex-guard's voice
+msgctxt "type:0,entry:KANSHU3,segment:3"
+msgid ""
+"<start>Hyahahahahahahahahaha!!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:KANSHU4,segment:0"
+msgid ""
+"<start>[7:FF07]Gaaaaaaaaaaaaaaaaahhh!!\n"
+"Ow ow ow ow ow ow ow ow ow ow!!\n"
+"<end>"
+msgstr ""
+
+#. Ex-guard's voice
+msgctxt "type:0,entry:KANSHU5,segment:0"
+msgid ""
+"<start>[7:FF07]Hyahahahahahahahahaha!!\n"
+"<end>"
+msgstr ""
+
+#. Ex-guard's voice
+msgctxt "type:0,entry:KANSHU5,segment:1"
+msgid ""
+"<start>Phew!! I think I'll let you off with\n"
+"that for today.\n"
+"<end>"
+msgstr ""
+
+#. Ex-guard's voice
+msgctxt "type:0,entry:KANSHU5,segment:2"
+msgid ""
+"<start>I have [2:FF02]this[2:FF01], so I can come and go\n"
+"into the mirage as I please.\n"
+"<end>"
+msgstr ""
+
+#. Ex-guard's voice
+msgctxt "type:0,entry:KANSHU5,segment:3"
+msgid ""
+"<start>...I'll be back!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NO_MAN2,segment:0"
+msgid ""
+"<start>[7:FF07]> You can hear a voice coming from\n"
+"somewhere.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:NO_MAN_1F_1,segment:0"
+msgid ""
+"<start>[7:FF07]Save us... We're trapped in\n"
+"the mirage...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:NO_MAN_1F_2,segment:0"
+msgid ""
+"<start>[7:FF07]Mizuchi is holding us captive in\n"
+"his mirage...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:NO_MAN_1F_2,segment:1"
+msgid ""
+"<start>Someone save us!\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN1,segment:0"
+msgid ""
+"<start>[7:FF07]Save me! Free me!\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN1,segment:1"
+msgid ""
+"<start>I don't wanna be sucked dry of\n"
+"Magatsuhi! I don't wanna die!!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:GYAKU_NPC1,segment:0"
+msgid ""
+"<start>[7:FF07]This is Kabukicho Prison.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:GYAKU_NPC1,segment:1"
+msgid ""
+"<start>The ex-Mantra demons have now\n"
+"turned this...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:GYAKU_NPC1,segment:2"
+msgid ""
+"<start>............?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:GYAKU_NPC1,segment:3"
+msgid ""
+"<start>I thought someone was talking to\n"
+"me...\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN3,segment:0"
+msgid ""
+"<start>[7:FF07]I can't take it anymore...\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN3,segment:1"
+msgid ""
+"<start>Are we Manikins made just to feel\n"
+"pain!?\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN7,segment:0"
+msgid ""
+"<start>[7:FF07]Where is the Collector Manikin,\n"
+"you ask?\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN7,segment:1"
+msgid ""
+"<start>Hmmm......\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN7,segment:2"
+msgid ""
+"<start>Well, he's not on this floor.\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9_4,segment:0"
+msgid ""
+"<start>[7:FF07]Arrrrrrrrrgh! I'm being sucked dry!!\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9,segment:0"
+msgid ""
+"<start>[7:FF07]The Collector Manikin was caught\n"
+"recently...\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9,segment:1"
+msgid ""
+"<start>I think he's here somewhere...\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9,segment:2"
+msgid ""
+"<start>He's on floor...\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9,segment:3"
+msgid ""
+"<start>Ummm......\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9,segment:4"
+msgid ""
+"<start>1F...... 2F......\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9,segment:5"
+msgid ""
+"<start>3F...... 4F......\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9,segment:6"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9,segment:7"
+msgid ""
+"<start>Because I'm poor, I can't\n"
+"remember. But...\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9,segment:8"
+msgid ""
+"<start>Maybe 100 Macca will refresh\n"
+"my memory!!\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9_2,segment:0"
+msgid ""
+"<start>[7:FF07]3F...... 4F......\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9_2,segment:1"
+msgid ""
+"<start>5F... 4F... 3F...\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9_2,segment:2"
+msgid ""
+"<start>It's at the tip of my tongue!\n"
+"If only I had another 100 Macca...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:GYAKU_MAN9_3,segment:0"
+msgid ""
+"<start>[7:FF07][7:FF07]> Will you give the Manikin\n"
+"100 Macca?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:GYAKU_MAN9_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9_YES,segment:0"
+msgid ""
+"<start>[7:FF07]5F......\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9_YES,segment:1"
+msgid ""
+"<start>4F......\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9_YES,segment:2"
+msgid ""
+"<start>3F......\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9_YES,segment:3"
+msgid ""
+"<start>3F......\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9_YES,segment:4"
+msgid ""
+"<start>4F......\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9_YES,segment:5"
+msgid ""
+"<start>3F......\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9_YES,segment:6"
+msgid ""
+"<start>...Oh yeah, he's on [2:FF02]2F[2:FF01]...\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9_NO,segment:0"
+msgid ""
+"<start>[7:FF07]You don't have enough...\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9_NO,segment:1"
+msgid ""
+"<start>It sucks being poor...\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN9_NO2,segment:0"
+msgid ""
+"<start>[7:FF07]You're a friggin' tightwad...\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN5,segment:0"
+msgid ""
+"<start>[7:FF07]......\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN5,segment:1"
+msgid ""
+"<start>......\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN5,segment:2"
+msgid ""
+"<start>.........\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN5,segment:3"
+msgid ""
+"<start>...Leave me alone.\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN10,segment:0"
+msgid ""
+"<start>[7:FF07]The Collector Manikin?\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN10,segment:1"
+msgid ""
+"<start>He's a great guy! Talks to himself\n"
+"like a weirdo... But, general\n"
+"insanity aside, I like him.\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN6,segment:0"
+msgid ""
+"<start>[7:FF07]The Collector Manikin?\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN6,segment:1"
+msgid ""
+"<start>Oh... The one who talks to himself!\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN6,segment:2"
+msgid ""
+"<start>What about him?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ESCAPE_A_INAI,segment:0"
+msgid ""
+"<start>[7:FF07]> You can hear someone muttering.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ESCAPE_A_INAI,segment:1"
+msgid ""
+"<start>...Bill......\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ESCAPE_A_INAI,segment:2"
+msgid ""
+"<start>......1000...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ESCAPE_A_INAI,segment:3"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ESCAPE_A_INAI,segment:4"
+msgid ""
+"<start>> You couldn't hear the rest.\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:ESCAPE_A6,segment:0"
+msgid ""
+"<start>[7:FF07].........1000...\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:ESCAPE_A6,segment:1"
+msgid ""
+"<start>......Watermark...\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:ESCAPE_A6,segment:2"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:ESCAPE_A6,segment:3"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ESCAPE_A6_02,segment:0"
+msgid ""
+"<start>[7:FF07]> It seems the Manikin is absorbed\n"
+"with talking to himself.\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:ESCAPE_A2,segment:0"
+msgid ""
+"<start>[7:FF07]*cough*\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:ESCAPE_A2,segment:1"
+msgid ""
+"<start>............?\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:ESCAPE_A2,segment:2"
+msgid ""
+"<start>...I know you!\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:ESCAPE_A2,segment:3"
+msgid ""
+"<start>You're the demon I met in the Great\n"
+"Underpass...\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:ESCAPE_A3,segment:0"
+msgid ""
+"<start>[7:FF07]...Huh? A spoon?\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:ESCAPE_A3,segment:1"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:ESCAPE_A3,segment:2"
+msgid ""
+"<start>...I see. \n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:ESCAPE_A3,segment:3"
+msgid ""
+"<start>...Alright, then.\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:ESCAPE_A3,segment:4"
+msgid ""
+"<start>You did help me... with the Bill...\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:ESCAPE_A3,segment:5"
+msgid ""
+"<start>*cough* I'll give you my spoon...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ESCAPE_A4,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained the [2:FF02]spoon[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Collector Manikin
+msgctxt "type:0,entry:ESCAPE_A5,segment:0"
+msgid ""
+"<start>[7:FF07]...While you're at it, could you\n"
+"rescue me...?\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:FROST,segment:0"
+msgid ""
+"<start>[7:FF07]The Mantra's headquarters was\n"
+"empty, so I came here, hee ho.\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:FROST,segment:1"
+msgid ""
+"<start>But, hee hee ho ho! This place is\n"
+"scary!\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:GYAKU_FROST,segment:0"
+msgid ""
+"<start>[7:FF07]Huh? You're the demon I just talked\n"
+"to, hee ho.\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:GYAKU_FROST,segment:1"
+msgid ""
+"<start>I wanna walk on the ceiling, too!\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:GYAKU_FROST,segment:2"
+msgid ""
+"<start>Will I be able to do it once I become\n"
+"like the King, hee ho?\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:GYAKU_FROST3,segment:0"
+msgid ""
+"<start>[7:FF07]Hee ho? You again?\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:GYAKU_FROST3,segment:1"
+msgid ""
+"<start>...I'm not worth much experience,\n"
+"hee ho!\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:FROST3,segment:0"
+msgid ""
+"<start>[7:FF07]Does this shutter only open from\n"
+"the other side, hee ho?\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:GYAKU_FROST2,segment:0"
+msgid ""
+"<start>[7:FF07]What ho? Collector Manikin?\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:GYAKU_FROST2,segment:1"
+msgid ""
+"<start>I thought I saw him, but I forgot\n"
+"where, hee ho!\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:FROST2,segment:0"
+msgid ""
+"<start>[7:FF07]Will I ever be like the King,\n"
+"hee ho...?\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN13,segment:0"
+msgid ""
+"<start>[7:FF07]Our leader, Futomimi, is being held\n"
+"in a special room on the top floor.\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN13,segment:1"
+msgid ""
+"<start>He's special.\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN11,segment:0"
+msgid ""
+"<start>[7:FF07]Now that I think of it...\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN11,segment:1"
+msgid ""
+"<start>The Collector Manikin is near\n"
+"a hole.\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN12,segment:0"
+msgid ""
+"<start>[7:FF07]Try jumping into a hole! You may\n"
+"end up somewhere you haven't\n"
+"been.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NO_MAN_FALL,segment:0"
+msgid ""
+"<start>[7:FF07]> This is the hole that the Manikin\n"
+"jumped into.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NO_MAN_FALL,segment:1"
+msgid ""
+"<start>> Will you jump into it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:NO_MAN_FALL_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:F025_TOBIORI,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a hole.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F025_TOBIORI,segment:1"
+msgid ""
+"<start>> Will you jump into it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F025_TOBIORI_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:ESCAPE_B,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ESCAPE_B,segment:1"
+msgid ""
+"<start>> A Manikin is doing something.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ESCAPE_B,segment:2"
+msgid ""
+"<start>> Will you talk to him?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:ESCAPE_B_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Digging Manikin
+msgctxt "type:0,entry:ESCAPE_B2,segment:0"
+msgid ""
+"<start>[7:FF07]......Shit! A Mantra demon!?\n"
+"<end>"
+msgstr ""
+
+#. Digging Manikin
+msgctxt "type:0,entry:ESCAPE_B2,segment:1"
+msgid ""
+"<start>............?\n"
+"<end>"
+msgstr ""
+
+#. Digging Manikin
+msgctxt "type:0,entry:ESCAPE_B2,segment:2"
+msgid ""
+"<start>Noooooooooooo! My spoon broke!\n"
+"<end>"
+msgstr ""
+
+#. Digging Manikin
+msgctxt "type:0,entry:ESCAPE_B2A,segment:0"
+msgid ""
+"<start>[7:FF07]Look what you did! I was almost\n"
+"done digging, too...\n"
+"<end>"
+msgstr ""
+
+#. Digging Manikin
+msgctxt "type:0,entry:ESCAPE_B2A,segment:1"
+msgid ""
+"<start>It's you're fault! I needed that\n"
+"spoon... Take responsibility!\n"
+"<end>"
+msgstr ""
+
+#. Digging Manikin
+msgctxt "type:0,entry:ESCAPE_B2A,segment:2"
+msgid ""
+"<start>...I know. How about you getting me\n"
+"another spoon?\n"
+"<end>"
+msgstr ""
+
+#. Digging Manikin
+msgctxt "type:0,entry:ESCAPE_B2A,segment:3"
+msgid ""
+"<start>The [2:FF02]Collector Manikin[2:FF01] should be\n"
+"around here somewhere. He has just\n"
+"about anything.\n"
+"<end>"
+msgstr ""
+
+#. Digging Manikin
+msgctxt "type:0,entry:ESCAPE_B2A,segment:4"
+msgid ""
+"<start>Find him and grab a [2:FF02]spoon[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Digging Manikin
+msgctxt "type:0,entry:ESCAPE_B2A,segment:5"
+msgid ""
+"<start>You got that? You're responsible!\n"
+"<end>"
+msgstr ""
+
+#. Digging Manikin
+msgctxt "type:0,entry:ESCAPE_B3,segment:0"
+msgid ""
+"<start>[7:FF07]The [2:FF02]Collector Manikin[2:FF01] should be\n"
+"around here somewhere.\n"
+"<end>"
+msgstr ""
+
+#. Digging Manikin
+msgctxt "type:0,entry:ESCAPE_B3,segment:1"
+msgid ""
+"<start>Get a [2:FF02]spoon[2:FF01] from him and bring it\n"
+"back to me, alright?\n"
+"<end>"
+msgstr ""
+
+#. Digging Manikin
+msgctxt "type:0,entry:GYAKU_ESCAPE,segment:0"
+msgid ""
+"<start>[7:FF07]Did you bring me the spoon?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:GYAKU_ESCAPE2,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you hand him the spoon?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:GYAKU_ESCAPE_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Digging Manikin
+msgctxt "type:0,entry:GYAKU_ESCAPE_NO,segment:0"
+msgid ""
+"<start>[7:FF07]What the heck!? I was counting on\n"
+"you!!\n"
+"<end>"
+msgstr ""
+
+#. Digging Manikin
+msgctxt "type:0,entry:GYAKU_ESCAPE_NO,segment:1"
+msgid ""
+"<start>Hurry up and get that spoon from\n"
+"the Collector Manikin!\n"
+"<end>"
+msgstr ""
+
+#. Digging Manikin
+msgctxt "type:0,entry:GYAKU_ESCAPE_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Whoa! This is one powerful spoon!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:GYAKU_ESCAPE4,segment:0"
+msgid ""
+"<start>[7:FF07]> The Manikin began digging.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:GYAKU_ESCAPE5,segment:0"
+msgid ""
+"<start>[7:FF07]> The hole was dug instantly.\n"
+"<end>"
+msgstr ""
+
+#. Digging Manikin
+msgctxt "type:0,entry:GYAKU_ESCAPE6,segment:0"
+msgid ""
+"<start>[7:FF07]...This is incredible. I dug the hole in\n"
+"a flash.\n"
+"<end>"
+msgstr ""
+
+#. Digging Manikin
+msgctxt "type:0,entry:GYAKU_ESCAPE6,segment:1"
+msgid ""
+"<start>Alright, I'm outta here.\n"
+"<end>"
+msgstr ""
+
+#. Digging Manikin
+msgctxt "type:0,entry:GYAKU_ESCAPE6,segment:2"
+msgid ""
+"<start>See ya!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:GYAKU_ESCAPE7,segment:0"
+msgid ""
+"<start>[7:FF07]> The Manikin jumped into the hole.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ESCAPE_B4,segment:0"
+msgid ""
+"<start>[7:FF07]> The Manikin is gone.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ESCAPE_A,segment:0"
+msgid ""
+"<start>[7:FF07]> You can hear a voice coming from\n"
+"somewhere.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ESCAPE_MAN,segment:0"
+msgid ""
+"<start>[7:FF07]> You can hear a voice coming from\n"
+"somewhere.\n"
+"<end>"
+msgstr ""
+
+#. Digging Manikin's voice
+msgctxt "type:0,entry:ESCAPE_MAN2,segment:0"
+msgid ""
+"<start>[7:FF07]...Dammit!!\n"
+"<end>"
+msgstr ""
+
+#. Digging Manikin's voice
+msgctxt "type:0,entry:ESCAPE_MAN2,segment:1"
+msgid ""
+"<start>I was able to escape from my cell...\n"
+"<end>"
+msgstr ""
+
+#. Digging Manikin's voice
+msgctxt "type:0,entry:ESCAPE_MAN2,segment:2"
+msgid ""
+"<start>But I need to defeat Mizuchi to\n"
+"escape from the mirage...\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN4,segment:0"
+msgid ""
+"<start>[7:FF07]A short while back, a human came\n"
+"along. He was young.\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN4,segment:1"
+msgid ""
+"<start>He's being kept at the top, just like\n"
+"Futomimi.\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN4,segment:2"
+msgid ""
+"<start>He was caught because humans\n"
+"have lots of Magatsuhi.\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN8,segment:0"
+msgid ""
+"<start>[7:FF07]Collector Manikin?\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN8,segment:1"
+msgid ""
+"<start>I saw him as I was being dragged\n"
+"here. ...He must be below.\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN2,segment:0"
+msgid ""
+"<start>[7:FF07]Please... Save our prophet,\n"
+"[2:FF02]Futomimi[2:FF01]...\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:GYAKU_MAN2,segment:1"
+msgid ""
+"<start>Above... He's on the 5th floor...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:NO_MAN_4F,segment:0"
+msgid ""
+"<start>[7:FF07]Mizuchi... is on the floor above...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:NO_MAN_4F,segment:1"
+msgid ""
+"<start>But......... in the mirage...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:NO_MAN_4F,segment:2"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+#. Scream
+msgctxt "type:0,entry:MANE_GOMON,segment:0"
+msgid ""
+"<start>[7:FF07]Argh! Stop it!\n"
+"Ahhhhhhhhhhhhhhhhhhh!!!\n"
+"<end>"
+msgstr ""
+
+#. Scream
+msgctxt "type:0,entry:MANE_GOMON2,segment:0"
+msgid ""
+"<start>[7:FF07]Gyaaaaaaaaaaaaaaaahhh!!!!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MANE_GOMON3,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MANE_GOMON3,segment:1"
+msgid ""
+"<start>> It's quiet now.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MANE_GOMON4,segment:0"
+msgid ""
+"<start>[7:FF07]> The Manikin is unconscious...\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:MANE_LAST,segment:0"
+msgid ""
+"<start>[7:FF07]You there, listen to what I have to\n"
+"say!\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:MANE_LAST2,segment:0"
+msgid ""
+"<start>[7:FF07]You see those doors over there?\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:MANE_LAST3,segment:0"
+msgid ""
+"<start>[7:FF07]Mizuchi, the boss of this prison, is in\n"
+"there!\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:MANE_LAST3,segment:1"
+msgid ""
+"<start>Defeat him and save Futomimi,\n"
+"please!!\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:MANE_LAST4,segment:0"
+msgid ""
+"<start>[7:FF07]Mizuchi, the boss of this prison, is in\n"
+"that room over there!\n"
+"<end>"
+msgstr ""
+
+#. Manikin prisoner
+msgctxt "type:0,entry:MANE_LAST4,segment:1"
+msgid ""
+"<start>Please defeat him and save\n"
+"Futomimi!!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BOSS_ROOM_IN,segment:0"
+msgid ""
+"<start>[7:FF07]> You sense strong power from\n"
+"beyond the door.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BOSS_ROOM_IN,segment:1"
+msgid ""
+"<start>> Will you enter?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:BOSS_ROOM_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:NO_MIZUCHI,segment:0"
+msgid ""
+"<start>[7:FF07]MWAHAHAHAHA!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:NO_MIZUCHI,segment:1"
+msgid ""
+"<start>YOU CANNOT SEE ME!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:NO_MIZUCHI,segment:2"
+msgid ""
+"<start>...NOR CAN YOU LAY A FINGER\n"
+"ON ME FROM THERE!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:NO_MIZUCHI,segment:3"
+msgid ""
+"<start>FOOL! TAKE THIS!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NO_MIZUCHI2,segment:0"
+msgid ""
+"<start>[7:FF07]> You were knocked out of the room.\n"
+"<end>"
+msgstr ""
+
+#. Mizuchi
+msgctxt "type:0,entry:MIZUCHI,segment:0"
+msgid ""
+"<start>[7:FF07]DAMN YOU PESTS!\n"
+"<end>"
+msgstr ""
+
+#. Mizuchi
+msgctxt "type:0,entry:MIZUCHI,segment:1"
+msgid ""
+"<start>YOU THINK YOU CAN BEAT ME?\n"
+"NOT A CHANCE!\n"
+"<end>"
+msgstr ""
+
+#. Mizuchi
+msgctxt "type:0,entry:MIZUCHI,segment:2"
+msgid ""
+"<start>I'LL TEAR YOU APART!\n"
+"<end>"
+msgstr ""
+
+#. Mizuchi
+msgctxt "type:0,entry:MIZUCHI2,segment:0"
+msgid ""
+"<start>[7:FF07]ARRRRRRRRRGH!\n"
+"<end>"
+msgstr ""
+
+#. Mizuchi
+msgctxt "type:0,entry:MIZUCHI2,segment:1"
+msgid ""
+"<start>MY BODY IS... MY MIRAGE WORLD\n"
+"IS... DISAPPEARING!!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MIZU_WIN,segment:0"
+msgid ""
+"<start>[7:FF07]> The mirage is disappearing.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:f025_H_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained the Magatama\n"
+"[2:FF03]Miasma[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:HUTOMIMI_01,segment:0"
+msgid ""
+"<start>[7:FF07]............!\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:HUTOMIMI_01,segment:1"
+msgid ""
+"<start>[18:]......You're......\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:HUTOMIMI_01,segment:2"
+msgid ""
+"<start>[18:]...a human...? No, a demon...?\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:HUTOMIMI_01,segment:3"
+msgid ""
+"<start>[18:]...I see. You are the \"Demi-fiend\"\n"
+"I prophesied about. Very interesting.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:HUTOMIMI_01A,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Thank you for defeating Mizuchi.\n"
+"Now, we can finally escape from this\n"
+"mirage.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:HUTOMIMI_02,segment:0"
+msgid ""
+"<start>[7:FF07][18:]My name is [2:FF02]Futomimi[2:FF01]. You may know\n"
+"it already, but I can see into the near\n"
+"future.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:HUTOMIMI_03,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I've been waiting for you to come\n"
+"and save us, you who are both\n"
+"human and demon...\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:HUTOMIMI_04,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You may be interested to know that\n"
+"there is a [2:FF02]young man[2:FF01] trapped in\n"
+"the other room.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:HUTOMIMI_04A,segment:0"
+msgid ""
+"<start>[7:FF07][18:]It seems he came to see me, but he\n"
+"was also caught.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:HUTOMIMI_05,segment:0"
+msgid ""
+"<start>[7:FF07]Hm...?\n"
+""
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:HUTOMIMI_05A,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...I see, he is your friend.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:HUTOMIMI_05A,segment:1"
+msgid ""
+"<start>[18:]You should see him, then. I sense\n"
+"a strange energy in him.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:HUTOMIMI_06,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I am worried about the other\n"
+"Manikins, so I must be going.\n"
+"Thank you again for saving us.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:HUTOMIMI_06,segment:1"
+msgid ""
+"<start>[18:]...Now, if you'll excuse me.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HUTOMIMI_07,segment:0"
+msgid ""
+"<start>[7:FF07]> Futomimi left.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:F025_TABIDACHI,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I have come again to thank you\n"
+"once more.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:F025_TABIDACHI,segment:1"
+msgid ""
+"<start>[18:]...We Manikins plan to leave\n"
+"the area.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:F025_TABIDACHI,segment:2"
+msgid ""
+"<start>[18:]Together, we will find a way to live\n"
+"without suffering.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:F025_TABIDACHI02,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Let me prophesy your future as\n"
+"a token of my gratitude.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:F025_TABIDACHI03,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...A man... at Ginza...\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:F025_TABIDACHI04,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...It seems that there is a man\n"
+"waiting for you at Ginza. Go and see\n"
+"him.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:F025_TABIDACHI04,segment:1"
+msgid ""
+"<start>[18:]...We must get going now. Again,\n"
+"thank you so much.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:F025_TABIDACHI04,segment:2"
+msgid ""
+"<start>[18:]...Now, if you'll excuse us.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F025_TABIDACHI05,segment:0"
+msgid ""
+"<start>[7:FF07]> Futomimi led the other Manikins out.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F025_MANE_UGOKENAI_01,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F025_MANE_UGOKENAI_01,segment:1"
+msgid ""
+"<start>Let me rest awhile. ...Just a little...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F025_MANE_UGOKENAI_02,segment:0"
+msgid ""
+"<start>[7:FF07]> All the torture must have gotten to\n"
+"him. He doesn't want to move.\n"
+"<end>"
+msgstr ""
+
+#. Black Frost
+msgctxt "type:0,entry:F025_JAAKU01,segment:0"
+msgid ""
+"<start>[7:FF07]Heeeeee hoooooo!!\n"
+"<end>"
+msgstr ""
+
+#. Black Frost
+msgctxt "type:0,entry:F025_JAAKU01,segment:1"
+msgid ""
+"<start>I've become hee ho evil!\n"
+"I'm [2:FF02]Black Frost[2:FF01], heeeeee hoooooo!\n"
+"<end>"
+msgstr ""
+
+#. Black Frost
+msgctxt "type:0,entry:F025_JAAKU01,segment:2"
+msgid ""
+"<start>I'm so evil, they call me\n"
+"the \"Emperor of Kabukicho\"!\n"
+"<end>"
+msgstr ""
+
+#. Black Frost
+msgctxt "type:0,entry:F025_JAAKU01,segment:3"
+msgid ""
+"<start>The demon within you drives me\n"
+"hee ho crazy!!\n"
+"<end>"
+msgstr ""
+
+#. Black Frost
+msgctxt "type:0,entry:F025_JAAKU01,segment:4"
+msgid ""
+"<start>The world belongs to the mighty\n"
+"Emperor!!\n"
+"<end>"
+msgstr ""
+
+#. Black Frost
+msgctxt "type:0,entry:F025_JAAKU01,segment:5"
+msgid ""
+"<start>How's that? Are you impressed,\n"
+"hee ho?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F025_JAAKU_SEL,segment:0"
+msgid "<start>I'm so scared..."
+msgstr ""
+
+#. Black Frost
+msgctxt "type:0,entry:F025_JAAKU01_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Heeeeee hoooooo! I'm so cool!\n"
+"<end>"
+msgstr ""
+
+#. Black Frost
+msgctxt "type:0,entry:F025_JAAKU01_YES,segment:1"
+msgid ""
+"<start>But, an Emperor needs to be cold!\n"
+"No mercy!\n"
+"<end>"
+msgstr ""
+
+#. Black Frost
+msgctxt "type:0,entry:F025_JAAKU01_YES,segment:2"
+msgid ""
+"<start>You're all gonna freeze in hell!\n"
+"...Uh, \"freeze in hell\"...?\n"
+"<end>"
+msgstr ""
+
+#. Black Frost
+msgctxt "type:0,entry:F025_JAAKU01_YES,segment:3"
+msgid ""
+"<start>Ah, who cares! Heeeeee hoooooo!!\n"
+"<end>"
+msgstr ""
+
+#. Black Frost
+msgctxt "type:0,entry:F025_JAAKU01_NO,segment:0"
+msgid ""
+"<start>[7:FF07]I'm pissed! Got that, hee ho!?\n"
+"<end>"
+msgstr ""
+
+#. Black Frost
+msgctxt "type:0,entry:F025_JAAKU01_NO,segment:1"
+msgid ""
+"<start>You got guts!\n"
+"<end>"
+msgstr ""
+
+#. Black Frost
+msgctxt "type:0,entry:F025_JAAKU01_NO,segment:2"
+msgid ""
+"<start>But, so do I!\n"
+"<end>"
+msgstr ""
+
+#. Black Frost
+msgctxt "type:0,entry:F025_JAAKU01_NO,segment:3"
+msgid ""
+"<start>I'll show you the power of\n"
+"the Emperor! Heeeeee hoooooo!!\n"
+"<end>"
+msgstr ""
+
+#. Black Frost
+msgctxt "type:0,entry:F025_JAAKU02,segment:0"
+msgid ""
+"<start>[7:FF07]Heeeeee hoooooo...\n"
+"<end>"
+msgstr ""
+
+#. Black Frost
+msgctxt "type:0,entry:F025_JAAKU02,segment:1"
+msgid ""
+"<start>Why are you interfering with my\n"
+"plans to become evil?\n"
+"<end>"
+msgstr ""
+
+#. Black Frost
+msgctxt "type:0,entry:F025_JAAKU02,segment:2"
+msgid ""
+"<start>All I wanted was to be like the\n"
+"legendary King! Scary, yet cute...\n"
+"<end>"
+msgstr ""
+
+#. Black Frost
+msgctxt "type:0,entry:F025_JAAKU03,segment:0"
+msgid ""
+"<start>[7:FF07]...That's all I ever wanted, hee ho!\n"
+"<end>"
+msgstr ""
+
+#. Black Frost
+msgctxt "type:0,entry:F025_JAAKU03,segment:1"
+msgid ""
+"<start>Hee ho, crap!!\n"
+"<end>"
+msgstr ""
+
+#. Black Frost
+msgctxt "type:0,entry:F025_JAAKU04,segment:0"
+msgid ""
+"<start>[7:FF07]Hee... I'm melting......Ho......\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F025_JAAKU05,segment:0"
+msgid ""
+"<start>[7:FF07]> Black Frost melted.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F025_JAAKU05,segment:1"
+msgid ""
+"<start>> You obtained the Magatama\n"
+"[2:FF03]Satan[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:GYAKU_NPC2,segment:0"
+msgid ""
+"<start>[7:FF07]Whoa! You a ceiling walker?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:GYAKU_NPC2,segment:1"
+msgid ""
+"<start>Cool, man!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:NPC1,segment:0"
+msgid ""
+"<start>[7:FF07]This is Kabukicho Prison.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:NPC1,segment:1"
+msgid ""
+"<start>The ex-Mantra demons have now\n"
+"turned this place into their own\n"
+"playground.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:NPC2,segment:0"
+msgid ""
+"<start>[7:FF07]Huh? I thought this was a prison.\n"
+"I don't see anyone.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:KARI,segment:0"
+msgid ""
+"<start>[7:FF07][2:FF02] Pretend you have entered battle.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:KARI,segment:1"
+msgid ""
+"<start>> Pretend you fought really, really\n"
+"hard.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:KARI,segment:2"
+msgid ""
+"<start>> You won.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F025_HAJIKI,segment:0"
+msgid ""
+"<start>[7:FF07]If you don't see [2:FF02]Futomimi[2:FF01] and [2:FF02]Isamu[2:FF01],\n"
+"there will be a bunch of Manikins\n"
+"here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F025_HAJIKI,segment:1"
+msgid ""
+"<start>If you meet them, they will leave for\n"
+"[2:FF02]Asakusa[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F025_HAJIKI,segment:2"
+msgid ""
+"<start>You can now go farther in.\n"
+"<end>"
+msgstr ""
+
+#. ???
+msgctxt "type:0,entry:FUTOMI_FREEDOM1,segment:0"
+msgid ""
+"<start>[7:FF07]Th-This is debug?\n"
+"<end>"
+msgstr ""
+
+#. ???
+msgctxt "type:0,entry:FUTOMI_FREEDOM1,segment:1"
+msgid ""
+"<start>I'm Futomimi.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:FUTOMI_FREEDOM2,segment:0"
+msgid ""
+"<start>[7:FF07]Blah.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:FUTOMI_FREEDOM2,segment:1"
+msgid ""
+"<start>Blah.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:FUTOMI_FREEDOM2,segment:2"
+msgid ""
+"<start>Blah.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:FUTOMI_FREEDOM2,segment:3"
+msgid ""
+"<start>Blah.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:FUTOMI_FREEDOM2,segment:4"
+msgid ""
+"<start>Blah.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:FUTOMI_FREEDOM2,segment:5"
+msgid ""
+"<start>Blah.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:FUTOMI_FREEDOM2,segment:6"
+msgid ""
+"<start>Blah.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:FUTOMI_FREEDOM2,segment:7"
+msgid ""
+"<start>Blah.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:FUTOMI_FREEDOM2,segment:8"
+msgid ""
+"<start>Blah.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:FUTOMI_FREEDOM2,segment:9"
+msgid ""
+"<start>Blah.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:FUTOMI_FREEDOM2,segment:10"
+msgid ""
+"<start>Blah.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:FUTOMI_FREEDOM3,segment:0"
+msgid ""
+"<start>[7:FF07]> Futomimi left.\n"
+"<end>"
+msgstr ""
+
+#. Manikins
+msgctxt "type:0,entry:MANE_NIMOTU,segment:0"
+msgid ""
+"<start>[7:FF07]We're sorry. This stuff is too heavy\n"
+"for us.\n"
+"<end>"
+msgstr ""
+
+#. Manikins
+msgctxt "type:0,entry:MANE_NIMOTU,segment:1"
+msgid ""
+"<start>Can you help us?\n"
+"<end>"
+msgstr ""
+
+#. Manikins
+msgctxt "type:0,entry:MANE_NIMOTU2,segment:0"
+msgid ""
+"<start>[7:FF07]Sorry to bother you again. There's\n"
+"more junk in our way.\n"
+"<end>"
+msgstr ""
+
+#. Manikins
+msgctxt "type:0,entry:MANE_NIMOTU2,segment:1"
+msgid ""
+"<start>Can you help us?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MANE_NIMOTU_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Manikins
+msgctxt "type:0,entry:MANE_NIMOTU_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Oh, thank you!!\n"
+"<end>"
+msgstr ""
+
+#. Manikins
+msgctxt "type:0,entry:MANE_NIMOTU_NO,segment:0"
+msgid ""
+"<start>[7:FF07]I see...\n"
+"<end>"
+msgstr ""
+
+#. Manikins
+msgctxt "type:0,entry:MANE_NIMOTU_OREI,segment:0"
+msgid ""
+"<start>[7:FF07]Thank you very much! We can\n"
+"finally get out!!\n"
+"<end>"
+msgstr ""
+
+#. Manikins
+msgctxt "type:0,entry:MANE_NIMOTU_OREI,segment:1"
+msgid ""
+"<start>As a token of our appreciation,\n"
+"take this.\n"
+"<end>"
+msgstr ""
+
+#. Manikins
+msgctxt "type:0,entry:MANE_NIMOTU_OREI,segment:2"
+msgid ""
+"<start>> You obtained [2:FF05]Life Stone[2:FF01] x 5.\n"
+"<end>"
+msgstr ""
+
+#. Manikins
+msgctxt "type:0,entry:MANE_NIMOTU_OREI2,segment:0"
+msgid ""
+"<start>[7:FF07]Thank you very much! This time, we\n"
+"can finally get out!!\n"
+"<end>"
+msgstr ""
+
+#. Manikins
+msgctxt "type:0,entry:MANE_NIMOTU_OREI2,segment:1"
+msgid ""
+"<start>As a token of our appreciation,\n"
+"take this.\n"
+"<end>"
+msgstr ""
+
+#. Manikins
+msgctxt "type:0,entry:MANE_NIMOTU_OREI2,segment:2"
+msgid ""
+"<start>> You obtained [2:FF05]Medicine[2:FF01] x 4.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MANE_NIMOTU_INAI,segment:0"
+msgid ""
+"<start>[7:FF07]> The Manikins left.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:NPC3,segment:0"
+msgid ""
+"<start>[7:FF07]Check it out, there's a hole in\n"
+"the floor.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:NPC3,segment:1"
+msgid ""
+"<start>...By the way, the shutter doesn't\n"
+"seem to open from this side.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:GYAKU_NPC3,segment:0"
+msgid ""
+"<start>[7:FF07]Check it out, there's a hole in\n"
+"the ceiling.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:GYAKU_NPC3,segment:1"
+msgid ""
+"<start>...By the way, the shutter won't open\n"
+"unless you press the button.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:GYAKU_NPC3,segment:2"
+msgid ""
+"<start>...Hey, who am I talking to?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MANE_LAST_SEL,segment:0"
+msgid "<start>No way."
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:MANE_LAST_NO,segment:0"
+msgid ""
+"<start>[7:FF07]Come on...\n"
+"<end>"
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:MANE_LAST_NO,segment:1"
+msgid ""
+"<start>I'm begging you! Defeat Mizuchi and\n"
+"save Futomimi!\n"
+"<end>"
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:MANE_LAST_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Thank you. Our friends can finally\n"
+"rest now...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EXITWARP,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you leave the area?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EXITWARP_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a Mystical Chest.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HOSEKI_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Mystical Chest.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA,segment:0"
+msgid ""
+"<start>[7:FF07]> You see a Cache Cube.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAKARA_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Cache Cube.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_STILLGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DH_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"the Magatama [2:FF05][3:FF01][2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_MAKA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01] Macca[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:0"
+msgid ""
+"<start>[7:FF07]> It's a trap.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:1"
+msgid ""
+"<start>> Your party took damage.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_KARAGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:0"
+msgid ""
+"<start>[7:FF07]> [3:FF03] found something.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:1"
+msgid ""
+"<start>[7:FF07]............\n"
+"> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_OPENERROR,segment:0"
+msgid ""
+"<start>[7:FF07]> It can't be used here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_LIGHTMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The light effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_ESTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The repel effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REBERAMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The attract effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REFUTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The levitation effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:WARP_ELV_MSG,segment:0"
+msgid ""
+"<start>[7:FF07]> Select a floor.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL1,segment:0"
+msgid "<start>[3:FF01][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL2,segment:0"
+msgid "<start>[3:FF02][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL3,segment:0"
+msgid "<start>[3:FF03][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL4,segment:0"
+msgid "<start>[3:FF04][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL5,segment:0"
+msgid "<start>[3:FF05][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL6,segment:0"
+msgid "<start>[3:FF06][80EA]"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F025_MANE01,segment:0"
+msgid ""
+"<start>[7:FF07]Where's our leader? How about\n"
+"the human boy?\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F025_MANE01,segment:1"
+msgid ""
+"<start>Are they okay?\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F025_MANE02,segment:0"
+msgid ""
+"<start>[7:FF07]I'm surprised you were able to make\n"
+"it up here, with all that junk blocking\n"
+"the halls.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F025_MANE02,segment:1"
+msgid ""
+"<start>...Did you meet the young man in\n"
+"the back room?\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F025_MANE03,segment:0"
+msgid ""
+"<start>[7:FF07]\"That damn Mizuchi!!\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F025_MANE03,segment:1"
+msgid ""
+"<start>I was all ready to kick his ass!!\"\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F025_MANE03,segment:2"
+msgid ""
+"<start>...That's what the tough-talking\n"
+"Jack Frost was saying when he left\n"
+"the building.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F025_MANE04,segment:0"
+msgid ""
+"<start>[7:FF07]Ah......\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F025_MANE04,segment:1"
+msgid ""
+"<start>Free at last...\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F025_MANE05,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F025_MANE05,segment:1"
+msgid ""
+"<start>...I'm taking a break.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F025_MANE06_01,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F025_MANE06_02,segment:0"
+msgid ""
+"<start>[7:FF07]> There is no response.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F025_MANE06_02,segment:1"
+msgid ""
+"<start>> He must have taken quite\n"
+"a beating.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F025_DOOR01,segment:0"
+msgid ""
+"<start>[7:FF07]> You sense strong power from\n"
+"beyond the door.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F025_DOOR01,segment:1"
+msgid ""
+"<start>> Will you enter?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F025_DOOR01_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN01_01,segment:0"
+msgid ""
+"<start>[7:FF07]This is Kabukicho Prison.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN01_01,segment:1"
+msgid ""
+"<start>...Huh? This is just a run-down\n"
+"building?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN01_01,segment:2"
+msgid ""
+"<start>You got that wrong. This is\n"
+"a prison!!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN01_01,segment:3"
+msgid ""
+"<start>Even though the Mantra fell,\n"
+"there's still loads of Manikins\n"
+"being held here.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN01_02,segment:0"
+msgid ""
+"<start>[7:FF07]This is Kabukicho Prison.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN01_02,segment:1"
+msgid ""
+"<start>...Well, it's not a prison anymore,\n"
+"with Mizuchi being defeated and all.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN01_03,segment:0"
+msgid ""
+"<start>[7:FF07]Brrrr... It's freezing...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN01_03,segment:1"
+msgid ""
+"<start>...This is all the Emperor's doing.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN01_04,segment:0"
+msgid ""
+"<start>[7:FF07]The Emperor is gone...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN01_04,segment:1"
+msgid ""
+"<start>A lot has happened here, but now\n"
+"it's finally quiet.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN02,segment:0"
+msgid ""
+"<start>[7:FF07]The Emperor on the top floor is\n"
+"doing whatever he pleases in my\n"
+"territory!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN02,segment:1"
+msgid ""
+"<start>I'd go whoop the boy, but I'm too\n"
+"cold to move!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN02,segment:2"
+msgid ""
+"<start>He got lucky... this time...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN03_01,segment:0"
+msgid ""
+"<start>[7:FF07]The Emperor just appeared out of\n"
+"nowhere!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN03_01,segment:1"
+msgid ""
+"<start>He's in Mizuchi's room acting all big.\n"
+"Is he an ex-Mantra?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN03_02,segment:0"
+msgid ""
+"<start>[7:FF07]I heard about the Emperor's true\n"
+"identity.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN03_02,segment:1"
+msgid ""
+"<start>But, how did a run-of-the-mill\n"
+"Jack Frost get so much power?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN03_02,segment:2"
+msgid ""
+"<start>Did he get a bunch of Magatsuhi\n"
+"from somewhere? ...Weird.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN04,segment:0"
+msgid ""
+"<start>[7:FF07]Hey brother, you here to play?\n"
+"We got young girls, so why don't\n"
+"you stop by?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN04_YES,segment:0"
+msgid ""
+"<start>[7:FF07]One customer, right up! Datsue, can\n"
+"you come over here?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN04_NO,segment:0"
+msgid ""
+"<start>[7:FF07]Please, no window-shopping.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F025_SINEN04_02,segment:0"
+msgid ""
+"<start>[7:FF07]Hey brother, thanks again!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F025_DEVIL01,segment:0"
+msgid ""
+"<start>[7:FF07]I look up to the Emperor, hee ho!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F025_DEVIL01,segment:1"
+msgid ""
+"<start>The Emperor is Kabukicho's number\n"
+"one, hee ho!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F025_DEVIL02_01,segment:0"
+msgid ""
+"<start>[7:FF07]You're...!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F025_DEVIL02_01,segment:1"
+msgid ""
+"<start>...Wait up! I'm not dumb enough to\n"
+"go against you.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F025_DEVIL02_01,segment:2"
+msgid ""
+"<start>I'll tell you something useful, so\n"
+"don't make that face, okay?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F025_DEVIL02_NO,segment:0"
+msgid ""
+"<start>[7:FF07]...C'mon, let bygones be bygones!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F025_DEVIL02_YES,segment:0"
+msgid ""
+"<start>[7:FF07]...Have you ever seen a Jack Frost\n"
+"named [2:FF02]Heeho[2:FF01]?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F025_DEVIL02_YES,segment:1"
+msgid ""
+"<start>I hear he has something to do with\n"
+"the Emperor...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F025_DEVIL02_02,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F025_DEVIL02_02,segment:1"
+msgid ""
+"<start>...I see.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F025_DEVIL02_02,segment:2"
+msgid ""
+"<start>So, the Emperor WAS Heeho!?\n"
+"Wow!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F025_DEVIL03,segment:0"
+msgid ""
+"<start>[7:FF07]Hee! Ho! Hee! Ho!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F025_DEVIL04,segment:0"
+msgid ""
+"<start>[7:FF07]~Hee ho the champion~\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F025_DEVIL05,segment:0"
+msgid ""
+"<start>[7:FF07]Praise the Emperor!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F025_DEVIL05,segment:1"
+msgid ""
+"<start>Hee! Ho! Hee! Ho!\n"
+"<end>"
+msgstr ""

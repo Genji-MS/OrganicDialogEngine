@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Manikin kid
+msgctxt "type:0,entry:pb_mes_01,segment:0"
+msgid ""
+"<start>[7:FF07]Do you see that [2:FF02]spinning blue cube[2:FF01]?\n"
+"That's the goal.\n"
+"<end>"
+msgstr ""
+
+#. Manikin kid
+msgctxt "type:0,entry:pb_mes_01,segment:1"
+msgid ""
+"<start>If you have any questions,\n"
+"open up the menu and select\n"
+"[2:FF02]Help[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Manikin kid
+msgctxt "type:0,entry:pb_mes_01,segment:2"
+msgid ""
+"<start>Are you ready? Then, let's start!\n"
+"<end>"
+msgstr ""
+
+#. Manikin kid
+msgctxt "type:0,entry:pb_mes_06,segment:0"
+msgid ""
+"<start>[7:FF07][2:FF01]You think it's easy?\n"
+"That was just a warm-up!\n"
+"<end>"
+msgstr ""
+
+#. Manikin kid
+msgctxt "type:0,entry:pb_mes_11,segment:0"
+msgid ""
+"<start>[7:FF07][2:FF01]It's getting tough for you, huh?\n"
+"Now's the time to quit.\n"
+"<end>"
+msgstr ""
+
+#. Manikin kid
+msgctxt "type:0,entry:pb_mes_16,segment:0"
+msgid ""
+"<start>[7:FF07][2:FF01]Y-You're not bad...\n"
+"I'm getting nervous...\n"
+"*gulp*\n"
+"<end>"
+msgstr ""
+
+#. Manikin kid
+msgctxt "type:0,entry:pb_mes_20,segment:0"
+msgid ""
+"<start>[7:FF07][2:FF01]This is the final stage...\n"
+"Beat it if you can!\n"
+"<end>"
+msgstr ""
+
+#. Manikin kid
+msgctxt "type:0,entry:pb_mes_end,segment:0"
+msgid ""
+"<start>[7:FF07][2:FF01]What!? You're giving up?\n"
+"You blow.\n"
+""
+msgstr ""
+
+msgctxt "type:1,entry:pb_sel01,segment:0"
+msgid "<start>I'm done for now."
+msgstr ""

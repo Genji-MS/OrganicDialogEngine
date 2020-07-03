@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Veiled woman
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07]Hohohoho... You worked so hard\n"
+"to get the Yahirono Himorogi,\n"
+"and you gave it away, just like that?\n"
+"<end>"
+msgstr ""
+
+#. Veiled woman
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF07]I guess it's understandable,\n"
+"since your heart is set on\n"
+"chaos rather than creation...\n"
+"<end>"
+msgstr ""
+
+#. Veiled woman
+msgctxt "type:0,entry:MSG_002,segment:1"
+msgid ""
+"<start>But, there's one obstacle you've yet\n"
+"to overcome...\n"
+"<end>"
+msgstr ""
+
+#. Veiled woman
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07]...and that's me--the Mother Harlot,\n"
+"subjugator of the most fearsome\n"
+"beast.\n"
+"<end>"
+msgstr ""
+
+#. Beast
+msgctxt "type:0,entry:MSG_005,segment:0"
+msgid ""
+"<start>[7:FF07]...YOU WHO WERE ONCE HUMAN\n"
+"AND NOW POSSESS A DEMON'S\n"
+"BODY...\n"
+"<end>"
+msgstr ""
+
+#. Beast
+msgctxt "type:0,entry:MSG_005,segment:1"
+msgid ""
+"<start>DO YOU WISH FOR A DEMON'S\n"
+"HEART, EVEN IF YOU WILL BE\n"
+"BOUND TO DESPAIR IN\n"
+"IMPENETRABLE DARKNESS?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:KAIWA_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Mother Harlot
+msgctxt "type:0,entry:MSG_006,segment:0"
+msgid ""
+"<start>[7:FF07]Then, show me the darkness within\n"
+"your heart...\n"
+"<end>"
+msgstr ""
+
+#. Mother Harlot
+msgctxt "type:0,entry:MSG_006,segment:1"
+msgid ""
+"<start>...by sacrificing your soul to me...\n"
+"<end>"
+msgstr ""
+
+#. Mother Harlot
+msgctxt "type:0,entry:MSG_007,segment:0"
+msgid ""
+"<start>[7:FF07]You're no longer human,\n"
+"but you refuse to become a demon...\n"
+"Will you let fate control your life\n"
+"until the very end?\n"
+"<end>"
+msgstr ""
+
+#. Mother Harlot
+msgctxt "type:0,entry:MSG_007,segment:1"
+msgid ""
+"<start>...Well, it doesn't matter much,\n"
+"since your life will end here...\n"
+"<end>"
+msgstr ""
+
+#. Mother Harlot
+msgctxt "type:0,entry:MSG_008,segment:0"
+msgid ""
+"<start>[7:FF07]Let's indulge ourselves...\n"
+"<end>"
+msgstr ""
+
+#. Mother Harlot
+msgctxt "type:0,entry:MSG_009,segment:0"
+msgid ""
+"<start>[7:FF07]in the ecstasy of death... shall we?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"the [2:FF02]Candelabrum of Beauty[2:FF01].\n"
+"<end>"
+msgstr ""

@@ -1,0 +1,1764 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Manikin
+msgctxt "type:0,entry:MANE001_01,segment:0"
+msgid ""
+"<start>[7:FF07]The tall building up ahead is\n"
+"the [2:FF02]headquarters[2:FF01] of the Mantra.\n"
+"<end>"
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:MANE001_02,segment:0"
+msgid ""
+"<start>[7:FF07]You shouldn't go near it.\n"
+"<end>"
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:MANE_TUIKA01,segment:0"
+msgid ""
+"<start>[7:FF07]Being a demon must be hard.\n"
+"<end>"
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:MANE_TUIKA01,segment:1"
+msgid ""
+"<start>Living and dying must be hard,\n"
+"too...\n"
+"<end>"
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:MANE_TUIKA02,segment:0"
+msgid ""
+"<start>[7:FF07]It was a breach of\n"
+"the weapons prohibition.\n"
+"<end>"
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:MANE_TUIKA02,segment:1"
+msgid ""
+"<start>It was a foreigner.\n"
+"<end>"
+msgstr ""
+
+#. Mantra demon
+msgctxt "type:0,entry:F023_DEVILENT,segment:0"
+msgid ""
+"<start>[7:FF07]Hey, you! Yeah, you! ...I've never\n"
+"seen you before!\n"
+"<end>"
+msgstr ""
+
+#. Mantra demon
+msgctxt "type:0,entry:F023_DEVILENT,segment:1"
+msgid ""
+"<start>Are you here knowing that this is\n"
+"[2:FF02]Ikebukuro[2:FF01], home of the Mantra?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F023_DEVILENT_SEL01,segment:0"
+msgid "<start>Of course I did."
+msgstr ""
+
+#. Mantra demon
+msgctxt "type:0,entry:F023_DEVILENT_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Whoa! You've got some balls!\n"
+"<end>"
+msgstr ""
+
+#. Mantra demon
+msgctxt "type:0,entry:F023_DEVILENT_YES,segment:1"
+msgid ""
+"<start>But, that just ain't gonna cut it!\n"
+"<end>"
+msgstr ""
+
+#. Mantra demon
+msgctxt "type:0,entry:F023_DEVILENT_YES,segment:2"
+msgid ""
+"<start>Guts don't mean shit if you ain't got\n"
+"the power to back it up!\n"
+"<end>"
+msgstr ""
+
+#. Mantra demon
+msgctxt "type:0,entry:F023_DEVILENT_NO,segment:0"
+msgid ""
+"<start>[7:FF07]Then, get outta here!\n"
+"<end>"
+msgstr ""
+
+#. Mantra demon
+msgctxt "type:0,entry:F023_DEVILENT_02,segment:0"
+msgid ""
+"<start>[7:FF07]...You again!?\n"
+"<end>"
+msgstr ""
+
+#. Mantra demon
+msgctxt "type:0,entry:F023_DEVILENT_02,segment:1"
+msgid ""
+"<start>You wanna piece of me?!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F023_DEVILENT_SEL02,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Mantra demon
+msgctxt "type:0,entry:F023_DEVILENT_NO02,segment:0"
+msgid ""
+"<start>[7:FF07]Then, get lost!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F023_DEVIL_12,segment:0"
+msgid ""
+"<start>[7:FF07]> The demons suddenly attacked!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_01,segment:0"
+msgid ""
+"<start>[7:FF07]Power is everything!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_01,segment:1"
+msgid ""
+"<start>You need to be able to handle\n"
+"everything on your own. Don't you\n"
+"agree?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F023_DEVIL_TARM_01_SEL,segment:0"
+msgid "<start>Absolutely."
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_01_YES,segment:0"
+msgid ""
+"<start>[7:FF07]You know your shit, buddy!!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_01_YES,segment:1"
+msgid ""
+"<start>You look weak, but you'd make\n"
+"a great addition to the Mantra\n"
+"with that kinda attitude!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_01_YES02,segment:0"
+msgid ""
+"<start>[7:FF07]Power is everything!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_01_YES02,segment:1"
+msgid ""
+"<start>Don't forget that.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_01_NO,segment:0"
+msgid ""
+"<start>[7:FF07]WHAT????\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_01_NO,segment:1"
+msgid ""
+"<start>If you weren't a demon, I'd squeeze\n"
+"the Magatsuhi outta you!!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_01_NO02,segment:0"
+msgid ""
+"<start>[7:FF07]Power is everything!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_01_NO02,segment:1"
+msgid ""
+"<start>You need to be able to handle\n"
+"everything on your own.\n"
+"Remember that!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_01_HATEN,segment:0"
+msgid ""
+"<start>[7:FF07]Make up your mind...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_02,segment:0"
+msgid ""
+"<start>[7:FF07]Everyone went to attack Nihilo.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_02,segment:1"
+msgid ""
+"<start>But, there's still a strong demon\n"
+"in the [2:FF02]east wing[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_02,segment:2"
+msgid ""
+"<start>Was there a demon this strong\n"
+"in our army...?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_02,segment:3"
+msgid ""
+"<start>If you have some time, check and\n"
+"see who it is.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_DAISOUZYOU,segment:0"
+msgid ""
+"<start>[7:FF07]The demon with the strong aura\n"
+"seems to have disappeared!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_DAISOUZYOU,segment:1"
+msgid ""
+"<start>I'm still wonderin' who the hell\n"
+"he was.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_03,segment:0"
+msgid ""
+"<start>[7:FF07]What the hell's happening?\n"
+"It's pretty damn loud over at\n"
+"our headquarters.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_03,segment:1"
+msgid ""
+"<start>...We didn't lose, did we?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_04,segment:0"
+msgid ""
+"<start>[7:FF07]...I can't believe it.\n"
+"Gozu-Tennoh's...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_05,segment:0"
+msgid ""
+"<start>[7:FF07]I hear Kabukicho's done for...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_05,segment:1"
+msgid ""
+"<start>That's what the Manikins told me\n"
+"before leaving.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_05,segment:2"
+msgid ""
+"<start>...Well, I'll do what I want.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_06,segment:0"
+msgid ""
+"<start>[7:FF07]Our old headquarters' been bustling\n"
+"with activity lately.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_06,segment:1"
+msgid ""
+"<start>A human guy was here, too.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_07,segment:0"
+msgid ""
+"<start>[7:FF07]Our new leader is [12:FF04]!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_07,segment:1"
+msgid ""
+"<start>She's inherited Gozu-Tennoh's\n"
+"power.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL_TARM_07,segment:2"
+msgid ""
+"<start>...It's time to rock!\n"
+"<end>"
+msgstr ""
+
+#. Demon guard
+msgctxt "type:0,entry:F023_DEVILENT_03,segment:0"
+msgid ""
+"<start>[7:FF07]Ha!\n"
+"<end>"
+msgstr ""
+
+#. Demon guard
+msgctxt "type:0,entry:F023_DEVILENT_03,segment:1"
+msgid ""
+"<start>You lucked out, fool. I can't believe\n"
+"Thor approved your release...\n"
+"<end>"
+msgstr ""
+
+#. Demon guard
+msgctxt "type:0,entry:F023_DEVILENT_03,segment:2"
+msgid ""
+"<start>Now, get lost!\n"
+"<end>"
+msgstr ""
+
+#. Demon guard
+msgctxt "type:0,entry:F023_DEVILENT_04,segment:0"
+msgid ""
+"<start>[7:FF07]...Oh, yeah.\n"
+"<end>"
+msgstr ""
+
+#. Demon guard
+msgctxt "type:0,entry:F023_DEVILENT_04,segment:1"
+msgid ""
+"<start>Thor says that you've proved\n"
+"your strength.\n"
+"<end>"
+msgstr ""
+
+#. Demon guard
+msgctxt "type:0,entry:F023_DEVILENT_04,segment:2"
+msgid ""
+"<start>You're free to enter our\n"
+"headquarters anytime.\n"
+"<end>"
+msgstr ""
+
+#. Demon guard
+msgctxt "type:0,entry:F023_DEVILENT_04,segment:3"
+msgid ""
+"<start>That really pisses me off!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:FIRE_YURE,segment:0"
+msgid ""
+"<start>[7:FF07]> The flames of the [2:FF02]Candelabrum\n"
+"of Sovereignty[2:FF01] are flickering wildly...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:KEHAI,segment:0"
+msgid ""
+"<start>[7:FF07]> You can feel the presence of\n"
+"a terrifying demon...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:KEHAI,segment:1"
+msgid ""
+"<start>> Will you stay here?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:YES_NO_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:KEHAI2,segment:0"
+msgid ""
+"<start>[7:FF07]> Are you sure?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TRY_RUNAWAY,segment:0"
+msgid ""
+"<start>[7:FF02]> ............\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:RUNAWAY,segment:0"
+msgid ""
+"<start>[7:FF07]> It looks like you'll be able to\n"
+"get away.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SIPPAI,segment:0"
+msgid ""
+"<start>[7:FF07]> It looks like you won't be able to\n"
+"escape...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:SIPPAI2,segment:0"
+msgid ""
+"<start>[7:FF07]I know you have a candelabrum!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:SIPPAI_KOTEN,segment:0"
+msgid ""
+"<start>[7:FF07]The flames of the candelabrum\n"
+"burn passionately!\n"
+"You won't escape!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EXITWARP,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you leave the area?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EXITWARP_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a Mystical Chest.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HOSEKI_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Mystical Chest.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA,segment:0"
+msgid ""
+"<start>[7:FF07]> You see a Cache Cube.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAKARA_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Cache Cube.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_STILLGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DH_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"the Magatama [2:FF05][3:FF01][2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_MAKA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01] Macca[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:0"
+msgid ""
+"<start>[7:FF07]> It's a trap.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:1"
+msgid ""
+"<start>> Your party took damage.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_KARAGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:0"
+msgid ""
+"<start>[7:FF07]> [3:FF03] found something.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:1"
+msgid ""
+"<start>[7:FF07]............\n"
+"> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_OPENERROR,segment:0"
+msgid ""
+"<start>[7:FF07]> It can't be used here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_LIGHTMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The light effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_ESTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The repel effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REBERAMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The attract effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REFUTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The levitation effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:WARP_ELV_MSG,segment:0"
+msgid ""
+"<start>[7:FF07]> Select a floor.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL1,segment:0"
+msgid "<start>[3:FF01][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL2,segment:0"
+msgid "<start>[3:FF02][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL3,segment:0"
+msgid "<start>[3:FF03][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL4,segment:0"
+msgid "<start>[3:FF04][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL5,segment:0"
+msgid "<start>[3:FF05][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL6,segment:0"
+msgid "<start>[3:FF06][80EA]"
+msgstr ""
+
+msgctxt "type:0,entry:F023_GIMIC01,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you enter\n"
+"the Mantra's headquarters?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F023_GIMIC01_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:F023_GIMIC02_01,segment:0"
+msgid ""
+"<start>[7:FF07]> You can hear a voice\n"
+"coming from inside...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:F023_GIMIC02_02,segment:0"
+msgid ""
+"<start>[7:FF07]...What the hell?!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:F023_GIMIC02_02,segment:1"
+msgid ""
+"<start>I didn't do anything...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:F023_GIMIC02_02,segment:2"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:F023_GIMIC02_02,segment:3"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F023_GIMIC02_03,segment:0"
+msgid ""
+"<start>[7:FF07]> You cannot hear the voice\n"
+"anymore.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL01,segment:0"
+msgid ""
+"<start>[7:FF07]Hey, you! Yeah, you! ...I've never\n"
+"seen you before!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL01,segment:1"
+msgid ""
+"<start>Are you here knowing that this is\n"
+"[2:FF02]Ikebukuro[2:FF01], home of the Mantra?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F023_DEVIL01_SEL01,segment:0"
+msgid "<start>Of course I did."
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL01_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Whoa! You've got some balls!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL01_YES,segment:1"
+msgid ""
+"<start>But, that just ain't gonna cut it!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL01_YES,segment:2"
+msgid ""
+"<start>Guts don't mean shit, if you ain't got\n"
+"the power to back it up!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL01_NO,segment:0"
+msgid ""
+"<start>[7:FF07]Then, get outta here!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL01_02,segment:0"
+msgid ""
+"<start>[7:FF07]...You again!?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL01_02,segment:1"
+msgid ""
+"<start>You wanna piece of me?!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F023_DEVIL01_SEL02,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL01_NO02,segment:0"
+msgid ""
+"<start>[7:FF07]Then, get lost!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL02_01,segment:0"
+msgid ""
+"<start>[7:FF07]We are the strong! What's wrong\n"
+"with enslaving weak Manikins!?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL02_01,segment:1"
+msgid ""
+"<start>Hyahahahahaha! Might makes right!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL02_02,segment:0"
+msgid ""
+"<start>[7:FF07]It's finally time for war!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL02_02,segment:1"
+msgid ""
+"<start>Hyahahahahaha!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL02_03,segment:0"
+msgid ""
+"<start>[7:FF07]I heard Gozu-Tennoh's screwed!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL02_03,segment:1"
+msgid ""
+"<start>Dammit! I'm screwed too!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL02_03,segment:2"
+msgid ""
+"<start>The Manikins won't turn against me,\n"
+"will they!?\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE01_01,segment:0"
+msgid ""
+"<start>[7:FF07]We're oppressed! We're worked to\n"
+"death!\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE01_01,segment:1"
+msgid ""
+"<start>Woe is me! Life's too short...\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE01_02,segment:0"
+msgid ""
+"<start>[7:FF07]Um, are we being oppressed?\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE01_02,segment:1"
+msgid ""
+"<start>Something seems different...\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE01_03,segment:0"
+msgid ""
+"<start>[7:FF07]We're being oppressed, so please\n"
+"save Futomimi.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE01_03,segment:1"
+msgid ""
+"<start>Then, our oppression will end.\n"
+"...I think.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE02_01,segment:0"
+msgid ""
+"<start>[7:FF07]You can enter the headquarters\n"
+"from here in the main hall.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE02_01,segment:1"
+msgid ""
+"<start>But, if you get too close, you'll be\n"
+"arrested.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE02_02,segment:0"
+msgid ""
+"<start>[7:FF07]It's noisy for some reason...\n"
+"Are the Mantra going down?\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE02_03,segment:0"
+msgid ""
+"<start>[7:FF07]If you feel like it, save Futomimi.\n"
+"<end>"
+msgstr ""
+
+#. Female Manikin
+msgctxt "type:0,entry:F023_MANE03_01,segment:0"
+msgid ""
+"<start>[7:FF07]The Mantra squeeze Magatsuhi from\n"
+"us!\n"
+"<end>"
+msgstr ""
+
+#. Female Manikin
+msgctxt "type:0,entry:F023_MANE03_02,segment:0"
+msgid ""
+"<start>[7:FF07]At Kabukicho Prison, they squeeze\n"
+"every last ounce of Magatsuhi out of\n"
+"us Manikins.\n"
+"<end>"
+msgstr ""
+
+#. Female Manikin
+msgctxt "type:0,entry:F023_MANE03_02,segment:1"
+msgid ""
+"<start>The prophet Futomimi is there.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL03,segment:0"
+msgid ""
+"<start>[7:FF07]NiHIlo iS bAd! NIHiLo IS tRaSH!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL03,segment:1"
+msgid ""
+"<start>...I eAT thEM aLL!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL03_01,segment:0"
+msgid ""
+"<start>[7:FF07]FIenDs aRe baD! FiEnds ARe trASH!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL03_01,segment:1"
+msgid ""
+"<start>...CaN I eAt thEm aLL?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL04,segment:0"
+msgid ""
+"<start>[7:FF07]The Nihilo demons are...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL04,segment:1"
+msgid ""
+"<start>They're just whimpering dogs!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL04,segment:2"
+msgid ""
+"<start>Those pathetic puppets!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL04_01,segment:0"
+msgid ""
+"<start>[7:FF07]The demons called Fiends...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL04_01,segment:1"
+msgid ""
+"<start>They hang around looking tough,\n"
+"but...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL04_01,segment:2"
+msgid ""
+"<start>...They scare me!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL05_01,segment:0"
+msgid ""
+"<start>[7:FF07]Gozu-Tennoh gave us demons\n"
+"power!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL05_01,segment:1"
+msgid ""
+"<start>And he's got lots of it, that's for\n"
+"sure.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL05_02,segment:0"
+msgid ""
+"<start>[7:FF07]Hey... You're that demon that won\n"
+"the trial!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL05_02,segment:1"
+msgid ""
+"<start>Then, you must've gotten power\n"
+"from Gozu-Tennoh, huh?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL05_02,segment:2"
+msgid ""
+"<start>Isn't that power the shits?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL05_02_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Yeah, huh...?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL05_02_YES,segment:1"
+msgid ""
+"<start>Then go attack Nihilo to show off\n"
+"your new power!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL05_02_YES,segment:2"
+msgid ""
+"<start>The other demons already left.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL05_02_NO,segment:0"
+msgid ""
+"<start>[7:FF07]It's not?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL05_02_NO,segment:1"
+msgid ""
+"<start>...Well, don't sweat it.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL05_02_NO,segment:2"
+msgid ""
+"<start>The other demons went to attack\n"
+"the Assembly of Nihilo.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL05_02_NO,segment:3"
+msgid ""
+"<start>You go do the same and relieve\n"
+"some of that stress!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL05_03,segment:0"
+msgid ""
+"<start>[7:FF07]No one's coming back...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL05_03,segment:1"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL05_03,segment:2"
+msgid ""
+"<start>Are the Mantra...\n"
+"Is Gozu-Tennoh's rule over...?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL05_04,segment:0"
+msgid ""
+"<start>[7:FF07]Soon, a new leader will be born...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL05_04,segment:1"
+msgid ""
+"<start>Heheheh... I'm glad I stayed here.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL05_05,segment:0"
+msgid ""
+"<start>[7:FF07]Yosuga, huh...?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL05_05,segment:1"
+msgid ""
+"<start>Not bad...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_MANE04_01,segment:0"
+msgid ""
+"<start>[7:FF07]I saw a human boy enter\n"
+"the Mantra's headquarters.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_MANE04_02,segment:0"
+msgid ""
+"<start>[7:FF07]I heard that a human boy is\n"
+"locked away somewhere in\n"
+"the headquarters.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_MANE04_03,segment:0"
+msgid ""
+"<start>[7:FF07]I heard that everyone locked away\n"
+"in the Mantra's headquarters\n"
+"escaped.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_MANE04_04,segment:0"
+msgid ""
+"<start>[7:FF07]...Another oppression begins.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_SINEN01_01,segment:0"
+msgid ""
+"<start>[7:FF07]The Mantra is run by\n"
+"Gozu-Tennoh's right-hand man,\n"
+"named [2:FF02]Thor[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_SINEN01_01,segment:1"
+msgid ""
+"<start>Thanks to him, the Mantra finally\n"
+"look like an organization.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_SINEN01_02,segment:0"
+msgid ""
+"<start>[7:FF07]It's all over for the Mantra.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_SINEN01_03,segment:0"
+msgid ""
+"<start>[7:FF07]Did you know?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_SINEN01_03,segment:1"
+msgid ""
+"<start>There's a rumor going around that\n"
+"Gozu-Tennoh's regaining strength.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_SINEN01_04,segment:0"
+msgid ""
+"<start>[7:FF07]In the world of Yosuga, only\n"
+"the chosen can survive...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_SINEN01_04,segment:1"
+msgid ""
+"<start>Uh-oh... I'll be picked, right?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_MANE07_01,segment:0"
+msgid ""
+"<start>[7:FF07]The Mantra are real different from\n"
+"the demons of Nihilo.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_MANE07_01,segment:1"
+msgid ""
+"<start>They're a group of ruffians that have\n"
+"nothing but brawn.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_MANE07_01,segment:2"
+msgid ""
+"<start>Their boss is Gozu-Tennoh.\n"
+"He's in the headquarters.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_MANE07_02,segment:0"
+msgid ""
+"<start>[7:FF07]Gozu-Tennoh lost, I heard.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_MANE07_02,segment:1"
+msgid ""
+"<start>Because of that, the guards at\n"
+"Kabukicho Prison are running wild.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_MANE07_03,segment:0"
+msgid ""
+"<start>[7:FF07]I hear that the Manikin prophet has\n"
+"escaped from Kabukicho.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_MANE07_03,segment:1"
+msgid ""
+"<start>They say he's going to make a new\n"
+"city.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_MANE07_04,segment:0"
+msgid ""
+"<start>[7:FF07]It's going to become busy again...\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:F023_HIHO,segment:0"
+msgid ""
+"<start>[7:FF07]I've come here to join the Mantra,\n"
+"so that I can become just like\n"
+"the great King, hee ho!\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:F023_HIHO,segment:1"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:F023_HIHO,segment:2"
+msgid ""
+"<start>But, I'm too scared to go in, hee ho!\n"
+"The fire's hot, too...\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE08,segment:0"
+msgid ""
+"<start>[7:FF07]The Mantra demons rampage about,\n"
+"doing whatever their instincts tell\n"
+"them to.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE08,segment:1"
+msgid ""
+"<start>I'm jealous.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE08_02,segment:0"
+msgid ""
+"<start>[7:FF07]A man in red was looking around\n"
+"here for someone.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE08_02,segment:1"
+msgid ""
+"<start>He was looking for a demon named\n"
+"[2:FF02][13:FF01][2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE08_02,segment:2"
+msgid ""
+"<start>...Do you know anything?\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE08_03,segment:0"
+msgid ""
+"<start>[7:FF07]You're pretty... stylish.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL06,segment:0"
+msgid ""
+"<start>[7:FF07]Hey, boy...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL06,segment:1"
+msgid ""
+"<start>We're not as easy as Nihilo, so you\n"
+"better watch your back!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:F023_SHUGEKI01,segment:0"
+msgid ""
+"<start>[7:FF07]...We got ourselves a sucker.\n"
+"<end>"
+msgstr ""
+
+#. Another voice
+msgctxt "type:0,entry:F023_SHUGEKI02,segment:0"
+msgid ""
+"<start>[7:FF07]Let's take everything he gots.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL07,segment:0"
+msgid ""
+"<start>[7:FF07]...Huh?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL07,segment:1"
+msgid ""
+"<start>Whatcha talkin' to me for?\n"
+"You want the Magatsuhi beaten\n"
+"outta ya?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL07,segment:2"
+msgid ""
+"<start>...Crap. You're a demon.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL07,segment:3"
+msgid ""
+"<start>Can't get Magatsuhi from demons.\n"
+"You lucked out, punk!!\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE09_01,segment:0"
+msgid ""
+"<start>[7:FF07]The Mantra have a facility for\n"
+"draining Magatsuhi from Manikins.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE09_01,segment:1"
+msgid ""
+"<start>A lot of my friends are being drained\n"
+"right now.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE09_02,segment:0"
+msgid ""
+"<start>[7:FF07]Futomimi is a prophet. He guides us\n"
+"with his prophecies.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE09_02,segment:1"
+msgid ""
+"<start>So, let's hurry up and save them.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE10,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE10,segment:1"
+msgid ""
+"<start>They get angry at me if I'm talking,\n"
+"so please don't talk to me!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_MANE11_01,segment:0"
+msgid ""
+"<start>[7:FF07]There used to be these [2:FF02]four Oni[2:FF01]\n"
+"in the Mantra.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_MANE11_01,segment:1"
+msgid ""
+"<start>But, they made Thor angry and were\n"
+"kicked out.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_MANE11_01,segment:2"
+msgid ""
+"<start>I hear they've become thieves!\n"
+"Those four were real strong.\n"
+"...Ever heard of them?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_MANE11_02,segment:0"
+msgid ""
+"<start>[7:FF07]If Yosuga was to create the world...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_MANE11_02,segment:1"
+msgid ""
+"<start>...I'd be the first to go.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE12,segment:0"
+msgid ""
+"<start>[7:FF07]Did you come here from\n"
+"the Great Underpass?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F023_MANE12_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE12_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Ah...\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE12_YES,segment:1"
+msgid ""
+"<start>Is the hideout still okay?\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE12_NO,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE12_NO,segment:1"
+msgid ""
+"<start>...How'd you get here, then?\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE12_02,segment:0"
+msgid ""
+"<start>[7:FF07]I help the junk-collecting Manikin\n"
+"a lot.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL08_01,segment:0"
+msgid ""
+"<start>[7:FF07]Soon, Gozu-Tennoh will order us to\n"
+"attack the Assembly of Nihilo.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL08_01,segment:1"
+msgid ""
+"<start>...I can't wait!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL08_02,segment:0"
+msgid ""
+"<start>[7:FF07]Argh, why did it have to be me!?\n"
+"Anyone else could be guard!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL08_03,segment:0"
+msgid ""
+"<start>[7:FF07]What, we lost!?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL08_03,segment:1"
+msgid ""
+"<start>...I'm outta here!\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE13_01,segment:0"
+msgid ""
+"<start>[7:FF07]I messed up and got caught.\n"
+"They dragged me out of the Great\n"
+"Underpass.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE13_02,segment:0"
+msgid ""
+"<start>[7:FF07]Now that the Mantra demons are\n"
+"gone, this place feels like home.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE13_03,segment:0"
+msgid ""
+"<start>[7:FF07]The Mantra demons are gone,\n"
+"but the Yosuga demons are now\n"
+"here...\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F023_MANE13_03,segment:1"
+msgid ""
+"<start>...It still feels like home, though.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F023_DOOR01,segment:0"
+msgid ""
+"<start>[7:FF07]> The door is closed tight.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_SINEN02_01,segment:0"
+msgid ""
+"<start>[7:FF07]I only win Life Stones with\n"
+"the junk shop's [2:FF02]Lucky Tickets[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_SINEN02_01,segment:1"
+msgid ""
+"<start>I don't need stupid Life Stones,\n"
+"I want that! You know, that!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_SINEN02_02,segment:0"
+msgid ""
+"<start>[7:FF07]Geez! I still haven't won it!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_SINEN02_02,segment:1"
+msgid ""
+"<start>I only win stupid Life Stones with\n"
+"the junk shop's [2:FF02]Lucky Tickets[2:FF01]!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_SINEN02_02,segment:2"
+msgid ""
+"<start>\"Unlucky Tickets\" is more like it!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_SINEN03_01,segment:0"
+msgid ""
+"<start>[7:FF07]I hear that Nihilo has a demon that\n"
+"gains experience without ever\n"
+"fighting.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_SINEN03_01,segment:1"
+msgid ""
+"<start>That's some skill those Nihilo\n"
+"demons have.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_SINEN03_02,segment:0"
+msgid ""
+"<start>[7:FF07]There's a demon with a skill that\n"
+"allows it to gain experience without\n"
+"fighting.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F023_SINEN03_02,segment:1"
+msgid ""
+"<start>You know anything about it?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL09,segment:0"
+msgid ""
+"<start>[7:FF07]What a filthy city...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL09,segment:1"
+msgid ""
+"<start>When Yosuga takes over the world,\n"
+"cleaning the city should be\n"
+"top priority...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL10,segment:0"
+msgid ""
+"<start>[7:FF07]The creation of the world of Yosuga\n"
+"is at hand.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F023_DEVIL10,segment:1"
+msgid ""
+"<start>There is nothing to worry about...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:MSG_UWASA002,segment:0"
+msgid ""
+"<start>[7:FF07]There's a [2:FF02]strange monk[2:FF01] hanging\n"
+"around the east branch.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:MSG_UWASA002,segment:1"
+msgid ""
+"<start>Is he preparing a late service for\n"
+"all the Manikins?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:MSG_UWASA003,segment:0"
+msgid ""
+"<start>[7:FF07]Hey, what's going on with this city!?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:MSG_UWASA003,segment:1"
+msgid ""
+"<start>First that conceited jerk, and now\n"
+"an [2:FF02]eerie Fiend[2:FF01]!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:MSG_UWASA003,segment:2"
+msgid ""
+"<start>What's going on!? Something's up!\n"
+"<end>"
+msgstr ""

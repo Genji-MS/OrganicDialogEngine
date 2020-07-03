@@ -1,0 +1,1126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+msgctxt "type:0,entry:CHANGE_AIR,segment:0"
+msgid ""
+"<start>[7:FF07]> The atmosphere around you has\n"
+"changed.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:REVERSE_AIR,segment:0"
+msgid ""
+"<start>[7:FF07]> The atmosphere around you has\n"
+"reverted back to normal.\n"
+"<end>"
+msgstr ""
+
+#. Statue
+msgctxt "type:0,entry:ITAGAKI_DOUZOU,segment:0"
+msgid ""
+"<start>[7:FF07]Halt!\n"
+"<end>"
+msgstr ""
+
+#. Statue
+msgctxt "type:0,entry:ITAGAKI_DOUZOU_1,segment:0"
+msgid ""
+"<start>[7:FF07]I am the guardian of this building.\n"
+"<end>"
+msgstr ""
+
+#. Statue
+msgctxt "type:0,entry:ITAGAKI_DOUZOU_1,segment:1"
+msgid ""
+"<start>Thou shalt not pass this area.\n"
+"<end>"
+msgstr ""
+
+#. Statue
+msgctxt "type:0,entry:ITAGAKI_DOUZOU_2,segment:0"
+msgid ""
+"<start>[7:FF07]...By my sword of flames, thy body\n"
+"shall be reduced to ashes!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:KIYAGATTA,segment:0"
+msgid ""
+"<start>[7:FF07]You made it this far without dying...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:IKASENAI,segment:0"
+msgid ""
+"<start>[7:FF07]I praise you. I haven't had such\n"
+"fun hunt in quite a while.\n"
+"<end>"
+msgstr ""
+
+#. Statue
+msgctxt "type:0,entry:OOKUMA_DOUZOU,segment:0"
+msgid ""
+"<start>[7:FF07]...But, I cannot let you go any\n"
+"further.\n"
+"<end>"
+msgstr ""
+
+#. Statue
+msgctxt "type:0,entry:OOKUMA_DOUZOU,segment:1"
+msgid ""
+"<start>The Magatsuhi in this building is\n"
+"already ours.\n"
+"<end>"
+msgstr ""
+
+#. Statue
+msgctxt "type:0,entry:OOKUMA_DOUZOU,segment:2"
+msgid ""
+"<start>All we have to do now is summon\n"
+"our god, and we will receive\n"
+"the Reason of Shijima!\n"
+"<end>"
+msgstr ""
+
+#. Statue
+msgctxt "type:0,entry:OOKUMA_DOUZOU,segment:3"
+msgid ""
+"<start>I will not allow you to meddle with\n"
+"our commander.\n"
+"<end>"
+msgstr ""
+
+#. Statue
+msgctxt "type:0,entry:OOKUMA_DOUZOU,segment:4"
+msgid ""
+"<start>I, Mada, will personally hand you\n"
+"a ticket to hell!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:DAMASIEDESU,segment:0"
+msgid ""
+"<start>[7:FF07]> It's a painting of a hallway.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:DAMASITOBIRA,segment:0"
+msgid ""
+"<start>[7:FF07]> It's a painting of a door.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SAKITUBOMI,segment:0"
+msgid ""
+"<start>[7:FF07]> It's a trick painting.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TONGARI,segment:0"
+msgid ""
+"<start>[7:FF07]> It's a trick painting.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ENIHAIRU,segment:0"
+msgid ""
+"<start>[7:FF07]> You entered the painting.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EKIERU,segment:0"
+msgid ""
+"<start>[7:FF07]> Mot's magic is coming undone.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HIKKAKARI,segment:0"
+msgid ""
+"<start>[7:FF07]> You can hear a voice...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:HIKKAKARI01,segment:0"
+msgid ""
+"<start>[7:FF07]You fell for my trap!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:HIKKAKARI01,segment:1"
+msgid ""
+"<start>Dumbass! Get outta here!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:HIKKAKARI02,segment:0"
+msgid ""
+"<start>[7:FF07]Hahahaha! Dumbass!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:HIKKAKARI02,segment:1"
+msgid ""
+"<start>My traps are everywhere!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HIKKAKARI_EAST,segment:0"
+msgid ""
+"<start>[7:FF07]> You can hear a voice...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:HIKKAKARI01_EAST,segment:0"
+msgid ""
+"<start>[7:FF07]Thou hast fallen prey to mine art!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:HIKKAKARI02_EAST,segment:0"
+msgid ""
+"<start>[7:FF07]Thou hast fallen prey to mine art!\n"
+""
+msgstr ""
+
+msgctxt "type:0,entry:DOUZOUMITERU,segment:0"
+msgid ""
+"<start>[7:FF07]> You can hear a voice...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:DOUZOUMITERU01,segment:0"
+msgid ""
+"<start>[7:FF07]With my power, thy path hath been\n"
+"closed!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MITERUKAMO,segment:0"
+msgid ""
+"<start>[7:FF07]> You can hear a voice...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MITERUKAMO01,segment:0"
+msgid ""
+"<start>[7:FF07]With my power, thy path hath been\n"
+"closed!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ASOBIT,segment:0"
+msgid ""
+"<start>[7:FF07]> You can hear a voice...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:ASOBIT01,segment:0"
+msgid ""
+"<start>[7:FF07]...Truth and falsity are but light and\n"
+"darkness.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:ASOBIT01,segment:1"
+msgid ""
+"<start>Dost thou have the capacity to find\n"
+"my true self?\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:ASOBIT01,segment:2"
+msgid ""
+"<start>Thou shan't escape from this\n"
+"labyrinth, lest thou seest the truth...!\n"
+"<end>"
+msgstr ""
+
+#. Mot
+msgctxt "type:0,entry:MITEMASU,segment:0"
+msgid ""
+"<start>[7:FF07]Fool!\n"
+"<end>"
+msgstr ""
+
+#. Mot
+msgctxt "type:0,entry:MITEMASU,segment:1"
+msgid ""
+"<start>The truth lies not there!\n"
+"<end>"
+msgstr ""
+
+#. Mot
+msgctxt "type:0,entry:MITUKETANODA,segment:0"
+msgid ""
+"<start>[7:FF07]Curse thee...\n"
+"<end>"
+msgstr ""
+
+#. Mot
+msgctxt "type:0,entry:MITUKETANODA,segment:1"
+msgid ""
+"<start>Curse thee, knave...!\n"
+"<end>"
+msgstr ""
+
+#. Mot
+msgctxt "type:0,entry:MITUKETANODA,segment:2"
+msgid ""
+"<start>I shall smite thee down myself!\n"
+"<end>"
+msgstr ""
+
+#. Mot
+msgctxt "type:0,entry:MITUKETANODA,segment:3"
+msgid ""
+"<start>Our world of Shijima draws nigh!\n"
+"<end>"
+msgstr ""
+
+#. Statue
+msgctxt "type:0,entry:TADANO,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Statue
+msgctxt "type:0,entry:TADANO,segment:1"
+msgid ""
+"<start>> It's just a statue.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:DOUZOU,segment:0"
+msgid ""
+"<start>[7:FF07]> It's a statue.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:DOUZOUNAI,segment:0"
+msgid ""
+"<start>[7:FF07]> The statue disappeared.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:DAMEGE,segment:0"
+msgid ""
+"<start>[7:FF07]> You took damage.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:SAGASE,segment:0"
+msgid ""
+"<start>[7:FF07]> You can hear a voice...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:SAGASE,segment:1"
+msgid ""
+"<start>With my power, thy path hath been\n"
+"closed!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:DAREMOINAI,segment:0"
+msgid ""
+"<start>[7:FF07]> No one is here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:KARIMESSEGE_DOUZOU,segment:0"
+msgid ""
+"<start>[7:FF07]debug\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:KARIMESSEGE_DOUZOU,segment:1"
+msgid ""
+"<start>blah\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:KANMONMAE,segment:0"
+msgid ""
+"<start>[7:FF07]O Demi-fiend...... Thou hast set foot\n"
+"into my chamber of judgement.\n"
+"<end>"
+msgstr ""
+
+#. Mithra
+msgctxt "type:0,entry:KANMON01,segment:0"
+msgid ""
+"<start>[7:FF07]I am the arbiter who enforces\n"
+"the law known as the Prophecy of\n"
+"Miroku.\n"
+"<end>"
+msgstr ""
+
+#. Mithra
+msgctxt "type:0,entry:KANMON01,segment:1"
+msgid ""
+"<start>[12:FF01], I shall hereby\n"
+"prosecute thee!\n"
+"<end>"
+msgstr ""
+
+#. Mithra
+msgctxt "type:0,entry:KANMON01,segment:2"
+msgid ""
+"<start>Just as the prophecy says, Reasons\n"
+"are appearing and this Vortex World\n"
+"is nearing the time of creation.\n"
+"<end>"
+msgstr ""
+
+#. Mithra
+msgctxt "type:0,entry:KANMON01,segment:3"
+msgid ""
+"<start>A new world shall be created, no\n"
+"matter which Reason prevails...\n"
+"'Tis a joyous occasion!\n"
+"<end>"
+msgstr ""
+
+#. Mithra
+msgctxt "type:0,entry:KANMON02,segment:0"
+msgid ""
+"<start>[7:FF07]But, darest thou, a demon, attempt\n"
+"to create the new world?\n"
+"<end>"
+msgstr ""
+
+#. Mithra
+msgctxt "type:0,entry:KANMON02,segment:1"
+msgid ""
+"<start>It is forbidden! Demons shan't\n"
+"create the world!\n"
+"<end>"
+msgstr ""
+
+#. Mithra
+msgctxt "type:0,entry:KANMON02,segment:2"
+msgid ""
+"<start>[12:FF01]! It is my duty to ask\n"
+"thee questions to test thine\n"
+"alignment.\n"
+"<end>"
+msgstr ""
+
+#. Mithra
+msgctxt "type:0,entry:KANMON02,segment:3"
+msgid ""
+"<start>[12:FF01], dost thou accept\n"
+"that thou art a demon?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:KANMON_SEL,segment:0"
+msgid "<start>Of course I'm a demon."
+msgstr ""
+
+#. Mithra
+msgctxt "type:0,entry:KANMON03,segment:0"
+msgid ""
+"<start>[7:FF07]Then [12:FF01], dost thou\n"
+"accept that thy heart is demonic?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:KANMON_SEL02,segment:0"
+msgid "<start>Demon to the bone."
+msgstr ""
+
+#. Mithra
+msgctxt "type:0,entry:KANMON04,segment:0"
+msgid ""
+"<start>[7:FF07]Finally, allow me to ask thee,\n"
+"demon.\n"
+"<end>"
+msgstr ""
+
+#. Mithra
+msgctxt "type:0,entry:KANMON04,segment:1"
+msgid ""
+"<start>Dost thou swear not to take part in\n"
+"the creation?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:KANMON_SEL03,segment:0"
+msgid "<start>I wouldn't dream of it."
+msgstr ""
+
+#. Mithra
+msgctxt "type:0,entry:KANMONGOODEND,segment:0"
+msgid ""
+"<start>[7:FF07]Good, now look at me--\n"
+"<end>"
+msgstr ""
+
+#. Mithra
+msgctxt "type:0,entry:KANMONGOODEND,segment:1"
+msgid ""
+"<start>What's this!? Such a vexing light in\n"
+"thine eyes!\n"
+"<end>"
+msgstr ""
+
+#. Mithra
+msgctxt "type:0,entry:KANMONGOODEND,segment:2"
+msgid ""
+"<start>Thou hast hatred toward the world!\n"
+"'Tis true! Thou art the bane of\n"
+"creation!\n"
+"<end>"
+msgstr ""
+
+#. Mithra
+msgctxt "type:0,entry:KANMONGOODEND,segment:3"
+msgid ""
+"<start>Infidel! This cannot be forgiven!\n"
+"I shall stamp thee out of existence!\n"
+"<end>"
+msgstr ""
+
+#. Mithra
+msgctxt "type:0,entry:KANMONBADEND,segment:0"
+msgid ""
+"<start>[7:FF07]'Tis true that thou art the bane of\n"
+"creation...\n"
+"<end>"
+msgstr ""
+
+#. Mithra
+msgctxt "type:0,entry:KANMONBADEND,segment:1"
+msgid ""
+"<start>Infidel! This cannot be forgiven!\n"
+"I shall stamp thee out of existence!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:KANMONATO,segment:0"
+msgid ""
+"<start>[7:FF07]O Kagutsuchi... Hath the destroyer\n"
+"appeared...? Or is he...?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:STARTMESSEGE05,segment:0"
+msgid ""
+"<start>[7:FF07]> You can hear a voice.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:STARTMESSEGE01,segment:0"
+msgid ""
+"<start>[7:FF07]...O lost one.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:STARTMESSEGE02,segment:0"
+msgid ""
+"<start>[7:FF07]I warn thee, leave this place at once.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:STARTMESSEGE02,segment:1"
+msgid ""
+"<start>This edifice of Magatsuhi is in\n"
+"Nihilo's possession...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:STARTMESSEGE02,segment:2"
+msgid ""
+"<start>Our god shall soon descend upon\n"
+"us, and we shall acquire our\n"
+"Reason.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:STARTMESSEGE02,segment:3"
+msgid ""
+"<start>Leavest not, and thy life shall be\n"
+"the price.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:STARTMESSEGE02,segment:4"
+msgid ""
+"<start>Begone, lost sheep...!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:STARTMESSEGE02,segment:5"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:STARTMESSEGE03,segment:0"
+msgid ""
+"<start>[7:FF07]> You cannot hear the voice anymore.\n"
+"<end>"
+msgstr ""
+
+#. Statue
+msgctxt "type:0,entry:DOUZOU_OIKAKE2,segment:0"
+msgid ""
+"<start>[7:FF07]Hmmm... He beat Surt... That kid's\n"
+"not bad.\n"
+"<end>"
+msgstr ""
+
+#. Statue
+msgctxt "type:0,entry:DOUZOU_OIKAKE2,segment:1"
+msgid ""
+"<start>Looks like this might turn out to be\n"
+"interesting after all...\n"
+"<end>"
+msgstr ""
+
+#. Statue
+msgctxt "type:0,entry:DOUZOU_OIKAKE2,segment:2"
+msgid ""
+"<start>I think I'll play around with him!\n"
+"<end>"
+msgstr ""
+
+#. Statue
+msgctxt "type:0,entry:DOUZOU_OIKAKE3,segment:0"
+msgid ""
+"<start>[7:FF07]Curses...!\n"
+"<end>"
+msgstr ""
+
+#. Statue
+msgctxt "type:0,entry:DOUZOU_OIKAKE3,segment:1"
+msgid ""
+"<start>Not only Surt, but Mada as well...\n"
+"<end>"
+msgstr ""
+
+#. Statue
+msgctxt "type:0,entry:DOUZOU_OIKAKE3,segment:2"
+msgid ""
+"<start>...Be it so, he shan't travel far!\n"
+"<end>"
+msgstr ""
+
+#. Statue
+msgctxt "type:0,entry:DOUZOU_OIKAKE3,segment:3"
+msgid ""
+"<start>With my magic, he shall forever\n"
+"wander these halls!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EXITWARP,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you leave the area?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EXITWARP_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a Mystical Chest.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HOSEKI_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Mystical Chest.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA,segment:0"
+msgid ""
+"<start>[7:FF07]> You see a Cache Cube.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAKARA_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Cache Cube.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_STILLGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DH_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"the Magatama [2:FF05][3:FF01][2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_MAKA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01] Macca[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:0"
+msgid ""
+"<start>[7:FF07]> It's a trap.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:1"
+msgid ""
+"<start>> Your party took damage.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_KARAGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:0"
+msgid ""
+"<start>[7:FF07]> [3:FF03] found something.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:1"
+msgid ""
+"<start>[7:FF07]............\n"
+"> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_OPENERROR,segment:0"
+msgid ""
+"<start>[7:FF07]> It can't be used here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_LIGHTMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The light effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_ESTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The repel effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REBERAMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The attract effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REFUTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The levitation effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:WARP_ELV_MSG,segment:0"
+msgid ""
+"<start>[7:FF07]> Select a floor.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL1,segment:0"
+msgid "<start>[3:FF01][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL2,segment:0"
+msgid "<start>[3:FF02][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL3,segment:0"
+msgid "<start>[3:FF03][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL4,segment:0"
+msgid "<start>[3:FF04][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL5,segment:0"
+msgid "<start>[3:FF05][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL6,segment:0"
+msgid "<start>[3:FF06][80EA]"
+msgstr ""
+
+msgctxt "type:0,entry:F033_DOOR01,segment:0"
+msgid ""
+"<start>[7:FF07]> The door is locked from\n"
+"the other side.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F033_DOOR02,segment:0"
+msgid ""
+"<start>[7:FF07]> The door is locked.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F033_DOOR02,segment:1"
+msgid ""
+"<start>> Will you unlock the door?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F033_DOOR02_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:F033_DOOR03,segment:0"
+msgid ""
+"<start>[7:FF07]> You unlocked the door.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F033_DOOR04,segment:0"
+msgid ""
+"<start>[7:FF07]> You sense a strong power\n"
+"from beyond the door.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F033_DOOR04,segment:1"
+msgid ""
+"<start>> Will you enter?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F033_DOOR04_01,segment:0"
+msgid ""
+"<start>[7:FF07]> The door is closed tight.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F033_DOZO01_01,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F033_DOZO01_02,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a statue.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F033_DEVIL01_01,segment:0"
+msgid ""
+"<start>[7:FF07]Commander Hikawa is on the top\n"
+"floor, summoning his god.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F033_DEVIL01_01,segment:1"
+msgid ""
+"<start>Finally... Finally, the Reason of\n"
+"Shijima will be conceived!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F033_DEVIL01_02,segment:0"
+msgid ""
+"<start>[7:FF07]The Reason of Shijima has finally\n"
+"been conceived...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN01_01,segment:0"
+msgid ""
+"<start>[7:FF07]What's going on!?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN01_01,segment:1"
+msgid ""
+"<start>The Nihilo demons suddenly arrived,\n"
+"and now the halls are all messed\n"
+"up!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN01_01,segment:2"
+msgid ""
+"<start>...It's okay to go this way, right?\n"
+"It's not a picture, is it...?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN01_02,segment:0"
+msgid ""
+"<start>The Nihilo are nothing but a bunch\n"
+"of rude demons! How dare they play\n"
+"around with me!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN02,segment:0"
+msgid ""
+"<start>[7:FF07]We're still okay if Hikawa conceives\n"
+"his Reason, right? ...Right???\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN02,segment:1"
+msgid ""
+"<start>Oh, what to do...? Yosuga?\n"
+"Maybe Musubi?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN03_01,segment:0"
+msgid ""
+"<start>[7:FF07]You see that elevator over there?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN03_01,segment:1"
+msgid ""
+"<start>Hikawa... and another woman took\n"
+"that to the top.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN03_01,segment:2"
+msgid ""
+"<start>...W-What kind of world is Hikawa\n"
+"planning to create?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN03_02,segment:0"
+msgid ""
+"<start>[7:FF07]...W-What kind of world is Hikawa\n"
+"planning to create?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN04_01,segment:0"
+msgid ""
+"<start>[7:FF07]The truth.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN04_01,segment:1"
+msgid ""
+"<start>If you don't have the eyes to tell\n"
+"the truth from the lies, you'll be\n"
+"tricked over and over.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN04_01,segment:2"
+msgid ""
+"<start>Beyond the truth waits the demon\n"
+"in charge of this place.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN04_01,segment:3"
+msgid ""
+"<start>That's why I pick the lies...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN04_02,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN04_02,segment:1"
+msgid ""
+"<start>I guess I'm... saved.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN05,segment:0"
+msgid ""
+"<start>[7:FF07]I-I-I'll give you that treasure!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN05,segment:1"
+msgid ""
+"<start>So, please don't eat me!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F033_SINEN06_01,segment:0"
+msgid ""
+"<start>[7:FF07]Yosuga and Musubi have already\n"
+"begun the final steps toward\n"
+"creation.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F033_SINEN06_01,segment:1"
+msgid ""
+"<start>But, there is nothing to worry\n"
+"about.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F033_SINEN06_01,segment:2"
+msgid ""
+"<start>We will soon receive our Reason of\n"
+"Shijima.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F033_SINEN06_01,segment:3"
+msgid ""
+"<start>The moment is near...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F033_SINEN06_02,segment:0"
+msgid ""
+"<start>[7:FF07]Yosuga... Musubi... and Shijima...\n"
+"Which will prevail?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:F033_SINEN06_02,segment:1"
+msgid ""
+"<start>The moment of decision is near...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN07_01,segment:0"
+msgid ""
+"<start>[7:FF07]Hey, let me out of here!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN07_01,segment:1"
+msgid ""
+"<start>I'll be free if the demon here is\n"
+"defeated, so someone beat him!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN07_01,segment:2"
+msgid ""
+"<start>I don't care if only one type of\n"
+"attack works! Just try everything,\n"
+"dammit!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F033_SINEN07_02,segment:0"
+msgid ""
+"<start>[7:FF07]...Geez, that Hikawa is nothing but\n"
+"trouble!\n"
+"<end>"
+msgstr ""

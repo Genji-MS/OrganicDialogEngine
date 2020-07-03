@@ -1,0 +1,524 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Guard
+msgctxt "type:0,entry:NIHIRO,segment:0"
+msgid ""
+"<start>[7:FF07]Go home!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SUBWAY,segment:0"
+msgid ""
+"<start>[7:FF07]> Yurakucho Station.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SUBWAY,segment:1"
+msgid ""
+"<start>> The entrance is closed tight.\n"
+"<end>"
+msgstr ""
+
+#. Guard
+msgctxt "type:0,entry:KOUSOKU,segment:0"
+msgid ""
+"<start>[7:FF07]Everything from here on is under\n"
+"the Assembly of Nihilo's direct\n"
+"control!\n"
+"<end>"
+msgstr ""
+
+#. Guard
+msgctxt "type:0,entry:KOUSOKU,segment:1"
+msgid ""
+"<start>I can't let a suspicious demon,\n"
+"like you, through here!\n"
+"<end>"
+msgstr ""
+
+#. Guard
+msgctxt "type:0,entry:KOUSOKU,segment:2"
+msgid ""
+"<start>So, get outta here, right now!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SHIBA1,segment:0"
+msgid ""
+"<start>[7:FF07]It's dangerous 'round these parts!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SHIBA1,segment:1"
+msgid ""
+"<start>There're nothin' but strong demons\n"
+"from here on out. And I mean,\n"
+"strong demons!!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SHIBA1,segment:2"
+msgid ""
+"<start>They'll mop the floor with a weak\n"
+"demon, like you...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SHIBA1,segment:3"
+msgid ""
+"<start>And I mean, mop the floor!!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SHIBA2,segment:0"
+msgid ""
+"<start>[7:FF07]I know you! \n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SHIBA2,segment:1"
+msgid ""
+"<start>You're that kid who fought it out\n"
+"with the Nihilo, right?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SHIBA2,segment:2"
+msgid ""
+"<start>That's incredible!! A runt, like you,\n"
+"beating them!!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TOJINIHIRO,segment:0"
+msgid ""
+"<start>[7:FF07]> The Assembly of Nihilo.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TOJINIHIRO,segment:1"
+msgid ""
+"<start>> The door is tightly locked.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TOJINIHIRO2,segment:0"
+msgid ""
+"<start>[7:FF07]> The Assembly of Nihilo.\n"
+"Second Entrance.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TOJINIHIRO2,segment:1"
+msgid ""
+"<start>> The door is tightly locked.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EXITWARP,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you leave the area?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EXITWARP_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a Mystical Chest.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HOSEKI_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Mystical Chest.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA,segment:0"
+msgid ""
+"<start>[7:FF07]> You see a Cache Cube.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAKARA_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Cache Cube.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_STILLGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DH_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"the Magatama [2:FF05][3:FF01][2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_MAKA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01] Macca[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:0"
+msgid ""
+"<start>[7:FF07]> It's a trap.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:1"
+msgid ""
+"<start>> Your party took damage.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_KARAGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:0"
+msgid ""
+"<start>[7:FF07]> [3:FF03] found something.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:1"
+msgid ""
+"<start>[7:FF07]............\n"
+"> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_OPENERROR,segment:0"
+msgid ""
+"<start>[7:FF07]> It can't be used here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_LIGHTMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The light effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_ESTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The repel effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REBERAMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The attract effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REFUTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The levitation effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:WARP_ELV_MSG,segment:0"
+msgid ""
+"<start>[7:FF07]> Select a floor.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL1,segment:0"
+msgid "<start>[3:FF01][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL2,segment:0"
+msgid "<start>[3:FF02][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL3,segment:0"
+msgid "<start>[3:FF03][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL4,segment:0"
+msgid "<start>[3:FF04][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL5,segment:0"
+msgid "<start>[3:FF05][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL6,segment:0"
+msgid "<start>[3:FF06][80EA]"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN01,segment:0"
+msgid ""
+"<start>[7:FF07]Do you see the other\n"
+"Assembly of Nihilo building\n"
+"across the railroad tracks?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN01,segment:1"
+msgid ""
+"<start>It doesn't look like the Mantra\n"
+"attacked that one.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN01_02,segment:0"
+msgid ""
+"<start>[7:FF07]The demons of Nihilo have returned\n"
+"to Ginza.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN01_03,segment:0"
+msgid ""
+"<start>[7:FF07]It looks like the new world will\n"
+"finally be made.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN01_03,segment:1"
+msgid ""
+"<start>...What kind of world are you hoping\n"
+"for?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN02_01,segment:0"
+msgid ""
+"<start>[7:FF07]See that building that's eating up\n"
+"the Magatsuhi of Tokyo?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN02_01,segment:1"
+msgid ""
+"<start>That's the Assembly of Nihilo.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN02_02,segment:0"
+msgid ""
+"<start>[7:FF07]The Mantra attacked the Assembly\n"
+"of Nihilo.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN02_02,segment:1"
+msgid ""
+"<start>Is this the end of Nihilo?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN02_03,segment:0"
+msgid ""
+"<start>[7:FF07]What's going on?\n"
+"Didn't the Mantra win???\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN02_03,segment:1"
+msgid ""
+"<start>I heard that a bunch of Magatsuhi\n"
+"was sucked up from Ikebukuro!!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN02_04,segment:0"
+msgid ""
+"<start>[7:FF07]The Assembly of Nihilo sure is\n"
+"quiet...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN02_05,segment:0"
+msgid ""
+"<start>[7:FF07]The Nihilo demons were all worked\n"
+"up!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN02_05,segment:1"
+msgid ""
+"<start>They were saying something about\n"
+"how 'now is the time for creation'!\n"
+"Weird, huh?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN03_00,segment:0"
+msgid ""
+"<start>[7:FF07]Have you already met [2:FF02]Madame Nyx\n"
+"at the bar[2:FF01] in Ginza?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F003_SINEN03_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN03_00YES,segment:0"
+msgid ""
+"<start>[7:FF07]She's so nice, listening to\n"
+"everyone's worries!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN03_00YES,segment:1"
+msgid ""
+"<start>She's helped me out so many times\n"
+"when I was in trouble. Her advice is\n"
+"priceless!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN03_00NO,segment:0"
+msgid ""
+"<start>[7:FF07]She may technically be a demon...\n"
+"But she's real nice and will listen to\n"
+"your worries!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN03_00NO,segment:1"
+msgid ""
+"<start>You should see her whenever you're\n"
+"troubled.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN03,segment:0"
+msgid ""
+"<start>[7:FF07]There's a place to get into\n"
+"the Great Underpass of Ginza\n"
+"somewhere around here...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN04,segment:0"
+msgid ""
+"<start>[7:FF07]Hmmm... I guess it's not that easy\n"
+"to find...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN04,segment:1"
+msgid ""
+"<start>Demons with the [2:FF02]Lucky Find[2:FF01] skill can\n"
+"can supposedly find stuff by just\n"
+"walking around outside.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN04,segment:2"
+msgid ""
+"<start>So, I was trying to do that.\n"
+"I mean, I could use the treasure!\n"
+"But, I guess it's not working...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN05,segment:0"
+msgid ""
+"<start>Hey, hey! There's a bunch of\n"
+"dangerous demons on the other\n"
+"end of the highway!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN06,segment:0"
+msgid ""
+"<start>[7:FF07]This region is Nihilo's\n"
+"top priority.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F003_SINEN06,segment:1"
+msgid ""
+"<start>The security here is super-tight.\n"
+"<end>"
+msgstr ""

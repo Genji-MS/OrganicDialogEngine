@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Blond child
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07]A demon born in exchange for\n"
+"the world...\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_001,segment:1"
+msgid ""
+"<start>There's no other quite like you.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_001,segment:2"
+msgid ""
+"<start>Kagutsuchi may have cursed you,\n"
+"but I give you my blessing.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF06]Light no longer shines upon you.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_002,segment:1"
+msgid ""
+"<start>But, you can do without it,\n"
+"can't you?\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_002,segment:2"
+msgid ""
+"<start>Darkness is the source\n"
+"of your power now...\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF06]I'm afraid I have to go now.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_003,segment:1"
+msgid ""
+"<start>I won't forget you, though.\n"
+"We'll definitely meet again...\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF06]You should get going, too.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_004,segment:1"
+msgid ""
+"<start>Chaos will reign, as you desired,\n"
+"since no new world was forged.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_004,segment:2"
+msgid ""
+"<start>Indeed, it shall be the millennial\n"
+"kingdom of demons...\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_EXT,segment:0"
+msgid ""
+"<start>[7:FF06]I will go on to the next world.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_EXT,segment:1"
+msgid ""
+"<start>I won't forget about you, though.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_EXT,segment:2"
+msgid ""
+"<start>We'll meet again some day...\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_EXT,segment:3"
+msgid ""
+"<start>Live on...\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_EXT,segment:4"
+msgid ""
+"<start>...in this world of demons.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_EXT2,segment:0"
+msgid ""
+"<start>[7:FF06]You were such an extravagent toy.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_EXT2,segment:1"
+msgid ""
+"<start>But, I'm not gonna play with you\n"
+"anymore.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_EXT2,segment:2"
+msgid ""
+"<start>I'm going to the next world.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_EXT2,segment:3"
+msgid ""
+"<start>You'll have to find a new friend\n"
+"to play with here,\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_EXT2,segment:4"
+msgid ""
+"<start>in this kingdom of demons\n"
+"and darkness...\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_001_OLD,segment:0"
+msgid ""
+"<start>[7:FF07]It was an entertaining show.\n"
+"I wasn't sure how it would turn out,\n"
+"but...\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_002_OLD,segment:0"
+msgid ""
+"<start>[7:FF06]You've become a demon...\n"
+"one that hungers for souls\n"
+"and can never be saved.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_003_OLD,segment:0"
+msgid ""
+"<start>[7:FF06]So, go. Nothing was created,\n"
+"but you have achieved the eternal\n"
+"chaos you desired.\n"
+"<end>"
+msgstr ""

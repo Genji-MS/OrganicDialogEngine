@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Dante
+msgctxt "type:0,entry:MSG_100,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Not bad at all...\n"
+"I like your style.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You know what?\n"
+"If we continue fighting\n"
+"and I end up killing you...\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_002,segment:1"
+msgid ""
+"<start>[18:]then I'll be giving my client\n"
+"exactly what he wants.\n"
+"And that just won't do.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07][18:]So, get going...\n"
+"I won't try and stop you this time.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_003,segment:1"
+msgid ""
+"<start>[18:]I thought that if I kept on\n"
+"collecting stuff like this,\n"
+"eventually I'd hit the jackpot.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_003,segment:2"
+msgid ""
+"<start>[18:]But, plans change.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_003,segment:3"
+msgid ""
+"<start>[18:]Maybe you'll have better luck\n"
+"than I did trying to get to\n"
+"the bottom of all this.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_003,segment:4"
+msgid ""
+"<start>[18:]It'd be a shame for you to die now,\n"
+"so I'll give you a little help...\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You'll need this to continue.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_004,segment:1"
+msgid ""
+"<start>[18:]It's just worthless junk\n"
+"as far as I'm concerned.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_004,segment:2"
+msgid ""
+"<start>[18:]At this point, all I care about\n"
+"is what that old geezer has\n"
+"up his sleeve. Here, take it.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_004B,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"the [2:FF02]Candelabrum of Knowledge[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_005,segment:0"
+msgid ""
+"<start>[7:FF07][18:]See ya, kid.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_005B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]If we both manage to stay alive,\n"
+"I'm sure we'll meet again...\n"
+"<end>"
+msgstr ""

@@ -1,0 +1,456 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_010_1,segment:0"
+msgid ""
+"<start>[7:FF07]...Do you still not understand?\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_010_1,segment:1"
+msgid ""
+"<start>There was not really freedom.\n"
+"All that existed was greed,\n"
+"and that is what corrupted\n"
+"the world.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07]Freedom? Possibility?\n"
+"If you truly believe in them,\n"
+"then why do you seek\n"
+"the way of creation?\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_020_1,segment:1"
+msgid ""
+"<start>Were they not present--\n"
+"abundant, more accurately--\n"
+"in the previous world?\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_020_1,segment:2"
+msgid ""
+"<start>Why did you not pursue\n"
+"your goal back then?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I-I...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_030_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]The same is true for you.\n"
+"What did you expect to achieve\n"
+"by sending your students\n"
+"to this world?\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_030_2,segment:1"
+msgid ""
+"<start>[18:]Did you think they would be able\n"
+"to do what you couldn't?\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_030_2,segment:2"
+msgid ""
+"<start>[18:]Or, did you want them to feel\n"
+"the same agony of defeat that\n"
+"you felt?\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_030_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Do you know why you've been\n"
+"unable to obtain your Reason?\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_040_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]All this time,\n"
+"you've just been running away...\n"
+"trying to leave everything behind.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_060_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Tell me the truth...\n"
+"Do you really believe in freedom?\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_070_1,segment:0"
+msgid ""
+"<start>[7:FF07]Your choice to believe in Shijima,\n"
+"human, is a type of freedom itself.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_080_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Aradia...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_080_1,segment:1"
+msgid ""
+"<start>[18:]So it was you who sided\n"
+"with [12:FF02].\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_080_1,segment:2"
+msgid ""
+"<start>[18:]Don't bother trying to interfere.\n"
+"You are powerless\n"
+"within this warded area.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_080_1,segment:3"
+msgid ""
+"<start>[18:]Just watch quietly as my god\n"
+"descends from above.\n"
+"<end>"
+msgstr ""
+
+#. Test
+msgctxt "type:0,entry:MSG_080_2,segment:0"
+msgid ""
+"<start>Message test 8-2\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_090_1,segment:0"
+msgid ""
+"<start>[7:FF07]...This land will be no more.\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_090_1,segment:1"
+msgid ""
+"<start>Woman, we shall set out for\n"
+"the new land.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_090_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]No... I won't go.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_090_2,segment:1"
+msgid ""
+"<start>[18:]I have to stop Hikawa, or else...\n"
+"both the previous world and\n"
+"the new world will die.\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_090_3,segment:0"
+msgid ""
+"<start>[7:FF07]I shall await you there, woman.\n"
+"Remember that hope is the way.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_090_4,segment:0"
+msgid ""
+"<start>[7:FF07][18:]How pitiful...\n"
+"Deceived, and now abandoned by\n"
+"a false god.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_090_4,segment:1"
+msgid ""
+"<start>[18:]This space will be consumed by\n"
+"the nothingness shortly.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_090_4,segment:2"
+msgid ""
+"<start>[18:]Now, sacrifice yourself to my god\n"
+"and fulfill your duty as\n"
+"the Maiden...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_090_4_P0,segment:0"
+msgid ""
+"<start>[7:FF07]...!!\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_090_4_P1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Who disturbs us!?\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_090_4_P2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]It's quite a surprise to see\n"
+"you here, Demi-fiend.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_090_4_P3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I don't know what you were\n"
+"thinking, but...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_090_4_P4,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I have no intention\n"
+"of fighting you.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_090_5,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Now, I'd appreciate it if\n"
+"you'd stand aside and cease\n"
+"with the interruptions...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MSG_090_6,segment:0"
+msgid "<start>...Alright."
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_090_7,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I am deeply disappointed in you.\n"
+"How can you allow yourself to be\n"
+"swayed by this woman...?\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_090_7,segment:1"
+msgid ""
+"<start>[18:]I've left you alone thus far,\n"
+"but now there is no point in\n"
+"letting you live.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_090_7,segment:2"
+msgid ""
+"<start>[18:]My faithful servant [2:FF02]Samael[2:FF01]\n"
+"will take care of you.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_090_8,segment:0"
+msgid ""
+"<start>[7:FF07]Message test 9-7\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_110_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I'm glad that you understand.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_110_1,segment:1"
+msgid ""
+"<start>[18:]This is the moment that the world\n"
+"has been waiting for...\n"
+"the coming of the divine guardian\n"
+"of Shijima.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_110_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You defeated Samael?\n"
+"Your prowess is simply astounding.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_110_2,segment:1"
+msgid ""
+"<start>[18:]But, it's too late.\n"
+"You cannot stop the advent\n"
+"of my god.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_130_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Behold...\n"
+"I wield the power of [2:FF02]Ahriman[2:FF01],\n"
+"god of the void.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_130_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Guided by the wisdom of god,\n"
+"I shall create a new world,\n"
+"the kingdom of stillness.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_130_2,segment:1"
+msgid ""
+"<start>[18:]Eternal prosperity is possible\n"
+"through my power alone...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_200_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:][12:FF01]...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_200_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]All possibility has dried up\n"
+"in this world...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_200_2,segment:1"
+msgid ""
+"<start>[18:]But, there must be a world\n"
+"out there where freedom prevails...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_200_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I wasn't strong enough, but...\n"
+"it seems your will is greater.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_200_4,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Use this, and create the world\n"
+"that you want...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_200_4,segment:1"
+msgid ""
+"<start>[18:]Hurry... to Amala Temple...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_200_6,segment:0"
+msgid ""
+"<start>[7:FF07][18:]This will show you the way\n"
+"to Kagutsuchi...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_200_6,segment:1"
+msgid ""
+"<start>[18:]The pilgrimage to creation\n"
+"ends there...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_200_6,segment:2"
+msgid ""
+"<start>If you so desire,\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_200_6,segment:3"
+msgid ""
+"<start>[18:]you may create a world\n"
+"of freedom...\n"
+"however you see fit...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_200_5,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained the [2:FF02]Yahirono Himorogi[2:FF01].\n"
+"<end>"
+msgstr ""

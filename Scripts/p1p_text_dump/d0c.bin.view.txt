@@ -1,0 +1,148 @@
+ֵ ܢ ܢ ܢ ܢ ܢ ܢ ܢ   맃 ᛴ ۦ 尃 ः < The door is tightly sealed.
+         ے ے   맃 ᛴ ۦ 尃 ः < The door is tightly sealed.
+It seems it cannot be opened yet...
+         ے   맃 ᛴ ۦ 尃 ः < Old writing is engraved on the wall.
+< "Henceforth, go the way you believe
+answers the given question, and the path
+shall be opened.
+"The Three Wise Monkeys are famous in
+Buddhism, but where is the Buddhist god
+Seimen Kongou worshipped?
+"Head right if it's Japan, and left if
+it's China."
+         ے   맃 ᛴ ۦ 尃 ः < Old writing is engraved on the wall.
+< "Henceforth, go the way you believe
+answers the given question, and the path
+shall be opened.
+"Seiryuu is one of the legendary beasts
+of China. Which of the four directions
+does this god represent?
+"Head right if it's east and left if
+it's west."
+        ے ے    맃 ᛴ ۦ 尃 ः < Old writing is engraved on the wall.
+< "Henceforth, go the way you believe
+answers the given question, and the path
+shall be opened.
+"The official name of the Taoist goddess
+Tian-xian Niang-niang is Tianxian Yu' nu
+Bixia Yuanjun. Whose daughter is she?
+"Head left if it's Xiyue Dadi, and right
+if it's Dongyue Dadi."
+   맃 ᛴ ۦ 尃 ः "In Hinduism, the Ganges River is thought
+to be made from tears that Shiva shed.
+Which eye wrere they shed from?
+"Head left if it's the left eye, and
+right if it's the right eye."
+        ے ے   맃 ᛴ ۦ 尃 ः "Some think Hanuman in Indian myth is the
+model for Sun Wukong. What is the famous
+story where Sun Wukong appears?
+"Head left if it's Journey to the West,
+and right if it's Journey to the East."
+         ے ے  맃 ᛴ ۦ 尃 ः "Varuna of Indian myth is said to be
+the god of law and the celestial ocean.
+What direction does he represent?
+"Head right if it's east, and left if
+it's west."
+         ے ے    맃 ᛴ ۦ 尃 ः "Before the archangel Lucifer of
+Christianity fell, which side of God
+did he sit at?
+"Head right if it was the right side,
+and left if it was the left side."
+        ے ے맃 ᛴ ۦ 尃 ः "In the Bible, the cherubim is said to
+guard Eden. Where is this angel posted?
+"Head right if it's the east gate,
+and left if it's the west gate."
+         ے  맃 ᛴ ۦ 尃 ः "In Christianity, the angel Lucifer's
+name means "Morning Star." Which
+direction in the sky can this be seen?
+"Head right if it's in the east, and left
+if it's in the west."
+        ے ے ԯ  맃 ᛴ ۦ 尃 ः "The war god Tyr in Norse myth had a hand
+bitten off by Fenrir. Which of his hands
+was spared?
+"Head right if it was the right hand,
+and left if it was the left hand."
+        ے ے    맃 ᛴ ۦ 尃 ः "The god Airgetlam of Celtic myth is said
+to have a silver arm. Which arm is it?
+"Head right if it's the right arm,
+and left if it's the left arm."
+        ے ے   맃 ᛴ ۦ 尃 ः "One of the days of the week was named
+in honor of Odin, the chief god of Norse
+myth. Which day is it?
+"Head left if it's Wednesday, and right
+if it's Thursday."
+        ے ے    맃 ᛴ ۦ 尃 ः "Janus is said to be the Roman god of
+gates and doorways. What month does he
+represent?
+"Head left if it's November, straight if
+it's January, and right if it's March."
+         ے    맃 ᛴ ۦ 尃 ः "Verdandi is the second sister of the
+three Norse goddesses of fate. Which
+period does she represent?
+"Head left if it's the past, straight if
+it's the present, and right if it's
+the future."
+        ے ے    맃 ᛴ ۦ 尃 ः "Which body part did Izanagi purify to
+give birth to the Japanese god Susano-o?
+"Head left if it was the left eye,
+straight if it was the nose, and right
+if it was the right eye."
+        ے ے  맃 ᛴ ۦ 尃 ः < Old writing is engraved in the door.
+< "East 3, South 2, West 1, South 1."
+           맃 ᛴ ۦ 尃 ः < Old writing is engraved in the door.
+< "South 1, West 1, South 2, East 3."
+           맃 ᛴ ۦ 尃 ः < Old writing is engraved in the door.
+< "North 1, East 2, North 2, West 1,
+North 1, West 1, North 1."
+            맃 ᛴ ۦ 尃 ः < Old writing is engraved in the door.
+< "North 1, West 1, North 2, East 1,
+North 1, East 2, South 1, East 1."
+            맃 ᛴ ۦ 尃 ः < Old writing is engraved in the door.
+< "East 1, North 1, East 2, North 1,
+East 2, South 2, West 1, South 2,
+West 2, South 1."
+        ے   맃 ᛴ ۦ 尃 ः < Old writing is engraved in the door.
+< "South 1, West 2, South 2, East 3,
+South 2, West 1, South 2."
+            맃 ᛴ ۦ 尃 ः < Old writing is engraved on the
+monument.
+< "Man's deadly sin of Lust is
+interred here."
+< Examine the monument? 
+         ے  맃 ᛴ ۦ 尃 ः < Old writing is engraved on the
+monument.
+< "Man's deadly sin of Envy is
+interred here."
+< Examine the monument? 
+         ے  맃 ᛴ ۦ 尃 ः < Old writing is engraved on the
+monument.
+< "Man's deadly sin of Gluttony is
+interred here."
+< Examine the monument? 
+         ے   맃 ᛴ ۦ 尃 ः < Old writing is engraved on the
+monument.
+< "Man's deadly sin of Sloth is
+interred here."
+< Examine the monument? 
+        ے   맃 ᛴ ۦ 尃 ः < Old writing is engraved on the
+monument.
+< "Man's deadly sin of Wrath is
+interred here."
+< Examine the monument? 
+        ے   맃 ᛴ ۦ 尃 ः < Old writing is engraved on the
+monument.
+< "Man's deadly sin of Pride is
+interred here."
+< Examine the monument? 
+        ے   맃 ᛴ ۦ 尃 ः < Old writing is engraved on the
+monument.
+< "White and black... Two nightmares
+are interred here."
+< Examine the monument? 
+         ے   맃 ᛴ ۦ 尃 ः < Light pours from the monument and
+coalesces into matter.
+< Obtained ᒄC0࿌Ruins MedalᒄC00.
+< ᒄC07You have conquered the Mikage Ruins!ᒄC00
+         ۴ ࣣ츛ۦ ₡ 尃 ः < There's a lever on the wall.
+Pull the lever? 
+        ے 

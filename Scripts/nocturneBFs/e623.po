@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Hey... Is that really you?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_1,segment:1"
+msgid ""
+"<start>[18:]...I don't know what to say.\n"
+"You came here all by yourself,\n"
+"on foot!?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_1,segment:2"
+msgid ""
+"<start>[18:]You must've gained some\n"
+"incredible power!\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I came here a little while ago...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_1,segment:1"
+msgid ""
+"<start>[18:]...using this.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_1,segment:2"
+msgid ""
+"<start>[18:]Remember?\n"
+"You saw one just like it\n"
+"at the hospital.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_1,segment:3"
+msgid ""
+"<start>[18:]This isn't an ordinary piece\n"
+"of artwork.\n"
+"It's a truly amazing device.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]These are connected to each other\n"
+"by a strange passageway.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_1,segment:1"
+msgid ""
+"<start>[18:]Using that passageway--\n"
+"the Amala Network--\n"
+"you can send anything to\n"
+"a distant location instantly.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_1,segment:2"
+msgid ""
+"<start>[18:]So basically, I transported myself\n"
+"here from the hospital.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_1,segment:3"
+msgid ""
+"<start>[18:]I'm guessing that there are more\n"
+"of these devices in different\n"
+"locations, and that they form\n"
+"a huge transportation network.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_1,segment:4"
+msgid ""
+"<start>[18:]...And most likely that network\n"
+"is connected to where Hikawa is.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Hey, wanna work together?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]If we're gonna have any hope\n"
+"of getting out of this mess,\n"
+"then we've got to find Hikawa.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_2,segment:1"
+msgid ""
+"<start>[18:]I heard there's a group in Ginza\n"
+"that's vying for control of\n"
+"shaping this infant world,\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_2,segment:2"
+msgid ""
+"<start>[18:]and its leader is a human.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]That leader's gotta be Hikawa.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_3,segment:1"
+msgid ""
+"<start>[18:]So...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_3,segment:2"
+msgid ""
+"<start>[18:]I want you to try and find\n"
+"any information you can\n"
+"about that group.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_WADA,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I'll use this device to send you\n"
+"to Ginza.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_4,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Well, what do you say?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_4,segment:1"
+msgid ""
+"<start>[18:]It's definitely risky,\n"
+"but it's better than\n"
+"wandering around on your own.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_4,segment:2"
+msgid ""
+"<start>[18:]...I'm gonna stay here for a while.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_4,segment:3"
+msgid ""
+"<start>[18:]Let me know when you decide\n"
+"what you want to do.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_4,segment:4"
+msgid ""
+"<start>[18:]But, keep this in mind.\n"
+"I have no idea what things\n"
+"will be like in Ginza now.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_4,segment:5"
+msgid ""
+"<start>[18:]If you do decide to go there,\n"
+"make sure you prepare yourself,\n"
+"alright?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_060_0,segment:0"
+msgid ""
+"<start>[2:FF02]Dummy event for checking.[2:FF01]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_060_1,segment:0"
+msgid ""
+"<start>Test the transport function?\n"
+""
+msgstr ""
+
+msgctxt "type:1,entry:MSG_060_2,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_060_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Okay, here goes.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_060_4,segment:0"
+msgid ""
+"<start>[7:FF07][18:]If you change your mind,\n"
+"come back anytime.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]So, did you decide to enter\n"
+"the Amala Network?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MSG_TRM_2,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Alright.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_3,segment:1"
+msgid ""
+"<start>[18:]Once I send you,\n"
+"I'll head over to Ginza too.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_3,segment:2"
+msgid ""
+"<start>[18:]Until then... stay alive.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_3,segment:3"
+msgid ""
+"<start>[18:]Good luck!!\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_4,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Tell me when you're ready.\n"
+"<end>"
+msgstr ""

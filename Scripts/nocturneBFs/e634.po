@@ -1,0 +1,583 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF06]Interesting...\n"
+"So, you found your way here.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF06]I guess the members of Mantra\n"
+"aren't as thick as I thought...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF06]Now, this is a big surprise.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_003,segment:1"
+msgid ""
+"<start>[18:]You're that boy from the hospital,\n"
+"correct?\n"
+"I'm amazed that you're still alive.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_003,segment:2"
+msgid ""
+"<start>[18:]And judging by your appearance...\n"
+"you've gained considerable power.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF06][18:]Why have you come here?\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_004,segment:1"
+msgid ""
+"<start>[18:]...Are you here to see me?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TUIKA_TOI01,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_0031,segment:0"
+msgid ""
+"<start>[7:FF06][18:]...I see.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_0031,segment:1"
+msgid ""
+"<start>[18:]Even though I nearly killed you,\n"
+"you've tracked me down to obtain\n"
+"the answers you seek.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_0032,segment:0"
+msgid ""
+"<start>[7:FF06][18:]Then, are you here to steal\n"
+"our Magatsuhi, like the Mantra?\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_0032,segment:1"
+msgid ""
+"<start>[18:]No... That's not it.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_0032,segment:2"
+msgid ""
+"<start>[18:]But, I have an idea why you're\n"
+"really here.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_007,segment:0"
+msgid ""
+"<start>[7:FF06]...Very well.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_007,segment:1"
+msgid ""
+"<start>[18:]I commend you for reaching\n"
+"this place on your own.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_007,segment:2"
+msgid ""
+"<start>[18:]If it is truth that you seek,\n"
+"then I will reveal everything...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_007,segment:3"
+msgid ""
+"<start>[18:]...all there is to know of this world.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_008,segment:0"
+msgid ""
+"<start>[7:FF06][18:]Take a look at this device...\n"
+"Its function is to collect\n"
+"the Magatsuhi.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_008,segment:1"
+msgid ""
+"<start>[18:]You must have seen one like it\n"
+"on the upper level.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_009,segment:0"
+msgid ""
+"<start>[7:FF06][18:]Do you know why Magatsuhi exists?\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_101,segment:0"
+msgid ""
+"<start>[7:FF06][18:]No, not simply for demons to\n"
+"consume.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_101,segment:1"
+msgid ""
+"<start>[18:]That's a ridiculous\n"
+"oversimplification...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_102,segment:0"
+msgid ""
+"<start>[7:FF06][18:]Remember this...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_102,segment:1"
+msgid ""
+"<start>[18:]In this world, you might as well be\n"
+"dead if you don't fully understand\n"
+"Magatsuhi.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_103,segment:0"
+msgid ""
+"<start>[7:FF06][18:]Magatsuhi...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_103,segment:1"
+msgid ""
+"<start>[18:]It's used as an offering.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_103,segment:2"
+msgid ""
+"<start>[18:]It is the power needed to call forth\n"
+"the god of creation.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_103,segment:3"
+msgid ""
+"<start>[18:]It is essential to this world's\n"
+"existence.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_104,segment:0"
+msgid ""
+"<start>[7:FF06][18:]One who possesses a strong will\n"
+"can change everything in this world.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_104,segment:1"
+msgid ""
+"<start>[18:]When \"Reason\"--one's ideology--\n"
+"has been spread, and Magatsuhi has\n"
+"been gathered,\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_104,segment:2"
+msgid ""
+"<start>[18:]god will descend from above and\n"
+"reshape the very foundation of\n"
+"the world.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_104,segment:3"
+msgid ""
+"<start>[18:]Yes, for the sole purpose of\n"
+"creation, this world of chaos\n"
+"was brought into existence...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_104,segment:4"
+msgid ""
+"<start>[18:]...by me.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_105,segment:0"
+msgid ""
+"<start>[7:FF06][18:]Soon, my dream will be realized.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_105,segment:1"
+msgid ""
+"<start>[18:]A complete circle of stillness,\n"
+"in harmony with the workings of\n"
+"time...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_105,segment:2"
+msgid ""
+"<start>[18:]The world of Shijima will be born.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_106,segment:0"
+msgid ""
+"<start>[7:FF06][18:]Mantra believes they've destroyed\n"
+"this base, but as you can see,\n"
+"the core is fully functional...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_106,segment:1"
+msgid ""
+"<start>[18:]Nothing more needs to be done.\n"
+"The targeted amount of Magatsuhi\n"
+"will be reached shortly.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_107,segment:0"
+msgid ""
+"<start>[7:FF06][18:]However, they deserve to be\n"
+"punished.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_107,segment:1"
+msgid ""
+"<start>[18:]We'll use them as an example...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_107,segment:2"
+msgid ""
+"<start>[18:]...of what happens to those who\n"
+"oppose the Assembly of Nihilo.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_107,segment:3"
+msgid ""
+"<start>[18:]This is a good opportunity.\n"
+"Witness what is about to take place.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_107,segment:4"
+msgid ""
+"<start>[18:]Using the Magatsuhi stored here,\n"
+"I will call on my new strength.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_108,segment:0"
+msgid ""
+"<start>[7:FF06][18:]The time has come...\n"
+"Activate the Nightmare System!\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_109,segment:0"
+msgid ""
+"<start>[7:FF06][18:]Do you understand what is\n"
+"happening?\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_109,segment:1"
+msgid ""
+"<start>[18:]It's a system which gives me total\n"
+"control over the flow of Magatsuhi\n"
+"on a worldwide scale...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_109,segment:2"
+msgid ""
+"<start>[18:]This tiny facility\n"
+"pales in comparison.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_109,segment:3"
+msgid ""
+"<start>[18:]As my first target, I have selected\n"
+"Ikebukuro, the home of Mantra's\n"
+"headquarters.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_109,segment:4"
+msgid ""
+"<start>[18:]The Magatsuhi in that area will be\n"
+"depleted, and the Mantra will die out\n"
+"in no time.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_110,segment:0"
+msgid ""
+"<start>[7:FF06][18:]...Oh, I forgot to mention.\n"
+"[12:FF02][11:FF02]plays a key part in this system.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_110,segment:1"
+msgid ""
+"<start>[18:]She's been a great help to me.\n"
+"Her abilities as the Maiden\n"
+"have been invaluable.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_120,segment:0"
+msgid ""
+"<start>[7:FF06][18:]...Are you worried about\n"
+"[12:FF02]?\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_130,segment:0"
+msgid ""
+"<start>[7:FF06][18:]I am sorry to say, but she is\n"
+"not here.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_130,segment:1"
+msgid ""
+"<start>[18:]I doubt that you will ever\n"
+"see her again.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_130,segment:2"
+msgid ""
+"<start>[18:]She is the Maiden of creation...\n"
+"not the teacher you once knew.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_140,segment:0"
+msgid ""
+"<start>[7:FF06][18:]You risked your life and came all\n"
+"this way, and you say it was not\n"
+"for her?\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_140,segment:1"
+msgid ""
+"<start>[18:]...Well, it doesn't matter.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_140,segment:2"
+msgid ""
+"<start>[18:]She is not here anyways.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_150,segment:0"
+msgid ""
+"<start>[7:FF06][18:]...You were not meant to survive\n"
+"the Conception in the first place.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_150,segment:1"
+msgid ""
+"<start>[18:]Your attachment to the previous\n"
+"world will only serve to deepen\n"
+"your despair.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_150,segment:2"
+msgid ""
+"<start>[18:]...I should not have been\n"
+"so merciful back then.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_151,segment:0"
+msgid ""
+"<start>[7:FF06][18:]Your pain, your suffering...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_151,segment:1"
+msgid ""
+"<start>[18:]I shall end it here.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_152,segment:0"
+msgid ""
+"<start>[7:FF06][18:]I don't know what hopes and\n"
+"dreams you brought with you here,\n"
+"but...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_152,segment:1"
+msgid ""
+"<start>[18:]...there is not a single thing that\n"
+"you can accomplish in this world.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_153,segment:0"
+msgid ""
+"<start>[7:FF06][18:]Now, go and join the others\n"
+"that you have lost...\n"
+"<end>"
+msgstr ""
+
+#. Ose
+msgctxt "type:0,entry:MSG_154,segment:0"
+msgid ""
+"<start>[7:FF06]...So you defeated me.\n"
+"<end>"
+msgstr ""
+
+#. Ose
+msgctxt "type:0,entry:MSG_154,segment:1"
+msgid ""
+"<start>But, you will never be able to find\n"
+"our commander, or the Maiden.\n"
+"<end>"
+msgstr ""
+
+#. Ose
+msgctxt "type:0,entry:MSG_154,segment:2"
+msgid ""
+"<start>The Nightmare System\n"
+"has been activated.\n"
+"<end>"
+msgstr ""
+
+#. Ose
+msgctxt "type:0,entry:MSG_154,segment:3"
+msgid ""
+"<start>This base will soon be closed down,\n"
+"and the way to the Maiden will be\n"
+"lost forever...\n"
+"<end>"
+msgstr ""
+
+#. Ose
+msgctxt "type:0,entry:MSG_154,segment:4"
+msgid ""
+"<start>Begone, demon! It is we,\n"
+"the Assembly of Nihilo,\n"
+"who will create the new world!!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_155,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained the Magatama\n"
+"[2:FF03]Anathema[2:FF01].\n"
+"<end>"
+msgstr ""

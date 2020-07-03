@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 28/03/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[[[[[[[[[[[[[[[[[
+msgctxt "type:0,entry:NME_DEBUG_MAIN,segment:0"
+msgid ""
+"<start>[7:0005,00FF][8483][818C][83E6][83E7][81B0][86A0][8181][8184][819D][81AB][80E7][80E7][80E7][8081][8081]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[[[[[[[
+msgctxt "type:0,entry:NME_DEBUG_SUCCESS,segment:0"
+msgid ""
+"<start>[7:0005,00FF][80FB][818C][8481][81A8][8288][8483][818D][2:0002,00FF][81FA][81C0][81C8][81F4][8299][81C6][2:0001,00FF][80FE][8081][8081]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:NME_DEBUG_SUCCESS2,segment:0"
+msgid ""
+"<start>[7:0005,00FF][84AA][87F8][85CE][8081][8081]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:NME_DEBUG_SUCCESS3,segment:0"
+msgid ""
+"<start>[7:0005,00FF][87B7][818C][87F8][85CE][8081][8081]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[[[[[[[
+msgctxt "type:0,entry:NME_DEBUG_FAILED,segment:0"
+msgid ""
+"<start>[7:0005,00FF][86E3][87C7][8288][84FF][87F8][85CE][8081][8081]\n"
+"<end>"
+msgstr ""

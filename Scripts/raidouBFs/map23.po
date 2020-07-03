@@ -1,0 +1,3798 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 28/03/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_akirame01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][12:0001,00FF], you know how tough\n"
+"those Special Guards are.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_akirame01,segment:1"
+msgid ""
+"<start>Try not to get into a scrap with\n"
+"them.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_akirame01a,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hang on, [12:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_akirame01b,segment:0"
+msgid ""
+"<start>[7:0005,00FF]They're waiting for us there.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_akirame01b,segment:1"
+msgid ""
+"<start>You know how tough those Special\n"
+"Guards are.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_akirame01b,segment:2"
+msgid ""
+"<start>Try not to get into a scrap with\n"
+"them.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_akirame01c,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Did you see the exit we passed?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_akirame01d,segment:0"
+msgid ""
+"<start>[7:0005,00FF]We should regroup in the Real World\n"
+"and look for a lock pick.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_akirame01e,segment:0"
+msgid ""
+"<start>[7:0005,00FF]We can't just leave that guy\n"
+"to fend for himself.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_akirame01e,segment:1"
+msgid ""
+"<start>Take a look at the cell door, see\n"
+"if you can help him out.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_ASIDOME_ROUYA,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Where are you off to, [12:0001,00FF]?\n"
+"We haven't sprung that guy yet.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_ASIDOME_ROUYA,segment:1"
+msgid ""
+"<start>The first order of business is to\n"
+"unlock his cell and let him out.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_akirame02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hrm, looks like the Special Guards\n"
+"have changed their posts.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_akirame02,segment:1"
+msgid ""
+"<start>We'll have to find another way\n"
+"around...\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_akirame02,segment:2"
+msgid ""
+"<start>Are there any side roads around\n"
+"here?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:mplan_sel_01,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_kennpei01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hold on, [12:0001,00FF]. If you rush\n"
+"in, they'll just catch you again.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_kennpei01,segment:1"
+msgid ""
+"<start>That's far enough.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_kennpei02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hold on, [12:0001,00FF]. If you rush\n"
+"in, they'll just catch you again.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_kennpei02,segment:1"
+msgid ""
+"<start>That's far enough.\n"
+"<end>"
+msgstr ""
+
+#. Red Special Guard
+msgctxt "type:0,entry:mplan_ep02_yomikugutu01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...!\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_yomikugutu02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Nuts! They spotted us.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_yomikugutu02,segment:1"
+msgid ""
+"<start>We don't stand a chance against\n"
+"heavies like these, [12:0001,00FF].\n"
+"Let's scram.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_yomikugutu_sa,segment:0"
+msgid ""
+"<start>[7:0005,00FF][12:0001,00FF], where are you going?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_yomikugutu_sa,segment:1"
+msgid ""
+"<start>You'll never get through that\n"
+"way. We'll have to find another\n"
+"entrance.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_ikai01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Go to the Dark Realm?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_genjitu01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Return to the Real World?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_kawa01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The river is blocking the way.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_kawa01_nakama,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> This demon is able to travel\n"
+"over the river.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_kawa01_nakama,segment:1"
+msgid ""
+"<start>> Fly over the river?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_kawa01_modoru,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Return to shore?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_fune01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Ride the boat?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_fune02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Get off the boat?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_funeget01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> A boat is stuck here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_funeget01,segment:1"
+msgid ""
+"<start>> Pull the boat to the shore?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_funeget02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> [14:0000,0000] pulled the boat to\n"
+"the shore.\n"
+"<end>"
+msgstr ""
+
+#. Temp MES
+msgctxt "type:0,entry:mplan_ep02_funeido,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou rode the boat to the\n"
+"next bank.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_fune_move01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Which way?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:fune_sel_01,segment:0"
+msgid "<start>Go upstream"
+msgstr ""
+
+msgctxt "type:1,entry:fune_sel_02,segment:0"
+msgid "<start>Go upstream"
+msgstr ""
+
+msgctxt "type:1,entry:fune_sel_03,segment:0"
+msgid "<start>Go downstream"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_yomikugutu01_,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The Special Guards aren't letting\n"
+"anyone through the path.\n"
+"<end>"
+msgstr ""
+
+#. Temp MES
+msgctxt "type:0,entry:mplan_ep02_yomikugutu02_,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> In demon mode, you simply won't\n"
+"be able to go any further, but...\n"
+"<end>"
+msgstr ""
+
+#. Temp MES
+msgctxt "type:0,entry:mplan_ep02_yomikugutu02_,segment:1"
+msgid ""
+"<start>> This time it forces you back.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_tobira01_dame,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> It's locked from the other side.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_tobira01_ok,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Go to the other side?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_tobira02_dame,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The door is locked.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_tobira02_akum,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The door is locked from this side.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_tobira02_akum,segment:1"
+msgid ""
+"<start>> Unlock the door?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_tobira03_akum,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The door is unlocked.\n"
+"<end>"
+msgstr ""
+
+#. Temp MES
+msgctxt "type:0,entry:mplan_ep02_goal,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Here an event occurs when you\n"
+"save Denpachi, and Fukagawa-Cho is\n"
+"set to cleared.\n"
+"<end>"
+msgstr ""
+
+#. Temp MES
+msgctxt "type:0,entry:mplan_ep02_akuma_dame,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Alpha ROM temp message\n"
+"<end>"
+msgstr ""
+
+#. Temp MES
+msgctxt "type:0,entry:mplan_ep02_akuma_dame,segment:1"
+msgid ""
+"<start>> In the last wall battle, the wall\n"
+"can only be destroyed with gun\n"
+"attacks.\n"
+"<end>"
+msgstr ""
+
+#. Temp MES
+msgctxt "type:0,entry:mplan_ep02_akuma_dame,segment:2"
+msgid ""
+"<start>> In other words, you need to go\n"
+"back and revert to human control.\n"
+"<end>"
+msgstr ""
+
+#. Temp MES
+msgctxt "type:0,entry:mplan_ep02_akuma_dame,segment:3"
+msgid ""
+"<start>> Please come back as a human.\n"
+"<end>"
+msgstr ""
+
+#. Debug
+msgctxt "type:0,entry:mplan_ep02_debug01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Which flag will you turn on?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:mplan_sel_flg,segment:0"
+msgid "<start>Saved Denpachi"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_ikai_exit2,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> There is an exit leading to the\n"
+"Real World.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_ikai_exit2,segment:1"
+msgid ""
+"<start>> It looks like a one-way path.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_ikai_exit2,segment:2"
+msgid ""
+"<start>> Exit the Dark Realm?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_ikai_exit3,segment:0"
+msgid ""
+"<start>[7:0005,00FF]All right, first, let's [2:0004,00FF]head to Konnou-Ya[2:0001,00FF]\n"
+"and get ourselves a lock pick.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_ikai_exit4,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Where are you going, [12:0001,00FF]?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_ikai_exit4,segment:1"
+msgid ""
+"<start>If we're going to spring that guy,\n"
+"we need to look around some more.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_ikai_exit4,segment:2"
+msgid ""
+"<start>See if you can do anything with\n"
+"the cell door.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_ikai_exitDAME,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> It's impossible to exit the Dark\n"
+"Realm from here. The portal is\n"
+"closed from the other side.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_ikai_exit1,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Return to the shrine?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_necohint01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]A river...\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_necohint01,segment:1"
+msgid ""
+"<start>No boat, though. I guess that puts us\n"
+"up the creek without a paddle.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_necohint02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Wish I knew what's going on back\n"
+"there, past the guards...\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_necohint02,segment:1"
+msgid ""
+"<start>Don't you have any [2:0004,00FF]flying[2:0001,00FF] demons?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:m_JYUSO_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Dark Fukagawa-Cho, huh?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:m_JYUSO_01,segment:1"
+msgid ""
+"<start>I never thought we'd find the source\n"
+"of the curse in a place like this.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:m_JYUSO_01,segment:2"
+msgid ""
+"<start>Saddle up, [12:0001,00FF].\n"
+"We've got to get to the bottom of\n"
+"this curse.\n"
+"<end>"
+msgstr ""
+
+#. Azumi
+msgctxt "type:0,entry:mplan_ep02_hint01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Those red-cloaked Special Guards\n"
+"got no sense of humor.\n"
+"<end>"
+msgstr ""
+
+#. Azumi
+msgctxt "type:0,entry:mplan_ep02_hint01,segment:1"
+msgid ""
+"<start>I don't mind them blockin' the way,\n"
+"but...\n"
+"<end>"
+msgstr ""
+
+#. Azumi
+msgctxt "type:0,entry:mplan_ep02_hint01,segment:2"
+msgid ""
+"<start>No matter what I say, they give me\n"
+"the high hat.\n"
+"<end>"
+msgstr ""
+
+#. Azumi
+msgctxt "type:0,entry:mplan_ep02_hint01,segment:3"
+msgid ""
+"<start>Can you believe it? I bounce jokes\n"
+"off them nonstop, and they don't\n"
+"even raise an eyebrow.\n"
+"<end>"
+msgstr ""
+
+#. Azumi
+msgctxt "type:0,entry:mplan_ep02_hint01,segment:4"
+msgid ""
+"<start>But, if a human comes along, then\n"
+"suddenly they give chase like a cat\n"
+"with a mouse.\n"
+"<end>"
+msgstr ""
+
+#. Azumi
+msgctxt "type:0,entry:mplan_ep02_hint02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]The Special Guard chases after any\n"
+"human that comes along, but they\n"
+"don't give demons a second look.\n"
+"<end>"
+msgstr ""
+
+#. Azumi
+msgctxt "type:0,entry:mplan_ep02_hint02,segment:1"
+msgid ""
+"<start>Those bigoted so-and-sos...\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_necohint03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Say, that's right. This is the\n"
+"Dark Realm...\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_necohint03,segment:1"
+msgid ""
+"<start>Nobody here would give a second\n"
+"thought to demons walking around.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_necohint03,segment:2"
+msgid ""
+"<start>Hey, [12:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_necohint03,segment:3"
+msgid ""
+"<start>Why don't you send a demon out to\n"
+"walk around on its own?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_necohint03,segment:4"
+msgid ""
+"<start>The Special Guard wouldn't pay it\n"
+"any heed, after all.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_necohint03,segment:5"
+msgid ""
+"<start>It might be able to scout a path\n"
+"for us.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_necosave01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Well, we took what you might call\n"
+"the scenic route, but up ahead is\n"
+"the main street with the cell.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep02_necosave01,segment:1"
+msgid ""
+"<start>We're almost there, so don't get\n"
+"sloppy now. Ready, [12:0001,00FF]?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_akumahajiki01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> [14:0000,0000] is interested in\n"
+"the boat...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep02_akumahajiki01,segment:1"
+msgid ""
+"<start>> ...But, it knows it can't ride\n"
+"one without its master.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_KAGIKAKE01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> It's locked with a strange power.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_tiisai01_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> It's a small hole.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_tiisai01_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> It's a small hole, but this demon\n"
+"could probably fit inside.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_tiisai01_02,segment:1"
+msgid ""
+"<start>> Go inside?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:m_tiisai01_02s,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:m_tiisai02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Exit the hole?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:m_tiisai02s,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:m_Jinriki01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> It's an old rickshaw.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Jinriki01,segment:1"
+msgid ""
+"<start>> It seems like an older model, but\n"
+"it's very well-maintained.\n"
+"<end>"
+msgstr ""
+
+#. Onjin-gumi Oni-aka
+msgctxt "type:0,entry:mplan_ep06_oni_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]temp message\n"
+"<end>"
+msgstr ""
+
+#. Onjin-gumi Oni-aka
+msgctxt "type:0,entry:mplan_ep06_oni_01,segment:1"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep06_oni_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]temp message\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep06_oni_02,segment:1"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep06_oni_02,segment:2"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]temp message\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_01,segment:1"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_01,segment:2"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_01_1,segment:0"
+msgid ""
+"<start>[7:0005,00FF]temp message\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_01_2,segment:0"
+msgid ""
+"<start>[7:0005,00FF]temp message\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_02_1,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> An invisible wall is blocking\n"
+"the way.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_02_2,segment:0"
+msgid ""
+"<start>[7:0005,00FF]temp message\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_02_3,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Destroy the wall?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:m_sel_ep07_yomi_01,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_02_4,segment:0"
+msgid ""
+"<start>[7:0005,00FF]temp message\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_03_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]temp message\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_03_01,segment:1"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_03_01,segment:2"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_03_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]temp message\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_03_02,segment:1"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_03_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Withdraw?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_03_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Don't worry, I trust you.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_03_04,segment:1"
+msgid ""
+"<start>Just don't let your guard down.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_03_04,segment:2"
+msgid ""
+"<start>Let's go, [12:0001,00FF]!\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_03_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Looks like the cause of all this\n"
+"trouble is just up ahead.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_03_05,segment:1"
+msgid ""
+"<start>We've gotta take him down at all\n"
+"costs, [12:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_03_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> There are a bunch of demons.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_yomi_eb_03_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Crush them?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_warp_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Tch, looks like that seal dumped us\n"
+"in the middle of nowhere.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_warp_01,segment:1"
+msgid ""
+"<start>Those brothers don't have much\n"
+"upstairs, but they sure know\n"
+"how to be a pain.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_warp_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]This is getting us nowhere. Let's\n"
+"look around for clues.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_warp_02,segment:1"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_warp_02,segment:2"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_warp_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> [14:0000,0000] sensed a suspiscious\n"
+"presence. It decided to report it\n"
+"to Raidou.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_tuiseki_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> There is something beyond the\n"
+"door.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_tuiseki_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hrm. I feel a presence behind that\n"
+"door... something's there.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_tuiseki_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]temp message\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_tuiseki_03,segment:1"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_tuiseki_03,segment:2"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_tuiseki_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]temp message\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_tuiseki_04,segment:1"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_tuiseki_04,segment:2"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_warp_sup_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]!?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_warp_sup_01,segment:1"
+msgid ""
+"<start>What's this feeling...?\n"
+"<end>"
+msgstr ""
+
+#. Lost demon
+msgctxt "type:0,entry:mplan_ep07_warp_npc_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hmm... My house should be up ahead,\n"
+"but...\n"
+"<end>"
+msgstr ""
+
+#. Lost demon
+msgctxt "type:0,entry:mplan_ep07_warp_npc_01,segment:1"
+msgid ""
+"<start>I can't seem to get there, no matter\n"
+"how far I walk. ...What's going on?\n"
+"<end>"
+msgstr ""
+
+#. Lost demon
+msgctxt "type:0,entry:mplan_ep07_warp_npc_01,segment:2"
+msgid ""
+"<start>Yes, I'm talking to you, human!\n"
+"If you have anything to do with--\n"
+"<end>"
+msgstr ""
+
+#. Lost demon
+msgctxt "type:0,entry:mplan_ep07_warp_npc_01,segment:3"
+msgid ""
+"<start>...Never mind. A human wouldn't know\n"
+"anything about this.\n"
+"<end>"
+msgstr ""
+
+#. Lost demon
+msgctxt "type:0,entry:mplan_ep07_warp_npc_01_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hmm... My house should be up ahead,\n"
+"but...\n"
+"<end>"
+msgstr ""
+
+#. Lost demon
+msgctxt "type:0,entry:mplan_ep07_warp_npc_01_0,segment:1"
+msgid ""
+"<start>I can't seem to get there, no matter\n"
+"how far I walk. ...What's going on?\n"
+"<end>"
+msgstr ""
+
+#. Lost demon
+msgctxt "type:0,entry:mplan_ep07_warp_npc_01_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Over and over again... Back and forth\n"
+"I walk...\n"
+"<end>"
+msgstr ""
+
+#. Lost demon
+msgctxt "type:0,entry:mplan_ep07_warp_npc_01_0,segment:1"
+msgid ""
+"<start>Ugh, what am I supposed to do...?\n"
+"<end>"
+msgstr ""
+
+#. Lost demon
+msgctxt "type:0,entry:mplan_ep07_warp_npc_01_0,segment:2"
+msgid ""
+"<start>You there! What are you staring at!?\n"
+"<end>"
+msgstr ""
+
+#. Lost demon
+msgctxt "type:0,entry:mplan_ep07_warp_npc_02_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hmm... Something's different. I can\n"
+"feel it on the air...\n"
+"<end>"
+msgstr ""
+
+#. Lost demon
+msgctxt "type:0,entry:mplan_ep07_warp_npc_02_0,segment:1"
+msgid ""
+"<start>Wait, did you do this!?\n"
+"<end>"
+msgstr ""
+
+#. Lost demon
+msgctxt "type:0,entry:mplan_ep07_warp_npc_02_0,segment:2"
+msgid ""
+"<start>No, of course not. What could\n"
+"some kid possibly do?\n"
+"<end>"
+msgstr ""
+
+#. Lost demon
+msgctxt "type:0,entry:mplan_ep07_warp_npc_02_0,segment:1"
+msgid ""
+"<start>...Wait, a summoner did this!?\n"
+"<end>"
+msgstr ""
+
+#. Lost demon
+msgctxt "type:0,entry:mplan_ep07_warp_npc_02_0,segment:2"
+msgid ""
+"<start>Don't make me laugh! A human\n"
+"couldn't have done this.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:mplan_ep07_warp_npc_03_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Ah, you're that black-caped human.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:mplan_ep07_warp_npc_03_0,segment:1"
+msgid ""
+"<start>This is a decent town, though\n"
+"there's nothing big that stands\n"
+"out...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:mplan_ep07_warp_npc_03_0,segment:2"
+msgid ""
+"<start>I've seen plenty of red folks and\n"
+"green folks hanging around.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:mplan_ep07_warp_npc_03_0,segment:3"
+msgid ""
+"<start>Just make yourself at home.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:mplan_ep07_warp_npc_03_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hey, you there...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:mplan_ep07_warp_npc_03_0,segment:1"
+msgid ""
+"<start>Do you know about the black-caped\n"
+"summoner?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:mplan_ep07_warp_npc_03_0,segment:2"
+msgid ""
+"<start>For a human, he's not too bad.\n"
+"I'm impressed.\n"
+"<end>"
+msgstr ""
+
+#. Ice vendor in the Dark Realm
+msgctxt "type:0,entry:mplan_ep07_warp_mid_boss,segment:0"
+msgid ""
+"<start>[7:0005,00FF]temp message\n"
+"<end>"
+msgstr ""
+
+#. Ice vendor in the Dark Realm
+msgctxt "type:0,entry:mplan_ep07_warp_mid_boss,segment:1"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+#. Scary guy stark-naked
+msgctxt "type:0,entry:mplan_ep07_warp_mid_boss,segment:2"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_warp_mid_kans,segment:0"
+msgid ""
+"<start>[7:0005,00FF]temp message\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_warp_mid_kans,segment:1"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[[[[[[[[[
+msgctxt "type:0,entry:mplan_ep07_warp_mid_doku,segment:0"
+msgid ""
+"<start>[7:0005,00FF]temp message\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:mplan_ep07_warp_mid_doku,segment:1"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:mplan_ep07_warp_mid_doku,segment:2"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_warp_mid_boss,segment:3"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_b_msg,segment:0"
+msgid ""
+"<start>[7:0005,00FF]temp message\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[[[[[[[
+msgctxt "type:0,entry:mplan_ep07_boss_hito01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]temp message\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[[[[[[[
+msgctxt "type:0,entry:mplan_ep07_boss_hito01,segment:1"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[[[[[[[
+msgctxt "type:0,entry:mplan_ep07_boss_hito01,segment:2"
+msgid ""
+"<start>temp message\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_boss_hito02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]temp message\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:mplan_ep07_boss_hito03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]temp message\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_boss_hito04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Well, well. Looks like the curse\n"
+"has been lifted.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_boss_hito04,segment:1"
+msgid ""
+"<start>Let's get back to the Real World.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_boss_hito04,segment:2"
+msgid ""
+"<start>Those guys have a lot of explaining\n"
+"to do...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_boss_hito05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]temp message\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:m_msg_b_mae_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]My whiskers are tingling...\n"
+"This is one tough demon.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:m_msg_b_mae_01,segment:1"
+msgid ""
+"<start>I hope you're ready.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_noroi_tanti_0,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou's curse is reacting to\n"
+"a demon's presence.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_noroi_tanti_0,segment:1"
+msgid ""
+"<start>> Strong energy emanates from\n"
+"[2:0004,00FF]an empty lot behind some houses[2:0001,00FF]...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_noroi_tanti_0,segment:1"
+msgid ""
+"<start>> Strong energy emanates from\n"
+"[2:0004,00FF]the northeast[2:0001,00FF]...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:mplan_ep07_noroi_tanti_0,segment:1"
+msgid ""
+"<start>> Strong energy emanates from\n"
+"[2:0004,00FF]the north[2:0001,00FF]...\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:mplan_ep07_noroi_tuiseki,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...None shall penetrate the seal\n"
+"to the sacred land...\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_noroi_tuiseki,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I'll bet we can't do anything until\n"
+"we get this seal off.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_noroi_tuiseki,segment:1"
+msgid ""
+"<start>But, those idiot brothers have the\n"
+"talisman, and they've hidden it.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_noroi_tuiseki,segment:2"
+msgid ""
+"<start>If we could get it from them and\n"
+"destroy it, that'd take care of\n"
+"the seal.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_noroi_tuiseki,segment:3"
+msgid ""
+"<start>The accursed thing's gotta be close by\n"
+"somewhere.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_noroi_tuiseki,segment:4"
+msgid ""
+"<start>Maybe those idiot brothers would\n"
+"cough up the location if we leaned\n"
+"on 'em a little.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_noroi_tuiseki,segment:5"
+msgid ""
+"<start>They are idiots, after all.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_noroi_tuiseki,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I'm sure I saw something around here\n"
+"that would make a good place to toss\n"
+"something you wanted hidden.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_noroi_tuiseki,segment:1"
+msgid ""
+"<start>If you're having trouble finding it,\n"
+"remember that you're a Devil\n"
+"Summoner. You've got ways.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_GOUTO_SISA_EX,segment:0"
+msgid ""
+"<start>[7:0005,00FF][12:0001,00FF], did you see the special\n"
+"delivery package?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_GOUTO_SISA_EX,segment:1"
+msgid ""
+"<start>It's gotta be the talisman. Check\n"
+"it out.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_noroi_tuiseki,segment:0"
+msgid ""
+"<start>[7:0005,00FF]That odd voice seems to be behind\n"
+"this curse.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_noroi_tuiseki,segment:1"
+msgid ""
+"<start>You should be able to feel its\n"
+"presence, [12:0001,00FF]. That'll\n"
+"give you a rough idea where it is.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:mplan_ep07_noroi_tuiseki,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Close your eyes and feel for a\n"
+"presence, [12:0001,00FF]. You should be\n"
+"able to tell if anything's nearby.\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:mplan_ep07_noroi_tuiseki,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...He who breaketh my seal is\n"
+"fated to die...\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:mplan_ep07_noroi_tuiseki,segment:1"
+msgid ""
+"<start>If thou wish to transcend death,\n"
+"thou must first transcend mine\n"
+"fury...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_msg_gk_jufu_hakai01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> A small talisman is stuck to the\n"
+"back of the post box.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_msg_gk_jufu_hakai01,segment:1"
+msgid ""
+"<start>> There's a mysterious inscription\n"
+"on the talisman...\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:m_msg_gk_jufu_hakai02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Yep, that's our talisman.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:m_msg_gk_jufu_hakai02,segment:1"
+msgid ""
+"<start>Just rip it up, and the seal should\n"
+"vanish.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_msg_gk_jufu_hakai03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Break the seal talisman?\n"
+"<end>"
+msgstr ""
+
+#. Older demon brother
+msgctxt "type:0,entry:m_msg_gk_jufu_hakai04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Aww, man, you did it!\n"
+"<end>"
+msgstr ""
+
+#. Older demon brother
+msgctxt "type:0,entry:m_msg_gk_jufu_hakai04,segment:1"
+msgid ""
+"<start>But, that curse on you won't\n"
+"disappear anytime soon.\n"
+"<end>"
+msgstr ""
+
+#. Younger demon brother
+msgctxt "type:0,entry:m_msg_gk_jufu_hakai05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Y'know why!?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:m_sel_ep07_jufu_05,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+#. Older demon brother
+msgctxt "type:0,entry:m_msg_gk_jufu_hakai_y,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Cause the great Hitokotonusi's curse\n"
+"is a helluva lot more powerful than\n"
+"our dinky seal!\n"
+"<end>"
+msgstr ""
+
+#. Older demon brother
+msgctxt "type:0,entry:m_msg_gk_jufu_hakai_y,segment:1"
+msgid ""
+"<start>What are you gonna do, beat the\n"
+"great Hitokotonusi?\n"
+"<end>"
+msgstr ""
+
+#. Older demon brother
+msgctxt "type:0,entry:m_msg_gk_jufu_hakai_y,segment:2"
+msgid ""
+"<start>Hah! Like that'll ever happen.\n"
+"<end>"
+msgstr ""
+
+#. Younger demon brother
+msgctxt "type:0,entry:m_msg_gk_jufu_hakai_n,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Y'know why!?\n"
+"<end>"
+msgstr ""
+
+#. Demon brothers
+msgctxt "type:0,entry:m_msg_gk_jufu_hakai00,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Cause you're gonna be our next meal!\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:m_msg_gk_jufu_hakai06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]That irritating seal oughtta be\n"
+"gone now.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:m_msg_gk_jufu_hakai06,segment:1"
+msgid ""
+"<start>How are you holding up,\n"
+"[12:0001,00FF]? Can you still\n"
+"move okay?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:m_sel_ep07_jufu_06,segment:0"
+msgid "<start>I'll make it."
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:m_msg_gk_jufu_06_y,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Attaboy! That's what I expect from\n"
+"Raidou the 14th. We're all counting\n"
+"on you.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:m_msg_gk_jufu_06_y,segment:1"
+msgid ""
+"<start>This is still a pretty dangerous\n"
+"place, though, so let's get a move\n"
+"on, [12:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:m_msg_gk_jufu_06_n,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Yeah, I bet. You've been cursed\n"
+"for a pretty long time by now.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:m_msg_gk_jufu_06_n,segment:1"
+msgid ""
+"<start>But, you're a Raidou; you can't\n"
+"let yourself give up here. Let's go!\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:m_msg_gk_jufu_haken,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...? Hey, [12:0001,00FF], there's\n"
+"something there.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:m_msg_gk_jufu_haken,segment:1"
+msgid ""
+"<start>Looks like there's a special\n"
+"delivery package waiting for us.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_gk_jufu_GAIKOTU01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hyahaha! You suckers fell for it!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_gk_jufu_GAIKOTU02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]They fell for it, brother!\n"
+"<end>"
+msgstr ""
+
+#. Older demon brother
+msgctxt "type:0,entry:m_msg_gk_jufu_GAIKOTU03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]So long as us brothers keep this\n"
+"seal up, you'll never reach the\n"
+"great [2:0002,00FF]Hitokotonusi[2:0001,00FF]!\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:m_msg_gk_jufu_GAIKOTU04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]So, what you're saying is... the\n"
+"demon behind this curse is called\n"
+"Hitokotonusi, right?\n"
+"<end>"
+msgstr ""
+
+#. Older demon brother
+msgctxt "type:0,entry:m_msg_gk_jufu_GAIKOTU05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Wh-Wh-What!? How does this puny cat\n"
+"know about the great Hitokotonusi!?\n"
+"<end>"
+msgstr ""
+
+#. Younger demon brother
+msgctxt "type:0,entry:m_msg_gk_jufu_GAIKOTU06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]C-Careful, brother, they're dangerous!\n"
+"Let's send them somewhere else, quick!\n"
+"<end>"
+msgstr ""
+
+#. Older demon brother
+msgctxt "type:0,entry:m_msg_gk_jufu_GAIKOTU02_,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You suckers fell for it again!\n"
+"Hyahahahaha!\n"
+"<end>"
+msgstr ""
+
+#. Younger demon brother
+msgctxt "type:0,entry:m_msg_gk_jufu_GAIKOTU02_,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You said it, brother! That talisman's\n"
+"powerful, huh?\n"
+"<end>"
+msgstr ""
+
+#. Older demon brother
+msgctxt "type:0,entry:m_msg_gk_jufu_GAIKOTU02_,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Dumbass! Don't mention the [2:0002,00FF]seal\n"
+"talisman[2:0001,00FF] or they'll find out that\n"
+"we're hiding it!\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:m_msg_gk_jufu_GAIKOTU02_,segment:0"
+msgid ""
+"<start>[7:0005,00FF]So, the seal is powered by a talisman,\n"
+"eh? Interesting.\n"
+"<end>"
+msgstr ""
+
+#. Older demon brother
+msgctxt "type:0,entry:m_msg_gk_jufu_GAIKOTU02_,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Wh-Wh-What!? How does this scrawny\n"
+"cat know about the seal talisman!?\n"
+"<end>"
+msgstr ""
+
+#. Younger demon brother
+msgctxt "type:0,entry:m_msg_gk_jufu_GAIKOTU02_,segment:0"
+msgid ""
+"<start>[7:0005,00FF]C-Careful, brother, they're dangerous!\n"
+"Let's send them somewhere else, quick!\n"
+"<end>"
+msgstr ""
+
+#. Older demon brother
+msgctxt "type:0,entry:m_msg_gk_jufu_GAIKOTU03_,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Yet again, you suckers fell for\n"
+"our trap! Hyahahahahahaha!\n"
+"<end>"
+msgstr ""
+
+#. Younger demon brother
+msgctxt "type:0,entry:m_msg_gk_jufu_GAIKOTU03_,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You're the man, brother! They\n"
+"haven't even found out where the\n"
+"talisman is!\n"
+"<end>"
+msgstr ""
+
+#. Older demon brother
+msgctxt "type:0,entry:m_msg_gk_jufu_GAIKOTU03_,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Shut up! Don't talk about the talisman!\n"
+"<end>"
+msgstr ""
+
+#. Older demon brother
+msgctxt "type:0,entry:m_msg_gk_jufu_GAIKOTU03_,segment:1"
+msgid ""
+"<start>What would you do if they found out\n"
+"we hid it near the red post box,\n"
+"huh!?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:m_msg_gk_jufu_GAIKOTU03_,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Aha... So, the talisman is near\n"
+"the post box. Got it.\n"
+"<end>"
+msgstr ""
+
+#. Older demon brother
+msgctxt "type:0,entry:m_msg_gk_jufu_GAIKOTU03_,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Wh-Wh-What!? How does this runty\n"
+"cat know where the talisman is!?\n"
+"<end>"
+msgstr ""
+
+#. Younger demon brother
+msgctxt "type:0,entry:m_msg_gk_jufu_GAIKOTU03_,segment:0"
+msgid ""
+"<start>[7:0005,00FF]C-Careful, brother, they're dangerous!\n"
+"Let's send them somewhere else, quick!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_msg_gk_jufu_AYASI01,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> A suspicious presence is in the\n"
+"air... it's best to report it to\n"
+"Raidou.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_msg_gk_jufu_OKASI01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> ...! A trap has been activated.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_msg_gk_YABURU,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou ripped the seal talisman\n"
+"in two.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_ndoor_akuma_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Eeeek! Y-You're here!\n"
+"<end><start>I-I-I'm s-s-supposed to guard here.\n"
+"Y-Y-You can't pass here. G-G-G-Go\n"
+"home, please!\n"
+""
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_ndoor_akuma_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Eeeeek! D-Don't come any closer!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_ndoor_akuma_02,segment:1"
+msgid ""
+"<start>P-Please, give me a break! M-My\n"
+"orders are to not to let anyone\n"
+"through.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_ndoor_akuma_02,segment:2"
+msgid ""
+"<start>I-I know! You can't get past the\n"
+"southern pass, right!? Then, I'll\n"
+"let you in on something...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_ndoor_akuma_02,segment:3"
+msgid ""
+"<start>The seal on the southern pass needs\n"
+"the talisman to support it.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_ndoor_akuma_02,segment:4"
+msgid ""
+"<start>The talisman is really small,\n"
+"though... I hear you won't be able\n"
+"to find it with the naked eye.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_ndoor_akuma_02,segment:5"
+msgid ""
+"<start>Only someone or something that\n"
+"specializes in searching for things\n"
+"could have a hope in finding it.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_ndoor_akuma_02,segment:6"
+msgid ""
+"<start>How was that? Useful, right!?\n"
+"Come on, Boss, you're killing me\n"
+"here.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_ndoor_akuma_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]C'mon, Boss, not this way.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_ndoor_akuma_03,segment:1"
+msgid ""
+"<start>You should go through the southern\n"
+"road! You just need to do something\n"
+"about the talisman first.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_ndoor_akuma_03,segment:2"
+msgid ""
+"<start>It's so small, you'll need an\n"
+"expert in finding stuff or you'll\n"
+"never find it.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_ndoor_akuma_03,segment:3"
+msgid ""
+"<start>Isn't that enough to go on!? I'm\n"
+"trying to help you out here! Just\n"
+"don't pass this way...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_ndoor_akuma_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Eeeeek! D-Don't come any closer!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_ndoor_akuma_04,segment:1"
+msgid ""
+"<start>Wh-What? The southern seal has\n"
+"been broken? Then, my job is done!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_ndoor_akuma_04,segment:2"
+msgid ""
+"<start>If you could do me a favor, though,\n"
+"pass through the other side\n"
+"whenever I'm here, okay?\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_ndoor_akuma_04,segment:3"
+msgid ""
+"<start>Please, Boss, have a heart! If\n"
+"they find out I let someone go\n"
+"through, they'll dock my pay.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_TOJI_akuma_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I was going off to work, when\n"
+"all of a sudden these walls appeared\n"
+"and lil' old me was trapped inside.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_TOJI_akuma_01,segment:1"
+msgid ""
+"<start>I may have wings, but they're just\n"
+"for show. I can't use 'em to fly\n"
+"out of here.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_TOJI_akuma_01,segment:2"
+msgid ""
+"<start>It's awfully sweet of you, sugar.\n"
+"Thanks so much!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_TOJI_akuma_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]It's not as rare as you might think\n"
+"for a demon to fall in love with a\n"
+"human.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_msg_TOJI_akuma_02,segment:1"
+msgid ""
+"<start>Tee-hee!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_msg_TOJI_akuma_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The demon isn't interested in\n"
+"[14:0000,0000]...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_ep07_Thanks01_00,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The demon has the hots for\n"
+"Raidou.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_ep07_Thanks01_00_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The demon is glancing over at\n"
+"[14:0000,0000].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_ep07_Thanks01_00_02,segment:1"
+msgid ""
+"<start>> The demon seems interested in\n"
+"[14:0000,0000].\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_ep07_Thanks01_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Ooh, what a lovely young fellow.\n"
+"I can feel my heart beating a mite\n"
+"faster!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_ep07_Thanks01_01,segment:1"
+msgid ""
+"<start>Here, hon, take this.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_ep07_Thanks01_01,segment:2"
+msgid ""
+"<start>It's a little memento of how I\n"
+"feel.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_ep07_Thanks01_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I found this and I think it would be\n"
+"a darling little gift for you!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_ep07_Thanks01_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou obtained \n"
+"[2:0005,00FF]Muscle Drink[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_ep07_Thanks01_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> [14:0000,0000] obtained\n"
+"[2:0005,00FF]Great Chakra[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_ep07_Thanks01_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]You really are a lovely boy. You\n"
+"remind me so much of him...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_Devil01_01_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I was going off to work, when all\n"
+"of a sudden these walls appeared\n"
+"and lil' old me was trapped inside.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_Devil01_01_01,segment:1"
+msgid ""
+"<start>I may have wings, but they're just\n"
+"for show. I can't use 'em to fly\n"
+"out of here.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_Devil01_01_01,segment:2"
+msgid ""
+"<start>It's awfully sweet of you, sugar.\n"
+"Thanks so much!\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_Devil01_01_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]It's not much, but go on and take this,\n"
+"hon.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Devil01_01_03a,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou obtained\n"
+"[2:0005,00FF]Muscle Drink[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Devil01_01_03b,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou obtained\n"
+"[2:0005,00FF]Great Chakra[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Devil01_01_04a,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> [14:0000,0000] obtained\n"
+"[2:0005,00FF]Muscle Drink[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Devil01_01_04b,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> [14:0000,0000] obtained\n"
+"[2:0005,00FF]Great Chakra[2:0001,00FF] x1.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_Devil01_02_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]By the way, hon, are you going to\n"
+"fight the demon that put up those\n"
+"walls?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:m_Devil01_02_01s,segment:0"
+msgid "<start>I plan to."
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_Devil01_02_01a,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I thought so. Well, I've got a bit of\n"
+"gossip that might come in handy.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_Devil01_02_01a,segment:1"
+msgid ""
+"<start>You know those Utai-gaikotsu\n"
+"brothers, hon? Well, I heard them\n"
+"talking to each other real loud.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_Devil01_02_01a,segment:2"
+msgid ""
+"<start>Their boss has [2:0004,00FF]four forms[2:0001,00FF], and\n"
+"[2:0004,00FF]they all have a different weak\n"
+"point[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_Devil01_02_01a,segment:3"
+msgid ""
+"<start>What are they specifically? Oh,\n"
+"dearie me, let's see: [2:0004,00FF]fire[2:0001,00FF], [2:0004,00FF]ice[2:0001,00FF],\n"
+"[2:0004,00FF]lightning[2:0001,00FF], and [2:0004,00FF]physical attacks[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_Devil01_02_01a,segment:4"
+msgid ""
+"<start>If you plan on getting into a tiff\n"
+"with that thing, don't forget what\n"
+"I told you.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_Devil01_02_01b,segment:0"
+msgid ""
+"<start>[7:0005,00FF]If you say so, hon... Just be careful,\n"
+"you hear?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Common_IkaiExit01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The Herald of Yatagarasu has\n"
+"created a connection between the\n"
+"Real World and the Dark Realm.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Common_IkaiExit01,segment:1"
+msgid ""
+"<start>> It is possible to return to the\n"
+"Nameless Shrine from here. Return\n"
+"to the Real World?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Common_IkaiExit02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Persons unknown have created a\n"
+"connection between the Real World\n"
+"and the Dark Realm.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Common_IkaiExit02,segment:1"
+msgid ""
+"<start>> It is possible to use it to\n"
+"escape the Dark Realm.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Common_IkaiExit02,segment:2"
+msgid ""
+"<start>> Return to the Real World?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:m_Common_IkaiExitSelect,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_HINT_AKUMA_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hoo hoo hoo...\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_HINT_AKUMA_01,segment:1"
+msgid ""
+"<start>I'm Mokoi.\n"
+"<end>"
+msgstr ""
+
+#. Demon
+msgctxt "type:0,entry:m_HINT_AKUMA_01,segment:2"
+msgid ""
+"<start>But, I know so many things, maybe\n"
+"you should call me Professor Mokoi.\n"
+"<end>"
+msgstr ""
+
+#. Professor Mokoi
+msgctxt "type:0,entry:m_HINT_AKUMA_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I'm not sure there's anything\n"
+"I don't know. If there is, I don't\n"
+"know about it...\n"
+"<end>"
+msgstr ""
+
+#. Professor Mokoi
+msgctxt "type:0,entry:m_HINT_AKUMA_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Do you have a favorite lecture\n"
+"subject? I can expound on it at\n"
+"your leisure.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:m_HINT_AKUMA,segment:0"
+msgid "<start>Ask about Shikimi no Kage"
+msgstr ""
+
+#. Professor Mokoi
+msgctxt "type:0,entry:m_HINT_AKUMA_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]\"Shikimi\" means \"border.\" It's a\n"
+"roadblock, to put it differently.\n"
+"<end>"
+msgstr ""
+
+#. Professor Mokoi
+msgctxt "type:0,entry:m_HINT_AKUMA_04,segment:1"
+msgid ""
+"<start>You knew already? Then you get a\n"
+"cookie. No cookie if you thought it\n"
+"had to do with the Sheik of Araby.\n"
+"<end>"
+msgstr ""
+
+#. Professor Mokoi
+msgctxt "type:0,entry:m_HINT_AKUMA_04,segment:2"
+msgid ""
+"<start>You can't hurt Shikimi no Kage\n"
+"unless you [2:0004,00FF]attack its weakness[2:0001,00FF],\n"
+"get it?\n"
+"<end>"
+msgstr ""
+
+#. Professor Mokoi
+msgctxt "type:0,entry:m_HINT_AKUMA_04,segment:3"
+msgid ""
+"<start>Could be fire magic, could be gun\n"
+"attacks... There are [2:0004,00FF]lots of possible\n"
+"weaknesses[2:0001,00FF], m'boy.\n"
+"<end>"
+msgstr ""
+
+#. Professor Mokoi
+msgctxt "type:0,entry:m_HINT_AKUMA_04,segment:4"
+msgid ""
+"<start>So, Mr. Summoner, you should have\n"
+"lotsa different types of things...\n"
+"excuse me, demons... to summon.\n"
+"<end>"
+msgstr ""
+
+#. Professor Mokoi
+msgctxt "type:0,entry:m_HINT_AKUMA_04,segment:5"
+msgid ""
+"<start>But, you should know about all that\n"
+"by now. They've been appearing\n"
+"all over the Capital lately.\n"
+"<end>"
+msgstr ""
+
+#. Professor Mokoi
+msgctxt "type:0,entry:m_HINT_AKUMA_04,segment:6"
+msgid ""
+"<start>If you ask me, it's a big, deep\n"
+"conspiracy. Lots of branches and\n"
+"tentacles reaching all over.\n"
+"<end>"
+msgstr ""
+
+#. Professor Mokoi
+msgctxt "type:0,entry:m_HINT_AKUMA_04,segment:7"
+msgid ""
+"<start>Investigating that stuff is your\n"
+"bread and butter, right, detective?\n"
+"Maybe I should hire your services.\n"
+"<end>"
+msgstr ""
+
+#. Professor Mokoi
+msgctxt "type:0,entry:m_HINT_AKUMA_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]To tell the truth, m'boy, I'm not\n"
+"from the Capital originally.\n"
+"<end>"
+msgstr ""
+
+#. Professor Mokoi
+msgctxt "type:0,entry:m_HINT_AKUMA_05,segment:1"
+msgid ""
+"<start>I'm from a land far, far to the south.\n"
+"<end>"
+msgstr ""
+
+#. Professor Mokoi
+msgctxt "type:0,entry:m_HINT_AKUMA_05,segment:2"
+msgid ""
+"<start>The giant rock of Uluru is what\n"
+"I call home.\n"
+"<end>"
+msgstr ""
+
+#. Professor Mokoi
+msgctxt "type:0,entry:m_HINT_AKUMA_05,segment:3"
+msgid ""
+"<start>One day I'd like to go back there,\n"
+"m'boy. I'm sick of home... I mean,\n"
+"homesick.\n"
+"<end>"
+msgstr ""
+
+#. Professor Mokoi
+msgctxt "type:0,entry:m_HINT_AKUMA_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Cloaks are the new hotness now,\n"
+"you know. Especially the red ones\n"
+"and black ones. \n"
+"<end>"
+msgstr ""
+
+#. Professor Mokoi
+msgctxt "type:0,entry:m_HINT_AKUMA_06,segment:1"
+msgid ""
+"<start>Personally, I like Yumeji's manteau\n"
+"designs. They're so modern.\n"
+"<end>"
+msgstr ""
+
+#. Professor Mokoi
+msgctxt "type:0,entry:m_HINT_AKUMA_06,segment:2"
+msgid ""
+"<start>I better not see one on you,\n"
+"m'boy, or I'll know you're just\n"
+"a copycat with no style.\n"
+"<end>"
+msgstr ""
+
+#. Professor Mokoi
+msgctxt "type:0,entry:m_HINT_AKUMA_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Is that so? Call me Mr. Disappointed,\n"
+"then.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Rhone01_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou blew the Flute of Rhone.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Rhone01_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> However, the Large Tarrasque is\n"
+"not in the Dark Realm.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:m_Rhone01_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> But, the Large Tarrasque didn't\n"
+"come...\n"
+"<end>"
+msgstr ""
+
+#. Red Special Guard
+msgctxt "type:0,entry:EPI02_SCENE08_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Hold this man here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI02_SCENE08_01_TUIKA01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The red-clad soldiers left.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI02_SCENE08_02_TUIKA01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]So... Any idea why they would drag\n"
+"us into the Dark Realm?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI02_SCENE08_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...Look alive, [12:0001,00FF].\n"
+"Think they captured that guy, too?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI02_SCENE08_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> A man is standing inside the\n"
+"show booth, looking worried.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI02_SCENE08_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I can't imagine he has anything in\n"
+"common with Kaya. Maybe they're\n"
+"just nabbing people at random.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI02_SCENE08_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...I doubt they're out looking\n"
+"for devil summoners, either.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI02_SCENE08_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...No use waiting to be bumped off.\n"
+"Let's get a move on.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI02_SCENE08_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Finish these guys off so we can\n"
+"look for Denpachi.\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:EPI02_SCENE09_01,segment:0"
+msgid ""
+"<start>[22:001A,00FF,0006,00FF][7:0005,00FF]Cripes, you're hard-boiled, son.\n"
+"I can't believe you beat those\n"
+"monsters...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:EPI02_SCENE09_02,segment:0"
+msgid ""
+"<start>[22:001A,00FF,0006,00FF][7:0005,00FF]You gotta bust me outta here\n"
+"before the others come back!\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI02_SCENE09_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The door is locked.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI02_SCENE09_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...Stupid locks. If we can't\n"
+"open it, we can't free him.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI02_SCENE09_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]What about a lock pick?\n"
+"Konnou-Ya might have one...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI02_SCENE09_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> [14:0000,0000] analyzed the lock.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI02_SCENE09_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> It's an old-fashioned lock\n"
+"known as an Ebi-Jo.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI02_SCENE09_08,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> It's a spring bolt lock where\n"
+"a key compresses springs inside.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI02_SCENE09_09,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Because of its simple design,\n"
+"a [2:0002,00FF]lock pick[2:0001,00FF] could open it easily.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI02_SCENE09_10,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...Makes sense. Do you think\n"
+"[2:0004,00FF]Konnou-Ya[2:0001,00FF] carries lock picks?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI02_SCENE09_11,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Let's go have a look. This poor sap's\n"
+"been a prisoner long enough.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI02_SCENE11_00,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou picked the lock which\n"
+"was keeping the door shut.\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:EPI02_SCENE11_01,segment:0"
+msgid ""
+"<start>[22:001A,00FF,0006,00FF][7:0005,00FF]...Thanks for saving me;\n"
+"I really appreciate it.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:EPI02_SCENE11_02,segment:0"
+msgid ""
+"<start>[22:001A,00FF,0006,00FF][7:0005,00FF]...! Oh no!\n"
+"They've come back!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Red Special Guard
+msgctxt "type:0,entry:EPI02_SCENE11_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...You will not escape.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI02_SCENE12_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]C'mon, [12:0001,00FF]. Let's beat feet\n"
+"before reinforcements arrive.\n"
+"<end>"
+msgstr ""
+
+#. Hexer
+msgctxt "type:0,entry:map01_ep06_scene03_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I aM ThE God wHO PrOcLaImS EViL\n"
+"or GoOD In A sinGLe wOrD...\n"
+"<end>"
+msgstr ""
+
+#. Hexer
+msgctxt "type:0,entry:map01_ep06_scene03_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I Am Hitokotonusi, GoD OF\n"
+"KaTsuRAgi!\n"
+"<end>"
+msgstr ""
+
+#. Hitokotonusi
+msgctxt "type:0,entry:map01_ep06_scene03_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]ThE GRUdge of tHE KunITsu reMaiNs...\n"
+"FOr That rEaSon, tHe SuPEr SOLdiER\n"
+"pRojeCT--tHE GOoD--eXisTs.\n"
+"<end>"
+msgstr ""
+
+#. Hitokotonusi
+msgctxt "type:0,entry:map01_ep06_scene03_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]TrY to STOp uS, KuZUnohA...\n"
+"<end>"
+msgstr ""
+
+#. Hitokotonusi
+msgctxt "type:0,entry:map01_ep06_scene03_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...aND I shALL proCLaiM EviL oN\n"
+"yOuR sOUL! BoW beForE ME!\n"
+"<end>"
+msgstr ""
+
+#. Hitokotonusi
+msgctxt "type:0,entry:map23_ep07_scene04_01,segment:0"
+msgid ""
+"<start>[7:0003,00FF]...cURSed FoX... YoU HAvE bEeN\n"
+"taMEd bY tHe CRoW...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:map23_ep07_scene04_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The curse on Raidou was broken.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:map23_ep07_scene04_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> A noble voice rang out.\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:map23_ep07_scene04_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]I see you have destroyed the source of\n"
+"the curse.\n"
+"<end>"
+msgstr ""
+
+#. Herald of Yatagarasu
+msgctxt "type:0,entry:map23_ep07_scene04_04,segment:1"
+msgid ""
+"<start>It is a relief that you are safe.\n"
+"Return now to me, Raidou.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:map23_ep07_scene04_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> The air around Raidou shifted\n"
+"and he was carried away.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MAP_SAVE,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's a Dragon Cave. Mysterious\n"
+"power is flowing out of it...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MAP_SAVE,segment:1"
+msgid ""
+"<start>> Here, Raidou can record his\n"
+"findings without being disturbed.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MAP_SAVE,segment:2"
+msgid ""
+"<start>> Save?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MAP_SAVE_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:MAP_HEAL,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Recover health?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MAP_HEAL_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:MAP_HEAL2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [10:0001,00FF] and\n"
+"his demons were healed.\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL_FAST,segment:0"
+msgid ""
+"<start>[7:0007,00FF]*sob* *sob*\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL_FAST,segment:1"
+msgid ""
+"<start>...Who are you? I've never seen\n"
+"you around here...\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL_FAST,segment:2"
+msgid ""
+"<start>I'm Nakisawame. I heal everyone...\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL_2ND,segment:0"
+msgid ""
+"<start>[7:0007,00FF]*sob* Welcome.\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL_FULLMOON,segment:0"
+msgid ""
+"<start>[7:0007,00FF]*sob* Welcome. It's a full moon,\n"
+"so...\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL,segment:0"
+msgid ""
+"<start>[7:0007,00FF]Do you want me to heal you?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MAP_CHEAL_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]I'll need [3:0001,00FF] yen... Is that okay?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MAP_CHEAL2_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]This may sting a little, but only\n"
+"for a moment...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MAP_CHEAL4,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [10:0001,00FF] and\n"
+"his demons were healed.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MAP_CHEAL4D,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] was healed.\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL5,segment:0"
+msgid ""
+"<start>[7:0007,00FF]*sob* Don't die on me... Please...\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL6,segment:0"
+msgid ""
+"<start>[7:0007,00FF]*sob* So... You're going to die,\n"
+"too...\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL7,segment:0"
+msgid ""
+"<start>[7:0007,00FF]You don't have enough money...\n"
+"<end>"
+msgstr ""
+
+#. Nakisawame
+msgctxt "type:0,entry:MAP_CHEAL7,segment:1"
+msgid ""
+"<start>*sob* So... You'll die just like\n"
+"all the rest...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EXITWARP,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Leave the area?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EXITWARP_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:ELVWARP,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's an elevator.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NG,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It looks like humans are unable\n"
+"to reach inside and take the\n"
+"contents.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's a glowing, red crystal.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI,segment:1"
+msgid ""
+"<start>> The contents inside shift and warp.\n"
+"Take the contents?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HOSEKI_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NOZOKI,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] fished around for the\n"
+"contents...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NOZOKI,segment:1"
+msgid ""
+"<start>[7:0003,00FF]......\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's a glowing, blue crystal.\n"
+"Take the contents?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAKARA_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_STILLGET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_MAKA_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF][3:0001,00FF] yen[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_D_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_D_MAKA_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] obtained\n"
+"[2:0005,00FF][3:0001,00FF] yen[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARAP,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> There's something on the ground.\n"
+"Pick it up?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARAP_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARAP_D_GET,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] found something.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:1"
+msgid ""
+"<start>[7:0007,00FF]......\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:2"
+msgid ""
+"<start>> Raidou obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ZENISAGASI,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] found something.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ZENISAGASI,segment:1"
+msgid ""
+"<start>[7:0007,00FF]......\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:ZENISAGASI,segment:2"
+msgid ""
+"<start>> Raidou obtained\n"
+"[2:0005,00FF][3:0001,00FF] yen[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MWALL_DEAD,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The Shikimi no Kage has been\n"
+"destroyed. The way ahead is clear.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MWALL_DEVILONLY,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's a Tainted Gate. A demon\n"
+"should be able to pass through.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou paid [3:0001,00FF] yen worth\n"
+"of streetcar fare and returned to\n"
+"the detective agency.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_NOP,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou returned to the detective\n"
+"agency.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_NG1,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou didn't have [3:0001,00FF] yen\n"
+"for the streetcar fare.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_NG1,segment:1"
+msgid ""
+"<start>> Gouto covered the rest.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:JIMUSYO_RETRN_NG2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]......\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_NG3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou didn't have [3:0001,00FF] yen\n"
+"for the streetcar fare.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_NG3,segment:1"
+msgid ""
+"<start>> The rest of the fare was paid\n"
+"out of Gouto's wallet.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_PASS,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou used the [2:0005,00FF]Streetcar Pass[2:0001,00FF] and\n"
+"returned to the detective agency.\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:JIMUSYO_RETRN_REPAY1,segment:0"
+msgid ""
+"<start>[7:0007,00FF]Hey, [12:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:JIMUSYO_RETRN_REPAY1,segment:1"
+msgid ""
+"<start>It's about time you paid up for\n"
+"all the times I covered your\n"
+"streetcar fare.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_REPAY2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou paid Gouto back for all\n"
+"the times he borrowed money to pay\n"
+"his fare.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_RETRN_REPAY3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> All the money Gouto lent to\n"
+"Raidou for the streetcar fare was\n"
+"returned to Gouto's wallet.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_HAJIKI1,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's not that easy to escape\n"
+"from here!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:JIMUSYO_HAJIKI2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> There's still more to\n"
+"investigate.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BAD_MAFU_HAJIKI,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The Mute ailment prevents the\n"
+"use of that ability.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_HAJIKI,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] felt it would be\n"
+"best if Raidou were here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_HAJIKI2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] felt the urge to\n"
+"report back to Raidou.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_HAJIKI3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] wondered if Raidou\n"
+"should investigate here, too.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_OPENERROR,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> That cannot be used here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] began a solo\n"
+"investigation.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOUKOKU_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] reported the\n"
+"findings of the investigation.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOUKOKU_START2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] talked animatedly\n"
+"about the particulars of the\n"
+"investigation.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOUKOKU_START3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] reported to Raidou\n"
+"despite its fatigue.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_INNENSTART,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] is eager to pick a\n"
+"fight.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_INNENSTART,segment:1"
+msgid ""
+"<start>[7:0007,00FF]> The encounter rate went up.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_TAKANESTART,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] played it hard\n"
+"to get.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_TAKANESTART,segment:1"
+msgid ""
+"<start>[7:0007,00FF]> The encounter rate went down.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_INNENEND,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The effects of Provoke wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_TAKANEEND,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The effects of Intimidate wore\n"
+"off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_ESTOMAEND,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The effects of Repulse Water\n"
+"wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REBERAMAEND,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The effects of the Attract Water\n"
+"wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_DRINKEND,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The effects of the Soda wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_MOUDOKUEND,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The effects of the poison wore\n"
+"off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK00_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried using\n"
+"Ignite.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK01_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried using\n"
+"Cool Down.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK02_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried searching\n"
+"areas with spiritual energy.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] scouted around the\n"
+"area.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_END_0,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] returned from the\n"
+"scouting mission.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_DV0,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> In this area...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_DV1,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [2:0004,00FF][3:0001,00FF] [3:0002,00FF][2:0001,00FF] \n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_DV2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> ...were spotted lurking around.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_DV3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> ...no demons were spotted.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_TAKARA0,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> As for items left in the area...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_TAKARA1,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [2:0004,00FF][3:0001,00FF][2:0001,00FF]\n"
+"have been confirmed.\n"
+"<end><start>> [14:0000,0000] told Raidou he'd\n"
+"have to to find any hidden items\n"
+"himself.\n"
+""
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_TAKARA_NOT,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> ...none were spotted.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_ITEM,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] also found\n"
+"[3:0001,00FF] x[3:0002,00FF] \n"
+"while scouting.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK03_ITEM,segment:1"
+msgid ""
+"<start>> Raidou obtained\n"
+"[2:0005,00FF][3:0001,00FF][2:0001,00FF] x[3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK04_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried a good, hard\n"
+"strike.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK05_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried using the\n"
+"art of mind reading.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSK10_START,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] filled the air with\n"
+"pheromones.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK01,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] is spacing out.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK02,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] looked at the\n"
+"human and was surprised.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK03,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It's no use!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK04,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] is reminiscing\n"
+"about its home.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK05,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> It seems humans are foreign to\n"
+"[14:0000,0000].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK06,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried hard to make\n"
+"conversation.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK06,segment:1"
+msgid ""
+"<start>> Alas, it was invisible to the\n"
+"human.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK07,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] hung back\n"
+"bashfully.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK07,segment:1"
+msgid ""
+"<start>> The human didn't notice.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK08,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] winked!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK08,segment:1"
+msgid ""
+"<start>> The human didn't notice.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK09,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] attempted\n"
+"intimidation!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK09,segment:1"
+msgid ""
+"<start>> But, [14:0000,0000] ended up as\n"
+"the one being intimidated.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK10,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried singing a\n"
+"song.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK10,segment:1"
+msgid ""
+"<start>> Eventually, it got bored and\n"
+"stopped.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK11,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried getting the\n"
+"first strike.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK11,segment:1"
+msgid ""
+"<start>> It was a futile effort.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK12,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] asked for MAG.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK12,segment:1"
+msgid ""
+"<start>> Alas, it was invisible to the\n"
+"human.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK13,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] asked for money.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK13,segment:1"
+msgid ""
+"<start>> Alas, it was invisible to the\n"
+"human.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK14,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] was startled.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK15,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The human turned this way as\n"
+"[14:0000,0000] tried to make\n"
+"conversation.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK15,segment:1"
+msgid ""
+"<start>> ...Or so it seemed. In fact,\n"
+"it was just a coincidence; demons\n"
+"are invisible to humans.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NAKAMA_MODE_TALK16,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] bemoaned the rough\n"
+"treatment it received from\n"
+"[10:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:DEAD_CONTINUE,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> The demon died and returned\n"
+"to the tube...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:M31CONTINUE,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> Raidou decided to come back and\n"
+"try again later.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_0,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] is trying to\n"
+"demonstrate its expertise...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_0,segment:1"
+msgid ""
+"<start>> Watch the demonstration?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAKUMI_0_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_A,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [3:0001,00FF] recovered full HP\n"
+"thanks to [14:0000,0000]'s magnificent\n"
+"acupuncture techniques.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_B,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [3:0001,00FF] recovered full MP\n"
+"thanks to [14:0000,0000]'s magnificent\n"
+"acupuncture techniques.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_C,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] pressed the\n"
+"wrong pressure point.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_C,segment:1"
+msgid ""
+"<start>> [3:0001,00FF] took major damage!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_1,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] pressed a miracle\n"
+"pressure point.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_1,segment:1"
+msgid ""
+"<start>> [3:0001,00FF]'s Strength went up\n"
+"by 1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] pressed a miracle\n"
+"pressure point.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_2,segment:1"
+msgid ""
+"<start>> [3:0001,00FF]'s Magic went up\n"
+"by 1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] pressed a miracle\n"
+"pressure point.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_3,segment:1"
+msgid ""
+"<start>> [3:0001,00FF]'s Vitality went up\n"
+"by 1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_4,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] pressed a miracle\n"
+"pressure point.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_D_4,segment:1"
+msgid ""
+"<start>> [3:0001,00FF]'s Luck went up\n"
+"by 1.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_E,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] pressed the wrong\n"
+"pressure point.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_E,segment:1"
+msgid ""
+"<start>> [3:0001,00FF] started to feel\n"
+"queasy.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_F,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] pressed the wrong\n"
+"pressure point.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_F,segment:1"
+msgid ""
+"<start>> [3:0001,00FF] started to feel\n"
+"queasy.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_G,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] was moved by its\n"
+"creative instincts.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_KOUKA_G,segment:1"
+msgid ""
+"<start>> [14:0000,0000] turned\n"
+"[3:0001,00FF] into [3:0002,00FF].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_SEL_NO,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] looks sad...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_CANCEL,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] was going to\n"
+"demonstrate its expertise...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKUMI_CANCEL,segment:1"
+msgid ""
+"<start>> But, no one was watching.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_REIGAI_1,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000]'s mouth watered.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_REIGAI_1,segment:1"
+msgid ""
+"<start>> But, [14:0000,0000] resisted\n"
+"temptation.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_REIGAI_2,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] tried acting\n"
+"snobby, so as not to be\n"
+"treated with contempt.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_REIGAI_3,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] succumbed to the\n"
+"pressure and was unable to talk.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_REIGAI_4A,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] had a bad feeling\n"
+"about this.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_REIGAI_4B,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] stared at the\n"
+"voiceless thing.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNRI_REIGAI_5,segment:0"
+msgid ""
+"<start>[7:0007,00FF]> [14:0000,0000] stared at the\n"
+"voiceless thing.\n"
+"<end>"
+msgstr ""

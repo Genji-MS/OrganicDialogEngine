@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_010_1,segment:0"
+msgid ""
+"<start>[7:FF07]...The new heaven.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_010_1_B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...The new earth.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_010_1_C,segment:0"
+msgid ""
+"<start>[7:FF07][18:]The prophecy has been fulfilled.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_010_1_D,segment:0"
+msgid ""
+"<start>[7:FF07][18:]The world will be cleansed of\n"
+"its greed, and enter a state\n"
+"of stillness.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_010_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...And you are the one\n"
+"who will accomplish that.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07]I was not the creator;\n"
+"I was the baptist.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_020_2,segment:0"
+msgid ""
+"<start>[7:FF07]I was merely sent to prepare\n"
+"the way for you--the new creator.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_030_1,segment:0"
+msgid ""
+"<start>[7:FF07]However, I am content.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_030_1B,segment:0"
+msgid ""
+"<start>[7:FF07]Once I entrust you with my Reason\n"
+"and send you on your way,\n"
+"I can finally witness the world\n"
+"that I envisioned.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_040_1,segment:0"
+msgid ""
+"<start>[7:FF07]I look forward to living in a world\n"
+"of silent harmony...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_040_2,segment:0"
+msgid ""
+"<start>[7:FF07]Mighty creator,\n"
+"deliver the new world unto us!!\n"
+"<end>"
+msgstr ""

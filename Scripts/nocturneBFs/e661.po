@@ -1,0 +1,255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Voice
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07]Woman...\n"
+"What brings you to this place?\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_020_1,segment:1"
+msgid ""
+"<start>Why do you bear such anger?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]That power I felt... It was you?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_2B,segment:0"
+msgid ""
+"<start>[7:FF07]So, you weren't dead after all...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_1,segment:0"
+msgid ""
+"<start>[7:FF07]Were you calling out for me,\n"
+"Gozu-Tennoh...?\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_030_2,segment:0"
+msgid ""
+"<start>[7:FF07]Ever since I fell into\n"
+"Nihilo's trap,\n"
+"my spirit has been drifting.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_030_2,segment:1"
+msgid ""
+"<start>But, not for one minute\n"
+"have I forgotten the rage\n"
+"that I felt on that day.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...I sought power,\n"
+"but I failed to get it.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_3B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]No matter what trials I face,\n"
+"or how much I get hurt...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_3B,segment:1"
+msgid ""
+"<start>[18:]...my Reason will not change.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_3C,segment:0"
+msgid ""
+"<start>[7:FF07][18:]But at this rate,\n"
+"my Reason will be lost...\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_030_4,segment:0"
+msgid ""
+"<start>[7:FF07]Woman, accept my spirit.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_040_1,segment:0"
+msgid ""
+"<start>[7:FF07]I once strove to protect the world\n"
+"from the followers of stillness.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_040_1,segment:1"
+msgid ""
+"<start>However, what we should have done\n"
+"instead was build a kingdom ruled\n"
+"by strength.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_040_1B,segment:0"
+msgid ""
+"<start>[7:FF07]Of course,\n"
+"I would have never succeeded.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_040_1B,segment:1"
+msgid ""
+"<start>If I was a human...\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_040_1B,segment:2"
+msgid ""
+"<start>If I could have had a Reason\n"
+"of my own, then the outcome\n"
+"may have been different.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_2,segment:0"
+msgid ""
+"<start>[7:FF07]If your power can make me strong,\n"
+"and help me to create my world...\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_040_3,segment:0"
+msgid ""
+"<start>[7:FF07]Your Reason is one\n"
+"with our kingdom.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_040_3B,segment:0"
+msgid ""
+"<start>[7:FF07]I shall entrust you with\n"
+"my last remaining strength!!\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_040_3B,segment:1"
+msgid ""
+"<start>Woman, accept my spirit!\n"
+"Be the strength that guides\n"
+"all demons!!\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_080_1,segment:0"
+msgid ""
+"<start>[7:FF07]It's hot...\n"
+"like my hand is on fire...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_090_1,segment:0"
+msgid ""
+"<start>[7:FF07]Look at me, [12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_090_1,segment:1"
+msgid ""
+"<start>[18:]I'm beautiful, don't you agree?\n"
+"Strength and beauty are one and\n"
+"the same.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_090_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Now, I have the power to shape\n"
+"my own destiny...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_090_2,segment:1"
+msgid ""
+"<start>[18:]Ah, I can see!\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_090_2,segment:2"
+msgid ""
+"<start>[18:]I can see those who seek Yosuga\n"
+"flocking to this land.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_090_3,segment:0"
+msgid ""
+"<start>[7:FF07]It is within my grasp...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_100_1,segment:0"
+msgid ""
+"<start>[7:FF07]My utopia...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_100_1,segment:1"
+msgid ""
+"<start>[18:]My ideal world...!!\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_100_1B,segment:0"
+msgid ""
+"<start>[7:FF07]Ahahahahaha...\n"
+""
+msgstr ""

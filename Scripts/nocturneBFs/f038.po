@@ -1,0 +1,737 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+msgctxt "type:0,entry:HASHIRA1,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a pillar.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HASHIRA2,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you lower the pillar?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HASHIRA_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HASHIRA_ANSWER1,segment:0"
+msgid ""
+"<start>[7:FF07]> It's smooth.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HASHIRA_ANSWER2,segment:0"
+msgid ""
+"<start>[7:FF07]> It looks hard.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HASHIRA_ANSWER3,segment:0"
+msgid ""
+"<start>[7:FF07]> Main character\n"
+"= debug!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HASHIRA_ANSWER3,segment:1"
+msgid ""
+"<start>........\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HASHIRA_ANSWER3,segment:2"
+msgid ""
+"<start>........\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HASHIRA_ANSWER3,segment:3"
+msgid ""
+"<start>........\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HASHIRA_ANSWER3,segment:4"
+msgid ""
+"<start>> Blah.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HASHIRA3,segment:0"
+msgid ""
+"<start>[7:FF07]> The pillar has already been\n"
+"lowered.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HASHIRA4,segment:0"
+msgid ""
+"<start>[7:FF07]> All the pillars have been lowered.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:GAIAN,segment:0"
+msgid ""
+"<start>[7:FF07]The shrine you can see from\n"
+"the entrance is His Lordship's\n"
+"resting place.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:GAIAN,segment:1"
+msgid ""
+"<start>But, the pillars holding it up are\n"
+"guarded by the four Devas, and\n"
+"they're ultra-powerful.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:GAIAN,segment:2"
+msgid ""
+"<start>Don't go near them!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:GAIAN2,segment:0"
+msgid ""
+"<start>[7:FF07]I can't believe it!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:GAIAN2,segment:1"
+msgid ""
+"<start>You actually beat all four of\n"
+"the Devas!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:GAIAN2,segment:2"
+msgid ""
+"<start>M-Master!! Make me your student!\n"
+"<end>"
+msgstr ""
+
+#. Passerby
+msgctxt "type:0,entry:CHUUOU,segment:0"
+msgid ""
+"<start>[7:FF07]Right above here!\n"
+"<end>"
+msgstr ""
+
+#. Passerby
+msgctxt "type:0,entry:CHUUOU,segment:1"
+msgid ""
+"<start>His Lordship is up there!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BOSS,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you open the door?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:BOSS_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:BOSS2,segment:0"
+msgid ""
+"<start>[7:FF07]Who doth awaken me from\n"
+"my slumber?\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:BOSS2_2,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:BOSS2_2,segment:1"
+msgid ""
+"<start>...So, thou art the demon who came\n"
+"from afar...?\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:BOSS2_2,segment:2"
+msgid ""
+"<start>I am [2:FF02]Masakado Taira[2:FF01],\n"
+"the guardian of Tokyo for\n"
+"the last thousand years.\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS2_3,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS2_3,segment:1"
+msgid ""
+"<start>...Thou art [12:FF01],\n"
+"art thou not?\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS2_3,segment:2"
+msgid ""
+"<start>The king of chaos, who hath gained\n"
+"the powers of demons despite being\n"
+"human...\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS2_4,segment:0"
+msgid ""
+"<start>[7:FF07][12:FF01]...\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS2_4,segment:1"
+msgid ""
+"<start>Why hast thou come this far to\n"
+"see me?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:BOSS_SEL3,segment:0"
+msgid "<start>Lend me your power."
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS3,segment:0"
+msgid ""
+"<start>[7:FF07]So, thou hast come for mine\n"
+"assistance...\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS3,segment:1"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS3,segment:2"
+msgid ""
+"<start>But, thy Tokyo is a Tokyo my light\n"
+"cannot reach.\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS3,segment:3"
+msgid ""
+"<start>I cannot set foot in thy world...\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS3_2,segment:0"
+msgid ""
+"<start>[7:FF07]Thou art direct and to the point...\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS3_3,segment:0"
+msgid ""
+"<start>[7:FF07]I see... Thou hast defeated\n"
+"the four Devas out of sport...\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS3_3,segment:1"
+msgid ""
+"<start>Outstanding...\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS4,segment:0"
+msgid ""
+"<start>[7:FF07]Let me ask thee a question...\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS4,segment:1"
+msgid ""
+"<start>Wilt thou bring peace to Tokyo?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BOSS5,segment:0"
+msgid ""
+"<start>[7:FF07]> The [2:FF02]Lord's Sword[2:FF01] began shining\n"
+"even brighter!\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS6,segment:0"
+msgid ""
+"<start>[7:FF07]I see...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:BOSS_SEL2,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS7,segment:0"
+msgid ""
+"<start>[7:FF07]Let me ask thee a question...\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS7,segment:1"
+msgid ""
+"<start>Wilt thou bring peace to Tokyo?\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS8,segment:0"
+msgid ""
+"<start>[7:FF07]Then, I shall lend thee my power.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BOSS9,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained the Magatama\n"
+"[2:FF03]Masakados[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS10,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS10,segment:1"
+msgid ""
+"<start>Farewell.\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS10,segment:2"
+msgid ""
+"<start>Be it a new world, it is still Tokyo...\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS10,segment:3"
+msgid ""
+"<start>Thou art the new guardian of\n"
+"the land...\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS11,segment:0"
+msgid ""
+"<start>[7:FF07]I look forward to thy world,\n"
+"conqueror. May you prove\n"
+"victorious in your war for peace.\n"
+"<end>"
+msgstr ""
+
+#. Masakado
+msgctxt "type:0,entry:BOSS11,segment:1"
+msgid ""
+"<start>Now go, [12:FF01]!\n"
+"<end>"
+msgstr ""
+
+#. Zouchou
+msgctxt "type:0,entry:HASHIRA_BOSS_S,segment:0"
+msgid ""
+"<start>[7:FF07]Are you attempting to lower this\n"
+"pillar?\n"
+"<end>"
+msgstr ""
+
+#. Zouchou
+msgctxt "type:0,entry:HASHIRA_BOSS_S1,segment:0"
+msgid ""
+"<start>[7:FF07]If you plan on entering the shrine,\n"
+"overcome my ordeal!\n"
+"<end>"
+msgstr ""
+
+#. Zouchou
+msgctxt "type:0,entry:HASHIRA_BOSS_S2,segment:0"
+msgid ""
+"<start>[7:FF07]Let us begin!\n"
+""
+msgstr ""
+
+#. Jikoku
+msgctxt "type:0,entry:HASHIRA_BOSS_E,segment:0"
+msgid ""
+"<start>[7:FF07]Are you attempting to lower this\n"
+"pillar?\n"
+"<end>"
+msgstr ""
+
+#. Jikoku
+msgctxt "type:0,entry:HASHIRA_BOSS_E1,segment:0"
+msgid ""
+"<start>[7:FF07]If you plan on entering the shrine,\n"
+"you must defeat me!\n"
+"<end>"
+msgstr ""
+
+#. Jikoku
+msgctxt "type:0,entry:HASHIRA_BOSS_E2,segment:0"
+msgid ""
+"<start>[7:FF07]Now, let us fight!\n"
+""
+msgstr ""
+
+#. Koumoku
+msgctxt "type:0,entry:HASHIRA_BOSS_W,segment:0"
+msgid ""
+"<start>[7:FF07]Are you attempting to lower this\n"
+"pillar?\n"
+"<end>"
+msgstr ""
+
+#. Koumoku
+msgctxt "type:0,entry:HASHIRA_BOSS_W1,segment:0"
+msgid ""
+"<start>[7:FF07]Let us find out if this battle is\n"
+"an ordeal, or divine retribution!\n"
+"<end>"
+msgstr ""
+
+#. Koumoku
+msgctxt "type:0,entry:HASHIRA_BOSS_W2,segment:0"
+msgid ""
+"<start>[7:FF07]Prepare yourself!\n"
+""
+msgstr ""
+
+#. Bishamon
+msgctxt "type:0,entry:HASHIRA_BOSS_N,segment:0"
+msgid ""
+"<start>[7:FF07]I was wondering what warrior was\n"
+"strong enough to enter here... Well,\n"
+"if it isn't [12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Bishamon
+msgctxt "type:0,entry:HASHIRA_BOSS_N,segment:1"
+msgid ""
+"<start>So, you are trying to get into\n"
+"the shrine?\n"
+"<end>"
+msgstr ""
+
+#. Bishamon
+msgctxt "type:0,entry:HASHIRA_BOSS_N1,segment:0"
+msgid ""
+"<start>[7:FF07]Then, you should already know\n"
+"that you must defeat me, or\n"
+"the path shall never be opened!\n"
+"<end>"
+msgstr ""
+
+#. Bishamon
+msgctxt "type:0,entry:HASHIRA_BOSS_N2,segment:0"
+msgid ""
+"<start>[7:FF07]Let us begin, [12:FF01]!\n"
+""
+msgstr ""
+
+msgctxt "type:0,entry:EXITWARP,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you leave the area?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EXITWARP_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a Mystical Chest.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HOSEKI_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Mystical Chest.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA,segment:0"
+msgid ""
+"<start>[7:FF07]> You see a Cache Cube.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAKARA_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Cache Cube.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_STILLGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DH_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"the Magatama [2:FF05][3:FF01][2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_MAKA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01] Macca[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:0"
+msgid ""
+"<start>[7:FF07]> It's a trap.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:1"
+msgid ""
+"<start>> Your party took damage.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_KARAGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:0"
+msgid ""
+"<start>[7:FF07]> [3:FF03] found something.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:1"
+msgid ""
+"<start>[7:FF07]............\n"
+"> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_OPENERROR,segment:0"
+msgid ""
+"<start>[7:FF07]> It can't be used here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_LIGHTMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The light effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_ESTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The repel effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REBERAMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The attract effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REFUTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The levitation effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:WARP_ELV_MSG,segment:0"
+msgid ""
+"<start>[7:FF07]> Select a floor.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL1,segment:0"
+msgid "<start>[3:FF01][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL2,segment:0"
+msgid "<start>[3:FF02][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL3,segment:0"
+msgid "<start>[3:FF03][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL4,segment:0"
+msgid "<start>[3:FF04][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL5,segment:0"
+msgid "<start>[3:FF05][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL6,segment:0"
+msgid "<start>[3:FF06][80EA]"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F038_SINEN01_01,segment:0"
+msgid ""
+"<start>[7:FF07][2:FF02]His Lordship[2:FF01] is in that shrine.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F038_SINEN01_01,segment:1"
+msgid ""
+"<start>You must lower the four pillars and\n"
+"defeat the [2:FF02]four Devas[2:FF01] in order to see\n"
+"him.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F038_SINEN01_03,segment:0"
+msgid ""
+"<start>[7:FF07]But, the four Devas are reeeeeeally\n"
+"strong, so be careful...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F038_SINEN01_02,segment:0"
+msgid ""
+"<start>[7:FF07]You defeated the four Devas and\n"
+"met Lord Masakado?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F038_SINEN01_02,segment:1"
+msgid ""
+"<start>...Amazing!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F038_SINEN02,segment:0"
+msgid ""
+"<start>[7:FF07]Right above here!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F038_SINEN02,segment:1"
+msgid ""
+"<start>His Lordship is up there!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F038_SINEN03,segment:0"
+msgid ""
+"<start>[7:FF07]I can't believe it!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F038_SINEN03,segment:1"
+msgid ""
+"<start>Lord Masakado actually came\n"
+"down...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F038_SINEN03,segment:2"
+msgid ""
+"<start>...I was almost crushed!\n"
+"<end>"
+msgstr ""

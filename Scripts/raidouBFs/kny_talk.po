@@ -1,0 +1,296 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 28/03/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]You know the saying, \"Time is\n"
+"money?\" It means I don't have time\n"
+"to stand here talking.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK02_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]With Victor's contacts, I've been\n"
+"able to broaden my range of\n"
+"products considerably.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK02_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]That's the good part. The bad part,\n"
+"on the other hand...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK02_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]That constant rumbling, clanking\n"
+"racket from the basement... Can't\n"
+"he do anything about it?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK03_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]Eee hee hee... Thanks for the\n"
+"business, boy.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK03_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]Although, you're always buying up\n"
+"things like bullets and medicine...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK03_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]Is detective work really that\n"
+"dangerous?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK04_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]You know that Balm of Life I\n"
+"stocked up on the other day?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK04_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]The foreign trader I bought it from\n"
+"said it can resurrect the dead.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK04_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]It sounds unlikely, but... I'm\n"
+"certainly not testing it on myself.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK05_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]You've been such a good customer,\n"
+"my business is skyrocketing.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK05_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]What can I do for you in return...?\n"
+"Ah, I know.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK05_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]From now on, I'll give you a better\n"
+"price for the things you sell me.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK05_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]If you find rare goods or antiques,\n"
+"bring them here!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK06_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]You've been such a good customer,\n"
+"my business is skyrocketing.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK06_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]What can I do for you in return...?\n"
+"Ah, I know.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK06_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]I'll give you a special discount\n"
+"on your future purchases.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK06_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]Eee hee hee... Not that my\n"
+"prices before weren't eminently\n"
+"reasonable, of course.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK07_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]I was flipping through a crate of\n"
+"dime novels, and they all say that\n"
+"detectives are superior fellows.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK07_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]That's what they say, but then\n"
+"I remember that Narumi is a\n"
+"detective...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK07_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]Well, it's hard to reconcile the\n"
+"two images, don't you think?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK08_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]Eee hee hee... You're becoming\n"
+"a regular customer here, aren't\n"
+"you, boy?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK08_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]Just between you and me...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK08_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]I'll buy your stuff at an even\n"
+"higher rate from now on.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK08_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]A Cretan goddess statue... A\n"
+"Babylonian tablet... A Theban stone\n"
+"jar... A large stag beetle...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK08_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]If it's rare, this is the place\n"
+"to unload it. I mean, sell it.\n"
+"Eee hee hee...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK09_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]Eee hee hee... You're becoming\n"
+"a regular customer here, aren't\n"
+"you, boy?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK09_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]Just between you and me...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK09_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]I'll give you a 20% discount.\n"
+"How's that sound?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK09_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]Just keep buying, okay?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK10_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]I got a new shipment of the latest\n"
+"bullets and clips the other day\n"
+"from my overseas supplier.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK10_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]These have more stopping power\n"
+"than any other ammo you'll find\n"
+"in the Capital.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK10_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]I don't sell these to just any\n"
+"customer, y'hear? Only the ones\n"
+"I know can handle it.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_RANK10_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:000E,00FF,0006,00FF]Be extra careful when you're\n"
+"walking around with these in\n"
+"your pocket.\n"
+"[23:]<end>"
+msgstr ""

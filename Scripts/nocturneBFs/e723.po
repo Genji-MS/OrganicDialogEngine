@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Mysterious man
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Not bad.\n"
+"<end>"
+msgstr ""
+
+#. Mysterious man
+msgctxt "type:0,entry:MSG_020_1,segment:1"
+msgid ""
+"<start>[18:]You look like a demon...\n"
+"but you don't seem like one.\n"
+"<end>"
+msgstr ""
+
+#. Mysterious man
+msgctxt "type:0,entry:MSG_030_1,segment:0"
+msgid ""
+"<start>[7:FF07]My name is Dante.\n"
+"<end>"
+msgstr ""
+
+#. Mysterious man
+msgctxt "type:0,entry:MSG_030_1,segment:1"
+msgid ""
+"<start>[18:]I'm a demon slayer.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_030_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]This old guy asked me to hunt down\n"
+"guys like you, but...\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_040_1,segment:0"
+msgid ""
+"<start>[7:FF07]...Forget it.\n"
+"Let's just stop this battle here.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_040_1,segment:1"
+msgid ""
+"<start>[18:]I need to find out what that guy\n"
+"really has in mind.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_040_1,segment:2"
+msgid ""
+"<start>[18:]Depending on how things turn out,\n"
+"maybe we'll meet again.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_040_1,segment:3"
+msgid ""
+"<start>[18:]Until then, try and keep\n"
+"yourself alive.\n"
+"...Who knows? Maybe I'll have\n"
+"another chance to kill you.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_040_2,segment:0"
+msgid ""
+"<start>[7:FF07]So, be prepared for the worst.\n"
+"...Don't say I didn't warn ya.\n"
+""
+msgstr ""
+
+#. Mysterious man
+msgctxt "type:0,entry:MSG_HIKAWA_010_1,segment:0"
+msgid ""
+"<start>[7:FF07]There you are, Fiend.\n"
+""
+msgstr ""
+
+#. Mysterious man
+msgctxt "type:0,entry:MSG_HIKAWA_010_1_1,segment:0"
+msgid ""
+"<start>[7:FF07]Let's see what you've got.\n"
+""
+msgstr ""
+
+#. Mysterious man
+msgctxt "type:0,entry:MSG_HIKAWA_010_2,segment:0"
+msgid ""
+"<start>[7:FF07]Glad to meet you, kid.\n"
+"I hope you feel the same.\n"
+""
+msgstr ""

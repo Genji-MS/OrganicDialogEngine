@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Hey, [12:FF01].\n"
+"I can't believe what happened\n"
+"in Ikebukuro...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_1,segment:1"
+msgid ""
+"<start>[18:]The return of Gozu-Tennoh...\n"
+"I hope it won't create\n"
+"even bigger problems.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...I bet you're wondering\n"
+"how I know about it already.\n"
+"Well, nothing escapes me now.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_2,segment:1"
+msgid ""
+"<start>[18:]I can learn anything\n"
+"with the power of Amala,\n"
+"just by using this terminal...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]For example, here's what's going on\n"
+"right now in the Vortex World:\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_1,segment:0"
+msgid ""
+"<start>[7:FF07]Hikawa is on his way to\n"
+"the Diet Building,\n"
+"in search of Magatsuhi.\n"
+""
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_1,segment:0"
+msgid ""
+"<start>[7:FF07]Some girl named [12:FF04]\n"
+"has inherited the power\n"
+"of Gozu-Tennoh.\n"
+""
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_1,segment:0"
+msgid ""
+"<start>[7:FF07]There's an abandoned temple where\n"
+"a ton of Magatsuhi lies forgotten.\n"
+""
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_060_1,segment:0"
+msgid ""
+"<start>[7:FF07]Manikins are gathered\n"
+"in Mifunashiro, their holy ground,\n"
+"demanding their own Reason.\n"
+""
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_070_1,segment:0"
+msgid ""
+"<start>[7:FF07]And...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_080_0,segment:0"
+msgid ""
+"<start>[7:FF07]......\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_080_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]That's all you really need to know\n"
+"right now.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_080_1,segment:1"
+msgid ""
+"<start>[18:]You see, no one knows more about\n"
+"the Vortex World than I do.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_080_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]That's why I should be the one\n"
+"creating the new world!\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_080_2,segment:1"
+msgid ""
+"<start>[18:]...Not Hikawa, or your teacher,\n"
+"or even you!\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_080_2,segment:2"
+msgid ""
+"<start>[18:]I could truly change the world!\n"
+"...Me, and me alone!\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_080_2,segment:3"
+msgid ""
+"<start>[18:]Everything in existence!\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_080_3,segment:0"
+msgid ""
+"<start>[7:FF07]You're the one who should have\n"
+"stayed out, Hijiri.\n"
+"I warned you, too...\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_080_3,segment:1"
+msgid ""
+"<start>But, it's too late now.\n"
+"You can't escape my punishment...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_090_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]It's [12:FF03]!\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_090_1,segment:1"
+msgid ""
+"<start>[18:]Damn it, you should be dead...\n"
+"I won't let you have\n"
+"the power of Amala!!\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_090_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...What!? He's pulling me in...!!\n"
+""
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_090_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]It's [12:FF03]!\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_090_3,segment:1"
+msgid ""
+"<start>[18:]Damn it, you should be dead...\n"
+"I won't let you have\n"
+"the power of Amala!!\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_090_4,segment:0"
+msgid ""
+"<start>[7:FF07][18:]UOOOOOOOHHH!\n"
+""
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_090_5,segment:0"
+msgid ""
+"<start>[80EA][80EA]\n"
+""
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TRM_A00,segment:0"
+msgid ""
+"<start>[7:FF07]> Hijiri disappeared into\n"
+"the Amala Network.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TRM_A0,segment:0"
+msgid ""
+"<start>[7:FF07]> The terminal is still active.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TRM_A1,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you use the terminal\n"
+"to go after Hijiri?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TRM_1,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you use the terminal\n"
+"to go after Hijiri?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MSG_TRM_2,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TRM_3,segment:0"
+msgid ""
+"<start>[7:FF07]> You used the terminal.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TRM_4,segment:0"
+msgid ""
+"<start>[7:FF07]> You left the terminal alone.\n"
+"<end>"
+msgstr ""

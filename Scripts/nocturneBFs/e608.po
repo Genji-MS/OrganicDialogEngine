@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_001,segment:0"
+msgid ""
+"<start>[7:FF06][85CD][85CD][85CD][80E2][83FB][81D6][82A2] [80E6] [86EE][82D0].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_002,segment:0"
+msgid ""
+"<start>[7:FF06][86B9] [80E2][82C6][81CD], [80E2] [8689][8598].\n"
+"[81CA][8289][82DB][82AE] [81D7][85CF][80E2] [81E1][81D3].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_003,segment:0"
+msgid ""
+"<start>[7:FF06][85CD][85CD][85CD][83A3][81CA][839A][80E5] [81D3][8386]\n"
+"[81D2][80E5][82B6][81E7].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_004,segment:0"
+msgid ""
+"<start>[7:FF06][81CA][8289][86AE] [86D6][81D3][82E1][81D6]\n"
+"[8689][8598] [82A7][80E0] [86B1][81CA] [81E0][8292].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_005,segment:0"
+msgid ""
+"<start>[7:FF06][81D8][80E5] [83F6][81F6][83F0][80E2][83BF][80E8]\n"
+"[86BF] [86C0][80E0] [86B1][81CA] [85C9][8299].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_006,segment:0"
+msgid ""
+"<start>[7:FF06][81F8][80E5] [80E2] [86C0][80E7] [81E7][81ED][80E1] [86B1][81CA][82BF][82FA].\n"
+"<end>"
+msgstr ""

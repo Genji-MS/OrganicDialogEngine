@@ -1,0 +1,717 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Newscaster
+msgctxt "type:0,entry:SHIBUYA2,segment:0"
+msgid ""
+"<start>[7:FF07]A riot broke out yesterday at Yoyogi\n"
+"Park, regarding the construction of\n"
+"a communications tower.\n"
+"<end>"
+msgstr ""
+
+#. Newscaster
+msgctxt "type:0,entry:SHIBUYA2,segment:1"
+msgid ""
+"<start>The demonstration got out of hand,\n"
+"and there have been several deaths\n"
+"and injuries reported.\n"
+"<end>"
+msgstr ""
+
+#. Newscaster
+msgctxt "type:0,entry:SHIBUYA2,segment:2"
+msgid ""
+"<start>Also, [2:FF02]Hikawa[2:FF01], the top\n"
+"executive of Cybers Communication,\n"
+"is still missing.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SHIBUYA3,segment:0"
+msgid ""
+"<start>[7:FF07]> The news continues...\n"
+"<end>"
+msgstr ""
+
+#. Newscaster
+msgctxt "type:0,entry:SHIBUYA4,segment:0"
+msgid ""
+"<start>[7:FF07]Now, for the latest in sports,\n"
+"we move over to Mannaka!\n"
+"<end>"
+msgstr ""
+
+#. Newscaster
+msgctxt "type:0,entry:SHIBUYA5,segment:0"
+msgid ""
+"<start>[7:FF07]Now, for the latest in\n"
+"entertainment, we move over\n"
+"to Ashimoto!\n"
+"<end>"
+msgstr ""
+
+#. Newscaster
+msgctxt "type:0,entry:SHIBUYA6,segment:0"
+msgid ""
+"<start>[7:FF07]And now, over to Kei for\n"
+"the latest in sports!\n"
+"<end>"
+msgstr ""
+
+#. Newscaster
+msgctxt "type:0,entry:SHIBUYA7,segment:0"
+msgid ""
+"<start>[7:FF07]Stay tuned to see what the weather\n"
+"forecast has planned.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:DAREMOINAI,segment:0"
+msgid ""
+"<start>[7:FF07]> No one is here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:YOUHANAI,segment:0"
+msgid ""
+"<start>[7:FF07]> You have no business here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:YOYOGI,segment:0"
+msgid ""
+"<start>[7:FF07]> Yoyogi Park is sealed off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNIN,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a note on the door.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:BUNIN,segment:1"
+msgid ""
+"<start>[7:FF07]\"The entrance to the annex is\n"
+"closed. Please use the entrance\n"
+"to the main building.\"\n"
+"<end>"
+msgstr ""
+
+#. Rubbernecker
+msgctxt "type:0,entry:SHIBUYANPC,segment:0"
+msgid ""
+"<start>[7:FF07]Hey, hey! Yoyogi Park's all closed\n"
+"off, 'cause there was a riot.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EXITWARP,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you leave the area?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EXITWARP_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a Mystical Chest.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HOSEKI_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Mystical Chest.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA,segment:0"
+msgid ""
+"<start>[7:FF07]> You see a Cache Cube.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAKARA_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Cache Cube.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_STILLGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DH_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"the Magatama [2:FF05][3:FF01][2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_MAKA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01] Macca[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:0"
+msgid ""
+"<start>[7:FF07]> It's a trap.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:1"
+msgid ""
+"<start>> Your party took damage.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_KARAGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:0"
+msgid ""
+"<start>[7:FF07]> [3:FF03] found something.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:1"
+msgid ""
+"<start>[7:FF07]............\n"
+"> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_OPENERROR,segment:0"
+msgid ""
+"<start>[7:FF07]> It can't be used here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_LIGHTMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The light effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_ESTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The repel effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REBERAMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The attract effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REFUTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The levitation effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:WARP_ELV_MSG,segment:0"
+msgid ""
+"<start>[7:FF07]> Select a floor.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL1,segment:0"
+msgid "<start>[3:FF01][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL2,segment:0"
+msgid "<start>[3:FF02][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL3,segment:0"
+msgid "<start>[3:FF03][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL4,segment:0"
+msgid "<start>[3:FF04][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL5,segment:0"
+msgid "<start>[3:FF05][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL6,segment:0"
+msgid "<start>[3:FF06][80EA]"
+msgstr ""
+
+msgctxt "type:0,entry:INFTEST1,segment:0"
+msgid ""
+"<start>[7:FF07]> Message Test.\n"
+"Next are the choices...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:INFTEST1_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:INFTEST1_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Yes, you say?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:INFTEST1_NO,segment:0"
+msgid ""
+"<start>[7:FF07]No, you say?\n"
+"<end>"
+msgstr ""
+
+#. Young man
+msgctxt "type:0,entry:F001_MACHIBITO_01_01,segment:0"
+msgid ""
+"<start>[7:FF07]The riot at Yoyogi Park?\n"
+"<end>"
+msgstr ""
+
+#. Young man
+msgctxt "type:0,entry:F001_MACHIBITO_01_01,segment:1"
+msgid ""
+"<start>Oh, you mean that thing they're\n"
+"showing on TV?\n"
+"<end>"
+msgstr ""
+
+#. Young man
+msgctxt "type:0,entry:F001_MACHIBITO_01_01,segment:2"
+msgid ""
+"<start>It doesn't seem real to me!\n"
+"I feel like this riot happened\n"
+"in another world or something...\n"
+"<end>"
+msgstr ""
+
+#. Young man
+msgctxt "type:0,entry:F001_MACHIBITO_01_01,segment:3"
+msgid ""
+"<start>Well, I don't really have anything\n"
+"to do with it anyway.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F001_MACHIBITO_02_01,segment:0"
+msgid ""
+"<start>[7:FF07]> You can overhear a couple's\n"
+"conversation.\n"
+"<end>"
+msgstr ""
+
+#. Woman
+msgctxt "type:0,entry:F001_MACHIBITO_02_02,segment:0"
+msgid ""
+"<start>[7:FF07]Did you hear about the riot?!\n"
+"Three people died, right???\n"
+"Eeek! I'm so scared!!\n"
+"<end>"
+msgstr ""
+
+#. Man
+msgctxt "type:0,entry:F001_MACHIBITO_02_03,segment:0"
+msgid ""
+"<start>You're such a scaredy-cat!\n"
+"C'mon, baby, every night we\n"
+"start our own 'riot of love'!\n"
+"<end>"
+msgstr ""
+
+#. Woman
+msgctxt "type:0,entry:F001_MACHIBITO_02_04,segment:0"
+msgid ""
+"<start>[7:FF07]You're such a pervert!\n"
+"But, I love that about you!!\n"
+"*giggle*\n"
+"<end>"
+msgstr ""
+
+#. High school girl
+msgctxt "type:0,entry:F001_MACHIBITO_03_02,segment:0"
+msgid ""
+"<start>[7:FF07]Oh hey, [12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. High school girl
+msgctxt "type:0,entry:F001_MACHIBITO_03_02,segment:1"
+msgid ""
+"<start>You said you were going to visit\n"
+"Ms. [11:FF02] today, right?\n"
+"<end>"
+msgstr ""
+
+#. High school girl
+msgctxt "type:0,entry:F001_MACHIBITO_03_02,segment:2"
+msgid ""
+"<start>Just because she's beautiful,\n"
+"don't go doing weird things to her,\n"
+"okay!?\n"
+"<end>"
+msgstr ""
+
+#. Young officer
+msgctxt "type:0,entry:F001_MACHIBITO_04,segment:0"
+msgid ""
+"<start>[7:FF07]Due to investigations, the [2:FF02]entrances\n"
+"to Yoyogi Park[2:FF01] have been closed off.\n"
+"<end>"
+msgstr ""
+
+#. Young officer
+msgctxt "type:0,entry:F001_MACHIBITO_04,segment:1"
+msgid ""
+"<start>We ask for your cooperation.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F001_MACHIBITO09_01,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a live report\n"
+"going on...\n"
+"<end>"
+msgstr ""
+
+#. Reporter
+msgctxt "type:0,entry:F001_MACHIBITO09_02,segment:0"
+msgid ""
+"<start>[7:FF07]I feel that the demonstrators'\n"
+"actions were out of line...\n"
+"<end>"
+msgstr ""
+
+#. Reporter
+msgctxt "type:0,entry:F001_MACHIBITO09_02,segment:1"
+msgid ""
+"<start>But, even I can't forgive Cybers\n"
+"Communication for destroying\n"
+"the park for their own profits!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F001_MACHIBITO09_03,segment:0"
+msgid ""
+"<start>[7:FF07]> The reporter's impassioned speech\n"
+"continues...\n"
+"<end>"
+msgstr ""
+
+#. High school boy
+msgctxt "type:0,entry:F001_MACHIBITO06,segment:0"
+msgid ""
+"<start>[7:FF07]Yo, [12:FF01]. What's up?\n"
+"<end>"
+msgstr ""
+
+#. High school boy
+msgctxt "type:0,entry:F001_MACHIBITO06,segment:1"
+msgid ""
+"<start>...Did you hear the rumor about\n"
+"Yoyogi Park?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F001_MACHIBITO06_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. High school boy
+msgctxt "type:0,entry:F001_MACHIBITO06_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Well... it's just a rumor.\n"
+"<end>"
+msgstr ""
+
+#. High school boy
+msgctxt "type:0,entry:F001_MACHIBITO06_NO,segment:0"
+msgid ""
+"<start>[7:FF07]I heard, on the night of the riot,\n"
+"a [2:FF02]demon[2:FF01] was spotted at Yoyogi Park.\n"
+"<end>"
+msgstr ""
+
+#. High school boy
+msgctxt "type:0,entry:F001_MACHIBITO06_NO,segment:1"
+msgid ""
+"<start>It was a terrible demon that killed\n"
+"all those people!\n"
+"<end>"
+msgstr ""
+
+#. High school boy
+msgctxt "type:0,entry:F001_MACHIBITO06_NO,segment:2"
+msgid ""
+"<start>Well... it's just a rumor.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F001_MACHIBITO_07_01,segment:0"
+msgid ""
+"<start>[7:FF07]> You can hear some ladies talking.\n"
+"<end>"
+msgstr ""
+
+#. Tacky lady
+msgctxt "type:0,entry:F001_MACHIBITO_07_02,segment:0"
+msgid ""
+"<start>[7:FF07]Did you hear???\n"
+"About Shinjuku Medical Center...\n"
+"<end>"
+msgstr ""
+
+#. Not so tacky lady
+msgctxt "type:0,entry:F001_MACHIBITO_07_03,segment:0"
+msgid ""
+"<start>[7:FF07]You mean the rumor that it's being\n"
+"run by some crazy group called\n"
+"the [2:FF02]Gaea cult[2:FF00]?\n"
+"<end>"
+msgstr ""
+
+#. Tacky lady
+msgctxt "type:0,entry:F001_MACHIBITO_07_04,segment:0"
+msgid ""
+"<start>[7:FF07]That's the one!! Aren't cults\n"
+"horrifying??? You never know\n"
+"what they're gonna to do!!\n"
+"<end>"
+msgstr ""
+
+#. Not so tacky lady
+msgctxt "type:0,entry:F001_MACHIBITO_07_05,segment:0"
+msgid ""
+"<start>[7:FF07]The Yoyogi Park riot...\n"
+"The Gaea cult controlling\n"
+"Shinjuki Medical Center...\n"
+"<end>"
+msgstr ""
+
+#. Not so tacky lady
+msgctxt "type:0,entry:F001_MACHIBITO_07_05,segment:1"
+msgid ""
+"<start>But, we don't have anything\n"
+"to do with it!\n"
+"<end>"
+msgstr ""
+
+#. Old man
+msgctxt "type:0,entry:F001_MACHIBITO_05,segment:0"
+msgid ""
+"<start>[7:FF07]Not again... I need ma' pills!\n"
+"<end>"
+msgstr ""
+
+#. Old man
+msgctxt "type:0,entry:F001_MACHIBITO_05,segment:1"
+msgid ""
+"<start>The [2:FF02]hospital[2:FF01] up ahead hasn't been\n"
+"open for awhile. What's goin' on?\n"
+"<end>"
+msgstr ""
+
+#. Shabby man
+msgctxt "type:0,entry:F001_MACHIBITO_08,segment:0"
+msgid ""
+"<start>[7:FF07]By gum! Lately, I've been havin' me\n"
+"a recurrin' dream...\n"
+"<end>"
+msgstr ""
+
+#. Shabby man
+msgctxt "type:0,entry:F001_MACHIBITO_08,segment:1"
+msgid ""
+"<start>It's a dream where da world\n"
+"becomes round...\n"
+"<end>"
+msgstr ""
+
+#. Shabby man
+msgctxt "type:0,entry:F001_MACHIBITO_08,segment:2"
+msgid ""
+"<start>By gum! I means ter say...\n"
+"Da world IS round, but it got\n"
+"round-er, ya see!?\n"
+"<end>"
+msgstr ""
+
+#. Shabby man
+msgctxt "type:0,entry:F001_MACHIBITO_08,segment:3"
+msgid ""
+"<start>I think it's a prophetic dream,\n"
+"but no one believes me... By gum!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F001_GIMMIC01,segment:0"
+msgid ""
+"<start>[7:FF07]> The news is showing on\n"
+"the giant video display...\n"
+"<end>"
+msgstr ""
+
+#. Tourist girl
+msgctxt "type:0,entry:F001_MACHIBITO_10,segment:0"
+msgid ""
+"<start>[7:FF07]Wowie!\n"
+"<end>"
+msgstr ""
+
+#. Tourist girl
+msgctxt "type:0,entry:F001_MACHIBITO_10,segment:1"
+msgid ""
+"<start>What's up with everyone here?\n"
+"<end>"
+msgstr ""
+
+#. Tourist girl
+msgctxt "type:0,entry:F001_MACHIBITO_10,segment:2"
+msgid ""
+"<start>Everyone's so dang crabby,\n"
+"even after the riot!\n"
+"<end>"
+msgstr ""
+
+#. Tourist girl
+msgctxt "type:0,entry:F001_MACHIBITO_10,segment:3"
+msgid ""
+"<start>By the way... Do you wanna have\n"
+"a good time with me???\n"
+"<end>"
+msgstr ""
+
+#. Police officer
+msgctxt "type:0,entry:F001_MACHIBITO_11_01,segment:0"
+msgid ""
+"<start>[7:FF07]Geez, kids today...\n"
+"<end>"
+msgstr ""
+
+#. Police officer
+msgctxt "type:0,entry:F001_MACHIBITO_11_01,segment:1"
+msgid ""
+"<start>There were even fatalities,\n"
+"yet it's like a carnival here.\n"
+"<end>"
+msgstr ""
+
+#. Police officer
+msgctxt "type:0,entry:F001_MACHIBITO_11_01,segment:2"
+msgid ""
+"<start>Just a while back, a [2:FF02]long-haired man[2:FF01]\n"
+"walked in.\n"
+"<end>"
+msgstr ""
+
+#. Police officer
+msgctxt "type:0,entry:F001_MACHIBITO_11_02,segment:0"
+msgid ""
+"<start>[7:FF07]Kids today are so thoughtless...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F001_MACHIBITO12_01,segment:0"
+msgid ""
+"<start>[7:FF07]> You overhear a conversation\n"
+"between some high school girls...\n"
+"<end>"
+msgstr ""
+
+#. Ugly high school girl
+msgctxt "type:0,entry:F001_MACHIBITO12_02,segment:0"
+msgid ""
+"<start>[7:FF07]...Don'tcha think that Hikawa guy's\n"
+"cool?\n"
+"<end>"
+msgstr ""
+
+#. Even uglier high school girl
+msgctxt "type:0,entry:F001_MACHIBITO12_03,segment:0"
+msgid ""
+"<start>[7:FF07]As if! He's got all those bad rumors\n"
+"about him floating around!\n"
+"<end>"
+msgstr ""
+
+#. Ugly high school girl
+msgctxt "type:0,entry:F001_MACHIBITO12_04,segment:0"
+msgid ""
+"<start>[7:FF07]Oh, gawd! That's what makes him so\n"
+"cool!\n"
+"<end>"
+msgstr ""
+
+#. Young man
+msgctxt "type:0,entry:F001_MACHIBITO13,segment:0"
+msgid ""
+"<start>[7:FF07]I just saw this [2:FF02]foreign guy in red[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Young man
+msgctxt "type:0,entry:F001_MACHIBITO13,segment:1"
+msgid ""
+"<start>He had a giant sword on his back,\n"
+"and looked dangerous!\n"
+"<end>"
+msgstr ""
+
+#. Young man
+msgctxt "type:0,entry:F001_MACHIBITO13,segment:2"
+msgid ""
+"<start>But, I swear I've seen him\n"
+"somewhere before... Hmmm...\n"
+"<end>"
+msgstr ""

@@ -1,0 +1,464 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_001,segment:0"
+msgid ""
+"<start>[7:FF07]Well, hello.\n"
+"...I knew you would come.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_001,segment:1"
+msgid ""
+"<start>[18:]You heard about what's happening\n"
+"here, right?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_001,segment:2"
+msgid ""
+"<start>[18:]The existence of a power that\n"
+"can change the world...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_001P,segment:0"
+msgid ""
+"<start>[7:FF07]...I'm sorry that I disappeared\n"
+"after you saved me.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_001P,segment:1"
+msgid ""
+"<start>[18:]It was my god who did that;\n"
+"I couldn't do anything about it...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_002,segment:0"
+msgid ""
+"<start>[7:FF07]...I lost most of my power,\n"
+"thanks to Hikawa and his Obelisk.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_002,segment:1"
+msgid ""
+"<start>[18:]But, my god has been protecting me\n"
+"since then,\n"
+"and I'm doing much better now.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_002,segment:2"
+msgid ""
+"<start>[18:]Hikawa won't be able to\n"
+"take control of me again.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_002_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...I won't let him be the one\n"
+"to shape the new world.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_002_2,segment:1"
+msgid ""
+"<start>[18:]What he envisions is a world\n"
+"where the thread of time is\n"
+"spun unerringly, without change...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_002_2,segment:2"
+msgid ""
+"<start>[18:]You can't call that a world.\n"
+"It's just wasted space,\n"
+"totally devoid of power.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_002_2,segment:3"
+msgid ""
+"<start>[18:]To restrain the reborn world\n"
+"like that would be unforgivable.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_003,segment:0"
+msgid ""
+"<start>[7:FF07][18:]As the one responsible for\n"
+"the destruction of the old world,\n"
+"it's my duty to shape the new one.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_003,segment:1"
+msgid ""
+"<start>[18:]The world cannot remain\n"
+"in a state of chaos,\n"
+"nor can it fall prey to\n"
+"Hikawa's ambitions.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_004,segment:0"
+msgid ""
+"<start>[7:FF07][18:]But right now,\n"
+"there's nothing I can do...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_004,segment:1"
+msgid ""
+"<start>[18:]My god has spoken to me,\n"
+"but she has yet to reveal\n"
+"the Reason...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_004,segment:2"
+msgid ""
+"<start>......\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_006,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You know what's been going on\n"
+"here lately?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_006,segment:1"
+msgid ""
+"<start>[18:]Well, it's all because of\n"
+"the [2:FF02]Yahirono Himorogi[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_006,segment:2"
+msgid ""
+"<start>[18:]The [2:FF02]Yahirono Himorogi[2:FF01] is a stone\n"
+"that contains an enormous amount\n"
+"of Magatsuhi. It grants tremendous\n"
+"power to its possessor.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_006,segment:3"
+msgid ""
+"<start>[18:]Word spread that the stone\n"
+"is somewhere in Yoyogi Park,\n"
+"and now everybody is trying to\n"
+"claim it for their own.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_006_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...I'm not interested in Magatsuhi,\n"
+"but the stone is rumored to have\n"
+"the power to control even gods.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_006_2,segment:1"
+msgid ""
+"<start>[18:]Once I have that power...\n"
+"I'll be worthy of receiving\n"
+"the Reason from my god.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_006_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Currently, the [2:FF02]Yahirono Himorogi[2:FF01]\n"
+"is in someone's possession.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_006_3,segment:1"
+msgid ""
+"<start>[18:]I'm not sure who,\n"
+"but I can sense a strong,\n"
+"evil power.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_006_3,segment:2"
+msgid ""
+"<start>[18:]Their power is so strong that\n"
+"I wouldn't stand a chance\n"
+"against it...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_006_3,segment:3"
+msgid ""
+"<start>[18:]But, I think you would.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_006_3,segment:4"
+msgid ""
+"<start>[18:]If I promise to give you\n"
+"the Magatsuhi contained\n"
+"inside it...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_006_3,segment:5"
+msgid ""
+"<start>[18:]...will you try to get\n"
+"the [2:FF02]Yahirono Himorogi[2:FF01] for me?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MSG_SEL_1,segment:0"
+msgid "<start>Okay."
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_ANS_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Thank you so much.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_ANS_1,segment:1"
+msgid ""
+"<start>[18:]By the way, you couldn't get into\n"
+"the park before, right?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_ANS_1,segment:2"
+msgid ""
+"<start>[18:]Here, take this.\n"
+"It's the key to that locked door.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_ANS_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I see...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_ANS_2,segment:1"
+msgid ""
+"<start>[18:]...I want you to know that\n"
+"you're the only one I feel like\n"
+"I can rely on in this world.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_ANS_2,segment:2"
+msgid ""
+"<start>[18:]Even if you say no,\n"
+"I'll still have faith in you.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_ANS_2,segment:3"
+msgid ""
+"<start>[18:]You weren't able to get inside\n"
+"the park before, right?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_ANS_2,segment:4"
+msgid ""
+"<start>[18:]Here, take this.\n"
+"It's the key to that locked door.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_ANS_2_R,segment:0"
+msgid ""
+"<start>[7:FF07][18:]The choice is yours, but...\n"
+"I believe in you.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_ANS_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]If you're having doubts,\n"
+"then I really shouldn't force you\n"
+"to do it, but...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_ANS_3,segment:1"
+msgid ""
+"<start>[18:]...you're the only one that\n"
+"I can rely on in this world.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_ANS_3,segment:2"
+msgid ""
+"<start>[18:]Even if you say no,\n"
+"I'll still have faith in you.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_ANS_3,segment:3"
+msgid ""
+"<start>[18:]You weren't able to get inside\n"
+"the park before, right?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_ANS_3,segment:4"
+msgid ""
+"<start>[18:]Here, take this.\n"
+"It's the key to that locked door.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_ANS_3_R,segment:0"
+msgid ""
+"<start>[7:FF07][18:]The choice is yours, but...\n"
+"I believe in you.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_ANS_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained the [2:FF02]key to Yoyogi Park[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_005,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I'll be counting on you,\n"
+"[12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_005_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Goodbye, [12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_005_2,segment:1"
+msgid ""
+"<start>[18:]I'll be here waiting for you...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_M01,segment:0"
+msgid ""
+"<start>[7:FF07][18:][12:FF01], please bring me\n"
+"the [2:FF02]Yahirono Himorogi[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_M01,segment:1"
+msgid ""
+"<start>There is no one else in this world\n"
+"who I can rely on...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_M02,segment:0"
+msgid ""
+"<start>[7:FF07][18:][12:FF01]...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_M02,segment:1"
+msgid ""
+"<start>[18:]You didn't agree to get\n"
+"the [2:FF02]Yahirono Himorogi[2:FF01] for me,\n"
+"but...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_M02,segment:2"
+msgid ""
+"<start>[18:]I believe in you.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_M03,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Goodbye, [12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_YUUKO_M03,segment:1"
+msgid ""
+"<start>[18:]I'll be here waiting for you...\n"
+"<end>"
+msgstr ""

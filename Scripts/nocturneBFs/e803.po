@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Broker
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF06]Welcome to Rag's Jewelry.\n"
+"<end>"
+msgstr ""
+
+#. Broker
+msgctxt "type:0,entry:MSG_002,segment:1"
+msgid ""
+"<start>Mmmm, you smell strongly of gems.\n"
+"<end>"
+msgstr ""
+
+#. Broker
+msgctxt "type:0,entry:MSG_002,segment:2"
+msgid ""
+"<start>You've come to the right place.\n"
+"Heh heh heh...\n"
+"<end>"
+msgstr ""

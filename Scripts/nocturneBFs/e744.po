@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Red Rider
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07]Hmmmm, so you're still alive, eh?\n"
+"<end>"
+msgstr ""
+
+#. Red Rider
+msgctxt "type:0,entry:MSG_001,segment:1"
+msgid ""
+"<start>You actually managed to defeat\n"
+"one of us... Very impressive.\n"
+"<end>"
+msgstr ""
+
+#. Red Rider
+msgctxt "type:0,entry:MSG_001,segment:2"
+msgid ""
+"<start>But, I won't be as easy as\n"
+"the white knight.\n"
+"<end>"
+msgstr ""
+
+#. Red Rider
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF07]My crimson armor shall glisten\n"
+"with your blood.\n"
+"<end>"
+msgstr ""
+
+#. Red Rider
+msgctxt "type:0,entry:MSG_002,segment:1"
+msgid ""
+"<start>Death be unto you, Demi-fiend!!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"the [2:FF02]Candelabrum of Insight[2:FF01].\n"
+"<end>"
+msgstr ""

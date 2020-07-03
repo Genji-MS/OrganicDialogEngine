@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 28/03/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[[[[[[[
+msgctxt "type:0,entry:NWD_NEWS_TEST,segment:0"
+msgid ""
+"<start>[8AC3][818C][8CD3][83F4][86D3][81EF][8284][81D9][84DB][81A9][8081] [85EB][92DA][818C][91D3][8EF1][80E9][809F]\n"
+"[82C2][8BB0][82AE][84C4] [84DF][84A5][88A6][90F8] [90D0][84A5][8FF7][8189][80E8][80E2][8184]\n"
+"[85AA][818C][8CD3][83F4][82A6][86D3][81EF][8284][81D9][82A7][80EA][83EA][858B][80F3][81AA][80FD][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[[[
+msgctxt "type:0,entry:NWD_NEWS_TEST,segment:1"
+msgid ""
+"<start>[86D3][81EF][8284][81D9][8186][818D] [83F4][81B0][84ED][87DA][80E9][81A7][8DB8][80E2][85DA][8A99][80F7][81A9][8186]\n"
+"[85AA][80F3][81AA][8184][80E2][81A9][8AC3][818C][83F4][84EF][8185] [8988][8A99][85A3][80EA][84D4][80F8]\n"
+"[86C3][819C][819D][81AA][8189][8188][81A9][80FD][819F][80F1][818C][83E6][8185][84D2][818E][81AA][8184][80E2][81A9][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[[[
+msgctxt "type:0,entry:NWD_NEWS_TEST,segment:2"
+msgid ""
+"<start>[80F1][81AA][819C][8185][818D][87DC][88B7][818C][84DD][81A8][86A3][80FE][8186][84F4][81AD][81AA][8184][80E2][80FD][80EA]\n"
+"[8591][8698][818C][87BD][85A3][8189][81A6][81A9][84EC][83E1][818C][868F][8A9B][899E][85B4][8189][81A6][8181][8184]\n"
+"[8182][80E2][8189][80FB][818C][84B0][84DC][80EA][849D][8488][80F3][81AA][80FD][818C][8185][80E0][81A9][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[[[
+msgctxt "type:0,entry:NWD_NEWS_TEST,segment:3"
+msgid ""
+"<start>[809E][87BD][85BD][818D][84D6][80E2][8184][80E2][81A9][828A][828A][828A]\n"
+"<end>"
+msgstr ""

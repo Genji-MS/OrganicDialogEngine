@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07][18:]When you have defeated those foes,\n"
+"you will be accepted and honored\n"
+"by us all.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF07][18:]My master would like to help you\n"
+"prepare for the forthcoming battles\n"
+"by sharing a portion of his power.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002,segment:1"
+msgid ""
+"<start>He shall release the hidden power\n"
+"of the Magatama that you have\n"
+"received.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You, who have cast away your\n"
+"human form and, as a Fiend,\n"
+"conquered all deaths...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You were given the body of a demon\n"
+"when you entered the Vortex World,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:1"
+msgid ""
+"<start>[18:]and now, it is time for you to receive\n"
+"the heart of a demon, as my master\n"
+"wishes.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You shall be born again,\n"
+"as a demon of chaos...\n"
+"harbinger of the final battle!\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005,segment:0"
+msgid ""
+"<start>[7:FF07][18:]May you prevail...\n"
+"Our strength, our hope...\n"
+"<end>"
+msgstr ""

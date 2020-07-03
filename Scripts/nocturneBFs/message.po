@@ -1,0 +1,966 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Minister
+msgctxt "type:0,entry:msg_1st,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]This is the Cathedral of Shadows...\n"
+"What is your bidding?\n"
+""
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_1st_fullmoon,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]This is the Cathedral of Shadows...\n"
+"The heavens shine brightly.\n"
+"What is your bidding?\n"
+""
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_1st_curse,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]This is the Cathedral of Shadows...\n"
+"What is your bidding, cursed one?\n"
+""
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_err_dev_nums,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]You do not have enough demons...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_sacrifice,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]Kagutsuchi is at its brightest...\n"
+"Will you offer a sacrifice?\n"
+""
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_confirm,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]Are you sure?\n"
+""
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_err_dev_lev,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]You aren't strong enough\n"
+"to control it...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_err_dev_dbl,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]You already have one\n"
+"in your party...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_trouble_change,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]Hmmm...?\n"
+"It seems an unexpected demon\n"
+"was born.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_trouble_enhance,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]Hmmm...?\n"
+"It seems it is more powerful\n"
+"than expected.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_2nd,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]What will you do?\n"
+""
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_encyc_top,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]What will you do\n"
+"with the Compendium?\n"
+""
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_write_err_nobody,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]You do not have anyone who\n"
+"needs to be registered.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_see_err_nocontents,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]No one is registered yet.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_write,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]Who will you register?\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_write_updatecheck,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]There is already a record of this\n"
+"demon. Will you overwrite it?\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_write_updateend,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01][3:FF02] has been registered.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_summon_check,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]It will cost [3:FF03] Macca.\n"
+"Are you okay with that?\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_summon_check_err,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]It will cost [3:FF03] Macca...\n"
+"But, it seems you don't\n"
+"have enough.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_talk,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]What do you want to know?\n"
+""
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_exit,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]Come back again.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:msg_sel01,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_encyc_regist_top,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]These are the demons that\n"
+"differ from the records.\n"
+"Who will you register?\n"
+""
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_encyc_regist_confirm,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]There is already a record of this\n"
+"demon. Will you overwrite it?\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_encyc_regist_confirm,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]The record has been updated.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_encyc_regist_confirm,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]Hmmm...\n"
+"That is everyone.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_encyc_summon,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]It will cost [2:FF05][3:FF01] Macca[2:FF01].\n"
+"Are you okay with that?\n"
+""
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_encyc_summon_result,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I have succeeded in summoning\n"
+"[3:FF02].\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_encyc_summon_error0,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]It will cost [2:FF05][3:FF01] Macca[2:FF01]...\n"
+"But, it seems you don't \n"
+"have enough.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_encyc_summon_error1,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]You already have one\n"
+"in your party...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_encyc_summon_error2,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]Your party is full.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_encyc_summon_error3,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]You are not strong enough\n"
+"to control it...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_encyc_summon_error4,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]Even I cannot handle\n"
+"this man...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_encyc_registall,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]Is it okay to register everyone?\n"
+""
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_encyc_registall_done,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I registered everyone.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:msg_manin_item_follow,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]> The [2:FF05][3:FF06][2:FF01]\n"
+"lost its brilliance...\n"
+"[16:]<start><end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_boy,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I'm [2:FF05][3:FF01][2:FF01] of\n"
+"the [2:FF05][3:FF05][2:FF01] clan.\n"
+"Nice ta meetcha, mister.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_girl,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I'm [2:FF05][3:FF01][2:FF01] of\n"
+"the [2:FF05][3:FF05][2:FF01] clan.\n"
+"You'd better take good care of me.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_lady,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I am [2:FF05][3:FF01][2:FF01] of\n"
+"the [2:FF05][3:FF05][2:FF01] clan.\n"
+"A pleasure to meet you.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_witch,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I'm [2:FF05][3:FF01][2:FF01] of\n"
+"the [2:FF05][3:FF05][2:FF01] clan.\n"
+"Let's have some fun together!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_heehaw,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I'm [2:FF05][3:FF01][2:FF01] of the [2:FF05][3:FF05][2:FF01] clan.\n"
+"Let's go, hee ho!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_beast,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I AM [2:FF05][3:FF01][2:FF01] OF\n"
+"THE [2:FF05][3:FF05][2:FF01] CLAN.\n"
+"NICE TO MEET YOU. \n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_gentle,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I am [2:FF05][3:FF01][2:FF01] of\n"
+"the [2:FF05][3:FF05][2:FF01] clan.\n"
+"Charmed, I'm sure...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_punk,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I'm [2:FF05][3:FF01][2:FF01] of\n"
+"the [2:FF05][3:FF05][2:FF01] clan.\n"
+"I can't wait to kick some ass!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_oldman,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I'm [2:FF05][3:FF01][2:FF01] of\n"
+"the [2:FF05][3:FF05][2:FF01] clan.\n"
+"Let's take it easy, sonny!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_oldwoman,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I'm [2:FF05][3:FF01][2:FF01] of\n"
+"the [2:FF05][3:FF05][2:FF01] clan.\n"
+"I'm glad to meet you...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_lord,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I am [2:FF05][3:FF01][2:FF01] of\n"
+"the [2:FF05][3:FF05][2:FF01] clan.\n"
+"I am at thy command.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_manekata,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]You can't fuse a Manikin, fool.\n"
+"And, they call 'me' a dummy!?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_heroine,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I'm [2:FF05][3:FF01][2:FF01] of\n"
+"the [2:FF05][3:FF05][2:FF01] clan.\n"
+"At your service!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_samurai,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I am [2:FF05][3:FF01][2:FF01] of\n"
+"the [2:FF05][3:FF05][2:FF01] clan.\n"
+"I place my life in your hands.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_thing,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]> [2:FF05][3:FF01][2:FF01] of the [2:FF05][3:FF05][2:FF01] clan\n"
+"is shaking.\n"
+"[16:]<start><end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_thing,segment:1"
+msgid ""
+"<start>> It seems to have accepted you\n"
+"as its master.\n"
+"[16:]<start><end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_yoju,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]Me [2:FF05][3:FF01][2:FF01] the [2:FF05][3:FF05][2:FF01].\n"
+"Me eat everyone!!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_devil,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]Kagutsuchi shines\n"
+"On the path to victory\n"
+"The sweet scent of blood.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_devil,segment:1"
+msgid ""
+"<start>Take me, [2:FF05][3:FF01][2:FF01],\n"
+"with you and we'll raise hell!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_0xC7,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I am the [2:FF05][3:FF05] [3:FF01][2:FF01]!\n"
+"Victory shall be yours!\n"
+"Death shall be mine!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_0xC8,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I'm the [2:FF05][3:FF05] [3:FF01][2:FF01].\n"
+"My anger is hell's blessing...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_0xC9,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I am the [2:FF05][3:FF05] [3:FF01][2:FF01].\n"
+"Allow me to hold your funeral...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_0xC4,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]Haha!\n"
+"I am the [2:FF05][3:FF05] [3:FF01][2:FF01]!\n"
+"Behold my overflowing power!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_0xC5,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I am the [2:FF05][3:FF05] [3:FF01][2:FF01].\n"
+"Time for another war, eh?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_0xC6,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]...I am the [2:FF05][3:FF05] [3:FF01][2:FF01].\n"
+"My thirst for blood...\n"
+"...shall never be quenched...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_0xC3,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I am the [2:FF05][3:FF05] [3:FF01][2:FF01].\n"
+"I shall be witness to your death.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_0xCA,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]Hohohoho! Listen carefully!\n"
+"I am the [2:FF05][3:FF05] [3:FF01][2:FF01]!\n"
+"Now, entertain me!...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_0xCB,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I am the [2:FF05][3:FF05] [3:FF01][2:FF01].\n"
+"With the echoes of my trumpet,\n"
+"your enemies shall perish...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_0xC2,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I am [2:FF05][3:FF01][2:FF01] the [2:FF05][3:FF05][2:FF01].\n"
+"I'll lend the Demi-fiend my power.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_0xC1,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I am [2:FF05][3:FF01][2:FF01] the [2:FF05][3:FF05][2:FF01].\n"
+"I entrust my wrath to you...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_0xCC,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I am [2:FF05][3:FF01][2:FF01] the [2:FF05][3:FF05][2:FF01].\n"
+"I have returned from the dead\n"
+"to help.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_0xCD,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I'm [2:FF05][3:FF01][2:FF01] the [2:FF05][3:FF05][2:FF01]! Hyahaha!\n"
+"Ya want me to kill some more?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:birth_msg_0xCF,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]This is the true form of\n"
+"[2:FF05][3:FF01][2:FF01] the [2:FF05][3:FF05][2:FF01].\n"
+"...Let us hurry, Demi-fiend.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg01,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]Fusion is the ritual of fusing two\n"
+"demons together to form a new one.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg01,segment:1"
+msgid ""
+"<start>You can usually create a demon\n"
+"with a higher level than the\n"
+"two you originally fused.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg01,segment:2"
+msgid ""
+"<start>You are essentially trading in \n"
+"two demons for one, so you will \n"
+"be losing a member.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg01,segment:3"
+msgid ""
+"<start>It is always important that you\n"
+"keep in mind the ability of\n"
+"your members before fusing them.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg01,segment:4"
+msgid ""
+"<start>Some demons don't fuse with \n"
+"others, like those from\n"
+"dark and light alliances.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg01,segment:5"
+msgid ""
+"<start>If you want to survive,\n"
+"be sure not to forget\n"
+"these basics.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg02,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]I assume that you are already\n"
+"aware that demons are \n"
+"categorized into 'races'...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg02,segment:1"
+msgid ""
+"<start>You should also be aware that the \n"
+"races 'Element' and 'Mitama' \n"
+"are special.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg02,segment:2"
+msgid ""
+"<start>If you fuse them together,\n"
+"the outcome will differ from\n"
+"that of a normal fusion.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg02,segment:3"
+msgid ""
+"<start>If you fuse a normal demon with an\n"
+"Element, it will become another\n"
+"demon of the same race.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg02,segment:4"
+msgid ""
+"<start>If you fuse it with a Mitama,\n"
+"it will not be reborn, but it\n"
+"will become more powerful.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg02,segment:5"
+msgid ""
+"<start>It would be wise to remember\n"
+"that.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg03,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]Kagutsuchi is the source of all\n"
+"light present in the middle of\n"
+"the world...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg03,segment:1"
+msgid ""
+"<start>Its light has special powers,\n"
+"and makes demons go mad.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg03,segment:2"
+msgid ""
+"<start>When it is shining its\n"
+"brightest, you can use the\n"
+"light for fusion.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg03,segment:3"
+msgid ""
+"<start>By offering another demon as\n"
+"a sacrifice, you can use\n"
+"'sacrificial fusion'.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg03,segment:4"
+msgid ""
+"<start>Sacrificial fusion will allow\n"
+"you to create demons with\n"
+"higher stats and more skills.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg03,segment:5"
+msgid ""
+"<start>There are demons that can only\n"
+"be born from sacrificial fusion.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg03,segment:6"
+msgid ""
+"<start>If you use it right, it will\n"
+"be of great benefit to you.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg03,segment:7"
+msgid ""
+"<start>Just remember that you can't\n"
+"offer a sacrifice if you're\n"
+"fusing with a Mitama.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg03,segment:8"
+msgid ""
+"<start>Also, accidents often occur\n"
+"when Kagutsuchi is at its \n"
+"brightest.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg03,segment:9"
+msgid ""
+"<start>The choice is up to you...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg04,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]As minister, I am always\n"
+"doing my best when fusing.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg04,segment:1"
+msgid ""
+"<start>...But, nothing is always\n"
+"definite.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg04,segment:2"
+msgid ""
+"<start>Sometimes there are accidents \n"
+"during the ritual.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg04,segment:3"
+msgid ""
+"<start>When that happens, even I\n"
+"don't know what will be born.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg04,segment:4"
+msgid ""
+"<start>Just remember that there\n"
+"is always a chance that\n"
+"something may go wrong...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg05,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]The demons born from fusion\n"
+"may remember the skills of\n"
+"the previous demons.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg05,segment:1"
+msgid ""
+"<start>So, if you use it right, you\n"
+"can have a demon with innate \n"
+"skills.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg05,segment:2"
+msgid ""
+"<start>We do not know everything\n"
+"about it yet, but let me\n"
+"tell you three things...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg05,segment:3"
+msgid ""
+"<start>First, the skills carried over\n"
+"changes every time you select \n"
+"the demons to be fused.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg05,segment:4"
+msgid ""
+"<start>Second, the new demon has \n"
+"affinities with certain skills,\n"
+"making some easier to remember.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg05,segment:5"
+msgid ""
+"<start>Third, the level of the\n"
+"demons to be fused affects how\n"
+"many skills are carried over.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg05,segment:6"
+msgid ""
+"<start>So, you see, leveling up the \n"
+"demons you already have is \n"
+"never a waste.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg05,segment:7"
+msgid ""
+"<start>Remember that.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg06,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]The book that holds all of the\n"
+"information about demons is known \n"
+"as the 'Demonic Compendium'.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg06,segment:1"
+msgid ""
+"<start>If a demon joins your party,\n"
+"it will automatically be\n"
+"recorded in the Compendium.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg06,segment:2"
+msgid ""
+"<start>Those recorded can be summoned\n"
+"to any Cathedral of Shadows.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg06,segment:3"
+msgid ""
+"<start>Also, if you level up a demon\n"
+"and register it, you will be\n"
+"able to summon it at that level.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg06,segment:4"
+msgid ""
+"<start>...But, remember that it'll\n"
+"cost you money to summon\n"
+"a demon.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg06,segment:5"
+msgid ""
+"<start>The stronger the demon, the\n"
+"more it'll cost you. \n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg07,segment:0"
+msgid ""
+"<start>[7:FF07][6:FF01]With the power they have sealed\n"
+"inside, Magatama can change\n"
+"humans into demons.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg07,segment:1"
+msgid ""
+"<start>Each Magatama's powers are \n"
+"unique, giving their host \n"
+"new skills.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg07,segment:2"
+msgid ""
+"<start>There are Magatama that can give\n"
+"techniques that no other demon\n"
+"has ever seen or used.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg07,segment:3"
+msgid ""
+"<start>When will it give out new\n"
+"techniques? Ask the Magatama\n"
+"itself.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg07,segment:4"
+msgid ""
+"<start>You can tell when the time is\n"
+"near by its movement.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg07,segment:5"
+msgid ""
+"<start>We help those who use Magatama\n"
+"in order to fulfill our duty.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg07,segment:6"
+msgid ""
+"<start>When you have collected all the \n"
+"Magatama... That will be the\n"
+"time to carry out our mission.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:talk_msg07,segment:7"
+msgid ""
+"<start>Come back to the Cathedral\n"
+"of Shadows once you have\n"
+"collected all the Magatama.\n"
+"<end>"
+msgstr ""

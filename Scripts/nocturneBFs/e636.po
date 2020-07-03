@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:GOZU_001,segment:0"
+msgid ""
+"<start>[7:FF07]You have returned, mighty demon...\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:GOZU_001,segment:1"
+msgid ""
+"<start>[7:FF07]Have you not seen it\n"
+"with your own eyes...?\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:GOZU_001,segment:2"
+msgid ""
+"<start>The stronghold of Nihilo\n"
+"was laid to waste by my army...\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:GOZU_001,segment:3"
+msgid ""
+"<start>[7:FF07]Then, why...?\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:GOZU_002,segment:0"
+msgid ""
+"<start>[7:FF07]Behold...\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:GOZU_002,segment:1"
+msgid ""
+"<start>Magatsuhi escapes from my body,\n"
+"against my will...\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:GOZU_002,segment:2"
+msgid ""
+"<start>[7:FF07]And I am not the only one!\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:GOZU_002,segment:3"
+msgid ""
+"<start>[7:FF07]All the members of Mantra are being\n"
+"drained of their Magatsuhi...!\n"
+"<end>"
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:GOZU_003,segment:0"
+msgid ""
+"<start>[7:FF07]Curse you, Nihilo!\n"
+"<end>"
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:GOZU_003,segment:1"
+msgid ""
+"<start>...What sort of devious trick\n"
+"did they use!?\n"
+"<end>"
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:GOZU_003,segment:2"
+msgid ""
+"<start>Oh, the humiliation!\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:GOZU_004,segment:0"
+msgid ""
+"<start>[7:FF07]...No! I will not die!\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:GOZU_004,segment:1"
+msgid ""
+"<start>My body may perish,\n"
+"but my spirit will live on!\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:GOZU_004,segment:2"
+msgid ""
+"<start>[7:FF07]In time, the one worthy\n"
+"of my power will come.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:GOZU_004,segment:3"
+msgid ""
+"<start>It is then that I shall return!!\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:GOZU_005,segment:0"
+msgid ""
+"<start>[7:FF07]I will not let them create\n"
+"a world of stillness!!\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:GOZU_005,segment:1"
+msgid ""
+"<start>[7:FF07]What good is a world without\n"
+"strength!?\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:GOZU_005,segment:2"
+msgid ""
+"<start>[7:FF07]I will not forget this rage,\n"
+"this fire that burns my flesh\n"
+"and soul!\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:GOZU_005,segment:3"
+msgid ""
+"<start>My kingdom shall rise again...!!\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:GOZU_005,segment:4"
+msgid ""
+"<start>...Gu...oh......\n"
+"<end>"
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:GOZU_006,segment:0"
+msgid ""
+"<start>[7:FF07]I can see...\n"
+"<end>"
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:GOZU_006,segment:1"
+msgid ""
+"<start>...the Maiden...\n"
+"where the Magatsuhi is drawn to...\n"
+"<end>"
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:GOZU_006,segment:2"
+msgid ""
+"<start>But alas,\n"
+"we are utterly powerless...\n"
+"<end>"
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:GOZU_006,segment:3"
+msgid ""
+"<start>[7:FF07]We have no choice but to wait\n"
+"for our doom...\n"
+"<end>"
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:GOZU_006,segment:4"
+msgid ""
+"<start>Woe to our leader! Gozu-Tennoh!!\n"
+"<end>"
+msgstr ""

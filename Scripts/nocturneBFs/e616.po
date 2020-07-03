@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07]...Hi, [12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:1"
+msgid ""
+"<start>[18:]I'm glad I made it in time,\n"
+"back there at the basement...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:2"
+msgid ""
+"<start>[18:]I wouldn't want you to fall prey\n"
+"to a [2:FF02]demon[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You heard what Hikawa said, right?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_2,segment:1"
+msgid ""
+"<start>[18:]The world is about to be engulfed\n"
+"by chaos.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_2,segment:2"
+msgid ""
+"<start>[18:]It's called the [2:FF02]Conception[2:FF01]...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_2,segment:3"
+msgid ""
+"<start>[18:]The rebirth of the world,\n"
+"an event which no human\n"
+"has ever witnessed.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_2,segment:4"
+msgid ""
+"<start>[18:]Everyone outside of this hospital\n"
+"will perish.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I doubt anyone would approve\n"
+"of such a terrible thing...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_3,segment:1"
+msgid ""
+"<start>[18:]But, even if we let this old world\n"
+"continue to exist, it would\n"
+"eventually lose all of its power.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_3,segment:2"
+msgid ""
+"<start>[18:]The world must first die,\n"
+"for it to be born again...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_4,segment:0"
+msgid ""
+"<start>[18:][7:FF07]And I alone will carry the burden\n"
+"of its sin.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_4,segment:1"
+msgid ""
+"<start>[18:]...No, I don't have any regrets.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You came here, led by fate.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_1,segment:1"
+msgid ""
+"<start>[18:]And it is your fate that you will\n"
+"live through the Conception.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_1,segment:2"
+msgid ""
+"<start>[18:]It may actually be more painful\n"
+"than death...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]But... I believe in you.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:][12:FF01]...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Please find me.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_3,segment:1"
+msgid ""
+"<start>[18:]No matter how the world changes,\n"
+"I'll be your strength.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_3,segment:2"
+msgid ""
+"<start>[18:]As the Maiden, I'll take part in\n"
+"the creation of the new world...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_3,segment:3"
+msgid ""
+"<start>[18:]I'm sure that I'll be able to\n"
+"provide you with guidance.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_4,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...I know it's difficult for you\n"
+"to understand.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_4,segment:1"
+msgid ""
+"<start>[18:]But, we're out of time.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_4,segment:2"
+msgid ""
+"<start>[18:][12:FF01]...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_4,segment:3"
+msgid ""
+"<start>[18:]If you can find me on your own,\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_4,segment:4"
+msgid ""
+"<start>[18:]I promise that I'll tell you\n"
+"everything...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_4,segment:5"
+msgid ""
+"<start>[18:]...The answers to all your questions,\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_4,segment:6"
+msgid ""
+"<start>[18:]and what my true feelings are...\n"
+"<end>"
+msgstr ""

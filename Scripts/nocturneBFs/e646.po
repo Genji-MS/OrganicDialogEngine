@@ -1,0 +1,433 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Hey [12:FF01],\n"
+"you made it.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Sorry if I pressured you too much,\n"
+"but I managed to get here\n"
+"after all.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]It took a while,\n"
+"but I was finally able to pinpoint\n"
+"the route to this terminal.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_4,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Not bad for an ordinary human, eh?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Oh yeah, I found out something\n"
+"interesting about Asakusa. This is\n"
+"where the Manikins are created.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_1,segment:1"
+msgid ""
+"<start>[18:]They're made from the black mud\n"
+"that's scooped up from a river\n"
+"around here.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_1,segment:2"
+msgid ""
+"<start>[18:]No wonder they want to rebuild\n"
+"this town.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Oh yeah, I found out something\n"
+"interesting about this place. It's\n"
+"where the Manikins are created.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_1,segment:1"
+msgid ""
+"<start>[18:]They're made from the black mud\n"
+"that's scooped up from a river\n"
+"around here.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_1,segment:2"
+msgid ""
+"<start>[18:]Quite a few of them returned\n"
+"here to Asakusa after the fall\n"
+"of the Mantra.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_1,segment:3"
+msgid ""
+"<start>[18:]I guess it's like coming home.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Anyways, like I suspected,\n"
+"the terminal here isn't under\n"
+"Nihilo's surveillance.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_1,segment:1"
+msgid ""
+"<start>[18:]It's perfect for monitoring\n"
+"their activities and finding out\n"
+"about the Nightmare System.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_2F,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I just started investigating,\n"
+"so I need some time.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_2F,segment:1"
+msgid ""
+"<start>[18:]It shouldn't take too long,\n"
+"though.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_2F,segment:2"
+msgid ""
+"<start>[18:]Why don't you go look around\n"
+"for a while?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]So, while you were gone,\n"
+"I was working on that and...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Here, check this out.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_1r,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Hey, good timing.\n"
+"How was Asakusa?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_1r2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]About the Nightmare System...\n"
+"I've got good news.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_2r,segment:0"
+msgid ""
+"<start>[7:FF07][18:]They say a picture is worth\n"
+"a thousand words...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_3r,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...so here, take a look.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_060_1,segment:0"
+msgid ""
+"<start>[7:FF07]You see it?\n"
+"That's the [2:FF02]Obelisk[2:FF01] in Chiyoda.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_060_1,segment:1"
+msgid ""
+"<start>The Nightmare System's inside it,\n"
+"along with all the Magatsuhi\n"
+"that's been collected.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_060_1,segment:2"
+msgid ""
+"<start>In other words, we've found\n"
+"Nihilo's current headquarters.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_060_1,segment:3"
+msgid ""
+"<start>...The system is probably being\n"
+"operated by that woman they call\n"
+"the Maiden.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_060_1,segment:4"
+msgid ""
+"<start>I have no idea how it works,\n"
+"but we know it's dangerous.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_070_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]If I could, I'd go in there myself,\n"
+"but I'm just not strong enough.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_070_1,segment:1"
+msgid ""
+"<start>[18:]However, if no one does anything,\n"
+"Hikawa will take over the world\n"
+"for sure.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_070_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I'm afraid I have to ask for\n"
+"your help again, [12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_070_2,segment:1"
+msgid ""
+"<start>[18:]You must stop the Nightmare\n"
+"System inside the Obelisk,\n"
+"and return the flow of Magatsuhi\n"
+"in the Vortex World back to normal.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_070_2,segment:2"
+msgid ""
+"<start>[18:]Use [2:FF02]the secondary entrance\n"
+"to Nihilo's old headquarters[2:FF01]\n"
+"to reach the Obelisk.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_070_2,segment:3"
+msgid ""
+"<start>That entrance is locked right now,\n"
+"but I can take care of it. With this\n"
+"terminal, it'll be a piece of cake.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_070_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]The Obelisk looks pretty tall,\n"
+"and who knows what kind\n"
+"of demons are gonna be there.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_070_3,segment:1"
+msgid ""
+"<start>[18:]We don't know what kind of power\n"
+"this so-called Maiden has, either.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_070_3,segment:2"
+msgid ""
+"<start>[18:]It's not gonna be easy,\n"
+"that's for sure...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_070_3,segment:3"
+msgid ""
+"<start>[18:]But, I know you can do it.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Hey, don't rush me.\n"
+"You don't want me to miss\n"
+"something important, do ya?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]It's up to you to stop whatever's\n"
+"going on inside the Obelisk.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_2,segment:1"
+msgid ""
+"<start>[18:]Use the secondary entrance of\n"
+"Nihilo's headquarters in Ginza\n"
+"to make your way to the Obelisk.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TRM_1R,segment:0"
+msgid ""
+"<start>> There is a large Rinzo.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TRM_1R,segment:1"
+msgid ""
+"<start>> What do you want to do?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TRM_1R,segment:2"
+msgid ""
+"<start>> Medical Center main terminal\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TRM_1R,segment:3"
+msgid ""
+"<start>> What do you want to do?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TRM_1R,segment:4"
+msgid ""
+"<start>> Amala Network: Medical Center\n"
+"main terminal\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TRM_1R,segment:5"
+msgid ""
+"<start>> What do you want to do?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TRM_1R,segment:6"
+msgid ""
+"<start>> Amala Network: Medical Center\n"
+"5F sub-terminal\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TRM_1R,segment:7"
+msgid ""
+"<start>> What do you want to do?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TRM_1R,segment:8"
+msgid ""
+"<start>> This is the main terminal.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TRM_1R,segment:9"
+msgid ""
+"<start>> What do you want to do?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TRM_1R,segment:10"
+msgid ""
+"<start>> Shinjuku main terminal\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TRM_1R,segment:11"
+msgid ""
+"<start>> What do you want to do?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TRM_1R,segment:12"
+msgid ""
+"<start>> Medical Center East sub-terminal\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TRM_1R,segment:13"
+msgid ""
+"<start>> What do you want to do?\n"
+"<end>"
+msgstr ""

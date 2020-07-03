@@ -1,0 +1,427 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 28/03/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE00,segment:0"
+msgid ""
+"<start>RED CAPE APPEARS IN THE CAPITAL\n"
+"The Red Cape was recently spotted\n"
+"at Tsukudo-Cho in Yarai-Ku.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE00,segment:1"
+msgid ""
+"<start>The Red Cape is reported to attack\n"
+"people from behind, leaving nothing\n"
+"but a blood-soaked corpse.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE00,segment:2"
+msgid ""
+"<start>Thought to be a hoax, our intrepid\n"
+"reporters have confirmed that the\n"
+"vile beast does, in fact, exist.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE00,segment:3"
+msgid ""
+"<start>> The article continues...\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE01,segment:0"
+msgid ""
+"<start>MORE RED CAPE MADNESS\n"
+"Sightings of the Red Cape have been\n"
+"reported all over the Capital.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE01,segment:1"
+msgid ""
+"<start>It is this writer's theory that\n"
+"unrelated incidents are being\n"
+"blamed on the Red Cape.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE01,segment:2"
+msgid ""
+"<start>The police are still tight-lipped\n"
+"about the matter, and the truth is\n"
+"still shrouded in mystery.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE01,segment:3"
+msgid ""
+"<start>> The article continues...\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE02,segment:0"
+msgid ""
+"<start>RED CAPE APPEARS IN THE CAPITAL\n"
+"The Red Cape was recently spotted\n"
+"at Tsukudo-Cho in Yarai-Ku.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE02,segment:1"
+msgid ""
+"<start>The Red Cape is reported to attack\n"
+"people from behind, leaving nothing\n"
+"but a blood-soaked corpse.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE02,segment:2"
+msgid ""
+"<start>Thought to be a hoax, our intrepid\n"
+"reporters have confirmed that the\n"
+"vile beast does, in fact, exist.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE02,segment:3"
+msgid ""
+"<start>> The article continues...\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE03,segment:0"
+msgid ""
+"<start>MORE RED CAPE MADNESS\n"
+"Sightings of the Red Cape have been\n"
+"reported all over the Capital.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE03,segment:1"
+msgid ""
+"<start>It is this writer's theory that\n"
+"unrelated incidents are being\n"
+"blamed on the Red Cape.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE03,segment:2"
+msgid ""
+"<start>The police are still tight-lipped\n"
+"about the matter, and the truth is\n"
+"still shrouded in mystery.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE03,segment:3"
+msgid ""
+"<start>> The article continues...\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE04,segment:0"
+msgid ""
+"<start>TRAGEDY IN HIGH SOCIETY\n"
+"One of the Capital's richest families\n"
+"has been plagued with misfortune.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE04,segment:1"
+msgid ""
+"<start>The head of the household has fallen\n"
+"ill, his brother has disappeared,\n"
+"and the daughter has been kidnapped.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE04,segment:2"
+msgid ""
+"<start>The police have launched a missing\n"
+"persons search, but they've reported\n"
+"no progress so far.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE04,segment:3"
+msgid ""
+"<start>> The article continues...\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE05,segment:0"
+msgid ""
+"<start>FOREIGN MERCHANT SCANDAL\n"
+"The well-known foreign merchant, Mr.\n"
+"Elfman, has been discovered dead.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE05,segment:1"
+msgid ""
+"<start>However, his company is still\n"
+"importing goods from overseas,\n"
+"apparently on Elfman's orders.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE05,segment:2"
+msgid ""
+"<start>This reporter suspects an impostor,\n"
+"but who did it and for what purpose\n"
+"is still unknown.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE05,segment:3"
+msgid ""
+"<start>> The article continues...\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE06,segment:0"
+msgid ""
+"<start>SUSPICIOUS ARMY PROJECT EXPOSED\n"
+"The Capital Daily has unearthed\n"
+"a shocking truth about the Army.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE06,segment:1"
+msgid ""
+"<start>For some time now, the rogue\n"
+"military branch has been carrying\n"
+"out a horrifying plan.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE06,segment:2"
+msgid ""
+"<start>If true, we call on them as citizens\n"
+"of this country to reveal to the\n"
+"people the nature of this project.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE06,segment:3"
+msgid ""
+"<start>> The article continues...\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE07,segment:0"
+msgid ""
+"<start>CURSE STRIKES THE CAPITAL\n"
+"Can the modern citizen believe\n"
+"such a headline? Read on...\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE07,segment:1"
+msgid ""
+"<start>At a Ginza construction site,\n"
+"workers fell unconscious when trying\n"
+"to move a statue enshrined there.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE07,segment:2"
+msgid ""
+"<start>The workers are blaming it on a\n"
+"curse, and so far, no alternative\n"
+"explanation has been offered.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE07,segment:3"
+msgid ""
+"<start>> The article continues...\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE08,segment:0"
+msgid ""
+"<start>NAVY IN PANIC\n"
+"The Navy HQ in Harumi-Cho has\n"
+"fallen into turmoil.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE08,segment:1"
+msgid ""
+"<start>The Navy Admiral has contracted\n"
+"a mysterious illness, and his\n"
+"prognosis is rumored to be grave.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE08,segment:2"
+msgid ""
+"<start>However, a Navy statement insists\n"
+"that the Admiral is well on his way\n"
+"to a full recovery.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE08,segment:3"
+msgid ""
+"<start>Our sources reveal that an anonymous\n"
+"party was instrumental in healing him,\n"
+"but details are vague.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE08,segment:4"
+msgid ""
+"<start>> The article continues...\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE09,segment:0"
+msgid ""
+"<start>There seems to have been no paper\n"
+"published today in this world.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE10,segment:0"
+msgid ""
+"<start>MARTIAL LAW OUTRAGE\n"
+"The mysterious Army project reported\n"
+"earlier has begun in earnest.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE10,segment:1"
+msgid ""
+"<start>Reports of special guards in red\n"
+"menacing the citizens are streaming\n"
+"in from all over the Capital.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE10,segment:2"
+msgid ""
+"<start>Currently unconfirmed is a clash\n"
+"between the red guards and the Navy,\n"
+"with several fatalities rumored.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE10,segment:3"
+msgid ""
+"<start>> The article continues...\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE11,segment:0"
+msgid ""
+"<start>DOOMSDAY IN THE CAPITAL\n"
+"Many areas in the southern Capital\n"
+"have been reduced to rubble.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE11,segment:1"
+msgid ""
+"<start>Fires, earthquakes, and tsunamis\n"
+"are ravaging the city, claiming\n"
+"the lives of many citizens.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE11,segment:2"
+msgid ""
+"<start>Wild theories abound, the most\n"
+"popular of which are reports of\n"
+"a giant destructive monster.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE11,segment:3"
+msgid ""
+"<start>Whatever the cause, the Capital is\n"
+"rapidly becoming a death trap, and\n"
+"we urge all citizens to evacuate.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE11,segment:4"
+msgid ""
+"<start>> The article continues...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE12,segment:0"
+msgid ""
+"<start>> The newspaper presses seem to\n"
+"have stopped in the confusion.\n"
+"<end>"
+msgstr ""
+
+#. Newspaper article
+msgctxt "type:0,entry:NWD_NEWS_MSG_SCENE13,segment:0"
+msgid ""
+"<start>non-existant episode 13\n"
+"<end>"
+msgstr ""

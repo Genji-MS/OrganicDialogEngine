@@ -1,0 +1,384 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+msgctxt "type:0,entry:MSG_030_1,segment:0"
+msgid ""
+"<start>[7:FF07]Testing...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_040_1,segment:0"
+msgid ""
+"<start>[7:FF07]Testing...\n"
+"<end>"
+msgstr ""
+
+#. Child's voice
+msgctxt "type:0,entry:MSG_060_0,segment:0"
+msgid ""
+"<start>[7:FF07]This Magatama is my present\n"
+"to you. I hope you like it.\n"
+"<end>"
+msgstr ""
+
+#. Child's voice
+msgctxt "type:0,entry:MSG_060_0,segment:1"
+msgid ""
+"<start>There are many more of them\n"
+"in this world. See how many\n"
+"you can find...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_060_1,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained the Magatama\n"
+"[2:FF03]Marogareh[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_060_1,segment:1"
+msgid ""
+"<start>> From the command menu ([82A9] button),\n"
+"you can view and ingest Magatama.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_A10_1,segment:0"
+msgid ""
+"<start>[7:FF07][2:FF04]WARNING\n"
+"This scene hasn't been\n"
+"made yet.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_A10_1,segment:1"
+msgid ""
+"<start>The displayed text is\n"
+"the brief summary of\n"
+"this scene.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_A10_2,segment:0"
+msgid ""
+"<start>[7:FF07][2:FF05]The dark sky of Tokyo can be seen\n"
+"from the roof of the hospital.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_A10_2,segment:1"
+msgid ""
+"<start>The main char opens the door,\n"
+"and sees a young woman standing\n"
+"a few feet away from him.\n"
+"<end>"
+msgstr ""
+
+#. Yuko
+msgctxt "type:0,entry:MSG_A10_3,segment:0"
+msgid ""
+"<start>[7:FF07][2:FF01]You're the only one who came\n"
+"here?\n"
+"<end>"
+msgstr ""
+
+#. Yuko
+msgctxt "type:0,entry:MSG_A10_3,segment:1"
+msgid ""
+"<start>...You probably don't have any\n"
+"experience fending for yourself,\n"
+"do you?\n"
+"<end>"
+msgstr ""
+
+#. Yuko
+msgctxt "type:0,entry:MSG_A10_3,segment:2"
+msgid ""
+"<start>These days, everyone has it so\n"
+"easy growing up...\n"
+"At least, that's what I think.\n"
+"<end>"
+msgstr ""
+
+#. Yuko
+msgctxt "type:0,entry:MSG_A10_3,segment:3"
+msgid ""
+"<start>No one takes any initiative;\n"
+"they just sit and wait.\n"
+"<end>"
+msgstr ""
+
+#. Yuko
+msgctxt "type:0,entry:MSG_A10_4,segment:0"
+msgid ""
+"<start>[7:FF07][2:FF01]...The world is about to be reborn.\n"
+"Everyone will have to start\n"
+"thinking for themselves.\n"
+"<end>"
+msgstr ""
+
+#. Yuko
+msgctxt "type:0,entry:MSG_A10_4,segment:1"
+msgid ""
+"<start>That's the future I envision...\n"
+"<end>"
+msgstr ""
+
+#. Yuko
+msgctxt "type:0,entry:MSG_A10_5,segment:0"
+msgid ""
+"<start>[7:FF07][2:FF01]...It's time.\n"
+"<end>"
+msgstr ""
+
+#. Yuko
+msgctxt "type:0,entry:MSG_A10_6,segment:0"
+msgid ""
+"<start>[7:FF07][2:FF01]You know...\n"
+"<end>"
+msgstr ""
+
+#. Yuko
+msgctxt "type:0,entry:MSG_A10_6,segment:1"
+msgid ""
+"<start>If we ever meet again...\n"
+"let's talk about other things.\n"
+"<end>"
+msgstr ""
+
+#. Yuko
+msgctxt "type:0,entry:MSG_A10_6,segment:2"
+msgid ""
+"<start>...I'll tell you all my secrets.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_A10_7,segment:0"
+msgid ""
+"<start>[7:FF07][2:FF05]As Yuko looks up into the sky,\n"
+"an explosion occurs.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_A10_7,segment:1"
+msgid ""
+"<start>The shock wave hits Tokyo.\n"
+"The earth shakes, and powerful\n"
+"wind blows.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_A10_7,segment:2"
+msgid ""
+"<start>The main character becomes\n"
+"unconscious, and the world\n"
+"is engulfed in white light...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_A20_1,segment:0"
+msgid ""
+"<start>[7:FF07][2:FF05]......\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_A20_1,segment:1"
+msgid ""
+"<start>A voice can be heard.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_A20_2,segment:0"
+msgid ""
+"<start>[7:FF07][2:FF01]...I can see your heart,\n"
+"but inside there is nothing.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_A20_2,segment:1"
+msgid ""
+"<start>You have no identity.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_A20_2,segment:2"
+msgid ""
+"<start>That is unacceptable.\n"
+"You cannot create a new world\n"
+"like this.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_A20_2,segment:3"
+msgid ""
+"<start>Go, and discover yourself.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_A20_2,segment:4"
+msgid ""
+"<start>The end of your journey...\n"
+"There you will find the world\n"
+"of your choosing...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_A30_1,segment:0"
+msgid ""
+"<start>[7:FF07][2:FF05]The surroundings becomes dark\n"
+"as the voice disappears.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_A30_1,segment:1"
+msgid ""
+"<start>From the darkness,\n"
+"the child and the old woman\n"
+"appear.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_A30_2,segment:0"
+msgid ""
+"<start>[7:FF07][2:FF01]So, how was the end of the\n"
+"world? Did you enjoy it?\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_A30_2,segment:1"
+msgid ""
+"<start>I sure hope so, cuz you're\n"
+"gonna live a life of torment\n"
+"in the new world.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_A30_2,segment:2"
+msgid ""
+"<start>...But you have absolutely\n"
+"nothing, right? That's no fun.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_A30_2,segment:3"
+msgid ""
+"<start>Here, I'll give you this.\n"
+"It'll make things more bearable.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_A30_3,segment:0"
+msgid ""
+"<start>[7:FF07][2:FF05]The next thing the main\n"
+"character notices, the old\n"
+"woman is standing behind him.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_A30_3,segment:1"
+msgid ""
+"<start>He is held by the old woman\n"
+"from behind, unable to move.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_A30_3,segment:2"
+msgid ""
+"<start>The child comes up to the\n"
+"main character and shows him\n"
+"a weird object.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_A30_4,segment:0"
+msgid ""
+"<start>[7:FF07][2:FF01]This will turn you into a\n"
+"demon. Aren't you happy?\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_A30_4,segment:1"
+msgid ""
+"<start>Once you're a demon,\n"
+"you can use [2:FF02]Magatama[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_A30_4,segment:2"
+msgid ""
+"<start>There are many Magatama.\n"
+"Though they will strengthen you,\n"
+"they'll also put you in misery.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_A30_4,segment:3"
+msgid ""
+"<start>...Okay then, here goes.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_A30_5,segment:0"
+msgid ""
+"<start>[7:FF07][2:FF05]The child pushes the weird\n"
+"object in the main character's\n"
+"mouth.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_A30_5,segment:1"
+msgid ""
+"<start>Sharp pain runs through\n"
+"his body, and he falls\n"
+"unconscious...\n"
+"<end>"
+msgstr ""
+
+#. Old woman's voice
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07]Magatama, the essence of\n"
+"demonic power...\n"
+"<end>"
+msgstr ""
+
+#. Old woman's voice
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF07]You have now joined the ranks of\n"
+"demons.\n"
+"<end>"
+msgstr ""
+
+#. Old woman's voice
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07]My little master is always watching\n"
+"you, so don't bore him...\n"
+"<end>"
+msgstr ""

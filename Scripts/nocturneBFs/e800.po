@@ -1,0 +1,345 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Minister
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF06]This is the Cathedral of Shadows...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_001,segment:1"
+msgid ""
+"<start>We hope that our secret art\n"
+"will be of help to you,\n"
+"master of demons.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_001,segment:2"
+msgid ""
+"<start>There are Cathedrals elsewhere;\n"
+"feel free to drop by.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_001_IKENIE,segment:0"
+msgid ""
+"<start>[7:FF06]We have successfully developed\n"
+"a new fusion technique...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_001_ZENSYO,segment:0"
+msgid ""
+"<start>[7:FF06]...Do you know what a Demonic\n"
+"Compendium is?\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_IKENIE,segment:0"
+msgid ""
+"<start>[7:FF06]Let's call it...\n"
+"Sacrificial Fusion.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_IKENIE01,segment:0"
+msgid ""
+"<start>[7:FF06]Besides the two demons that are\n"
+"fused, an additional demon\n"
+"is sacrificed in the process.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_IKENIE01,segment:1"
+msgid ""
+"<start>[7:FF06]The strength of the resulting demon\n"
+"will reflect the level of the demon\n"
+"that was sacrificed.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_IKENIE02,segment:0"
+msgid ""
+"<start>[7:FF06]...Also, in some cases, you may\n"
+"end up with a completely different\n"
+"demon than you expected.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_IKENIE02,segment:1"
+msgid ""
+"<start>[7:FF06]I recommend that you experiment\n"
+"with various combinations.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_IKENIE02,segment:2"
+msgid ""
+"<start>[7:FF06]However, be forewarned that\n"
+"this type of fusion harnesses\n"
+"the chaotic power of Kagutsuchi.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_IKENIE02,segment:3"
+msgid ""
+"<start>[7:FF06]Therefore, it can only be performed\n"
+"when Kagutsuchi shines brightest.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_IKENIE02,segment:4"
+msgid ""
+"<start>[7:FF06]Why don't you give it a try\n"
+"next time?\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_MANIN_01,segment:0"
+msgid ""
+"<start>[7:FF06]What an ominous thing you have...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_MANIN_02,segment:0"
+msgid ""
+"<start>[7:FF06]Deathstones are cursed stones\n"
+"that call upon death.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_MANIN_03,segment:0"
+msgid ""
+"<start>[7:FF06]A stone such as this can cast\n"
+"a shadow on my arcane art...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_MANIN_03,segment:1"
+msgid ""
+"<start>[7:FF06]Under certain circumstances,\n"
+"death will appear and warp\n"
+"the laws of fusion.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_MANIN_03,segment:2"
+msgid ""
+"<start>[7:FF06]When this occurs, a Fiend--\n"
+"a bearer of death--\n"
+"will manifest itself.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_MANIN_04,segment:0"
+msgid ""
+"<start>[7:FF06]Though they are not good,\n"
+"they cannot be classified as evil,\n"
+"either.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_MANIN_04,segment:1"
+msgid ""
+"<start>[7:FF06]In the end, it is you who will\n"
+"decide their nature.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_AKUMA01,segment:0"
+msgid ""
+"<start>[7:FF06]It contains information on\n"
+"all demons in existence,\n"
+"but only those that the reader has\n"
+"made a pact with can be viewed...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_AKUMA02,segment:0"
+msgid ""
+"<start>[7:FF06]I see that you have been recruiting\n"
+"many a demon.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_AKUMA02,segment:1"
+msgid ""
+"<start>[7:FF06]From now on, use this compendium\n"
+"to your advantage.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_AKUMA03,segment:0"
+msgid ""
+"<start>[7:FF06]> The Demonic Compendium is now\n"
+"available for use.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_001_ALL,segment:0"
+msgid ""
+"<start>[7:FF06][12:FF01] [11:FF01]...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_002_ALL,segment:0"
+msgid ""
+"<start>[7:FF06]At last, you have subjugated every\n"
+"species of demon in this land...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_002_ALL,segment:1"
+msgid ""
+"<start>How incredible your power is...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_003_ALL,segment:0"
+msgid ""
+"<start>[7:FF06]In commemoration of\n"
+"this incredible feat,\n"
+"we wish to offer you a special\n"
+"rate for summoning demons.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_004_ALL,segment:0"
+msgid ""
+"<start>[7:FF06]> The demon summoning fee\n"
+"has been reduced.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_001_DH,segment:0"
+msgid ""
+"<start>[7:FF06]I've been waiting for you,\n"
+"[12:FF01] [11:FF01]...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_001_DH,segment:1"
+msgid ""
+"<start>In this land, there exist certain\n"
+"things that hold demonic power.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_001_DH,segment:2"
+msgid ""
+"<start>[7:FF06]...Yes, the Magatama in your body\n"
+"are what I am referring to.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_002_DH,segment:0"
+msgid ""
+"<start>[7:FF06]One who possesses\n"
+"a demon's strength,\n"
+"yet retains his humanity...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_002_DH,segment:1"
+msgid ""
+"<start>[7:FF06]We have long awaited\n"
+"such an individual.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_003_DH,segment:0"
+msgid ""
+"<start>[7:FF06]And then, along came you...\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_003_DH,segment:1"
+msgid ""
+"<start>You, a human with the strength\n"
+"of a demon,\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_003_DH,segment:2"
+msgid ""
+"<start>have succeeded in gathering\n"
+"all the Magatama.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_004_DH,segment:0"
+msgid ""
+"<start>[7:FF06]We have concluded that you are\n"
+"indeed worthy of a reward.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_005_DH,segment:0"
+msgid ""
+"<start>[7:FF06]> You obtained the [2:FF02]Lord's Sword[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_006_DH,segment:0"
+msgid ""
+"<start>[7:FF06]Take it to His Lordship.\n"
+"<end>"
+msgstr ""
+
+#. Minister
+msgctxt "type:0,entry:MSG_007_DH,segment:0"
+msgid ""
+"<start>[7:FF06]He, who once protected Tokyo,\n"
+"shall surely help you with\n"
+"his awesome might.\n"
+"<end>"
+msgstr ""

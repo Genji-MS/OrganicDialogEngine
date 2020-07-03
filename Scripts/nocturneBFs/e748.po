@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Mysterious voice
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07]Little lamb that struggled through\n"
+"darkness and clung to life,\n"
+"you have done well until now.\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:MSG_001,segment:1"
+msgid ""
+"<start>...I watched as you prevailed\n"
+"over many adversaries.\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:MSG_001,segment:2"
+msgid ""
+"<start>I am the Trumpeter...\n"
+"It is I who will announce\n"
+"the end of time.\n"
+"<end>"
+msgstr ""
+
+#. Trumpeter
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF07]I have come to see if you are\n"
+"worthy...\n"
+"<end>"
+msgstr ""
+
+#. Trumpeter
+msgctxt "type:0,entry:MSG_002,segment:1"
+msgid ""
+"<start>...of entering the final battle,\n"
+"where my trumpet will sound.\n"
+"<end>"
+msgstr ""
+
+#. Trumpeter
+msgctxt "type:0,entry:MSG_002,segment:2"
+msgid ""
+"<start>Show me your incomparable\n"
+"strength! ...Let me see\n"
+"the raging heart of a demon!\n"
+"<end>"
+msgstr ""
+
+#. Trumpeter
+msgctxt "type:0,entry:MSG_002,segment:3"
+msgid ""
+"<start>Seize the last candelabrum from\n"
+"my hand!\n"
+"<end>"
+msgstr ""
+
+#. Trumpeter
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07][13:FF01], you have been\n"
+"branded with our master's seal...\n"
+"<end>"
+msgstr ""
+
+#. Trumpeter
+msgctxt "type:0,entry:MSG_003,segment:1"
+msgid ""
+"<start>You must take the last candelabrum\n"
+"to the bottom of the abyss and meet\n"
+"our master there.\n"
+"<end>"
+msgstr ""
+
+#. Trumpeter
+msgctxt "type:0,entry:MSG_003,segment:2"
+msgid ""
+"<start>That is, of course, if you can\n"
+"defeat me... the last of the Fiends.\n"
+"<end>"
+msgstr ""
+
+#. Trumpeter
+msgctxt "type:0,entry:MSG_005,segment:0"
+msgid ""
+"<start>[7:FF07]Seize the last candelabrum from\n"
+"my hand!\n"
+"<end>"
+msgstr ""
+
+#. Trumpeter
+msgctxt "type:0,entry:MSG_005,segment:1"
+msgid ""
+"<start>For the future of all demons\n"
+"of chaos!!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"the [2:FF02]Candelabrum of Godliness[2:FF01].\n"
+"<end>"
+msgstr ""

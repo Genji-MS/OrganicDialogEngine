@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07]Well, look who we have here...\n"
+"[12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:1"
+msgid ""
+"<start>[18:]Don't tell me you came to save me.\n"
+"You're way too late.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MSG_020_2,segment:0"
+msgid "<start>Talk back."
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]What are you pissed off for?\n"
+"It's not like you went\n"
+"out of your way to help me.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_3,segment:1"
+msgid ""
+"<start>[18:]It's obvious I can't count on you\n"
+"or Ms. [11:FF02] anymore.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_4,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I don't want your apology.\n"
+"It won't change anything.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_4,segment:1"
+msgid ""
+"<start>[18:]It's obvious I can't count on you\n"
+"or Ms. [11:FF02] anymore.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_5,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You're leaving? Sure, go ahead.\n"
+"I didn't expect anything from you\n"
+"anyway.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_5,segment:1"
+msgid ""
+"<start>[18:]It's obvious I can't count on you\n"
+"or Ms. [11:FF02] anymore.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_345,segment:0"
+msgid ""
+"<start>[7:FF07][18:]No one's gonna help me\n"
+"in this world...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_345,segment:1"
+msgid ""
+"<start>[18:]I'll have to survive on my own.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_6,segment:0"
+msgid ""
+"<start>[7:FF07][18:]When this world was created...\n"
+"I heard a voice that told me\n"
+"to search for the truth.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_6,segment:1"
+msgid ""
+"<start>[18:]At the time, I didn't know\n"
+"what that meant...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_6,segment:2"
+msgid ""
+"<start>[18:]But, while I was locked up\n"
+"in this room, I came to realize.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_6,segment:3"
+msgid ""
+"<start>[18:]Truth isn't something other people\n"
+"can give you; you have to find it\n"
+"within yourself.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_1,segment:0"
+msgid ""
+"<start>[7:FF07]And I opened the way\n"
+"without anybody's help.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_1,segment:1"
+msgid ""
+"<start>[18:]The Amala Network...\n"
+"What I'm looking for is in there.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_1,segment:2"
+msgid ""
+"<start>[18:]The great power that'll lead me\n"
+"to the truth...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_1,segment:3"
+msgid ""
+"<start>[18:]It's calling me...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_040_1,segment:0"
+msgid ""
+"<start>[7:FF07]> The terminal does not seem to be\n"
+"functioning...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_010_M,segment:0"
+msgid ""
+"<start>[7:FF07]> [12:FF03] disappeared...\n"
+""
+msgstr ""

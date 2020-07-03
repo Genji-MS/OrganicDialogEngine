@@ -1,0 +1,373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Voice
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Our goals are the same...\n"
+"just as I suspected.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_001,segment:1"
+msgid ""
+"<start>[18:]...You know, I have to admit.\n"
+"You've got guts.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I'm impressed that you made it\n"
+"this far.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07][18:]But, it's gonna get a lot more\n"
+"dangerous from here.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_003,segment:1"
+msgid ""
+"<start>[18:]You think you're playing with fire?\n"
+"...You're gonna get more than just\n"
+"burned.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF07][18:]That's why I want to offer\n"
+"my services to you.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_004,segment:1"
+msgid ""
+"<start>[18:]A demon hiring a demon slayer...\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_004B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]It's the joke of the century,\n"
+"don't ya think?\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_005,segment:0"
+msgid ""
+"<start>[7:FF07][18:]So, how 'bout it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:KAIWA_SEL,segment:0"
+msgid "<start>Okay, I'll hire you."
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_006,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Alright then, let's talk business.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_006,segment:1"
+msgid ""
+"<start>[18:]I usually charge an outrageous\n"
+"amount of money. But in this case,\n"
+"I'll make an exception.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_006,segment:2"
+msgid ""
+"<start>[18:]Let's flip a coin.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_007,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Heads or tails...\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_007,segment:1"
+msgid ""
+"<start>[18:]If you win, just give me a dollar...\n"
+"Oh yeah, it's Macca here, isn't it?\n"
+"Give me 1 Macca then.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_007,segment:2"
+msgid ""
+"<start>[18:]But if you lose...\n"
+"you'll have to give me half of\n"
+"what you've got.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_008,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Call it. Heads or tails?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:KAIWA2_SEL,segment:0"
+msgid "<start>Heads."
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_009,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Heads it is.\n"
+"You're lucky, kid.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_009,segment:1"
+msgid ""
+"<start>[18:]Okay, you get the special\n"
+"discount price of 1 Macca.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_009_020,segment:0"
+msgid ""
+"<start>[7:FF07]> [13:FF01] paid 1 Macca\n"
+"to Dante.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_009B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...It's heads. You lose.\n"
+"I didn't think you'd fall for\n"
+"a simple trick like this, but...\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_009B,segment:1"
+msgid ""
+"<start>[18:]...a deal is a deal. Pay up!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_009B_020,segment:0"
+msgid ""
+"<start>[7:FF07]> [13:FF01] gave half\n"
+"of his money to Dante.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_010,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Thank you very much.\n"
+"Starting today, I work for you.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_010,segment:1"
+msgid ""
+"<start>[18:]...So, what's your name?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:KAIWA3_SEL,segment:0"
+msgid "<start>Tell him."
+msgstr ""
+
+msgctxt "type:0,entry:MSG_012,segment:0"
+msgid ""
+"<start>[7:FF07]> [13:FF01] introduced\n"
+"himself to Dante.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_013,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I see. Not a bad name.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_0130,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Okay, [13:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_0130,segment:1"
+msgid ""
+"<start>[18:]Shall we go pay a visit to\n"
+"the ruler of hell?\n"
+"His servants' heads will make\n"
+"nice souvenirs.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_012B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Not very social, are you?\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_012B,segment:1"
+msgid ""
+"<start>[18:]It doesn't matter, the old guy\n"
+"already told me your name.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_013B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Okay, [13:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_013B,segment:1"
+msgid ""
+"<start>[18:]Shall we go pay a visit to\n"
+"the ruler of hell?\n"
+"His servants' heads will make\n"
+"nice souvenirs.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_014,segment:0"
+msgid ""
+"<start>[7:FF07][18:]The final battle between\n"
+"demons and the army of god...\n"
+"This'll be interesting.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_011,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Lighten up.\n"
+"It was just a joke.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_011,segment:1"
+msgid ""
+"<start>[18:]Well anyways, I'll be here\n"
+"for a while.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_011,segment:2"
+msgid ""
+"<start>[18:]Come back if you change your mind.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_NAKAMA,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You've got a lot of company\n"
+"with you. Why don't you come back\n"
+"after you've cleaned house?\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_NAKAMA,segment:1"
+msgid ""
+"<start>[18:]There's no need to rush;\n"
+"I'll be here for a while.\n"
+"...See ya later, kid.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_020_010,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...I knew you'd come back.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_020_010,segment:1"
+msgid ""
+"<start>[18:]So, are you ready to hire\n"
+"the number one demon slayer?\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_020_010,segment:2"
+msgid ""
+"<start>If you are, just let me know.\n"
+"I'm good to go.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_006_002,segment:0"
+msgid ""
+"<start>[7:FF07][18:]So, you finally came to\n"
+"your senses, huh?\n"
+"Alright then, let's talk business.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_006_002,segment:1"
+msgid ""
+"<start>[18:]I usually charge an outrageous\n"
+"amount of money, but in this case,\n"
+"I'll make an exception.\n"
+"<end>"
+msgstr ""
+
+#. Dante
+msgctxt "type:0,entry:MSG_006_002,segment:2"
+msgid ""
+"<start>[18:]Let's flip a coin.\n"
+"<end>"
+msgstr ""

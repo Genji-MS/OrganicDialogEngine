@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_010_1,segment:0"
+msgid ""
+"<start>[7:FF04]...It's so quiet... Too quiet...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_010_1,segment:1"
+msgid ""
+"<start>...I see, the stillness has come\n"
+"for me...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_010_1,segment:2"
+msgid ""
+"<start>Wielder of strength...\n"
+"Champion of want...\n"
+"mold the world to your liking.\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_010_1,segment:3"
+msgid ""
+"<start>[7:FF07]It is no longer of my concern...\n"
+"<end>"
+msgstr ""
+
+#. Hikawa
+msgctxt "type:0,entry:MSG_015_1,segment:0"
+msgid ""
+"<start>[7:FF07]Magatama transfer message\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_020_1_E,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained the [2:FF02]Earthstone[2:FF01].\n"
+"<end>"
+msgstr ""

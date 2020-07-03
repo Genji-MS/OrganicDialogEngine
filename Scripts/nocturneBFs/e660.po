@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Hey, [12:FF01].\n"
+"I'm glad that the commotion\n"
+"at Yoyogi Park has settled down.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_1,segment:1"
+msgid ""
+"<start>[18:]It's pretty scary, when you think\n"
+"about it... the struggle for power.\n"
+"Who knows, the end of this world\n"
+"might come sooner than we think...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_1,segment:2"
+msgid ""
+"<start>......\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_1,segment:3"
+msgid ""
+"<start>[18:]I can only assume that\n"
+"[12:FF03] was absorbed\n"
+"by the Amala Network,\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_1,segment:4"
+msgid ""
+"<start>[18:]because I can't find any trace\n"
+"of him. Oh well, I guess\n"
+"working alone gets you nowhere.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]By the way, do you happen to know\n"
+"what's going on in Ikebukuro?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_2,segment:1"
+msgid ""
+"<start>[18:]I heard that Gozu-Tennoh is back,\n"
+"and gaining power.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_2,segment:2"
+msgid ""
+"<start>[18:]It's probably just a rumor,\n"
+"though, since his body\n"
+"was shattered into pieces.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]It doesn't make any difference.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_3,segment:1"
+msgid ""
+"<start>[18:]As soon as I seize control\n"
+"of Amala, it'll all be over...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I'll continue my research on Amala.\n"
+"I'm almost there...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_1,segment:1"
+msgid ""
+"<start>[18:]Why don't you check out Ikebukuro?\n"
+"<end>"
+msgstr ""

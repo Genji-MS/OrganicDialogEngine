@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You are here, at last...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001,segment:1"
+msgid ""
+"<start>[18:]We have long awaited this moment,\n"
+"in the everlasting flow of Amala.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You have retrieved all of\n"
+"the candelabra, and triumphed over\n"
+"the mightiest warrior of light.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You are the demon that we have\n"
+"been waiting for.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Do you hear it, [12:FF01]?\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:1"
+msgid ""
+"<start>All of the demons are celebrating\n"
+"the birth of the new demon of\n"
+"darkness,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:2"
+msgid ""
+"<start>hoping that you and the fallen angel\n"
+"will break the chains,\n"
+"and defeat the Absolute One...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF07][18:]There is no turning back...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:1"
+msgid ""
+"<start>[18:]We, the ones cast into darkness,\n"
+"shall face those that live in\n"
+"the light...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:2"
+msgid ""
+"<start>[18:]The final battle is about to begin.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:3"
+msgid ""
+"<start>[18:]But first, you must return to your\n"
+"world and increase your strength...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:4"
+msgid ""
+"<start>[18:]by defeating the humans who are\n"
+"vying for control of creation,\n"
+"and Kagutsuchi, the source of\n"
+"creation.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_HIKAWA,segment:0"
+msgid ""
+"<start>[7:FF07]A man who envisions a world\n"
+"of silence...\n"
+"Ahriman, god of the void,\n"
+"lends him strength.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_TIAKI,segment:0"
+msgid ""
+"<start>[7:FF07]A young woman who values power\n"
+"above all else...\n"
+"The god Baal Avatar has descended\n"
+"upon her.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_ISAMU,segment:0"
+msgid ""
+"<start>[7:FF07]A young man yearning to live\n"
+"in solitude...\n"
+"His strength comes from Noah,\n"
+"the wandering god.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_KAGUTUTI,segment:0"
+msgid ""
+"<start>[7:FF07]And Kagutsuchi, the light that\n"
+"watches over the Vortex World\n"
+"as well as creation...\n"
+"<end>"
+msgstr ""

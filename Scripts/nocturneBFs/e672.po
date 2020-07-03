@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07]How arrogant...\n"
+"You misunderstand your purpose...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:1"
+msgid ""
+"<start>[7:FF07][18:]Return to earth, mud dolls!!\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_1,segment:0"
+msgid ""
+"<start>[7:FF07]You're so weak,\n"
+"yet you struggle so hard to live.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_1,segment:1"
+msgid ""
+"<start>[7:FF07][18:]Dreaming a dream of power...\n"
+"That's your sin.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:MSG_050_1,segment:0"
+msgid ""
+"<start>[7:FF07]...Help us, [13:FF01]!\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:MSG_050_1,segment:1"
+msgid ""
+"<start>[7:FF07][18:]If you don't stop this woman,\n"
+"we will be massacred!\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_1,segment:0"
+msgid ""
+"<start>[7:FF07]......\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_1,segment:1"
+msgid ""
+"<start>[7:FF07][18:]Oh, [12:FF01]...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Good timing.\n"
+"I keep killing and killing,\n"
+"but there are so many of them.\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:MSG_070_1,segment:0"
+msgid ""
+"<start>[7:FF07]You would never partake in such\n"
+"a brutal act, would you?\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:MSG_070_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Your heart is unlike any demon's...\n"
+"Is it not?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_080_1,segment:0"
+msgid ""
+"<start>[7:FF07]I'm sure you'll agree...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_080_1B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...that only the strong should be\n"
+"allowed to exist in this world.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_080_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]The weak provoke and mislead\n"
+"others because they can do nothing\n"
+"themselves.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_080_2,segment:1"
+msgid ""
+"<start>[7:FF07][18:]As long as we have to deal\n"
+"with this pettiness,\n"
+"it will be impossible to create\n"
+"a beautiful world.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_090_1,segment:0"
+msgid ""
+"<start>[7:FF07]You understand what I'm saying,\n"
+"don't you?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:YOSUGA_001,segment:0"
+msgid "<start>I see your point."
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:HUTOMIMI_001,segment:0"
+msgid ""
+"<start>[7:FF07][80EA]\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:TIAKI_001,segment:0"
+msgid ""
+"<start>[7:FF07]You understand what I'm saying,\n"
+"don't you?\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:MSG_100_1,segment:0"
+msgid ""
+"<start>[7:FF07]You too...?\n"
+"You will rob us of our dream...?\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:MSG_100_2,segment:0"
+msgid ""
+"<start>[7:FF07]No matter how much you demons\n"
+"threaten me, I will not yield!\n"
+"<end>"
+msgstr ""
+
+#. Futomimi
+msgctxt "type:0,entry:MSG_100_2,segment:1"
+msgid ""
+"<start>[7:FF07][18:]I will fight till the end\n"
+"to win our freedom!!\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_110_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Oh. That's too bad.\n"
+"I thought you were different.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_110_1,segment:1"
+msgid ""
+"<start>[7:FF07][18:]Why were you given\n"
+"a demon's body?\n"
+"You don't know the answer\n"
+"yourself, do you?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_110_1,segment:2"
+msgid ""
+"<start>[7:FF07][18:]You're not needed anymore...\n"
+"Goodbye.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_110_R1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...You don't comprehend\n"
+"the Reason of Yosuga.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_110_R1,segment:1"
+msgid ""
+"<start>[18:]You let the weak deceive you,\n"
+"so you forfeit your right to\n"
+"inherit the world with the strong.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_110_R2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Why were you given\n"
+"a demon's body?\n"
+"You don't know the answer\n"
+"yourself, do you?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_110_R2,segment:1"
+msgid ""
+"<start>[18:]You're not needed anymore...\n"
+"Goodbye.\n"
+"<end>"
+msgstr ""

@@ -1,0 +1,455 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 28/03/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_02,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Trinkets from all over the world\n"
+"end up in Konnou-Ya, the Capital's\n"
+"finest antique shop!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_03,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Say... You're the new guy from\n"
+"the Narumi Detective Agency.\n"
+"Well, no window shopping!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_04,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]You're in luck today, kid.\n"
+"I've got just the thing!\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_05,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]It washed up near the\n"
+"Ushigome-gaeri Bridge, but...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_05,segment:1"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]...Looks to me like some kind\n"
+"of ancient relic.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:KNY_MASTER_05,segment:2"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]I'm afraid it's not exactly cheap,\n"
+"but it's a good buy, I assure you.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI02_SCENE11_01,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Welcome to Konnou-Ya, where\n"
+"you can find an item to--\n"
+"Eh? Say again?\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI02_SCENE11_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou asked the owner about\n"
+"the availability of a lock pick.\n"
+"<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI02_SCENE11_03,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Hyeh heh... Yer gonna use it to\n"
+"\"help\" someone, are ya?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI02_SCENE11_TUIKA,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Well, it's none of my business once\n"
+"I have my money. The rest is\n"
+"your problem.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI02_SCENE11_04,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]I found this little number through\n"
+"the black market...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI02_SCENE11_04,segment:1"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]It normally goes for about 5,000 yen,\n"
+"but I'll let it go for a cool 2,000.\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI02_SCENE11_04_TUIKA01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Buy the lock pick for 2,000 yen?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EPI02_SCENE11_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:EPI02_SCENE11_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou obtained the [2:0005,00FF]lock pick[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI02_SCENE11_05_TUIKA,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]You don't even have 2,000 yen\n"
+"on you? Forget it, then.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI02_SCENE11_05_TUIKA,segment:1"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Come back with more money\n"
+"if you really want it.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI02_SCENE11_06,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Opening old locks should be a cinch\n"
+"with that little skeleton key.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI02_SCENE11_07,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]...Just don't cross any lines,\n"
+"young detective. Hyeh heh...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI02_SCENE11_08_SAIDO,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Oh, it's you again...\n"
+"So'd you bring that money?\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI02_SCENE11_IKAI,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> You may now enter\n"
+"[2:0004,00FF]Dark Fukagawa-Cho[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_TUIKA_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]*huff* *huff* I heard... the bell on\n"
+"the door... But, if I knew it was...\n"
+"you, I wouldn't have... run here...\n"
+"<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_TUIKA_01,segment:1"
+msgid ""
+"<start>...You're welcome to purchase what\n"
+"I have here, but don't forget\n"
+"about Harumi-Cho, all right?\n"
+"<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_TUIKA_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Oh, Raidou! Thank you for\n"
+"handling my little problem.\n"
+"<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_TUIKA_02,segment:1"
+msgid ""
+"<start>My merchandise just arrived,\n"
+"so I can set my prices back to\n"
+"reasonable levels.\n"
+"<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI04_TUIKA_02,segment:2"
+msgid ""
+"<start>...Thank you again, son.\n"
+"<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI05_SCENE05_01,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]This is Konnou-Ya, a distinguished\n"
+"dealer of antiques. If you--bwah?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI05_SCENE05_02,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]...Am I good with cameras?\n"
+"Why do you ask?\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI05_SCENE05_02_TUIKA01,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou explained Tae's\n"
+"disappearance.\n"
+"<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI05_SCENE05_03,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Hm... Hmm...\n"
+"...Hmmm.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI05_SCENE05_04,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]I see. So, you're thinking there\n"
+"might be a picture with a clue\n"
+"in this camera.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI05_SCENE05_05,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Eee hee hee... Why didn't you\n"
+"just ask me to develop the film?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI05_SCENE05_06,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]As long as you're paying, I can\n"
+"do whatever you need.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI05_SCENE05_06_TUIKA01,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]I'd say 3,000 yen should just about\n"
+"cover it.\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI05_SCENE05_06_TUIKA02,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Pay 3,000 yen?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EPI05_SCENE05_06_SEL,segment:0"
+msgid "<start>Yes"
+msgstr ""
+
+msgctxt "type:0,entry:EPI05_SCENE05_06_TUIKA03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou paid 3,000 yen and\n"
+"handed over the camera.\n"
+"<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI05_SCENE05_07,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]...Sorry about the wait.\n"
+"Here is your photograph.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI05_SCENE05_08,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]It is an odd one, though.\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI05_SCENE05_09,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou obtained the [2:0005,00FF]Photo of Tae[2:0001,00FF]\n"
+"with a soldier.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI05_SCENE05_09_TUIKA,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> You may now enter [2:0004,00FF]Dark Kasumidai[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI05_SCENE05_10,segment:0"
+msgid ""
+"<start>[7:0005,00FF]That certainly makes it look like\n"
+"they wandered into the Dark Realm,\n"
+"doesn't it?\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI05_SCENE05_11,segment:0"
+msgid ""
+"<start>[7:0005,00FF]...Which means, of course, we're\n"
+"the only ones who can save them.\n"
+"<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI02_SCENE11_05_TUIKA04,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Short on yen, eh? Then I'm afraid\n"
+"my hands are tied.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI02_SCENE11_05_TUIKA04,segment:1"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Come back with more money\n"
+"and I'll be happy to help.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI05_SCENE05_11_SAIDO,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]So, you're back... Did you rustle up\n"
+"the \"clams,\" as you kids say?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI06_SCENE02_01,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]There you are, kiddo...\n"
+"Here's the merchandise.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI06_SCENE02_02,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Tell Mr. Narumi it needs to be handled\n"
+"with care, all right?\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI06_SCENE02_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF]> Raidou obtained the\n"
+"[2:0005,00FF]Ammunition Box[2:0001,00FF].\n"
+"<end>"
+msgstr ""
+
+#. Gouto
+msgctxt "type:0,entry:EPI06_SCENE02_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF]Geez... What on earth did he order,\n"
+"anyway? Oh well, he can fill us in\n"
+"later.\n"
+"<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI06_SCENE05_01,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]This is Konnou-Ya, a distinguished\n"
+"dealer of antiques. If you see\n"
+"something you like, buy it.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI06_SCENE05_02,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]...What? A crystal ball?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI06_SCENE05_03,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Actually, I did recently receive\n"
+"an order of these \"snow globes\"\n"
+"from the West...\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI06_SCENE05_04,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Uh...? Spiritual energy?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI06_SCENE05_05,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]No, I'm afraid I don't have anything\n"
+"that fits the bill.\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI06_SCENE05_06,segment:0"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]Why don't you ask Victor,\n"
+"downstairs?\n"
+"[23:]<end>"
+msgstr ""
+
+#. Owner of Konnou-Ya
+msgctxt "type:0,entry:EPI06_SCENE05_06,segment:1"
+msgid ""
+"<start>[22:000E,00FF,0006,00FF][7:0005,00FF]There's a small chance he might know\n"
+"something about it.\n"
+"[23:]<end>"
+msgstr ""

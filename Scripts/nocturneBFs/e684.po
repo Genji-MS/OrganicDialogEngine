@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07]Congratulations, [12:FF01].\n"
+"You've created the world of Yosuga.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF07]It's a strong and beautiful kingdom,\n"
+"for those who attain the height\n"
+"of power.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07]I always thought that I'd be the one\n"
+"to bring about the new world.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_003,segment:1"
+msgid ""
+"<start>[7:FF07][18:]...But, I guess instead my duty was\n"
+"to choose you.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF07]I've completed my duty, so...\n"
+"I deserve a nice long rest,\n"
+"don't you think?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_005,segment:0"
+msgid ""
+"<start>[7:FF07]You're supposed to go that way.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_005_B,segment:0"
+msgid ""
+"<start>[7:FF07]There you'll find eternal bliss...\n"
+"And it's rightfully yours.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_006,segment:0"
+msgid ""
+"<start>[7:FF07]Thanks for everything,\n"
+"[12:FF01].\n"
+"Say hi to the world I dreamed of\n"
+"for me...\n"
+"<end>"
+msgstr ""

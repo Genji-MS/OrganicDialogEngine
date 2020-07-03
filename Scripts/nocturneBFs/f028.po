@@ -1,0 +1,1048 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+msgctxt "type:1,entry:YN_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:EXIT,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you proceed?\n"
+"<end>"
+msgstr ""
+
+#. Isamu's shadow
+msgctxt "type:0,entry:ISAMU_R01,segment:0"
+msgid ""
+"<start>[7:FF07]Blah.\n"
+"<end>"
+msgstr ""
+
+#. Isamu's shadow
+msgctxt "type:0,entry:ISAMU_R02,segment:0"
+msgid ""
+"<start>[7:FF07]Blah.\n"
+"<end>"
+msgstr ""
+
+#. Isamu's shadow
+msgctxt "type:0,entry:ISAMU_R03,segment:0"
+msgid ""
+"<start>[7:FF07]Blah.\n"
+"<end>"
+msgstr ""
+
+#. Isamu's shadow
+msgctxt "type:0,entry:ISAMU_R04,segment:0"
+msgid ""
+"<start>[7:FF07]Blah.\n"
+"<end>"
+msgstr ""
+
+#. Isamu's shadow
+msgctxt "type:0,entry:ISAMU_R04,segment:1"
+msgid ""
+"<start>Blah.\n"
+"<end>"
+msgstr ""
+
+#. Isamu's shadow
+msgctxt "type:0,entry:ISAMU_R05,segment:0"
+msgid ""
+"<start>[7:FF07]Blah.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HIJIRI_SYS_01,segment:0"
+msgid ""
+"<start>[7:FF07]> You can hear a voice...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI_01,segment:0"
+msgid ""
+"<start>[7:FF07]Did... you find... [12:FF03]...?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HIJIRI_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI_01_YES,segment:0"
+msgid ""
+"<start>[7:FF07]...Really?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI_01_YES,segment:1"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI_01_YES,segment:2"
+msgid ""
+"<start>Then, get outta... there.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI_01_NO,segment:0"
+msgid ""
+"<start>[7:FF07]He may be up... ahead. When you...\n"
+"find... him... get yourself... out...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI_02,segment:0"
+msgid ""
+"<start>[7:FF07]The terminal's... acting... up...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI_02,segment:1"
+msgid ""
+"<start>It's not... like it... should be...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:HIJIRI_02,segment:2"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HIJIRI_SYS_02,segment:0"
+msgid ""
+"<start>[7:FF07]> You cannot hear Hijiri's voice\n"
+"anymore.\n"
+"<end>"
+msgstr ""
+
+#. Specter
+msgctxt "type:0,entry:SPECTOR01,segment:0"
+msgid ""
+"<start>[7:FF07]I, fiNaLLy, fOUnD yoUu...!!\n"
+"<end>"
+msgstr ""
+
+#. Specter
+msgctxt "type:0,entry:SPECTOR01,segment:1"
+msgid ""
+"<start>YoooOoUUuuu!! I, LOoK, fOR\n"
+"YOuuUU!!\n"
+"<end>"
+msgstr ""
+
+#. Specter
+msgctxt "type:0,entry:SPECTOR01,segment:2"
+msgid ""
+"<start>ThIS, tiME, I kILL yOu aND fEeL\n"
+"gOod!\n"
+"<end>"
+msgstr ""
+
+#. Specter
+msgctxt "type:0,entry:SPECTOR02,segment:0"
+msgid ""
+"<start>[7:FF07]FoR mY haPpiNeSS...\n"
+"<end>"
+msgstr ""
+
+#. Specter
+msgctxt "type:0,entry:SPECTOR02,segment:1"
+msgid ""
+"<start>DiEEeeeeeEe...!!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SPECTOR_WIN,segment:0"
+msgid ""
+"<start>[7:FF07]> You defeated Specter.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SINEN01,segment:0"
+msgid ""
+"<start>[7:FF07]I do what I like.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SINEN01,segment:1"
+msgid ""
+"<start>No one tells me what to do...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SINEN02,segment:0"
+msgid ""
+"<start>[7:FF07]I have the strength to be able to live\n"
+"on my own.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SINEN02,segment:1"
+msgid ""
+"<start>Leave...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SINEN03,segment:0"
+msgid ""
+"<start>[7:FF07]Society didn't shun me, I shunned\n"
+"the society!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SINEN03,segment:1"
+msgid ""
+"<start>I don't need anyone else!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SINEN04,segment:0"
+msgid ""
+"<start>[7:FF07]In the end, the only one you can\n"
+"trust is yourself.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SINEN04,segment:1"
+msgid ""
+"<start>You need to create your own\n"
+"future...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SINEN05,segment:0"
+msgid ""
+"<start>[7:FF07]I don't want to talk to anyone.\n"
+"Scram!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SINEN06,segment:0"
+msgid ""
+"<start>[7:FF07]I think, therefore I am...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:SINEN07,segment:0"
+msgid ""
+"<start>[7:FF07]...To be strong is to be solitary.\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN1,segment:0"
+msgid ""
+"<start>[7:FF07]..............................\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN1,segment:1"
+msgid ""
+"<start>..............................\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN1,segment:2"
+msgid ""
+"<start>.....................Hmm?.....\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN1,segment:3"
+msgid ""
+"<start>..............................\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN1,segment:4"
+msgid ""
+"<start>..............................\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN1,segment:5"
+msgid ""
+"<start>.....................Hmm......\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN1,segment:6"
+msgid ""
+"<start>..............................\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN1,segment:7"
+msgid ""
+"<start>..............................\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN1,segment:8"
+msgid ""
+"<start>.....................You......\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN1_2ND,segment:0"
+msgid ""
+"<start>[7:FF07]...Came...... again...\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN1_Q,segment:0"
+msgid ""
+"<start>[7:FF07]...You...... want to pass...?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MONBAN1_SEL,segment:0"
+msgid "<start>Yeah........."
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN1_Y,segment:0"
+msgid ""
+"<start>[7:FF07]......I see......\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN1_N,segment:0"
+msgid ""
+"<start>[7:FF07]..............................\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN1_N,segment:1"
+msgid ""
+"<start>..............................\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN1_N,segment:2"
+msgid ""
+"<start>.......................Then...\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN1_N,segment:3"
+msgid ""
+"<start>......Go over there...........\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN1_MUSI,segment:0"
+msgid ""
+"<start>[7:FF07]..............................\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN1_MUSI,segment:1"
+msgid ""
+"<start>..............................\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN1_MUSI,segment:2"
+msgid ""
+"<start>.......................Then...\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN1_MUSI,segment:3"
+msgid ""
+"<start>.....Stay there...............\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN2,segment:0"
+msgid ""
+"<start>[7:FF07]..............................\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN2,segment:1"
+msgid ""
+"<start>..............................\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN2,segment:2"
+msgid ""
+"<start>.....................You......\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN2,segment:3"
+msgid ""
+"<start>.........What's your name.....?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MONBAN2_SEL,segment:0"
+msgid "<start>Say your name."
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN2_NANORU,segment:0"
+msgid ""
+"<start>[7:FF07]......I see..................\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN2_NANORU,segment:1"
+msgid ""
+"<start>...You're... [12:FF03]'s...\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN2_NANORU,segment:2"
+msgid ""
+"<start>.............................\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN2_MUSI,segment:0"
+msgid ""
+"<start>[7:FF07].............................\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN2_MUSI,segment:1"
+msgid ""
+"<start>......You......... quiet.....\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN2_MUSI,segment:2"
+msgid ""
+"<start>.............Cool............\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN3,segment:0"
+msgid ""
+"<start>[7:FF07].............................\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN3,segment:1"
+msgid ""
+"<start>....................You......\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN3,segment:2"
+msgid ""
+"<start>.........Solitude............\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN3,segment:3"
+msgid ""
+"<start>......You like... solitude...?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MONBAN3_SEL,segment:0"
+msgid "<start>Uh-huh......."
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN3_Y,segment:0"
+msgid ""
+"<start>[7:FF07]....................You......\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN3_Y,segment:1"
+msgid ""
+"<start>......Understand.... maybe...\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN3_Y,segment:2"
+msgid ""
+"<start>...................Cool......\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN3_N,segment:0"
+msgid ""
+"<start>[7:FF07].....................You.....\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN3_N,segment:1"
+msgid ""
+"<start>......No good..... maybe.....\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN3_N,segment:2"
+msgid ""
+"<start>...Differ from... Master\n"
+"[12:FF03]...\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN3_MUSI,segment:0"
+msgid ""
+"<start>[7:FF07].............................\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN3_MUSI,segment:1"
+msgid ""
+"<start>......You...... are cool.....\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN3_MUSI,segment:2"
+msgid ""
+"<start>...................Cool......\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN4,segment:0"
+msgid ""
+"<start>[7:FF07]..............................\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN4,segment:1"
+msgid ""
+"<start>......Can......... you.........\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN4,segment:2"
+msgid ""
+"<start>........live...... on your own?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MONBAN4_SEL,segment:0"
+msgid "<start>Of course........"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN4_Y,segment:0"
+msgid ""
+"<start>[7:FF07]...............I see.............\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN4_Y,segment:1"
+msgid ""
+"<start>......Keep...... it up............\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN4_Y,segment:2"
+msgid ""
+"<start>...I'll... live on my own... too...\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN4_Y,segment:3"
+msgid ""
+"<start>......I am........... you.........\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN4_N,segment:0"
+msgid ""
+"<start>[7:FF07]..................I see..........\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN4_N,segment:1"
+msgid ""
+"<start>...Talk to... Master [12:FF03]...\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN4_N,segment:2"
+msgid ""
+"<start>...We all...... live on our own...\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN4_N,segment:3"
+msgid ""
+"<start>...You are............ me.........\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN4_MUSI,segment:0"
+msgid ""
+"<start>[7:FF07].............................\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN4_MUSI,segment:1"
+msgid ""
+"<start>...Talk to... Master [12:FF03]...\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN4_MUSI,segment:2"
+msgid ""
+"<start>...We all... live on our own...\n"
+"<end>"
+msgstr ""
+
+#. Shadow
+msgctxt "type:0,entry:MONBAN4_MUSI,segment:3"
+msgid ""
+"<start>...You are............ me......\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MONBAN_END_SYS,segment:0"
+msgid ""
+"<start>[7:FF07]> The shadow disappeared.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EXITWARP,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you leave the area?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EXITWARP_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a Mystical Chest.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HOSEKI_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Mystical Chest.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA,segment:0"
+msgid ""
+"<start>[7:FF07]> You see a Cache Cube.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAKARA_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Cache Cube.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_STILLGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DH_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"the Magatama [2:FF05][3:FF01][2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_MAKA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01] Macca[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:0"
+msgid ""
+"<start>[7:FF07]> It's a trap.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:1"
+msgid ""
+"<start>> Your party took damage.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_KARAGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:0"
+msgid ""
+"<start>[7:FF07]> [3:FF03] found something.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:1"
+msgid ""
+"<start>[7:FF07]............\n"
+"> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_OPENERROR,segment:0"
+msgid ""
+"<start>[7:FF07]> It can't be used here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_LIGHTMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The light effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_ESTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The repel effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REBERAMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The attract effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REFUTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The levitation effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:WARP_ELV_MSG,segment:0"
+msgid ""
+"<start>[7:FF07]> Select a floor.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL1,segment:0"
+msgid "<start>[3:FF01][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL2,segment:0"
+msgid "<start>[3:FF02][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL3,segment:0"
+msgid "<start>[3:FF03][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL4,segment:0"
+msgid "<start>[3:FF04][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL5,segment:0"
+msgid "<start>[3:FF05][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL6,segment:0"
+msgid "<start>[3:FF06][80EA]"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_KAIFUKU_01,segment:0"
+msgid ""
+"<start>[7:FF07]...You again?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_KAIFUKU_01,segment:1"
+msgid ""
+"<start>How many times you plan on comin'\n"
+"here? I don't want to talk to no one!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_KAIFUKU_01,segment:2"
+msgid ""
+"<start>I'll heal you, so just go home...\n"
+"Pest.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F028_KAIFUKU_02,segment:0"
+msgid ""
+"<start>[7:FF07]> ............\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F028_KAIFUKU_02,segment:1"
+msgid ""
+"<start>> You have been healed.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_KAIFUKU_03,segment:0"
+msgid ""
+"<start>No matter how many times\n"
+"you visit me, I'll heal you.\n"
+"Anything to make you go away!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_SINEN01,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_SINEN01,segment:1"
+msgid ""
+"<start>Geez, we've been having a lot of\n"
+"visitors lately!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_SINEN01,segment:2"
+msgid ""
+"<start>A human kid came in and began\n"
+"living here not too long ago.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_SINEN01,segment:3"
+msgid ""
+"<start>Well, I don't care who comes,\n"
+"as long as they don't bother me.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_SINEN02,segment:0"
+msgid ""
+"<start>[7:FF07]...What?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_SINEN02,segment:1"
+msgid ""
+"<start>You seem friendly, but I'm not in\n"
+"the mood for chatting.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_SINEN02,segment:2"
+msgid ""
+"<start>\"Believe no one.\"\n"
+"\"The truth is within you!\"\n"
+"You've heard it all before, right?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_SINEN02,segment:3"
+msgid ""
+"<start>So, keep it to yourself, would you?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_SINEN02,segment:4"
+msgid ""
+"<start>...Um, I'm babbling, aren't I?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_SINEN03,segment:0"
+msgid ""
+"<start>[7:FF07]Are you planning to continue on\n"
+"ahead, mister? I wouldn't!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_SINEN03,segment:1"
+msgid ""
+"<start>No one likes to be disturbed...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_SINEN03,segment:2"
+msgid ""
+"<start>And if you try to force your way\n"
+"through, you'll run into even more\n"
+"trouble!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_SINEN04,segment:0"
+msgid ""
+"<start>[7:FF07]OoOoHh...YoOOuuUUuuu!!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_SINEN04,segment:1"
+msgid ""
+"<start>...That's what a demon I just met\n"
+"over there said.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_SINEN04,segment:2"
+msgid ""
+"<start>But, he was much madder...\n"
+"and fiercer...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_SINEN,segment:0"
+msgid ""
+"<start>[7:FF07]OoOoHh...YoOOuuuuUUuuu!!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_SINEN,segment:1"
+msgid ""
+"<start>...Oh! Did I scare you? I'm trying to\n"
+"impersonate that demon I met.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F028_SINEN,segment:2"
+msgid ""
+"<start>But, it's no good! I gotta be\n"
+"madder... and fiercer...!\n"
+"<end>"
+msgstr ""

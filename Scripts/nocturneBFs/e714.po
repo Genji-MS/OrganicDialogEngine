@@ -1,0 +1,361 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_001,segment:0"
+msgid ""
+"<start>[7:FF07][18:]That swordsman with immeasurable\n"
+"strength and two pistols...\n"
+"I see you survived the battle\n"
+"against him.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_001,segment:1"
+msgid ""
+"<start>[18:]The demon inside you will continue\n"
+"to be your source of strength\n"
+"during your quest.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_002,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Power...\n"
+"It is sought by all.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_003,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Whether it is the power of light,\n"
+"or the power of darkness,\n"
+"people rely on it, and pray...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_003,segment:1"
+msgid ""
+"<start>[18:]They pray, wishing for greater\n"
+"power...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_004,segment:0"
+msgid ""
+"<start>[7:FF07][18:]A woman you know well prayed to\n"
+"a god in hopes of saving the world...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_004,segment:1"
+msgid ""
+"<start>[18:]Let me tell you about that god...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07]Aradia, god of falsehood...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001,segment:1"
+msgid ""
+"<start>She is from a Vortex World beyond\n"
+"the boundaries of this world.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF07]In the Amala Universe,\n"
+"where time and space melt together\n"
+"and flow as one,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002,segment:1"
+msgid ""
+"<start>there exist countless Vortex Worlds.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07]One of these worlds is where Aradia\n"
+"originated.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003B,segment:0"
+msgid ""
+"<start>[7:FF07]As you are already aware,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003B,segment:1"
+msgid ""
+"<start>this Vortex World was made by\n"
+"the true power of creation.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF07]But, in shadow lies a world where\n"
+"those branded as false gather,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:1"
+msgid ""
+"<start>and that is the Vortex World where\n"
+"Aradia once resided.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005,segment:0"
+msgid ""
+"<start>[7:FF07]Those who dwell there wish for\n"
+"one thing:\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005,segment:1"
+msgid ""
+"<start>for their existence to become real...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_006,segment:0"
+msgid ""
+"<start>[7:FF07]To find the means,\n"
+"they depart into the ocean of Amala\n"
+"and seek out worlds that hold\n"
+"the power of creation.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_007,segment:0"
+msgid ""
+"<start>[7:FF07]Aradia is a tragic savior\n"
+"born of dreams.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_007,segment:1"
+msgid ""
+"<start>She emerged in response to\n"
+"the cries of witches who were\n"
+"persecuted for their beliefs.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_008,segment:0"
+msgid ""
+"<start>[7:FF07]The witches prayed to Aradia for\n"
+"power and freedom...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_008,segment:1"
+msgid ""
+"<start>They also prayed for people to be\n"
+"saved from the hardships of life.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_009,segment:0"
+msgid ""
+"<start>[7:FF07]However, Aradia never showed\n"
+"herself on earth, nor did she\n"
+"save anyone.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_009,segment:1"
+msgid ""
+"<start>She was a god who could only give\n"
+"hope to her believers.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_005,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Humans, whom god created,\n"
+"created a new god...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_005,segment:1"
+msgid ""
+"<start>[18:]Anything is possible in the vast\n"
+"ocean of Amala.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_006,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Nevertheless, Aradia is still\n"
+"an outsider.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_006,segment:1"
+msgid ""
+"<start>[18:]There is little that she can do in\n"
+"a Vortex World where her existence\n"
+"is forbidden.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_006,segment:2"
+msgid ""
+"<start>[18:]She is merely the god of forsaken\n"
+"freedom...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_007,segment:0"
+msgid ""
+"<start>[7:FF07][18:]There are many you have spoken\n"
+"to: the Fiends... us...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_007,segment:1"
+msgid ""
+"<start>[18:]You have heard the voice of\n"
+"the Absolute One, too.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_007,segment:2"
+msgid ""
+"<start>[18:]But, please know this...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_007,segment:3"
+msgid ""
+"<start>[18:]In the everlasting flow of Amala,\n"
+"we have long waited for you...\n"
+"for this time to come.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_008,segment:0"
+msgid ""
+"<start>[7:FF07][18:]The true significance of\n"
+"the candelabra and the Labyrinth\n"
+"of Amala,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_008,segment:1"
+msgid ""
+"<start>[18:]the new demon of chaos,\n"
+"whom all are waiting for\n"
+"in anticipation,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_008,segment:2"
+msgid ""
+"<start>[18:]and the final moment that\n"
+"my master awaits...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_009,segment:0"
+msgid ""
+"<start>[7:FF07]......\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_009,segment:1"
+msgid ""
+"<start>[18:]...You must be overwhelmed by it all.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_009,segment:2"
+msgid ""
+"<start>[18:][12:FF01]...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_009,segment:3"
+msgid ""
+"<start>[18:]If you can restore the candelabra\n"
+"to their original places and come\n"
+"here once again,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_009,segment:4"
+msgid ""
+"<start>[18:]then at that time...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_LUI_009,segment:5"
+msgid ""
+"<start>[18:]I will tell you the answers to all\n"
+"of your questions.\n"
+"<end>"
+msgstr ""

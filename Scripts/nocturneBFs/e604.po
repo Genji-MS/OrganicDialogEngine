@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[
+msgctxt "type:0,entry:ISAMU_001,segment:0"
+msgid ""
+"<start>[7:FF07]*gasp* ...!!\n"
+""
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:ISAMU_002,segment:0"
+msgid ""
+"<start>[7:FF07]Dude! You scared the crap outta me,\n"
+"[12:FF01]!\n"
+"Why'd you startle me like that!?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:ISAMU_002,segment:1"
+msgid ""
+"<start>[18:]You come here late,\n"
+"you cause trouble...\n"
+"Geez.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:ISAMU_002,segment:2"
+msgid ""
+"<start>[18:]Ah, forget it.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:ISAMU_003,segment:0"
+msgid ""
+"<start>[18:][7:FF07]I'm sure you noticed already,\n"
+"but man, this place is deserted.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:ISAMU_003,segment:1"
+msgid ""
+"<start>[18:]I called Ms. [11:FF02]\n"
+"and double checked, though.\n"
+"She said, \"Shinjuku Medical Center.\"\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:KAIWA_SEL,segment:0"
+msgid "<start>Maybe something happened..."
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:ISAMU_004,segment:0"
+msgid ""
+"<start>[7:FF07][18:]They could've at least put up\n"
+"a notice or something,\n"
+"so visitors aren't clueless.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:ISAMU_004,segment:1"
+msgid ""
+"<start>[18:]This place better not be\n"
+"contaminated by some deadly\n"
+"virus...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:ISAMU_007,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...How can you be so calm?\n"
+"To tell you the truth,\n"
+"I'm gettin' kinda nervous.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:ISAMU_005,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Don't be jealous.\n"
+"Let's just say that I know how to\n"
+"apply myself.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:ISAMU_005,segment:1"
+msgid ""
+"<start>[18:]What?\n"
+"No way I'm giving you her number.\n"
+"Why should I help my competition?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:ISAMU_006,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I checked out most of this place.\n"
+"I don't know where else\n"
+"Ms. [11:FF02] could be...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:ISAMU_006,segment:1"
+msgid ""
+"<start>[18:]Oh well.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:ISAMU_006B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I'll go back and see how\n"
+"[12:FF04] is doing.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:ISAMU_006B,segment:1"
+msgid ""
+"<start>[18:]She's probably all mad at me\n"
+"'cuz I've been gone so long...\n"
+"*sigh* It's hard to please\n"
+"a girl with her upbringing.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:ISAMU_006C,segment:0"
+msgid ""
+"<start>[7:FF07][18:]See ya in a bit, [12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:ISAMU_006C,segment:1"
+msgid ""
+"<start>[18:]I really hope that this is nothing\n"
+"we should be worried about...\n"
+"<end>"
+msgstr ""

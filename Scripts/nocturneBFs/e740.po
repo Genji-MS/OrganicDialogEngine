@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Mysterious voice
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07]...Only one of us will escape\n"
+"this domain alive.\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:MSG_001,segment:1"
+msgid ""
+"<start>The victor shall claim the loser's\n"
+"candelabrum, and return in triumph.\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:MSG_010,segment:0"
+msgid ""
+"<start>[7:FF07]You hold a candelabrum...\n"
+"Then, like me, you must be seeking\n"
+"supreme power.\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:MSG_011,segment:0"
+msgid ""
+"<start>[7:FF07]That I cannot allow.\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:MSG_011,segment:1"
+msgid ""
+"<start>Only the greatest warrior is worthy\n"
+"of such power.\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:MSG_012,segment:0"
+msgid ""
+"<start>[7:FF07]It is meant for a master\n"
+"swordsman...\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:MSG_012,segment:1"
+msgid ""
+"<start>one who, amidst blood and\n"
+"applause, has put an end\n"
+"to countless lives...\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:MSG_012,segment:2"
+msgid ""
+"<start>That warrior is I, Matador.\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:MSG_012,segment:3"
+msgid ""
+"<start>It's unfortunate that we have\n"
+"no spectators,\n"
+"<end>"
+msgstr ""
+
+#. Mysterious voice
+msgctxt "type:0,entry:MSG_012,segment:4"
+msgid ""
+"<start>but I believe this will be\n"
+"an excellent show regardless,\n"
+"as you and I contend for\n"
+"the candelabra.\n"
+"<end>"
+msgstr ""
+
+#. Matador
+msgctxt "type:0,entry:MSG_013,segment:0"
+msgid ""
+"<start>[7:FF07]I'm sorry to say, but it seems\n"
+"you are rather weak to be\n"
+"in possession of a candelabrum.\n"
+"<end>"
+msgstr ""
+
+#. Matador
+msgctxt "type:0,entry:MSG_013,segment:1"
+msgid ""
+"<start>You should give it to someone\n"
+"more deserving, like myself...\n"
+"But, since it's unlikely that\n"
+"you'll heed my advice...\n"
+"<end>"
+msgstr ""
+
+#. Matador
+msgctxt "type:0,entry:MSG_014,segment:0"
+msgid ""
+"<start>[7:FF07]I challenge you to a duel,\n"
+"<end>"
+msgstr ""
+
+#. Matador
+msgctxt "type:0,entry:MSG_014,segment:1"
+msgid ""
+"<start>to see which of us is truly\n"
+"worthy of the candelabra...\n"
+"<end>"
+msgstr ""
+
+#. Matador
+msgctxt "type:0,entry:MSG_014,segment:2"
+msgid ""
+"<start>I swear, by my sword and capote,\n"
+"that I will once again prove\n"
+"victorious!!\n"
+"<end>"
+msgstr ""
+
+#. Matador
+msgctxt "type:0,entry:MSG_015,segment:0"
+msgid ""
+"<start>[7:FF07]...Welcome to the arena of blood.\n"
+"<end>"
+msgstr ""
+
+#. Matador
+msgctxt "type:0,entry:MSG_001B,segment:0"
+msgid ""
+"<start>[7:FF07]Now, let the battle begin!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"the [2:FF02]Candelabrum of Foundation[2:FF01].\n"
+"<end>"
+msgstr ""

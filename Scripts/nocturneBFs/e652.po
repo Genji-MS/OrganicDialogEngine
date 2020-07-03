@@ -1,0 +1,467 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:][12:FF01]! You did it!\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_1,segment:1"
+msgid ""
+"<start>[18:]I could tell from here\n"
+"that the flow of Magatsuhi\n"
+"had returned to normal.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_1,segment:2"
+msgid ""
+"<start>[18:]Well, with this blow to Nihilo,\n"
+"Hikawa won't be able to make\n"
+"his move for a while.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_1,segment:3"
+msgid ""
+"<start>[18:]I think we can take\n"
+"a little breather.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_01,segment:0"
+msgid ""
+"<start>[7:FF07][18:]But, how did you stop\n"
+"the Nightmare System?\n"
+"Wasn't that Maiden operating it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MSG_020_02,segment:0"
+msgid "<start>I saved her."
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_031,segment:0"
+msgid ""
+"<start>[7:FF07][18:]So, Hikawa was using her, huh?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_031,segment:1"
+msgid ""
+"<start>[18:]Who knows what she'll do now,\n"
+"but at least the Nightmare System\n"
+"is dead.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_032,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I see...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_032,segment:1"
+msgid ""
+"<start>[18:]She might have been one of\n"
+"the few surviving humans,\n"
+"but I guess you had no choice...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_033,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Oh, you're not gonna tell me?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_033,segment:1"
+msgid ""
+"<start>[18:]...Does it bother you that much?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_033,segment:2"
+msgid ""
+"<start>[18:]If so, then I'll stop asking.\n"
+"I'm satisfied knowing that\n"
+"the Nightmare System is out of\n"
+"commission.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Oh yeah. It might seem like\n"
+"I'm making you do all the work,\n"
+"but...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_2,segment:1"
+msgid ""
+"<start>[18:]...I'm doing what I can.\n"
+"Let me share with you what\n"
+"I've found out so far, okay?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MSG_020_3,segment:0"
+msgid "<start>Sure."
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_4,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Alright, listen up.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_5,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Come on, man.\n"
+"Journalism is pointless\n"
+"without an audience.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_5,segment:1"
+msgid ""
+"<start>[18:]I don't care if you're interested\n"
+"or not, just listen.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]To create a new world, you must\n"
+"have a strong idea of what kind\n"
+"of world you want to create.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_1,segment:1"
+msgid ""
+"<start>[18:]This idea is commonly referred to\n"
+"as a Reason.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_1,segment:2"
+msgid ""
+"<start>[18:]Now, to acquire a Reason,\n"
+"you must receive divine protection\n"
+"from a god,\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_1,segment:3"
+msgid ""
+"<start>[18:]and this is where the Magatsuhi\n"
+"comes into play.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_1,segment:4"
+msgid ""
+"<start>[18:]You need a large quantity\n"
+"of Magatsuhi in order to\n"
+"summon a god.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_1,segment:5"
+msgid ""
+"<start>[18:]That's why Hikawa, a human,\n"
+"was collecting Magatsuhi.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Oh, I almost forgot.\n"
+"I met a human inside the Amala\n"
+"Network just a minute ago.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_1,segment:1"
+msgid ""
+"<start>[18:]It was a guy who was held\n"
+"captive by the Mantra.\n"
+"His name's [12:FF03].\n"
+"Do you know him?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MSG_040_2,segment:0"
+msgid "<start>Yes, I know him."
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Yeah, that's what I thought.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_4,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Really?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_4,segment:1"
+msgid ""
+"<start>[18:]There was a rumor that you were\n"
+"trying to help him, but... Oh well.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_5,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Anyways, about [12:FF03]...\n"
+"He actually seemed to be\n"
+"doing okay in Amala.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_5,segment:1"
+msgid ""
+"<start>[18:]If you're unlucky,\n"
+"you can get swept away somewhere,\n"
+"or even worse, you can end up\n"
+"being absorbed by the network.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_5,segment:2"
+msgid ""
+"<start>[18:]Well, in a world like this...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_5,segment:3"
+msgid ""
+"<start>[18:]one life doesn't amount to much,\n"
+"and you're better off\n"
+"not getting involved.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_040_5,segment:4"
+msgid ""
+"<start>[18:]But if you want,\n"
+"I can send you to where\n"
+"I met [12:FF03].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_050_0,segment:0"
+msgid ""
+"<start>[2:FF02]Dummy event for checking;\n"
+"terminal menu will be displayed\n"
+"in the actual game.[2:FF01]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_050_1,segment:0"
+msgid ""
+"<start>Will you have Hijiri send you\n"
+"to where [12:FF03] is?\n"
+""
+msgstr ""
+
+msgctxt "type:1,entry:MSG_050_2,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_3,segment:0"
+msgid ""
+"<start>[7:FF07]No problem.\n"
+"...I'll start right away.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_3,segment:1"
+msgid ""
+"<start>[2:FF02]Too bad, not gonna happen.\n"
+"It ends right here cuz it's\n"
+"a dummy event.[2:FF01]\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_4,segment:0"
+msgid ""
+"<start>[7:FF07]Let me know if you change\n"
+"your mind.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Do you want me to transfer you\n"
+"to where [12:FF03] is?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MSG_TRM_2,segment:0"
+msgid "<start>Yeah, can you?"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]No problem.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_3,segment:1"
+msgid ""
+"<start>Just give me a second ...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_3B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Okay, I'm ready.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_3C,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Here we go.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_3C,segment:1"
+msgid ""
+"<start>[18:]By the way, tell [12:FF03]\n"
+"not to spend too much time\n"
+"in there.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_4,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Just let me know when you're ready.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_5,segment:0"
+msgid ""
+"<start>[7:FF07][18:]It was a little confusing,\n"
+"wasn't it? No big deal.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_5,segment:1"
+msgid ""
+"<start>[18:]To create a new world, you must\n"
+"have a strong idea of what kind\n"
+"of world you want to create.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_5,segment:2"
+msgid ""
+"<start>[18:]This idea is commonly referred to\n"
+"as a Reason.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_5,segment:3"
+msgid ""
+"<start>[18:]Now, to acquire a Reason,\n"
+"you must receive divine protection\n"
+"from a god,\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_5,segment:4"
+msgid ""
+"<start>[18:]and this is where the Magatsuhi\n"
+"comes into play.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_5,segment:5"
+msgid ""
+"<start>[18:]You need a large quantity\n"
+"of Magatsuhi in order to\n"
+"summon a god.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_5,segment:6"
+msgid ""
+"<start>[18:]That's why Hikawa, a human,\n"
+"was collecting Magatsuhi.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_5,segment:7"
+msgid ""
+"<start>[18:]...Well, there you go.\n"
+"<end>"
+msgstr ""

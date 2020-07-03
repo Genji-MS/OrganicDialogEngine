@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[
+msgctxt "type:0,entry:MSG_010_1,segment:0"
+msgid ""
+"<start>[7:FF07]Wh-Whaddya want!?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_1,segment:1"
+msgid ""
+"<start>I didn't do anything! You hear me!?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07]Oh great, there's more...?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:1"
+msgid ""
+"<start>H-Hey...\n"
+"Is that you, [12:FF01]!?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_1,segment:0"
+msgid ""
+"<start>[7:FF07]You gotta help me!\n"
+"I can't afford to waste any time!\n"
+""
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_1,segment:0"
+msgid ""
+"<start>[7:FF07]It's Ms. [11:FF02]!\n"
+"She's...!!\n"
+""
+msgstr ""
+
+#. Thor
+msgctxt "type:0,entry:MSG_060_1,segment:0"
+msgid ""
+"<start>[7:FF07]You are unfamiliar to me, demon.\n"
+"<end>"
+msgstr ""
+
+#. Thor
+msgctxt "type:0,entry:MSG_060_1,segment:1"
+msgid ""
+"<start>[7:FF07]Any who enter the territory\n"
+"of the Mantra will be tried.\n"
+"<end>"
+msgstr ""
+
+#. Thor
+msgctxt "type:0,entry:MSG_060_1,segment:2"
+msgid ""
+"<start>[7:FF07]Lock him up!\n"
+"<end>"
+msgstr ""

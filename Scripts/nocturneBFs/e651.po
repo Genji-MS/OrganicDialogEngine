@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[
+msgctxt "type:0,entry:MSG_030_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Thank you, [12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_1,segment:1"
+msgid ""
+"<start>[18:]I don't know why,\n"
+"but I had a feeling that\n"
+"you'd come and save me.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]It's funny...\n"
+"I told you that I'd be\n"
+"your strength,\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_2,segment:1"
+msgid ""
+"<start>[18:]and you ended up helping me\n"
+"instead.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I have no power whatsoever.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_1,segment:1"
+msgid ""
+"<start>[18:]How can I control the world,\n"
+"when I can't even take control\n"
+"of my own life...?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_1,segment:2"
+msgid ""
+"<start>[18:]As the Maiden, I just do\n"
+"Hikawa's bidding.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_1,segment:3"
+msgid ""
+"<start>[18:]\"I would like you to become\n"
+"the pillar of the new world.\"\n"
+"That's what he told me.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_1,segment:4"
+msgid ""
+"<start>[18:]In the end,\n"
+"I was nothing but a tool\n"
+"for collecting Magatsuhi...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]It's true that the Conception\n"
+"did take place, and I assisted\n"
+"in making it happen.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_2,segment:1"
+msgid ""
+"<start>[18:]The world is about to be reborn,\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_2,segment:2"
+msgid ""
+"<start>[18:]but as it stands now,\n"
+"the new world is going to be a far\n"
+"cry from what I had hoped for.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I dreamed of an ideal world\n"
+"where people were grateful\n"
+"to be alive...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...I didn't like how the world was\n"
+"before.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_1,segment:1"
+msgid ""
+"<start>[18:]People said they wanted peace,\n"
+"but they continued to act selfishly,\n"
+"accepting no personal responsibility\n"
+"for the world's problems.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_1,segment:2"
+msgid ""
+"<start>[18:]Nobody realized it,\n"
+"but they were not really happy.\n"
+"They were simply lazy.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_1,segment:3"
+msgid ""
+"<start>[18:]No one had the desire to compete\n"
+"or become strong.\n"
+"And there was no need to, either.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_1,segment:4"
+msgid ""
+"<start>[18:]That's why I thought...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_1,segment:5"
+msgid ""
+"<start>[18:]...that we'd eventually lose\n"
+"our power and fade away.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_TUIKA01,segment:0"
+msgid ""
+"<start>[7:FF07][18:]No wonder I was used by Hikawa...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...But, it's not over yet.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_25,segment:0"
+msgid ""
+"<start>[7:FF07][18:]The world is still being\n"
+"recreated...\n"
+"Its shape is not yet fixed.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_TUIKA02,segment:0"
+msgid ""
+"<start>[7:FF07][18:]It was here that I discovered\n"
+"my god, a god that even Hikawa\n"
+"is unaware of...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_TUIKA02,segment:1"
+msgid ""
+"<start>[18:]She was drawn here by\n"
+"the power of Magatsuhi.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_TUIKA02,segment:2"
+msgid ""
+"<start>[18:]She will surely teach me\n"
+"the Reason for creation...\n"
+"<end>"
+msgstr ""
+
+#. Unknown god
+msgctxt "type:0,entry:MSG_050_0003,segment:0"
+msgid ""
+"<start>[7:FF07]Fool who bears the name Freedom...\n"
+"<end>"
+msgstr ""
+
+#. Unknown god
+msgctxt "type:0,entry:MSG_050_0003,segment:1"
+msgid ""
+"<start>Under the light of liberty,\n"
+"your wrongs shall be forgiven.\n"
+"<end>"
+msgstr ""
+
+#. Unknown god
+msgctxt "type:0,entry:MSG_050_0004,segment:0"
+msgid ""
+"<start>[7:FF07]I am [2:FF02]Aradia[2:FF01].\n"
+"I have come from the far reaches\n"
+"of Amala.\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_050_0005,segment:0"
+msgid ""
+"<start>[7:FF07]It is my duty to bestow freedom.\n"
+"Ask, and you shall be set free.\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_TUIKA03,segment:0"
+msgid ""
+"<start>[7:FF07]If you deem yourself right,\n"
+"light will return to the world,\n"
+"but so will darkness.\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_TUIKA04,segment:0"
+msgid ""
+"<start>[7:FF07]Pursue the way of creation!\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_TUIKA04,segment:1"
+msgid ""
+"<start>You yourself are a world too.\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_TUIKA04,segment:2"
+msgid ""
+"<start>Do not obey others;\n"
+"do what you believe is right.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TUIKA05,segment:0"
+msgid ""
+"<start>[7:FF07]> You received power from Aradia.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TUIKA05,segment:1"
+msgid ""
+"<start>> You can now employ\n"
+"2 additional demons.\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_TUIKA06,segment:0"
+msgid ""
+"<start>[7:FF07]This woman will soon recover\n"
+"her lost power.\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_TUIKA06,segment:1"
+msgid ""
+"<start>She will set forth on the path\n"
+"of creation, and I will guide her.\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_TUIKA06,segment:2"
+msgid ""
+"<start>Go, and see the world with\n"
+"your own eyes. From there\n"
+"will your creation begin...\n"
+"<end>"
+msgstr ""

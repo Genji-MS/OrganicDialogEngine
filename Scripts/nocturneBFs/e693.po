@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07]...Hey, are you listening?\n"
+""
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF07]Let's get going.\n"
+"[12:FF04] will get mad\n"
+"if we make her wait too long.\n"
+""
+msgstr ""
+
+msgctxt "type:0,entry:MSG_002B,segment:0"
+msgid ""
+"<start>[7:FF07]> You received a new e-mail.\n"
+""
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07]Hi, how are you?\n"
+""
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF07]I'm doing much better.\n"
+"I think I'm ready to leave\n"
+"the hospital pretty soon.\n"
+""
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_005,segment:0"
+msgid ""
+"<start>[7:FF07]My doubts and fears\n"
+"have caused you all\n"
+"a lot of trouble.\n"
+""
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_006,segment:0"
+msgid ""
+"<start>[7:FF07]But, you've overcome\n"
+"these obstacles...\n"
+"and saved me.\n"
+""
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_007,segment:0"
+msgid ""
+"<start>[7:FF07]Back then, the world looked\n"
+"so sad to me.\n"
+""
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_008,segment:0"
+msgid ""
+"<start>[7:FF07]That's probably because\n"
+"I was sad myself.\n"
+""
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_009,segment:0"
+msgid ""
+"<start>[7:FF07]But, I've changed my thinking,\n"
+"and I'm going to continue on\n"
+"with my life.\n"
+""
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010,segment:0"
+msgid ""
+"<start>[7:FF07]No matter what the world is like,\n"
+"I won't give up.\n"
+"I'm going to believe in myself...\n"
+""
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_011,segment:0"
+msgid ""
+"<start>[7:FF07]...What am I saying?\n"
+"You already know all this.\n"
+""
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_012,segment:0"
+msgid ""
+"<start>[7:FF07]If it wasn't for you,\n"
+"we wouldn't even be here right now.\n"
+""
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_013,segment:0"
+msgid ""
+"<start>[7:FF07]...Thank you.\n"
+""
+msgstr ""

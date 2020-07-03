@@ -1,0 +1,1169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+msgctxt "type:0,entry:BIG_TERM,segment:0"
+msgid ""
+"<start>[7:FF07]This will be a large terminal. Entry is\n"
+"prohibited because it is under\n"
+"construction.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SMALL_TERM,segment:0"
+msgid ""
+"<start>[7:FF07]This will be a small terminal. It is\n"
+"under construction, but it can link to\n"
+"the big terminal.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:SMALL_TERM,segment:1"
+msgid ""
+"<start>Do you wish to link it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:SMALL_TERM_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:CLOSE,segment:0"
+msgid ""
+"<start>[7:FF07]> It won't open from this side.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA1_NPC1,segment:0"
+msgid ""
+"<start>[7:FF07]Looks like this tunnel leads to\n"
+"Asakusa.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA1_NPC2,segment:0"
+msgid ""
+"<start>[7:FF07][7:FF07]What!?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA1_NPC2,segment:1"
+msgid ""
+"<start>This is my home, y'know!!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA1_NPC3,segment:0"
+msgid ""
+"<start>[7:FF07]I hear that there's oni living in\n"
+"this tunnel.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA1_NPC3,segment:1"
+msgid ""
+"<start>And 4 of 'em, on top of that.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA2_NPC1,segment:0"
+msgid ""
+"<start>[7:FF07]Hey, you!! That's dangerous!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA2_NPC1,segment:1"
+msgid ""
+"<start>Stay behind the white line!!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA2_NPC2,segment:0"
+msgid ""
+"<start>[7:FF07]Dammit!!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA2_NPC2,segment:1"
+msgid ""
+"<start>I forgot to read the latest issue of\n"
+"Ayakashi Monthly!!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA2_NPC2,segment:2"
+msgid ""
+"<start>Is there one in the trash?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA2_NPC3,segment:0"
+msgid ""
+"<start>[7:FF07]There are some oni living deep in\n"
+"the tunnels.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA2_NPC3,segment:1"
+msgid ""
+"<start>Getting to Asakusa is the easy part.\n"
+"Wait until you encounter 'bigger'\n"
+"problems there!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA2_NPC4,segment:0"
+msgid ""
+"<start>[7:FF07]You trying to get to Asakusa?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA2_NPC4,segment:1"
+msgid ""
+"<start>Then, you'll need a couple of those\n"
+"Light Balls.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA2_NPC4,segment:2"
+msgid ""
+"<start>Otherwise, you'll be living in\n"
+"the dark... Literally!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA9_NPC1,segment:0"
+msgid ""
+"<start>[7:FF07]Do you know?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA9_NPC1,segment:1"
+msgid ""
+"<start>The oni Ongyo-ki hides himself and\n"
+"avoids enemies.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA9_NPC1,segment:2"
+msgid ""
+"<start>But, I think he'll come out if his\n"
+"partners are defeated.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA12_NPC1,segment:0"
+msgid ""
+"<start>[7:FF07]You came from Ikebukuro?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA12_NPC1,segment:1"
+msgid ""
+"<start>And you weren't attacked by oni???\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA12_NPC2,segment:0"
+msgid ""
+"<start>[7:FF07]Sometimes... I can hears the voice\n"
+"of an oni from this here platform!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA12_NPC2,segment:1"
+msgid ""
+"<start>Whoa! What the hell was that?!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA13_NPC1,segment:0"
+msgid ""
+"<start>[7:FF07]Once you exit, Asakusa's right there.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F26_AREA13_NPC2,segment:0"
+msgid ""
+"<start>[7:FF07]I saw a young man your age at\n"
+"Asakusa, come to think of it...\n"
+"<end>"
+msgstr ""
+
+#. Kin-ki
+msgctxt "type:0,entry:F26_KINKI,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Kin-ki
+msgctxt "type:0,entry:F26_KINKI,segment:1"
+msgid ""
+"<start>...WHAT DO YOU WANT?\n"
+"<end>"
+msgstr ""
+
+#. Kin-ki
+msgctxt "type:0,entry:F26_KINKI,segment:2"
+msgid ""
+"<start>I AM KIN-KI. YOU FILTHY DOG...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F26_KINKI_2,segment:0"
+msgid ""
+"<start>[7:FF07]> Kin-ki is not listening. What will\n"
+"you do?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F26_KINKI_2_SEL,segment:0"
+msgid "<start>Introduce yourself."
+msgstr ""
+
+#. Kin-ki
+msgctxt "type:0,entry:F26_KINKI_GO,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Kin-ki
+msgctxt "type:0,entry:F26_KINKI_NAME,segment:0"
+msgid ""
+"<start>[7:FF07]...WHAT, YOU'RE THAT...!?\n"
+"<end>"
+msgstr ""
+
+#. Kin-ki
+msgctxt "type:0,entry:F26_KINKI_NAME,segment:1"
+msgid ""
+"<start>DAMN DEMON-HUMAN FREAK!!\n"
+"<end>"
+msgstr ""
+
+#. Kin-ki
+msgctxt "type:0,entry:F26_KINKI_NAME,segment:2"
+msgid ""
+"<start>SURVIVAL OF THE FITTEST!!\n"
+"<end>"
+msgstr ""
+
+#. Kin-ki
+msgctxt "type:0,entry:F26_KINKI_NAME,segment:3"
+msgid ""
+"<start>I WILL HUNT YOU DOWN!!\n"
+""
+msgstr ""
+
+msgctxt "type:0,entry:F26_KINKI_HANA,segment:0"
+msgid ""
+"<start>[7:FF07]> Kin-ki's breathing is getting heavier.\n"
+"<end>"
+msgstr ""
+
+#. Sui-ki
+msgctxt "type:0,entry:F26_SUIKI,segment:0"
+msgid ""
+"<start>[7:FF07]...I've never seen you before.\n"
+"<end>"
+msgstr ""
+
+#. Sui-ki
+msgctxt "type:0,entry:F26_SUIKI,segment:1"
+msgid ""
+"<start>I'm Sui-ki.\n"
+"<end>"
+msgstr ""
+
+#. Sui-ki
+msgctxt "type:0,entry:F26_SUIKI,segment:2"
+msgid ""
+"<start>I'm a cold demon.\n"
+"<end>"
+msgstr ""
+
+#. Sui-ki
+msgctxt "type:0,entry:F26_SUIKI2,segment:0"
+msgid ""
+"<start>[7:FF07]I won't do anything to ya, so come\n"
+"over here...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F26_SUIKI_SEL,segment:0"
+msgid "<start>Okay."
+msgstr ""
+
+#. Sui-ki
+msgctxt "type:0,entry:F26_SUIKI_NO,segment:0"
+msgid ""
+"<start>[7:FF07]Hahaha! You coward.\n"
+"<end>"
+msgstr ""
+
+#. Sui-ki
+msgctxt "type:0,entry:F26_SUIKI_NO2,segment:0"
+msgid ""
+"<start>[7:FF07]Then, die!\n"
+""
+msgstr ""
+
+#. Sui-ki
+msgctxt "type:0,entry:F26_SUIKI_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Heh...\n"
+"<end>"
+msgstr ""
+
+#. Sui-ki
+msgctxt "type:0,entry:F26_SUIKI_YES,segment:1"
+msgid ""
+"<start>You got some guts.\n"
+"<end>"
+msgstr ""
+
+#. Sui-ki
+msgctxt "type:0,entry:F26_SUIKI_2ND,segment:0"
+msgid ""
+"<start>[7:FF07]You really want to have some fun\n"
+"with me, huh?\n"
+"<end>"
+msgstr ""
+
+#. Sui-ki
+msgctxt "type:0,entry:F26_SUIKI_2ND2,segment:0"
+msgid ""
+"<start>[7:FF07]So come here, will ya?\n"
+"<end>"
+msgstr ""
+
+#. Sui-ki
+msgctxt "type:0,entry:F26_SUIKI_2ND_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Ew...\n"
+"<end>"
+msgstr ""
+
+#. Sui-ki
+msgctxt "type:0,entry:F26_SUIKI_2ND_YES,segment:1"
+msgid ""
+"<start>Not with a guy, man.\n"
+"<end>"
+msgstr ""
+
+#. Fuu-ki
+msgctxt "type:0,entry:F26_FUUKI,segment:0"
+msgid ""
+"<start>[7:FF07]Yee-haw!\n"
+"<end>"
+msgstr ""
+
+#. Fuu-ki
+msgctxt "type:0,entry:F26_FUUKI,segment:1"
+msgid ""
+"<start>I'm Fuu-ki.\n"
+"<end>"
+msgstr ""
+
+#. Fuu-ki
+msgctxt "type:0,entry:F26_FUUKI,segment:2"
+msgid ""
+"<start>You must have some time on your\n"
+"hands, making it all the way down\n"
+"here.\n"
+"<end>"
+msgstr ""
+
+#. Fuu-ki
+msgctxt "type:0,entry:F26_FUUKI2,segment:0"
+msgid ""
+"<start>[7:FF07]Give me some cash, then I can hook\n"
+"you up with some hot babes.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F26_FUUKI_SEL,segment:0"
+msgid "<start>Sounds good to me."
+msgstr ""
+
+#. Fuu-ki
+msgctxt "type:0,entry:F26_FUUKI_PAY,segment:0"
+msgid ""
+"<start>[7:FF07]Alright, 100 Macca.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F26_FUUKI_PAY_SEL,segment:0"
+msgid "<start>Sure."
+msgstr ""
+
+#. Fuu-ki
+msgctxt "type:0,entry:F26_FUUKI_PAY2,segment:0"
+msgid ""
+"<start>[7:FF07]Alright! You know how to make\n"
+"things fun!\n"
+"<end>"
+msgstr ""
+
+#. Fuu-ki
+msgctxt "type:0,entry:F26_FUUKI_PAY2,segment:1"
+msgid ""
+"<start>Now, let's try the next level!\n"
+"100 Macca more!\n"
+"<end>"
+msgstr ""
+
+#. Fuu-ki
+msgctxt "type:0,entry:F26_FUUKI_PAY3,segment:0"
+msgid ""
+"<start>[7:FF07]So close! Sooo close, man!\n"
+"<end>"
+msgstr ""
+
+#. Fuu-ki
+msgctxt "type:0,entry:F26_FUUKI_PAY3,segment:1"
+msgid ""
+"<start>Just 100 Macca more, really! Then,\n"
+"it's a done deal!\n"
+"<end>"
+msgstr ""
+
+#. Fuu-ki
+msgctxt "type:0,entry:F26_FUUKI_PAY4,segment:0"
+msgid ""
+"<start>[7:FF07]1...2...3... Alright.\n"
+"<end>"
+msgstr ""
+
+#. Fuu-ki
+msgctxt "type:0,entry:F26_FUUKI_PAY4,segment:1"
+msgid ""
+"<start>Now, get outta here!!\n"
+"<end>"
+msgstr ""
+
+#. Fuu-ki
+msgctxt "type:0,entry:F26_FUUKI_BATTLE,segment:0"
+msgid ""
+"<start>[7:FF07]I'm sorry! Please! Don't hurt me!\n"
+"<end>"
+msgstr ""
+
+#. Fuu-ki
+msgctxt "type:0,entry:F26_FUUKI_BATTLE,segment:1"
+msgid ""
+"<start>C'mon, I beg of you!\n"
+"<end>"
+msgstr ""
+
+#. Fuu-ki
+msgctxt "type:0,entry:F26_FUUKI_BATTLE,segment:2"
+msgid ""
+"<start>Ha... Yeah, right!\n"
+"<end>"
+msgstr ""
+
+#. Fuu-ki
+msgctxt "type:0,entry:F26_FUUKI_BATTLE2,segment:0"
+msgid ""
+"<start>[7:FF07]Take this, loser!\n"
+""
+msgstr ""
+
+#. Fuu-ki
+msgctxt "type:0,entry:F26_FUUKI_NOMONEY,segment:0"
+msgid ""
+"<start>[7:FF07]You don't even have enough money.\n"
+"I have no business with poor\n"
+"people.\n"
+"<end>"
+msgstr ""
+
+#. Fuu-ki
+msgctxt "type:0,entry:F26_FUUKI_NOMONEY,segment:1"
+msgid ""
+"<start>Make like a tree and get outta here!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F26_FUIN_NOMAN,segment:0"
+msgid ""
+"<start>[7:FF07]> No one is here...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F26_FUIN_YOKI,segment:0"
+msgid ""
+"<start>[7:FF07]> You sense a strong power from\n"
+"beyond the door...\n"
+"<end>"
+msgstr ""
+
+#. Ongyo-ki
+msgctxt "type:0,entry:F26_ONGYO,segment:0"
+msgid ""
+"<start>[7:FF07]My name is Ongyo-ki...\n"
+"<end>"
+msgstr ""
+
+#. Ongyo-ki
+msgctxt "type:0,entry:F26_ONGYO,segment:1"
+msgid ""
+"<start>Are you the one who slew my\n"
+"partners and awakened me!?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F26_ONGYO_SEL,segment:0"
+msgid "<start>I sliced and diced them."
+msgstr ""
+
+#. Ongyo-ki
+msgctxt "type:0,entry:F26_ONGYO_NO,segment:0"
+msgid ""
+"<start>[7:FF07]You cannot fool me!!\n"
+"<end>"
+msgstr ""
+
+#. Ongyo-ki
+msgctxt "type:0,entry:F26_ONGYO_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Insolent fool!!!!\n"
+"<end>"
+msgstr ""
+
+#. Ongyo-ki
+msgctxt "type:0,entry:F26_ONGYO_YES2,segment:0"
+msgid ""
+"<start>[7:FF07]Learn your weakness through my\n"
+"illusions!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EXITWARP,segment:0"
+msgid ""
+"<start>[7:FF07]> Will you leave the area?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EXITWARP_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI,segment:0"
+msgid ""
+"<start>[7:FF07]> There is a Mystical Chest.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:HOSEKI_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Mystical Chest.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:HOSEKI_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA,segment:0"
+msgid ""
+"<start>[7:FF07]> You see a Cache Cube.\n"
+"Will you open it?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:TAKARA_SEL,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_NOGET,segment:0"
+msgid ""
+"<start>[7:FF07]> You did not open\n"
+"the Cache Cube.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_STILLGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DH_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"the Magatama [2:FF05][3:FF01][2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_MAKA_GET,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained\n"
+"[2:FF05][3:FF01] Macca[2:FF01].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:0"
+msgid ""
+"<start>[7:FF07]> It's a trap.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_DAMAGE,segment:1"
+msgid ""
+"<start>> Your party took damage.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARA_KARAGET,segment:0"
+msgid ""
+"<start>[7:FF07]> It's empty.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:0"
+msgid ""
+"<start>[7:FF07]> [3:FF03] found something.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:TAKARASAGASI,segment:1"
+msgid ""
+"<start>[7:FF07]............\n"
+"> You obtained\n"
+"[2:FF05][3:FF01][2:FF01] x [3:FF02].\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_OPENERROR,segment:0"
+msgid ""
+"<start>[7:FF07]> It can't be used here.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_LIGHTMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The light effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_ESTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The repel effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REBERAMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The attract effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:COMP_REFUTOMAEND,segment:0"
+msgid ""
+"<start>[7:FF07]> The levitation effect wore off.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:WARP_ELV_MSG,segment:0"
+msgid ""
+"<start>[7:FF07]> Select a floor.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL1,segment:0"
+msgid "<start>[3:FF01][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL2,segment:0"
+msgid "<start>[3:FF02][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL3,segment:0"
+msgid "<start>[3:FF03][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL4,segment:0"
+msgid "<start>[3:FF04][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL5,segment:0"
+msgid "<start>[3:FF05][80EA]"
+msgstr ""
+
+msgctxt "type:1,entry:WARP_ELV_SEL6,segment:0"
+msgid "<start>[3:FF06][80EA]"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN01,segment:0"
+msgid ""
+"<start>[7:FF07]The passage at the end of this\n"
+"station goes all the way to Asakusa.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN01,segment:1"
+msgid ""
+"<start>It's called the Ikebukuro Tunnel.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN02,segment:0"
+msgid ""
+"<start>[7:FF07]A big group of Manikins went\n"
+"downstairs.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN02,segment:1"
+msgid ""
+"<start>...My guess is, they're gonna try and\n"
+"revive the city of Asakusa.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN02_01,segment:0"
+msgid ""
+"<start>[7:FF07]Mifunashiro attacked... Futomimi\n"
+"killed... It's over for the Manikins.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN02_01,segment:1"
+msgid ""
+"<start>...The Vortex world is a tough place\n"
+"to live in.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN03,segment:0"
+msgid ""
+"<start>[7:FF07]What!?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN03,segment:1"
+msgid ""
+"<start>I'm sleeping. Don't bother me!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN04,segment:0"
+msgid ""
+"<start>[7:FF07]There are other tunnels like this all\n"
+"over!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN04,segment:1"
+msgid ""
+"<start>They're all important, as they\n"
+"connect different areas together...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN04,segment:2"
+msgid ""
+"<start>...But, actually, no one really uses\n"
+"them...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN05_01,segment:0"
+msgid ""
+"<start>[7:FF07]You're heading for Asakusa, too?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F026_YESNO,segment:0"
+msgid "<start>Yes."
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN05_NO,segment:0"
+msgid ""
+"<start>[7:FF07]...Well, since you're here, why don't\n"
+"you try walking in the [2:FF02]dark[2:FF01]?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN05_NO,segment:1"
+msgid ""
+"<start>Seriously, you can't see a thing in\n"
+"there!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN05_YES,segment:0"
+msgid ""
+"<start>[7:FF07]Then, you'll need something that'll\n"
+"[2:FF02]light[2:FF01] up the way.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN05_YES,segment:1"
+msgid ""
+"<start>They sell it somewhere...\n"
+"<end>"
+msgstr ""
+
+#. Oni
+msgctxt "type:0,entry:F026_ONI01,segment:0"
+msgid ""
+"<start>[7:FF07]Oni!\n"
+"<end>"
+msgstr ""
+
+#. Oni
+msgctxt "type:0,entry:F026_ONI01,segment:1"
+msgid ""
+"<start>There's oni inside!\n"
+"<end>"
+msgstr ""
+
+#. Oni
+msgctxt "type:0,entry:F026_ONI01,segment:2"
+msgid ""
+"<start>Well, I'm an oni, too, but I ran into\n"
+"a [2:FF02]strong oni[2:FF01] inside!\n"
+"<end>"
+msgstr ""
+
+#. Oni
+msgctxt "type:0,entry:F026_ONI01,segment:3"
+msgid ""
+"<start>Plus, I hear there's a total of\n"
+"[2:FF02]four oni[2:FF01]...\n"
+"<end>"
+msgstr ""
+
+#. Oni
+msgctxt "type:0,entry:F026_ONI01_02,segment:0"
+msgid ""
+"<start>[7:FF07]Oni!\n"
+"<end>"
+msgstr ""
+
+#. Oni
+msgctxt "type:0,entry:F026_ONI01_02,segment:1"
+msgid ""
+"<start>Someone beat the four oni!\n"
+"<end>"
+msgstr ""
+
+#. Oni
+msgctxt "type:0,entry:F026_ONI01_02,segment:2"
+msgid ""
+"<start>Did you know?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:F026_ONI01_SEL,segment:0"
+msgid "<start>I know."
+msgstr ""
+
+#. Oni
+msgctxt "type:0,entry:F026_ONI01_YES,segment:0"
+msgid ""
+"<start>[7:FF07]...Geez, that must be some crazy\n"
+"demon, beating those four.\n"
+"<end>"
+msgstr ""
+
+#. Oni
+msgctxt "type:0,entry:F026_ONI01_YES,segment:1"
+msgid ""
+"<start>I'd like to get a glimpse of him! Too\n"
+"bad all I see is you...\n"
+"<end>"
+msgstr ""
+
+#. Oni
+msgctxt "type:0,entry:F026_ONI01_NO,segment:0"
+msgid ""
+"<start>[7:FF07]I see...\n"
+"<end>"
+msgstr ""
+
+#. Oni
+msgctxt "type:0,entry:F026_ONI01_NO,segment:1"
+msgid ""
+"<start>It's big news to us oni... You need to\n"
+"keep up with the world, man.\n"
+"<end>"
+msgstr ""
+
+#. Oni
+msgctxt "type:0,entry:F026_ONI01_ME,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Oni
+msgctxt "type:0,entry:F026_ONI01_ME,segment:1"
+msgid ""
+"<start>...No, those four were insanely\n"
+"strong! I could tell...\n"
+"<end>"
+msgstr ""
+
+#. Oni
+msgctxt "type:0,entry:F026_ONI01_ME,segment:2"
+msgid ""
+"<start>You wouldn't be able to handle even\n"
+"one. Don't lie!\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F026_MANE01,segment:0"
+msgid ""
+"<start>[7:FF07]...I got separated from my group.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F026_MANE01,segment:1"
+msgid ""
+"<start>There are four ex-Mantra oni here.\n"
+"They're scary.\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F026_MANE01,segment:2"
+msgid ""
+"<start>The leader oni's gonna come out if\n"
+"you defeat the other three, and he's\n"
+"really scary!\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F026_MANE01,segment:3"
+msgid ""
+"<start>...In other words, I'm scared.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN06,segment:0"
+msgid ""
+"<start>[7:FF07]In a world where god remains\n"
+"silent...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN06,segment:1"
+msgid ""
+"<start>Do you find yourself in need of\n"
+"guidance?\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN06_YES01,segment:0"
+msgid ""
+"<start>[7:FF07]............\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN06_YES01,segment:1"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN06_YES01,segment:2"
+msgid ""
+"<start>............\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN06_YES01,segment:3"
+msgid ""
+"<start>...Very well.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN06_YES01,segment:4"
+msgid ""
+"<start>Take this...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:F026_SINEN06_YES02,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained [2:FF05]Light Ball[2:FF01] x 1.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN06_YES03,segment:0"
+msgid ""
+"<start>[7:FF07]This is nothing, considering it's for\n"
+"the sake of this world.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN06_YES04,segment:0"
+msgid ""
+"<start>[7:FF07]Please be careful...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN06_NO,segment:0"
+msgid ""
+"<start>[7:FF07]I see...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN07,segment:0"
+msgid ""
+"<start>[7:FF07]My friend told me that he ran into\n"
+"an oni after falling into a hole.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN07,segment:1"
+msgid ""
+"<start>...I didn't see an oni on this floor,\n"
+"though.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN07,segment:2"
+msgid ""
+"<start>Thank goodness...\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F026_MANE02,segment:0"
+msgid ""
+"<start>[7:FF07]You came from Ikebukuro?\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F026_MANE02,segment:1"
+msgid ""
+"<start>Were you attacked by an oni?\n"
+"Luckily, I wasn't...\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_MANE03,segment:0"
+msgid ""
+"<start>[7:FF07]Kuramae Station--!\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_MANE03,segment:1"
+msgid ""
+"<start>The end of the Ikebukuro Line--!\n"
+"<end>"
+msgstr ""
+
+#. Male Manikin
+msgctxt "type:0,entry:F026_MANE04,segment:0"
+msgid ""
+"<start>[7:FF07]You can get to the city of Asakusa\n"
+"from the exit.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_MANE05,segment:0"
+msgid ""
+"<start>[7:FF07]Asakusa is north of the exit.\n"
+"<end>"
+msgstr ""
+
+#. Soul
+msgctxt "type:0,entry:F026_SINEN08,segment:0"
+msgid ""
+"<start>[7:FF07]Is there anything good on the floor?\n"
+"<end>"
+msgstr ""

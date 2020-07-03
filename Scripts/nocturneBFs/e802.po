@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF06]...Hi there, Mr. Demon!\n"
+"Would you like to buy something?\n"
+"<end>"
+msgstr ""
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF06]Oh, what a cute little boy!\n"
+"<end>"
+msgstr ""
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_002,segment:1"
+msgid ""
+"<start>I thought you were one of those\n"
+"scary monsters...\n"
+"<end>"
+msgstr ""
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_002,segment:2"
+msgid ""
+"<start>A handsome demon like you\n"
+"deserves a major discount!\n"
+"<end>"
+msgstr ""
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_002,segment:3"
+msgid ""
+"<start>I hope we'll have a long-lasting\n"
+"relationship! *wink*\n"
+"<end>"
+msgstr ""
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_002_2,segment:0"
+msgid ""
+"<start>[7:FF06]Hi there, good looking!\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:MSG_0021,segment:0"
+msgid ""
+"<start>[7:FF06]Hee ho!! Welcome!\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:MSG_0021,segment:1"
+msgid ""
+"<start>[7:FF06]My goal is to become a super-cool\n"
+"and super-strong demon,\n"
+"like the great King.\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:MSG_0021,segment:2"
+msgid ""
+"<start>[7:FF06]So I'm thinking of going on\n"
+"a journey to train myself,\n"
+"but I need money, hee ho...\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:MSG_0021,segment:3"
+msgid ""
+"<start>[7:FF06]Can you help me out by buying\n"
+"lots of stuff, hee ho?\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:MSG_0021_2,segment:0"
+msgid ""
+"<start>[7:FF06]Hee ho!! Welcome!\n"
+"<end>"
+msgstr ""
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_0022,segment:0"
+msgid ""
+"<start>[7:FF06]Hmph, a customer...\n"
+"<end>"
+msgstr ""
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_0022,segment:1"
+msgid ""
+"<start>......\n"
+"<end>"
+msgstr ""
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_0022,segment:2"
+msgid ""
+"<start>Hahahahaha! I'm sorry,\n"
+"I always wanted to say that.\n"
+"<end>"
+msgstr ""
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_0022,segment:3"
+msgid ""
+"<start>You remember me?\n"
+"I'm the Manikin that collects\n"
+"all sorts of junk.\n"
+"<end>"
+msgstr ""
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_0022,segment:4"
+msgid ""
+"<start>I finally opened my own shop!\n"
+"<end>"
+msgstr ""
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_0022,segment:5"
+msgid ""
+"<start>Take your time and look around.\n"
+"Since you helped me out before,\n"
+"I'll sell to you at wholesale.\n"
+"<end>"
+msgstr ""
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_0022_2,segment:0"
+msgid ""
+"<start>[7:FF06]Hi! Thanks for your business!\n"
+"<end>"
+msgstr ""
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF06]Well, hello! And how are you today?\n"
+"<end>"
+msgstr ""
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_003,segment:1"
+msgid ""
+"<start>...Ooooh, how faaabulous!\n"
+"<end>"
+msgstr ""
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_003,segment:2"
+msgid ""
+"<start>That silly little snowman,\n"
+"Jack Frost, never mentioned you!\n"
+"<end>"
+msgstr ""
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_003,segment:3"
+msgid ""
+"<start>I'm running the shop while\n"
+"he's away.\n"
+"<end>"
+msgstr ""
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_003,segment:4"
+msgid ""
+"<start>A handsome demon like you\n"
+"deserves a major discount! *wink*\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:MSG_200,segment:0"
+msgid ""
+"<start>[7:FF06]Hee hum... I wonder why...?\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:MSG_200,segment:1"
+msgid ""
+"<start>I feel like I know you, \n"
+"even though I've never seen you \n"
+"before, hee ho.\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:MSG_200,segment:2"
+msgid ""
+"<start>Makes me think of long ago...\n"
+"But, I feel sad for some reason...\n"
+"Ho well...\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:MSG_200,segment:3"
+msgid ""
+"<start>This's gotta be a special day \n"
+"for me and you. Here ho! \n"
+"I'll give you this!\n"
+"<end>"
+msgstr ""
+
+#. Heeho
+msgctxt "type:0,entry:MSG_200,segment:4"
+msgid ""
+"<start>Let's try our best to become\n"
+"super-cool, super-strong demons!\n"
+"Hee ho!\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_ITEM,segment:0"
+msgid ""
+"<start>[7:FF06]> [13:FF01] received\n"
+"a [2:FF02]present[2:FF01] of some sort.\n"
+"<end>"
+msgstr ""
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_200_002,segment:0"
+msgid ""
+"<start>[7:FF06]...We've met before, haven't we?\n"
+"<end>"
+msgstr ""
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_200_002,segment:1"
+msgid ""
+"<start>Fate has drawn us together...\n"
+"How romantic! *blush*\n"
+"<end>"
+msgstr ""
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_200_002,segment:2"
+msgid ""
+"<start>To commemorate this occasion...\n"
+"I have a gift for you.\n"
+"<end>"
+msgstr ""
+
+#. Manikin shopkeeper
+msgctxt "type:0,entry:MSG_200_003,segment:0"
+msgid ""
+"<start>[7:FF06]I hope you like it!\n"
+"<end>"
+msgstr ""

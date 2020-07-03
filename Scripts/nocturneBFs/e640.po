@@ -1,0 +1,342 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Hijiri's voice
+msgctxt "type:0,entry:MSG_TRM_0_1,segment:0"
+msgid ""
+"<start>[7:FF07]...[12:FF01],\n"
+"can you hear me?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri's voice
+msgctxt "type:0,entry:MSG_TRM_0_1,segment:1"
+msgid ""
+"<start>I guess you made it to Ginza alright.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri's voice
+msgctxt "type:0,entry:MSG_TRM_0_1,segment:2"
+msgid ""
+"<start>You had me worried there...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri's voice
+msgctxt "type:0,entry:MSG_TRM_0_1,segment:3"
+msgid ""
+"<start>I lost track of you for a while,\n"
+"and I thought you may have gotten\n"
+"lost in the Amala Network...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri's voice
+msgctxt "type:0,entry:MSG_TRM_0_1,segment:4"
+msgid ""
+"<start>...Anyways, I'm glad to see\n"
+"that you're okay.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri's voice
+msgctxt "type:0,entry:MSG_TRM_0_1,segment:5"
+msgid ""
+"<start>So, can you look around Ginza\n"
+"and gather some info about Hikawa?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri's voice
+msgctxt "type:0,entry:MSG_TRM_0_1,segment:6"
+msgid ""
+"<start>You might run into tougher demons,\n"
+"but I'm sure you can handle them.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri's voice
+msgctxt "type:0,entry:MSG_TRM_0_1,segment:7"
+msgid ""
+"<start>I'm not cut out for fighting,\n"
+"so I'll track down Hikawa\n"
+"some other way.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri's voice
+msgctxt "type:0,entry:MSG_TRM_0_1,segment:8"
+msgid ""
+"<start>I'm sure we'll meet again,\n"
+"since we're both after\n"
+"the same thing.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri's voice
+msgctxt "type:0,entry:MSG_TRM_0_1,segment:9"
+msgid ""
+"<start>Alright then, see ya.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_TRM_0_2,segment:0"
+msgid ""
+"<start>[7:FF07]> The voice could no longer\n"
+"be heard.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_010_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Hey, [12:FF01]!\n"
+"Looks like you're doing alright.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_010_1,segment:1"
+msgid ""
+"<start>How did you know I was here?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I heard what Hikawa did.\n"
+"I didn't think he would wipe out\n"
+"the Mantra completely.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_1,segment:1"
+msgid ""
+"<start>[18:]Man, that Nightmare System...\n"
+"It's more powerful than\n"
+"I ever imagined.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]But, I haven't given up just yet.\n"
+"If he makes a move,\n"
+"it may give us some clues.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_2,segment:1"
+msgid ""
+"<start>[18:]Maybe we can figure out where\n"
+"the Nightmare System is located,\n"
+"or more about the Maiden...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...It's too bad this terminal\n"
+"is under Nihilo's control.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_3,segment:1"
+msgid ""
+"<start>[18:]I can't do much digging without\n"
+"raising a red flag.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_3,segment:2"
+msgid ""
+"<start>[18:]We need to find a terminal that\n"
+"Nihilo doesn't know about...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_4,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Remember those Manikins that were\n"
+"enslaved by the Mantra?\n"
+"I heard they're rebuilding\n"
+"the town of [2:FF02]Asakusa[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_4,segment:1"
+msgid ""
+"<start>[18:]Maybe there's a terminal over there\n"
+"that Nihilo's unaware of.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_5,segment:0"
+msgid ""
+"<start>[7:FF07][18:]With the Mantra out of the way,\n"
+"you should be able to get to\n"
+"Asakusa. It's way too dangerous\n"
+"for me to come along, though.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_5,segment:1"
+msgid ""
+"<start>[18:]I'll see what I can do\n"
+"with this terminal...\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_6,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Wait a minute.\n"
+"I completely forgot about you.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_6,segment:1"
+msgid ""
+"<start>[18:]Hey, do you feel like\n"
+"going to Asakusa?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_6,segment:2"
+msgid ""
+"<start>[18:]If you can get there and contact me\n"
+"through the Amala Network,\n"
+"it'll make my job much easier.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_6,segment:3"
+msgid ""
+"<start>[18:]I'm sure you're strong enough\n"
+"to make it to Asakusa.\n"
+"So... will you do it for me?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MSG_020_6_S,segment:0"
+msgid "<start>Okay."
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_601,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Thanks, I appreciate it.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_601,segment:1"
+msgid ""
+"<start>[18:]I'll tell you everything\n"
+"I find out there,\n"
+"so let's stay in touch, alright?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_602,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Oh, come on. You're not gonna let\n"
+"Nihilo have things their way,\n"
+"are you?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_602,segment:1"
+msgid ""
+"<start>[18:]I'll tell you everything\n"
+"I find out there...\n"
+"about Nihilo and the Maiden.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_602,segment:2"
+msgid ""
+"<start>[18:]Most importantly,\n"
+"we have to stop Hikawa.\n"
+"So, you're going. Case closed.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_6A,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I'll be waiting, then.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_6A,segment:1"
+msgid ""
+"<start>[18:]You should check out the tunnel\n"
+"in [2:FF02]East Ikebukuro[2:FF01].\n"
+"If the rumor is true,\n"
+"it'll take you to Asakusa.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_020_6A,segment:2"
+msgid ""
+"<start>[18:]I'll be working on this terminal,\n"
+"but you'll probably have more luck\n"
+"than me. I'm counting on ya.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]There's supposed to be a tunnel\n"
+"connecting East Ikebukuro\n"
+"and Asakusa.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_1,segment:1"
+msgid ""
+"<start>[18:]I'll be working on this terminal,\n"
+"but it's mostly up to you.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_TRM_1,segment:2"
+msgid ""
+"<start>[18:]I hope we can track down Nihilo.\n"
+"<end>"
+msgstr ""

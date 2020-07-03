@@ -1,0 +1,337 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[
+msgctxt "type:0,entry:MSG_010_1,segment:0"
+msgid ""
+"<start>[7:FF07][12:FF01]...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_1,segment:1"
+msgid ""
+"<start>[18:]What are you doing here?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You came here to see me?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_2,segment:1"
+msgid ""
+"<start>[18:]Or... were you worried about\n"
+"that guy?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:ISAMU_001,segment:0"
+msgid "<start>I wanted to see how you're doing."
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Thanks... I really appreciate it.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_3,segment:1"
+msgid ""
+"<start>[18:]I'm just about ready to perform\n"
+"the ceremony to summon the god\n"
+"of Musubi.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_3,segment:2"
+msgid ""
+"<start>[18:]If you wanna help out,\n"
+"come to Amala Temple with me.\n"
+"It's just down this passageway.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_4,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Oh really?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_4,segment:1"
+msgid ""
+"<start>[18:]You're as helpful as always,\n"
+"[12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_4,segment:2"
+msgid ""
+"<start>[18:]But, you really shouldn't\n"
+"trust people so easily...\n"
+"I'm actually helping you out here.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_5,segment:0"
+msgid ""
+"<start>[7:FF07][18:]That guy's coming with me...\n"
+"In fact, I better get going now.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_5,segment:1"
+msgid ""
+"<start>[18:]...Don't keep me waiting,\n"
+"alright [12:FF01]?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_6,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Heh. Maybe that's a good thing\n"
+"about you, being so gullible.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_6,segment:1"
+msgid ""
+"<start>[18:]Come join me at Amala Temple.\n"
+"It's just down this passageway.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_6,segment:2"
+msgid ""
+"<start>[18:]I'll tell you all about\n"
+"his secret plans...\n"
+"and how he was using you.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_010_7,segment:0"
+msgid ""
+"<start>[7:FF07]> [12:FF03] disappeared.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07]...Hey [12:FF01],\n"
+"long time no see.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_1,segment:0"
+msgid ""
+"<start>[7:FF07]You here to help me,\n"
+"or to capture me?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_1,segment:1"
+msgid ""
+"<start>Either way, there's no point\n"
+"anymore. The [12:FF03] that\n"
+"once wandered this world aimlessly\n"
+"is dead.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_1,segment:0"
+msgid ""
+"<start>[7:FF07]The person you see before you is\n"
+"the almighty [12:FF03],\n"
+"master of Amala's power.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_2,segment:0"
+msgid ""
+"<start>[7:FF07]To be honest with you,\n"
+"I stopped caring about others\n"
+"entirely.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_2,segment:1"
+msgid ""
+"<start>[18:]I figured out how I want\n"
+"the world to be.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_2,segment:2"
+msgid ""
+"<start>[18:]You see, there's me,\n"
+"and then there's everybody else.\n"
+"Most people don't even notice me.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_1,segment:0"
+msgid ""
+"<start>[7:FF07]They don't care about me,\n"
+"and I don't care about them.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_1,segment:1"
+msgid ""
+"<start>That's not a bad thing,\n"
+"or a sad thing either.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_1,segment:2"
+msgid ""
+"<start>After all, only you can be\n"
+"at the center of your world,\n"
+"right?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_1,segment:3"
+msgid ""
+"<start>Then, each person should\n"
+"be allowed to create\n"
+"his or her own world...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_1,segment:4"
+msgid ""
+"<start>That is my Reason...\n"
+"the Reason of Musubi.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_1,segment:5"
+msgid ""
+"<start>...You agree, don't you?\n"
+"That it'd be nice to create\n"
+"your own world?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MSG_050_2,segment:0"
+msgid "<start>Yeah, I agree."
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_3,segment:0"
+msgid ""
+"<start>[7:FF07]I knew you'd understand.\n"
+"You can't please everyone,\n"
+"and you really shouldn't try to.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_3,segment:1"
+msgid ""
+"<start>So yeah, I stopped blaming you\n"
+"for not helping me back then.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_3,segment:2"
+msgid ""
+"<start>...See ya, [12:FF01].\n"
+"Give yourself some time\n"
+"to think about it...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_4,segment:0"
+msgid ""
+"<start>[7:FF07]...I had a feeling that\n"
+"you wouldn't understand.\n"
+"I guess it doesn't matter to you,\n"
+"since you're not human anymore.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_4,segment:1"
+msgid ""
+"<start>As for me, I'll prove I'm right\n"
+"by creating the world of Musubi.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_4,segment:2"
+msgid ""
+"<start>You should spend some time alone,\n"
+"[12:FF01]...\n"
+"Then, see what you think.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_5,segment:0"
+msgid ""
+"<start>[7:FF07]...I bet you've done nothing\n"
+"but waste time here\n"
+"in this Vortex World.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_5,segment:1"
+msgid ""
+"<start>Are you gonna let the world\n"
+"keep tossing you around,\n"
+"like a leaf in the wind?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_5,segment:2"
+msgid ""
+"<start>Maybe you'll come to your senses\n"
+"if you spend some time alone...\n"
+"<end>"
+msgstr ""

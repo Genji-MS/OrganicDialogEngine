@@ -1,0 +1,371 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07]...Quit complaining,\n"
+"this is the last job\n"
+"I have for you.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:1"
+msgid ""
+"<start>[7:FF07]You can rest as long as you want\n"
+"after you're done.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_1,segment:0"
+msgid ""
+"<start>[7:FF07]...I hate this.\n"
+"Magatsuhi makes my body itch\n"
+"all over.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_030_1,segment:1"
+msgid ""
+"<start>[7:FF07][18:]Let's just get this over with.\n"
+"I need my beauty sleep.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_1,segment:0"
+msgid ""
+"<start>[7:FF07]Well, what can I say?\n"
+"We all serve a purpose...\n"
+"You guys are the stepping stones.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_040_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]It's a tough job,\n"
+"but someone's gotta do it, right?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_1,segment:0"
+msgid ""
+"<start>[7:FF07]Thanks for all the trouble you've\n"
+"gone through, [12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_1,segment:1"
+msgid ""
+"<start>[7:FF07][18:]The Magatsuhi those foreign gods\n"
+"were hoarding is now mine.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_1,segment:2"
+msgid ""
+"<start>[7:FF07][18:]It's enough to bring my Reason,\n"
+"Musubi, into being.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:ISAMU_001,segment:0"
+msgid "<start>What are you doing?"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I'm preparing for\n"
+"the ritual of Reason.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_2,segment:1"
+msgid ""
+"<start>[7:FF07][18:]See that?\n"
+"The Magatsuhi he's gathering\n"
+"will give power to my Reason.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_2,segment:2"
+msgid ""
+"<start>[7:FF07][18:]To be honest with you,\n"
+"[12:FF01],\n"
+"I'm not the one who came up with\n"
+"this brilliant idea. He did.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_2,segment:3"
+msgid ""
+"<start>[7:FF07][18:]Of course, he planned to use\n"
+"the Magatsuhi himself...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_2,segment:4"
+msgid ""
+"<start>[7:FF07][18:]and it would have been you or me\n"
+"hanging up there!!\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Why do you always have to be\n"
+"such a goody two-shoes?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_3,segment:1"
+msgid ""
+"<start>[7:FF07][18:]You think you know everything.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_3,segment:2"
+msgid ""
+"<start>[7:FF07][18:]Listen, I'm not the one\n"
+"who came up with this idea.\n"
+"...He did.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_3,segment:3"
+msgid ""
+"<start>[18:]Of course, he planned to use\n"
+"the Magatsuhi himself...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_3,segment:4"
+msgid ""
+"<start>[18:]and it would have been you or me\n"
+"hanging up there!!\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_4,segment:0"
+msgid ""
+"<start>[7:FF07]...Yeah, I came up with the plan,\n"
+"but that doesn't mean I would've\n"
+"carried it out.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_5,segment:0"
+msgid ""
+"<start>[7:FF07]...Oh, I'm sure you would have.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_5,segment:1"
+msgid ""
+"<start>[18:]\"In a world like this,\n"
+"one life doesn't amount to much...\"\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_5,segment:2"
+msgid ""
+"<start>[18:]...You said that, remember?\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_6,segment:0"
+msgid ""
+"<start>[7:FF07][18:]It doesn't matter what I say now,\n"
+"does it? It'll just sound like\n"
+"an excuse to you. So, go ahead and\n"
+"do whatever it is you're gonna do.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_6,segment:1"
+msgid ""
+"<start>[18:]Most things that are worthwhile\n"
+"require some sort of sacrifice.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_6,segment:2"
+msgid ""
+"<start>[18:]I've made many sacrifices\n"
+"in my lifetime.\n"
+"But, I've always followed\n"
+"the path that I believe in.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_050_6_a,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Just remember,\n"
+"you'll pay a high price\n"
+"for following that path.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_050_7,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Don't worry.\n"
+"Like you said, it's my decision.\n"
+"I'm the one in charge here.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_070_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Hey, [12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_070_1,segment:1"
+msgid ""
+"<start>[18:]You've been such a good friend.\n"
+"To show my gratitude...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_070_1,segment:2"
+msgid ""
+"<start>[18:]I'd like you to perform the ritual\n"
+"to summon the god of Musubi.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_070_1,segment:3"
+msgid ""
+"<start>[18:]We have plenty of Magatsuhi.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_070_1,segment:4"
+msgid ""
+"<start>[18:]The only thing left to do\n"
+"is cast him into the depths\n"
+"of Amala...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_070_1,segment:5"
+msgid ""
+"<start>[18:]Will you do it,\n"
+"for the sake of Musubi?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:ISAMU_002,segment:0"
+msgid "<start>It'd be my pleasure."
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_080_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Thanks for keeping me entertained,\n"
+"[12:FF01].\n"
+"Good luck to ya...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_090_1,segment:0"
+msgid ""
+"<start>[7:FF07]Too bad.\n"
+"You must have mistaken him\n"
+"for a friend.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_090_1,segment:1"
+msgid ""
+"<start>[7:FF07][18:]The world doesn't need guys\n"
+"like him.\n"
+"They only take up space.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_090_1,segment:2"
+msgid ""
+"<start>[7:FF07][18:]Oh well...\n"
+"I guess I'll have to finish this\n"
+"myself.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_090_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Okay, it's time to say goodbye.\n"
+"Soon, you'll have all the rest\n"
+"you could ever want.\n"
+"<end>"
+msgstr ""
+
+#. Hijiri
+msgctxt "type:0,entry:MSG_090_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Ha ha ha...\n"
+"Try your best, kid...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_070_R1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Pay attention, [12:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_070_R1,segment:1"
+msgid ""
+"<start>[18:]This is what happens when you\n"
+"cross the true master of Amala.\n"
+"<end>"
+msgstr ""

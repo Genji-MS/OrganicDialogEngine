@@ -1,0 +1,590 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 28/03/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+msgctxt "type:0,entry:EPI01_SCENE01_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][84AA][87F8][8092][8090][84F2][8080][8EFD][8CB5]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE01_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][90CB][818C][84B5][81B0][8CAF][80ED][8186]\n"
+"[80E2][8182][81A0][8186][84A0][81AD][81A7][8188][80E2][84FA][8CC2][80EA][89E2][80EA][8181][8184][80E2][81A9][8289]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE01_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][8488][81A9][80E2][84FD][8DF8][80F5][8080][88C0][81B1][80FE][84F8][8080][848F][80EB][86A5][80E4][83F4][8296][829D][8289]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE01_04,segment:0"
+msgid ""
+"<start>[7:0005,00FF][80FE][80EA][8080][83F4][818D][88DC][84A8][8189][80E2][8182][81A0][8186][84A0][81AD][81A7][8188][80E2][8186]\n"
+"[84F4][80E2][85AF][81B1][8185][80E2][81A9][80FE][80EF][80E9][81A0][80F5][81AA][8188][80E2][8289]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE01_05,segment:0"
+msgid ""
+"<start>[7:0005,00FF][84C4][889C][8189][8080][8193][8186][80F5][80FD][818D][80F8][819D][8185][83C7][80EA][80F3][80F9][818E][829D][8289]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE01_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF][80FB][81AA][818D][8080][80FD][80FF][819C][80FF][8080][8680][84C4][889C][8188]\n"
+"[82A8][81BB][81BC][81FC][81D9][82A9][8080][8196][8186][85D1][81B0][84A0][80E6][81A9][8289]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE01_06B,segment:0"
+msgid ""
+"<start>[7:0005,00FF][8483][818D][8080][80FB][80E4][80E2][8181][80FD]\n"
+"[8CD3][89EB][85BD][898C][81B0][8D80][8C85][8189][8ABC][80E4][85D7][9299][80FE][8289]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE01_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF][829D][84C4][80EA][80E9][80F0][81A8]\n"
+"[9391][86A4][818C][8DEA][80EA][89E2][80EA][81A8][80FE][80F5][80FD][84AA][9080][86C2][8289]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE01_08,segment:0"
+msgid ""
+"<start>[7:0005,00FF][8483][818C][85BC][85BD][818C][8AE1][8AE2][829D][8080][8CD3][80F5][80E2][89EB][84A0][80EA]\n"
+"[8ABA][80F1][81A8][80FB][80E4][8188][8080][80FB][81B1][8188][8EA3][84F7][81AA][80FE][8181][80FD][829D][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:EPI01_SCENE01_09,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][818D][80E2][818D][80E2][8080][2:0002,00FF][87E4][8F96][85D7][9299][8AB0][2:0001,00FF][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE01_10,segment:0"
+msgid ""
+"<start>[7:0005,00FF][81A0][80F5][81A0][80F5][8081][8080][81A0][80F5][81A0][80F5][8081]\n"
+"[80E0][818C][829D][8080][87E4][8F96][85D7][9299][8AB0][818C][83FB][8185][80F7][80E9][809F]\n"
+"<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE01_11,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][80E6][80E6][8080][80FB][80E4][8185][80F7][80EF][8187][829D][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE01_12,segment:0"
+msgid ""
+"<start>[7:0005,00FF][80E0][8188][80FD][80EA][85D7][9299][80F3][81B1][809F][8080][85D7][9299][80F3][81B1][8181][8184]\n"
+"[8480][8185][81A0][85CE][84EC][80F5][8184][80ED][81AA][81A9][81B1][8185][80F7][81A6][818B][809F]\n"
+"<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE01_13,segment:0"
+msgid ""
+"<start>[7:0005,00FF][22:0003,00FF,0006,00FF][8480][8185][81A0][85CE][84EC][818B][80E5][829D][8080][80FB][80E4][86A0][8181][8184][81A0]\n"
+"[81B7][81D2][818D][84A0][81AD][8181][80FD][818C][8D80][8C85][8185][818B][80E5][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE01_14,segment:0"
+msgid ""
+"<start>[7:0005,00FF][829D][84E9][8080][84C5][8591][8189][878B][8181][8184][80E2][8184]\n"
+"[85D7][9299][80F3][81B1][8189][84DF][85E4][87A8][80F5][80FD][80E2][85BD][80EA][80E0][8181][8184][829D][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE01_16,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][818D][80DF][829D][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE01_17,segment:0"
+msgid ""
+"<start>[7:0005,00FF][80E8][85CD][80E2][80F5][819C][80F7][8289]\n"
+"[84E9][86FB][80EE][8080][2:0002,00FF][8486][898B][84AE][81A8][8CBC][2:0001,00FF][8189][848D][8184][80ED][81AA][819C][80F9][81B1][80E9][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE01_18,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][80E0][81B1][80FD][818B][80E5][8080][8ADA][868D][8682][80EA][85F3][80E2][80EF][8187][8080][8793][8182][809F]\n"
+"[87DC][88B7][818C][83EB][88D2][80FE][8181][80FD][81A7][829D][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE01_19,segment:0"
+msgid ""
+"<start>[7:0005,00FF][8489][8080][84C5][8591][8189][878B][8181][8184][80E2][81A9][81B1][8185][80F7][8081]\n"
+"[85D7][9299][80F3][81B1][80E8][85CD][80E2][8081][8080][86FA][80EF][8184][80ED][80FE][80F3][80E2][8081][8081]\n"
+"<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE01_20,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][829D][80E0][8080][80E0][818C][8080][80FF][81A5][8181][8186][80E7][8081]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE01_21,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][8480][8188][81B1][80FE][81A6][80E7][8080][81A0][80E4][829D][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE01_22,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][829D][85D7][9299][80F3][81B1][8189][80E8][85CD][80E2][818B][80E5][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE01_27,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][819C][80DF][8080][2:0004,00FF][8486][898B][84AE][81A8][8CBC][8188][81A7][80F7][80EE][85BF][80ED][80FE][2:0001,00FF][8289]\n"
+"[2:0004,00FF][8186][8189][80E9][80ED][848F][8181][8184][819D][81A9][80E9][2:0001,00FF][8080][8CEE][8CCE][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE02_SETUMEI_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][809E][92B3][9385][818C][83FF][8080][8486][898B][84AE][81A8][8CBC][8088][8D9B][83E6][8089][8189]\n"
+"[87E4][8F96][8186][8CEE][8CCE][818C][8593][83F4][80EA][80FD][80FD][80F8][81B1][8185][80E2][81A9][8289]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE02_SETUMEI_01,segment:1"
+msgid ""
+"<start>[809E][8EF8][81A7][818C][81BD][81CA][8C90][8189][908D][80EA][908D][81A9][8186]\n"
+"[8CBC][818C][83FF][8CC8][8189][84F3][83EE][8E90][818C][84F1][83DE][818C][85D1][80EA][85AE][80E6][81A9][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE02_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][829D][80E0][8081]\n"
+"[80E0][818C][8080][829D][87E4][8F96][85D7][9299][8AB0][818C][809F]\n"
+"<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE02_02,segment:0"
+msgid ""
+"<start>[22:0012,00FF,0006,00FF][7:0005,00FF][80E0][80DF][8080][80E8][91A1][80FF][81A1][81B1][80EA][8C8D][86A3][80ED][81AA][80FD][83F4][809F]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE02_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][818D][80E2][8289][8080][80E0][8080][80E0][818C][829D][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE02_04,segment:0"
+msgid ""
+"<start>[22:0012,00FF,0006,00FF][7:0005,00FF][80E0][818C][818B][80E5][8080][84AA][83F4][81B0][80E9][81A7][80E9][8181][80FF][81A1][80E2][80E9][81B1][81A6][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE02_05,segment:0"
+msgid ""
+"<start>[22:0012,00FF,0006,00FF][7:0005,00FF][8480][80EA][80E0][8181][80FD][818C][80E9][85DD][81A7][8188][80E2][80EF][8187]\n"
+"[878B][8181][8184][81A9][81B1][8188][81A7][84F3][90A8][818C][88B8][83EE][8189][85B0][819D][8188][80F3][80E2][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE02_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF][829D][85D7][9299][80F3][81B1][8080][80E0][8080][80E0][818C][829D][8289]\n"
+"[8489][8080][8489][829D][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE02_07,segment:0"
+msgid ""
+"<start>[7:0005,00FF][8489][81B0][8080][85DA][80F5][8184][829D][8289]\n"
+"[80F1][818C][819C][819C][80F6][81A1][8080][8489][829D][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE02_08,segment:0"
+msgid ""
+"<start>[22:0012,00FF,0007,00FF][7:0005,00FF][80E8][8080][80E8][80E2][8289][8080][8480][86A0][8181][8184][81B1][80FE][81A6][8289]\n"
+"[85DA][80F5][8184][8181][8184][8080][80E8][819C][80E6][829D][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE02_SETUMEI_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][809E][84FF][85CC][8189][8CEE][8CCE][8186][84F1][83DE][81B0][8BAD][819E][81A6][80E4][8189][84DB][81AA][81A9]\n"
+"[86D3][80E2][81EF][8284][81D9][818C][8CD3][83F4][8289]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE02_SETUMEI_02,segment:1"
+msgid ""
+"<start>[809E][83F4][84CD][8CC4][81AA][80F5][80FD][85B4][80EB][8185][84F1][83DE][81B0][89C1][80E4][8186]\n"
+"[80FB][818C][819C][819C][8CFB][8196][89E5][80E6][8184][80E2][80ED][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE02_09,segment:0"
+msgid ""
+"<start>[22:0012,00FF,0006,00FF][7:0005,00FF][829D][8480][8188][81B1][80FE][81A6][8080][8486][83E9][829D][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE02_SETUMEI_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][809E][8CEE][8CCE][818D][8080][80F3][81A7][81AD][81AA][80FD][84F1][83DE][818C][84EF][81A7][80F5][80E2]\n"
+"[90C7][859A][9387][818C][81E7][81FE][8299][81D2][8189][84EB][8484][80ED][8289]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE02_SETUMEI_03,segment:1"
+msgid ""
+"<start>[809E][8CEE][8CCE][818D]\n"
+"[2:0005,00FF][90C7][859A][9387][818C][81E7][81FE][8299][81D2][2:0001,00FF][81B0][84A8][8189][84BC][81AA][80FD][8289]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE02_SETUMEI_03,segment:2"
+msgid ""
+"<start>[809E][87E4][8F96][8186][8CEE][8CCE][818D][85D7][9299][8AB0][8196][84AE][8181][80FD][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE17_01,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][81A6][80E4][8080][8CEE][8CCE][8289]\n"
+"[85B6][91A0][818C][83FB][818D][84B2][81B1][8185][81A9][80E9][809F]\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE17_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][809E][8CEE][8CCE][818D][8080][8EA0][91A1][818C][84C4][87BD][8186]\n"
+"[85AB][80F1][80E6][80FD][83EF][86A3][818C][89EF][879B][81B0][87E4][8F96][8189][85D5][80E6][80FD][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE17_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][829D][829D][829D][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE17_04,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][8188][81A9][8199][8187][818B][80E5][8080][83DD][80EA][8182][80ED][8EFC][8186]\n"
+"[80FB][81AA][81B0][8BDA][80F6][85AF][819F][81A9][83DC][85CA][8EC0][829D][8080][80E9][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE17_05,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][8EA0][91A1][8189][86A0][8181][80FD][938E][8CEB][818C][8486][86A0][829D]\n"
+"[80FB][81AA][8189][8080][8CEE][8CCE][80EA][88FA][8189][80F5][80FD][86A0][86DA][829D][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE17_06,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][938E][8CEB][80EA][86AC][8186][86A3][80F5][8184][80E2][81A9][818C][80E9][85DD][81A7][818B][80E5][80EA]\n"
+"[84EB][8189][8188][81A9][83EF][86A3][80FE][8186][84F4][81AD][8188][80E2][80E9][809F]\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:1,entry:EPI01_SCENE17_SEL,segment:0"
+msgid "<start>[818D][80E2]"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE17_07,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][80E4][81B1][8080][80E4][81B1][8080][8CEE][8CCE][80ED][81B1][81A0]\n"
+"[85D7][9299][8186][80E2][80E4][81A0][818C][80EA][85CE][8181][8184][80EB][80FD][818B][80DE][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE17_08,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][88C1][84CD][8185][818C][83EF][86A3][81B0][2:0002,00FF][8DF9][87E5][2:0001,00FF][80F7][81AA][818E]\n"
+"[80EB][8181][8186][8080][84A8][80EA][80E9][81A8][80EA][84AD][81A7][81AA][81A9][80FE][81AB][80E4][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE17_09,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][829D][818D][80DF][8080][81AD][80E9][8181][80FF][81A1][818B][80E5][8188][8080][8CEE][8CCE][8289]\n"
+"[85D7][9299][80FD][81A9][81F3][81DF][8080][80FB][81AA][80F6][81A1][80E0][81B5][81BC][8284][81A6][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE17_10,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][85AB][80F1][80E6][8184][80EB][80FD][83EF][86A3][818C][83FF][8189]\n"
+"[92F7][92F8][80FF][81A1][81B1][818C][85BD][80EA][80E0][8181][80FD][87A2][80FE][81AB][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE17_11,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][80FE][8181][80FD][81A7][8080][80FB][81AA][81B0][2:0002,00FF][8DF9][87E5][2:0001,00FF][80F7][81AA][818E]\n"
+"[84A8][80EA][80E9][81A8][80EA][84AD][81A7][81AA][81A9][8186][84F4][81AD][8188][80E2][818C][80E9][809F]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE17_12,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][80FB][80F1][8185][829D][8080][80FE][8080][8CEE][8CCE][8289]\n"
+"[8AC4][83C7][81B0][83D4][8181][8184][87DB][8197][8184][819D][8184][80ED][81AA][81A6][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE17_13,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][829D][86AC][8186][8480][81B0][86A3][80F5][8184][80E2][81A9][818C][80E9][809F]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE17_14,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][829D][81A0][80F5][80E9][80F5][80FD][81A7][8080][92F7][92F8][80FF][81A1][81B1][818C][848F][83FB][80EA]\n"
+"[81AD][80E9][81A9][80E9][81A0][80F5][81AA][818B][80E5][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE17_15,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][81A6][81AB][80F5][80ED][85B0][819E][80FA][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE19_01,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][81A6][80E4][8080][8CEE][8CCE][8289]\n"
+"[85B6][91A0][818C][83FB][818D][84B2][81B1][8185][81A9][80E9][809F]\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE19_02,segment:0"
+msgid ""
+"<start>[7:0005,00FF][809E][8CEE][8CCE][818D][87E4][8F96][8189]\n"
+"[80F1][81AA][819C][8185][818C][87DB][91A0][818C][89DA][8FC8][81B0][87C6][86B6][80F5][80FD][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE19_03,segment:0"
+msgid ""
+"<start>[7:0005,00FF][829D][829D][829D][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE19_04,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][83DD][80EA][8182][80ED][8186][80E2][80E4][8EFC][8186]\n"
+"[80FB][81AA][81B0][8BDA][80F6][85AF][819F][81A9][83DC][85CA][8EC0][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE19_05,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][80FB][818C][8EFC][8080][92F7][92F8][80EA][80F5][8181][80FB][80E4]\n"
+"[8591][85B2][8080][8ADF][818D][86B9][8185][87A6][81AA][8184][80E2][81A9][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE19_06,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][89DE][8481][8189][86EE][80E6][81AA][818E][8080][85BE][87DA][8189][86E3][81A9][8BA0][80EA][8FEB][8181][80FD]\n"
+"[8FAE][88E1][85E4][84D6][818C][80FD][819F][818C][81C8][81DB][81FB][81BB][80FE][829D][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE19_07,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][80EA][8080][80E2][80ED][8182][80E9][84FF][8B8E][85CE][8188][8983][81A0][80E0][81A9][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE19_08,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][80E2][8188][80ED][8188][8181][80FD][818D][80F8][818C][92F7][92F8][80EA][8483][80FD][80FF][818C][83E7][8189][84DB][81AA]\n"
+"[85A4][8191][8480][85A3][80E9][8189][88E8][81AA][879E][81AA][81A7][81AA][80FD][85BD][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE19_09,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][92F7][92F8][818D][86AC][8189][8480][8AB4][8196][88E8][81AA][879E][81A7][81AA][80FD][818C][80E9][829D]\n"
+"[80FB][80F5][8184][88C1][84CD][8185][8BA0][8186][86A3][80F5][8184][80E2][81A9][85F4][829D][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE19_10,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0007,00FF][7:0005,00FF][829D][86EE][80E6][8184][80E2][8184][81A0][85BC][83FB][8188][80E2][8289]\n"
+"[8CEE][8CCE][8080][8186][8189][80E9][80ED][84AA][8888][90B5][9384][8189][85EC][80E9][80E6][8081]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE19_11,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0007,00FF][7:0005,00FF][938E][8CEB][8186][8080][80FB][818C][83EF][86A3][818C][85E4][84A8]\n"
+"[8593][83F4][81B0][8D84][81A7][80E6][81AA][818E][8080][8997][8184][8488][81A7][80E9][8189][8188][81A9][8081]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE23_01,segment:0"
+msgid ""
+"<start>[7:0005,00FF][829D][829D][829D][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE23_02,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][829D][8BA0][80EA][8CD3][83F4][8189][85D1][81B0][84A0][80E6]\n"
+"[85E3][80E8][80E4][8186][80F5][80FD][8DC3][84CD][8080][83EB][83C7][80EA][829D][8080][80E9][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE23_03,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][80F2][8786][8787][80FE][8181][80FD][8188][8080][8CEE][8CCE][8289]\n"
+"[80FE][80EA][8080][8BAF][86EC][8188][85BD][8189][8188][8181][8184][80EB][80FD][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE23_04,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][83EB][83C7][8CB2][819D][80F6][81A1][8CD5][8788][858F][818D][80E0][8184][8189][8185][80EB][8188][80E2][80F5]\n"
+"[8483][80FD][80FF][8185][8480][8186][80E9][80F5][8188][80E2][8186][829D][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE23_05,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][829D][85E2][80F0][80FD][8BA0][81B0][8D84][819C][80E6][81AA][818E]\n"
+"[8997][8184][818C][8AC3][818D][85CE][80EF][81A9][818D][80F8][80FE][80EA][829D][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE23_06,segment:0"
+msgid ""
+"<start>[7:0005,00FF][829D][829D][829D][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE23_07,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][829D][8BA0][80EA][85D1][81B0][84A0][80E6][80FD][86D3][80E2][81EF][8284][81D9][818C][8CD3][83F4]\n"
+"[84F1][80F5][8080][87DB][8197][8184][819D][81A9][80E9][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE23_08,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][8CEE][8CCE][8080][8483][80EA][87DB][91A0][81B0][84B2][819F][8184][819D][81A9][84CD]\n"
+"[84F1][80F5][8BDC][81B1][8185][80E2][8184][80ED][81AA][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+#. [[[[
+msgctxt "type:0,entry:EPI01_SCENE23_09,segment:0"
+msgid ""
+"<start>[22:0003,00FF,0006,00FF][7:0005,00FF][8699][818C][8BF5][8C8B][80EA][818D][8181][80EB][81A8][80F7][81AA][818E]\n"
+"[819C][80FD][80E8][83E7][8189][88AF][80E2][8184][81A0][81A7][80E4][80F3][8289]\n"
+"[23:]<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE23_10,segment:0"
+msgid ""
+"<start>[7:0005,00FF][809E][87E4][8F96][818D][80FB][80E4][86B6][80F0][81A9][8186]\n"
+"[8CE2][80F5][80FB][80E4][8189][8C8D][86A3][81B0][80E9][80EF][818D][80F6][819F][81A9][829D]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE23_11,segment:0"
+msgid ""
+"<start>[7:0005,00FF][809E][89C3][818C][84CD][818C][8BDC][85B7][81B0][84AD][80FD][8CEE][8CCE][818D]\n"
+"[8699][818C][85B6][91A0][8189][85EC][80EF][8184][8B80][84EB][81B0][9194][80E4][818C][8185][80E0][8181][80FD][8289]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:EPI01_SCENE23_12,segment:0"
+msgid ""
+"<start>[7:0005,00FF][8498][8486][86A3][8080][8DA1]\n"
+"<end>"
+msgstr ""

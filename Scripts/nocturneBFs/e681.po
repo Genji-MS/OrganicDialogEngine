@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Ahriman
+msgctxt "type:0,entry:MSG_010_1,segment:0"
+msgid ""
+"<start>[7:FF07]Who stirs the silence...?\n"
+"Who opposes the coming of\n"
+"the kingdom of Shijima?\n"
+"<end>"
+msgstr ""
+
+#. Ahriman
+msgctxt "type:0,entry:MSG_010_2,segment:0"
+msgid ""
+"<start>[7:FF07]It is you...\n"
+"<end>"
+msgstr ""
+
+#. Ahriman
+msgctxt "type:0,entry:MSG_010_2,segment:1"
+msgid ""
+"<start>You have great strength.\n"
+"Your ideals, however,\n"
+"stand at odds with my own.\n"
+"<end>"
+msgstr ""
+
+#. Ahriman
+msgctxt "type:0,entry:MSG_010_2,segment:2"
+msgid ""
+"<start>[7:FF07]Vile deceiver! I shall destroy you,\n"
+"and erase your despicable greed!\n"
+"<end>"
+msgstr ""
+
+#. Ahriman
+msgctxt "type:0,entry:MSG_SIJIMA01,segment:0"
+msgid ""
+"<start>[7:FF07]Welcome...\n"
+"<end>"
+msgstr ""
+
+#. Ahriman
+msgctxt "type:0,entry:MSG_SIJIMA01,segment:1"
+msgid ""
+"<start>You who possesses great strength\n"
+"and bears the Reason of Shijima...\n"
+"<end>"
+msgstr ""
+
+#. Ahriman
+msgctxt "type:0,entry:MSG_SIJIMA02,segment:0"
+msgid ""
+"<start>[7:FF07]I shall share with you\n"
+"the Reason of Shijima...\n"
+"Let us enter the kingdom together.\n"
+"<end>"
+msgstr ""
+
+#. Ahriman
+msgctxt "type:0,entry:MSG_SIJIMA02,segment:1"
+msgid ""
+"<start>[7:FF07]This stone I give to you as\n"
+"a token of our oath...\n"
+"<end>"
+msgstr ""
+
+#. Ahriman
+msgctxt "type:0,entry:MSG_SIJIMA02,segment:2"
+msgid ""
+"<start>Use it to open the gate\n"
+"of our kingdom.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_SIJIMA02R,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained the [2:FF02]Earthstone[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Ahriman
+msgctxt "type:0,entry:MSG_SIJIMA03,segment:0"
+msgid ""
+"<start>[7:FF07]Now, go.\n"
+"It is your fate to unleash\n"
+"the power of creation...\n"
+"<end>"
+msgstr ""
+
+#. Ahriman
+msgctxt "type:0,entry:MSG_SIJIMA03,segment:1"
+msgid ""
+"<start>[7:FF07]Obliterate those who believe in\n"
+"Reasons other than our own,\n"
+"and pave the way for the kingdom\n"
+"of Shijima!\n"
+"<end>"
+msgstr ""

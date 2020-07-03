@@ -1,0 +1,734 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07]Oh, you're back.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:1"
+msgid ""
+"<start>[18:]Um, [12:FF01]...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:2"
+msgid ""
+"<start>[18:]You know that special report at\n"
+"the beginning of the magazine?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:3"
+msgid ""
+"<start>[18:]Well, it says some things that are\n"
+"a little disturbing.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_2,segment:0"
+msgid ""
+"<start>[7:FF07]According to the report, there's\n"
+"a group of demon worshippers\n"
+"who call themselves the Gaea cult...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_2,segment:1"
+msgid ""
+"<start>[18:]They're right here in Japan.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_2,segment:2"
+msgid ""
+"<start>[18:]Anyway, they believe in\n"
+"this book of prophecy called\n"
+"the Scripture of Miroku.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_2B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]In that book, it says that\n"
+"chaos will befall the world,\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_2B,segment:1"
+msgid ""
+"<start>[18:]and these people are actually\n"
+"trying to make that happen.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_2B,segment:2"
+msgid ""
+"<start>[18:]The reporter was unable to learn\n"
+"what is meant by \"chaos\"...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_2B,segment:3"
+msgid ""
+"<start>[18:]It could be worldwide terrorism,\n"
+"or some other tragedy. But...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_3,segment:0"
+msgid ""
+"<start>[7:FF07]...Oh yeah, there's something else\n"
+"you should know.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_3,segment:1"
+msgid ""
+"<start>When I told [12:FF03] about it,\n"
+"he went off on his own to look for\n"
+"Ms. [11:FF02] some more.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_3,segment:2"
+msgid ""
+"<start>He asked me to give you this.\n"
+"I guess he found it somewhere\n"
+"and just took it.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_020_4,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained an [2:FF02]ID Card[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_5,segment:0"
+msgid ""
+"<start>[7:FF07]I'll stay here.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_5,segment:1"
+msgid ""
+"<start>...I hope you guys find her soon.\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:0"
+msgid ""
+"<start>[7:FF07][81CA][81CB], [2:FF02][81CC][81CD][81CE] [81CF][81D0] [81D1][81D2][2:FF01][80E2][81D3].\n"
+"[81D4][81D5][81D6][81D7]?\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:1"
+msgid ""
+"<start>[81D8][81D9][81DA][80E5] [2:FF02][81CC][81CD][81CE][81DB] [81DC][81DD][81DE][2:FF01] [81DF][81DC][81E0].\n"
+"[81E1][81E2][80E5] [81E3][81CE] [81E4].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:2"
+msgid ""
+"<start>[7:FF05][81E5][81E6][81CB], [81E7][81E8][81E9][81EA].\n"
+"[81EB][81CB][81EC][81ED][81D7]?\n"
+"[80E2][81EE] [81DC][81DD][81DE] 4[81DB] [81EF][81E3][81F0][81D3].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:3"
+msgid ""
+"<start>[81F1][81F2], [81DC][81DD][81DE] [81F3].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:4"
+msgid ""
+"<start>[7:FF06][81E5][81E6][81CB], [81E7][81E8][81E9][81EA].\n"
+"[81EB][81CB][81EC][81ED][81D7]?\n"
+"[80E2][81EE] [81DC][81DD][81DE] 5[81DB] [81EF][81E3][81F0][81D3].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:5"
+msgid ""
+"<start>[81F1][81F2], [81DC][81DD][81DE] [81F3].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:6"
+msgid ""
+"<start>[7:FF07][81E5][81E6][81CB], [81E7][81E8][81E9][81EA].\n"
+"[81EB][81CB][81EC][81ED][81D7]?\n"
+"[80E2][81EE] [81DC][81DD][81DE] 6[81DB] [81EF][81E3][81F0][81D3].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:7"
+msgid ""
+"<start>[81F1][81F2], [81DC][81DD][81DE] [81F3].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:8"
+msgid ""
+"<start>[7:FF08][81E5][81E6][81CB], [81E7][81E8][81E9][81EA].\n"
+"[81EB][81CB][81EC][81ED][81D7]?\n"
+"[80E2][81EE] [81DC][81DD][81DE] 7[81DB] [81EF][81E3][81F0][81D3].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:9"
+msgid ""
+"<start>[81F1][81F2], [81DC][81DD][81DE] [81F3].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:10"
+msgid ""
+"<start>[7:FF09][81E5][81E6][81CB], [81E7][81E8][81E9][81EA].\n"
+"[81EB][81CB][81EC][81ED][81D7]?\n"
+"[80E2][81EE] [81DC][81DD][81DE] 8[81DB] [81EF][81E3][81F0][81D3].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:11"
+msgid ""
+"<start>[7:FF07][81F4][81D9][80E4]\n"
+"[2:FF02][81CB][80E2][81F5] [81F6][81F7][81CD][2:FF01] [81F8][81F0][81D1][81D2][80E2][81D3].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:12"
+msgid ""
+"<start>[80E2][81F9][81E0] [81CB][80E2][81F5] [81FA][81FB] [81F8][81F0].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:13"
+msgid ""
+"<start>[7:FF07][8188][81FC][81FD][80E4]\n"
+" [2:FF05][81DC][81FE][80E2][81DC] [81FF][2:FF01][80E0] [8280][81DA] [8281][8282][81F4].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:14"
+msgid ""
+"<start>[8283][8284] [81CB][80E2][81F5] [81FA][81FB] [81F8][81F0].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:15"
+msgid ""
+"<start>[8188][81FC][81FD][80E4]\n"
+" [8284][8285][8286][80E1] 3[8287] [8280][81DA] [8281][8282][81F4].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:16"
+msgid ""
+"<start>[8288][80E0] [8281][80E4] [81F8][81F0][8289][828A][828B][828B]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:17"
+msgid ""
+"<start>[8188][81FC][81FD][80E4]\n"
+" [2:FF05][8284][8285][8286][2:FF01][80E1] [2:FF05]3[8287][2:FF01] [8280][81DA] [8281][8282][81F4].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:18"
+msgid ""
+"<start>[81E4][828C] [81FA][81FB] [81F8][81F0].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:19"
+msgid ""
+"<start>[8188][81FC][81FD][80E4]\n"
+" 2002[81E4][828C] [8280][81DA] [8281][8282][81F4].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:20"
+msgid ""
+"<start>[8288][80E0] [8281][80E4] [81F8][81F0][8289][828A][828B][828B]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:21"
+msgid ""
+"<start>[8188][81FC][81FD][80E4]\n"
+" [2:FF05]2002[81E4][828C][2:FF01] [8280][81DA] [8281][8282][81F4].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:22"
+msgid ""
+"<start>[828D][828E] [81E3][81E0] [81FA][81FB] [81F8][81F0].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:23"
+msgid ""
+"<start>[8188][81FC][81FD][80E4]\n"
+" [828D][828E] [81E3][81E0] [828F][81E2][81CE][81DC][81E2][80E1]\n"
+" [8280][81DA] [8281][8282][81F4].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:24"
+msgid ""
+"<start>[8288][80E0] [8281][80E4] [81F8][81F0][8289][828A][828B][828B]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:25"
+msgid ""
+"<start>[8188][81FC][81FD][80E4]\n"
+" [828D][828E] [81E3][81E0] [2:FF05][828F][81E2][81CE][81DC][81E2][2:FF01][80E1]\n"
+" [8280][81DA] [8281][8282][81F4].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:26"
+msgid ""
+"<start>[8188][81FC][81FD][80E4]\n"
+" [2:FF05][828D][828E] [81E3][81E0] [828F][81E2][81CE][81DC][81E2][2:FF01][80E1]\n"
+" [8280][81DA] [8281][8282][81F4].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:27"
+msgid ""
+"<start>[8188][81FC][81FD][80E4]\n"
+" [2:FF02][828D][828E] [81E3][81E0] [2:FF05][828F][81E2][81CE][81DC][81E2][2:FF01][80E1]\n"
+" [8280][81DA] [8281][8282][81F4].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:28"
+msgid ""
+"<start>[8188][81FC][81FD][80E4]\n"
+" [2:FF05][828F][81E2][81CE][81DC][81E2][2:FF01][80E1] [8280][81DA] [8281][8282][81F4].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:29"
+msgid ""
+"<start>[8188][81FC][81FD][80E4]\n"
+"[8290][828D][828E] [81E3][81E0][8291][2:FF05][828F][81E2][81CE][81DC][81E2][2:FF01][80E1]\n"
+" [8280][81DA] [8281][8282][81F4].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:30"
+msgid ""
+"<start>[8188][81FC][81FD][80E4]\n"
+" [2:FF05][828F][81E2][81CE][81DC][81E2][2:FF06]([828D][828E] [81E3][81E0])[2:FF01][80E1]\n"
+" [8280][81DA] [8281][8282][81F4].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:31"
+msgid ""
+"<start>[8292][81F4][8293] [8288][8294] [81CD][8295][8296] [81EC][8286][8297][81D7][8298]?\n"
+" [81EB][8299][81D7], [81DF][81DC][81E0] [829A][829B][80E2][81D3].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:32"
+msgid ""
+"<start>[2:FF02][829C][829D].[2:FF01]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:33"
+msgid ""
+"<start>[2:FF01][8188][81FC][81FD][80E4]\n"
+" [2:FF02][8284][8285][8286][2:FF01][80E1] [2:FF02]3[8287][2:FF01] [8280][81DA] [8281][8282][81F4].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:34"
+msgid ""
+"<start>[2:FF03][81FE][829E].[2:FF01]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:35"
+msgid ""
+"<start>[2:FF01][8188][81FC][81FD][80E4]\n"
+" [2:FF03][8284][8285][8286][2:FF01][80E1] [2:FF03]3[8287][2:FF01] [8280][81DA] [8281][8282][81F4].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:36"
+msgid ""
+"<start>[2:FF04][829F][829E].[2:FF01]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:37"
+msgid ""
+"<start>[2:FF01][8188][81FC][81FD][80E4]\n"
+" [2:FF04][8284][8285][8286][2:FF01][80E1] [2:FF04]3[8287][2:FF01] [8280][81DA] [8281][8282][81F4].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:38"
+msgid ""
+"<start>[2:FF05][82A0][82A1].[2:FF01]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:39"
+msgid ""
+"<start>[2:FF01][8188][81FC][81FD][80E4]\n"
+" [2:FF05][8284][8285][8286][2:FF01][80E1] [2:FF05]3[8287][2:FF01] [8280][81DA] [8281][8282][81F4].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:40"
+msgid ""
+"<start>[2:FF06][81D1][82A2].[2:FF01]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:41"
+msgid ""
+"<start>[2:FF01][8188][81FC][81FD][80E4]\n"
+" [2:FF06][8284][8285][8286][2:FF01][80E1] [2:FF06]3[8287][2:FF01] [8280][81DA] [8281][8282][81F4].\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:MSG_020_6,segment:42"
+msgid ""
+"<start>[80E2][82A3][80E9][80E8] [81D1][81D2][80E4] [82A4][82A5][81FA][82A6][81F4].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_1,segment:0"
+msgid ""
+"<start>[7:FF07]No luck finding Ms. [11:FF02].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_1,segment:1"
+msgid ""
+"<start>[18:]I even checked the men's room.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_2,segment:0"
+msgid ""
+"<start>[7:FF07]*sigh* I don't think we needed\n"
+"to know that.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_2,segment:1"
+msgid ""
+"<start>[18:]We're in the middle of\n"
+"a conversation, so please\n"
+"save the details for later.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_3,segment:0"
+msgid ""
+"<start>[7:FF07]Now, where were we?\n"
+"...Oh yeah, read this part.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_3,segment:1"
+msgid ""
+"<start>[18:]\"A hospital on the east side\n"
+"of Shinjuku is closely linked\n"
+"to their plan...\"\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_4,segment:0"
+msgid ""
+"<start>[7:FF07]Let me guess... It ends with,\n"
+"\"More to come in our next issue,\"\n"
+"right?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_4B,segment:0"
+msgid ""
+"<start>[7:FF07]You know, this could be the hospital\n"
+"that they're referring to.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_4C,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I've heard weird stories\n"
+"about this place.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_4C,segment:1"
+msgid ""
+"<start>[18:]Things like they experiment\n"
+"on patients, and how a psychic\n"
+"got scared and ran outta here...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_4C,segment:2"
+msgid ""
+"<start>[18:]There was also one about\n"
+"the hospital being under\n"
+"the influence of some cult...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_5,segment:0"
+msgid ""
+"<start>[7:FF07]...Really?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_5B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I haven't heard those things before.\n"
+"Maybe we shouldn't have come...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_6,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I don't normally take this kind\n"
+"of magazine too seriously, but...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_6,segment:1"
+msgid ""
+"<start>[18:]There's definitely something wrong\n"
+"with this hospital.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_7,segment:0"
+msgid ""
+"<start>[7:FF07][18:]......\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_7B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I'm worried about\n"
+"Ms. [11:FF02].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_7C,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Hey, let's look around some more.\n"
+"If we don't find anything,\n"
+"then at least we'll know that\n"
+"there's nothing bad here.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_7C,segment:1"
+msgid ""
+"<start>[18:]It looks like you can access\n"
+"the annex from the second floor.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_7C,segment:2"
+msgid ""
+"<start>[18:]I'll go take a look.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_060_8B,segment:0"
+msgid ""
+"<start>[7:FF07]> You obtained an [2:FF02]ID Card[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_8,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Here you go, [12:FF01].\n"
+"You can use this to search\n"
+"the basement.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_9,segment:0"
+msgid ""
+"<start>[7:FF07]Why don't you search the basement\n"
+"yourself?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_9,segment:1"
+msgid ""
+"<start>[18:]...You're not scared, are you?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_10,segment:0"
+msgid ""
+"<start>[7:FF07]O-Of course not!\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_10,segment:1"
+msgid ""
+"<start>[18:]I'm sure she's not down there,\n"
+"that's why I'm having\n"
+"[12:FF01] go!\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_10B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]All [12:FF01] needs to do\n"
+"is confirm that Ms. [11:FF02]\n"
+"isn't in the basement.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_10B,segment:1"
+msgid ""
+"<start>[18:]It's my duty to see her in person.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_10B,segment:2"
+msgid ""
+"<start>[18:]If something does happen,\n"
+"[12:FF01], just run like hell!\n"
+"Alright?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_11,segment:0"
+msgid ""
+"<start>[7:FF07]*sigh*\n"
+"I can't believe him sometimes.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_11B,segment:0"
+msgid ""
+"<start>[7:FF07]But now, I'm worried about\n"
+"Ms. [11:FF02].\n"
+"We should make sure she's okay.\n"
+"<end>"
+msgstr ""

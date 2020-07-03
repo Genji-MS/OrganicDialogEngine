@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You have come at last...\n"
+"I knew that fate would bring\n"
+"you here.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001,segment:1"
+msgid ""
+"<start>[18:]This is the farthest region of Amala...\n"
+"Humans call it the netherworld.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I am sure you are already aware,\n"
+"but many formidable demons lurk\n"
+"in this dark land.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]This place is home to those\n"
+"who were cast down by god.\n"
+"They await the day when\n"
+"they can fly once again.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07][18:][13:FF01], the young man\n"
+"with the power of a demon...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:1"
+msgid ""
+"<start>[18:]You are still weak and unable to\n"
+"withstand the flow of Magatsuhi\n"
+"in Amala.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:2"
+msgid ""
+"<start>[18:]You may be wondering how it is\n"
+"that you arrived here and if\n"
+"you are in danger, but do not worry.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:3"
+msgid ""
+"<start>[18:]We will send you to your original\n"
+"destination.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You may not understand right now,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:1"
+msgid ""
+"<start>[18:]but everything--\n"
+"the meaning behind my words,\n"
+"the purpose of your existence--\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:2"
+msgid ""
+"<start>[18:]...will be clear when the time comes.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005,segment:0"
+msgid ""
+"<start>[7:FF07][18:]It is time for you to return\n"
+"to Tokyo.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005,segment:1"
+msgid ""
+"<start>[18:]There is nothing you can\n"
+"accomplish here right now.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005,segment:2"
+msgid ""
+"<start>[18:]At this point, you still lack\n"
+"the strength.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]But, allow me to give you this.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005B,segment:1"
+msgid ""
+"<start>[18:]This [2:FF02]candelabrum[2:FF01] will be\n"
+"your guide...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005B,segment:2"
+msgid ""
+"<start>[18:]...when you lose your way\n"
+"in your quest for power.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_005C,segment:0"
+msgid ""
+"<start>[7:FF07][18:]> You obtained\n"
+"the [2:FF02]Candelabrum of Sovereignty[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005D,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Then, I will send you to Ginza.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005D,segment:1"
+msgid ""
+"<start>[18:]We shall meet again,\n"
+"if fate so desires...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003_TGS,segment:0"
+msgid ""
+"<start>[7:FF07][18:][13:FF01]...\n"
+"a young man with the power\n"
+"of a demon.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003_TGS,segment:1"
+msgid ""
+"<start>[18:]You have arrived at\n"
+"the [2:FF02]Labyrinth of Amala[2:FF01]\n"
+"because of your power.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003_TGS,segment:2"
+msgid ""
+"<start>[18:]Would you like to explore this realm\n"
+"for a while?\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005_TGS,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Normally this would be not be\n"
+"permitted, but I will make\n"
+"an exception for you.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005B_TGS,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Allow me to give you this.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005B_TGS,segment:1"
+msgid ""
+"<start>[18:]This [2:FF02]candelabrum[2:FF01] can be used\n"
+"to illuminate the Labyrinth.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005B_TGS,segment:2"
+msgid ""
+"<start>[18:]By placing it in the appropriate\n"
+"location, you will be able to\n"
+"delve deeper into the Labyrinth.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_005C_TGS,segment:0"
+msgid ""
+"<start>[7:FF07][18:]> You obtained\n"
+"the [2:FF02]Candelabrum of Foundation[2:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005D_TGS,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Then, please enjoy the Labyrinth,\n"
+"also known as the netherworld...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005D_TGS,segment:1"
+msgid ""
+"<start>I will be awaiting your arrival\n"
+"at the very bottom.\n"
+"<end>"
+msgstr ""

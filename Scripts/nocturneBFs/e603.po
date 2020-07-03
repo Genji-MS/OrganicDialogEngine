@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07][12:FF01],\n"
+"you finally made it.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF07]You know, this hospital...\n"
+"It's a little strange.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07]...There's nobody here.\n"
+"Not a single person.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_003,segment:1"
+msgid ""
+"<start>Look, even the reception desk\n"
+"is empty.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF07][12:FF03] is looking for\n"
+"Ms. [11:FF02] right now.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_004,segment:1"
+msgid ""
+"<start>[18:]He hasn't come back yet, though.\n"
+"He'd better not be off fooling\n"
+"around.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_005,segment:0"
+msgid ""
+"<start>[7:FF07]Isn't it creepy here?\n"
+"I don't like it...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_006,segment:0"
+msgid ""
+"<start>[7:FF07][80EA]\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_007,segment:0"
+msgid ""
+"<start>[18:][7:FF07]...Hey, what's that magazine?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MSG_008_0,segment:0"
+msgid "<start>Some guy gave it to me."
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_008_1,segment:0"
+msgid ""
+"<start>[18:][7:FF07]You got it from a stranger?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_008_1,segment:1"
+msgid ""
+"<start>[18:]Come on, you should know better\n"
+"than that.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_008_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Knowing your taste,\n"
+"it probably wouldn't interest me.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_008,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Ayakashi Monthly...\n"
+"I've never heard of it before.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_009,segment:0"
+msgid ""
+"<start>[18:][7:FF07]What!? It's an occult magazine!\n"
+"Why would you bring something\n"
+"like THAT here!?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_009,segment:1"
+msgid ""
+"<start>......\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_009,segment:2"
+msgid ""
+"<start>[18:]...Well, I guess it might help me\n"
+"kill some time.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010,segment:0"
+msgid ""
+"<start>[7:FF07][18:][12:FF01], can you go\n"
+"look for [12:FF03]?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010,segment:1"
+msgid ""
+"<start>[18:]If we can't find Ms. [11:FF02],\n"
+"then I don't wanna stay here\n"
+"another minute.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_011,segment:0"
+msgid ""
+"<start>[7:FF07][18:]He should be on the second floor,\n"
+"where the patients' rooms are.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_011,segment:1"
+msgid ""
+"<start>[18:]I'll wait here.\n"
+"...Oh yeah, let me borrow\n"
+"this magazine.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_011,segment:2"
+msgid ""
+"<start>[18:]Thanks!\n"
+"<end>"
+msgstr ""

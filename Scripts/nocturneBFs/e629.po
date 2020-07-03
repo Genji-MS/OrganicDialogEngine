@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Voice
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07]From chaos comes strength.\n"
+"From strength comes demon.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_020_1,segment:1"
+msgid ""
+"<start>Demon is strength.\n"
+"Strength is demon.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_020_1,segment:2"
+msgid ""
+"<start>Bow down before me.\n"
+"<end>"
+msgstr ""
+
+#. Voice
+msgctxt "type:0,entry:MSG_020_1,segment:3"
+msgid ""
+"<start>I shall lead you demons,\n"
+"the kingdom of chaos,\n"
+"for all eternity...\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_020_A0,segment:0"
+msgid ""
+"<start>[7:FF07][80EA] \n"
+""
+msgstr ""
+
+#. Manikin:
+msgctxt "type:0,entry:MSG_020_A1,segment:0"
+msgid ""
+"<start>[7:FF04][2:FF03]Oooohhh...[2:FF01]\n"
+""
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:MSG_020_A2,segment:0"
+msgid ""
+"<start>[7:FF04][2:FF03]Heaven and earth tremble[2:FF01]\n"
+""
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:MSG_020_A3,segment:0"
+msgid ""
+"<start>[7:FF04][2:FF03]when the almighty[2:FF01]\n"
+""
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:MSG_020_A4,segment:0"
+msgid ""
+"<start>[7:FF04][2:FF03]descends from above;[2:FF01]\n"
+""
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:MSG_020_A5,segment:0"
+msgid ""
+"<start>[7:FF04][2:FF03]god's coming echoes[2:FF01]\n"
+""
+msgstr ""
+
+#. Manikin
+msgctxt "type:0,entry:MSG_020_A6,segment:0"
+msgid ""
+"<start>[7:FF04][2:FF03]across the land...[2:FF01]\n"
+""
+msgstr ""
+
+#. Huge statue
+msgctxt "type:0,entry:MSG_040_1,segment:0"
+msgid ""
+"<start>[7:FF07]Welcome, [13:FF01].\n"
+"<end>"
+msgstr ""
+
+#. Huge statue
+msgctxt "type:0,entry:MSG_040_1,segment:1"
+msgid ""
+"<start>I am Gozu-Tennoh.\n"
+"As the head of the Mantra,\n"
+"I lead the demons that gather here.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_040_2,segment:0"
+msgid ""
+"<start>[7:FF07]I was truly impressed by your battle.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_040_2,segment:1"
+msgid ""
+"<start>The emergence of a new,\n"
+"mighty demon...\n"
+"It is remarkable indeed.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_050_1,segment:0"
+msgid ""
+"<start>[7:FF07]But first, let me reward you.\n"
+"Please accept this gift.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_050_2,segment:0"
+msgid ""
+"<start>[7:FF07]I shall share some of my Magatsuhi\n"
+"with you.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_055_1,segment:0"
+msgid ""
+"<start>[7:FF07]> You received power from\n"
+"Gozu-Tennoh.\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:0,entry:MSG_055_1,segment:1"
+msgid ""
+"<start>> You can now employ\n"
+"2 additional demons.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_060_1,segment:0"
+msgid ""
+"<start>[7:FF07]Hahahaha! Do you feel the power\n"
+"coursing through your body?\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_060_1,segment:1"
+msgid ""
+"<start>If you choose to serve me,\n"
+"I shall grant you\n"
+"even greater power...\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_060_1,segment:2"
+msgid ""
+"<start>Joining the Mantra doesn't seem\n"
+"like a bad idea, does it?\n"
+"What say you?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:MSG_060_2,segment:0"
+msgid "<start>I'm at your service."
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_070_1,segment:0"
+msgid ""
+"<start>[7:FF07]Hahahaha!! Very well, then!\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_070_1,segment:1"
+msgid ""
+"<start>I have some work for our\n"
+"new member of the Mantra.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_070_2,segment:0"
+msgid ""
+"<start>[7:FF07]Hm... Hahaha... Hahahahaha!!\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_070_2,segment:1"
+msgid ""
+"<start>Not enough Magatsuhi to sate\n"
+"your thirst?\n"
+"You are quite a greedy one.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_070_2,segment:2"
+msgid ""
+"<start>Insatiable greed is a demon's virtue,\n"
+"however.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_070_2,segment:3"
+msgid ""
+"<start>I am sure you will grow stronger\n"
+"without my guidance.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_070_2,segment:4"
+msgid ""
+"<start>...But, do not dare to oppose me.\n"
+"If you do...\n"
+"You can imagine the consequences.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_070_3,segment:0"
+msgid ""
+"<start>[7:FF07]Hmm... Indecisive, are you?\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_070_3,segment:1"
+msgid ""
+"<start>If you serve me,\n"
+"I can release your innate power.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_070_3,segment:2"
+msgid ""
+"<start>...I can see that you are\n"
+"interested in the Mantra,\n"
+"but not totally convinced.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_070_3,segment:3"
+msgid ""
+"<start>If that is the case...\n"
+"you may observe us first,\n"
+"and then decide.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_070_3,segment:4"
+msgid ""
+"<start>Although, I believe your destiny\n"
+"is to fight alongside us.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_080_1,segment:0"
+msgid ""
+"<start>[7:FF07]Now... As you may already know,\n"
+"our enemy is the Assembly of Nihilo.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_080_1,segment:1"
+msgid ""
+"<start>They are threatening us\n"
+"with their plot to bring\n"
+"the world to a halt.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_080_1,segment:2"
+msgid ""
+"<start>We can no longer overlook\n"
+"their madness.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_080_1,segment:3"
+msgid ""
+"<start>I have made the decision.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_080_1,segment:4"
+msgid ""
+"<start>We, the Mantra, will wage war\n"
+"on Nihilo, and obliterate them!\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_080_1,segment:5"
+msgid ""
+"<start>I have already ordered my soldiers\n"
+"to attack their headquarters\n"
+"in Ginza.\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_080_2,segment:0"
+msgid ""
+"<start>[7:FF07]If you consider yourself a Mantra,\n"
+"make haste and go to Ginza.\n"
+"Crush those who pose a threat\n"
+"to the world!\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_080_3,segment:0"
+msgid ""
+"<start>[7:FF07]If you call yourself a demon,\n"
+"make haste and go to Ginza.\n"
+"Crush those who pose a threat\n"
+"to the world!\n"
+"<end>"
+msgstr ""
+
+#. Gozu-Tennoh
+msgctxt "type:0,entry:MSG_080_4,segment:0"
+msgid ""
+"<start>I am Gozu-Tennoh,\n"
+"the one who will rule\n"
+"the kingdom of chaos...\n"
+"<end>"
+msgstr ""

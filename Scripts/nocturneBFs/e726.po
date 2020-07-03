@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Blond child
+msgctxt "type:0,entry:MSG_LUI_030_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Kagutsuchi lost its light...\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_LUI_030_1,segment:1"
+msgid ""
+"<start>[18:]by the hand of a demon.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_LUI_030_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]The world will never be born again.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_LUI_030_2,segment:1"
+msgid ""
+"<start>[18:]Creation is no longer possible.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_LUI_040_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Be born,\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_LUI_040_1,segment:1"
+msgid ""
+"<start>[18:]grow,\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_LUI_040_1,segment:2"
+msgid ""
+"<start>[18:]die,\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_LUI_040_1,segment:3"
+msgid ""
+"<start>[18:]...and be born again\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_LUI_040_1,segment:4"
+msgid ""
+"<start>[18:]That was the way of the world.\n"
+"<end>"
+msgstr ""
+
+#. Blond child
+msgctxt "type:0,entry:MSG_LUI_050_1,segment:0"
+msgid ""
+"<start>[7:FF07]One demon has changed that.\n"
+"<end>"
+msgstr ""
+
+#. Old gentleman in a wheelchair
+msgctxt "type:0,entry:MSG_LUI_060_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]A world is created,\n"
+"<end>"
+msgstr ""
+
+#. Old gentleman in a wheelchair
+msgctxt "type:0,entry:MSG_LUI_060_1,segment:1"
+msgid ""
+"<start>[18:]populated by mankind,\n"
+"<end>"
+msgstr ""
+
+#. Old gentleman in a wheelchair
+msgctxt "type:0,entry:MSG_LUI_060_1,segment:2"
+msgid ""
+"<start>[18:]and destroyed...\n"
+"<end>"
+msgstr ""
+
+#. Old gentleman in a wheelchair
+msgctxt "type:0,entry:MSG_LUI_060_1,segment:3"
+msgid ""
+"<start>[18:]This cycle is what maintains\n"
+"the flow of time; when the cycle\n"
+"stops, so does time.\n"
+"<end>"
+msgstr ""
+
+#. Old gentleman in a wheelchair
+msgctxt "type:0,entry:MSG_LUI_060_1,segment:4"
+msgid ""
+"<start>[18:]And now, time has met her death.\n"
+"<end>"
+msgstr ""
+
+#. Old gentleman in a wheelchair
+msgctxt "type:0,entry:MSG_LUI_060_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]In place of the creation of\n"
+"the new world,\n"
+"<end>"
+msgstr ""
+
+#. Old gentleman in a wheelchair
+msgctxt "type:0,entry:MSG_LUI_060_2,segment:1"
+msgid ""
+"<start>[18:]a new power of darkness emerged...\n"
+"reigning over chaos,\n"
+"heaping death upon death.\n"
+"<end>"
+msgstr ""
+
+#. Old gentleman in a wheelchair
+msgctxt "type:0,entry:MSG_LUI_070_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You must no longer have\n"
+"any notion...\n"
+"<end>"
+msgstr ""
+
+#. Old gentleman in a wheelchair
+msgctxt "type:0,entry:MSG_LUI_070_1,segment:1"
+msgid ""
+"<start>[18:]of where your strength will lead you.\n"
+"<end>"
+msgstr ""
+
+#. Old gentleman in a wheelchair
+msgctxt "type:0,entry:MSG_LUI_070_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]The Great Will shall curse you\n"
+"for going against his way,\n"
+"<end>"
+msgstr ""
+
+#. Old gentleman in a wheelchair
+msgctxt "type:0,entry:MSG_LUI_070_2,segment:1"
+msgid ""
+"<start>[18:]and place a heavy burden of\n"
+"atonement on your shoulders,\n"
+"which you shall bear for all\n"
+"eternity.\n"
+"<end>"
+msgstr ""
+
+#. Old gentleman in a wheelchair
+msgctxt "type:0,entry:MSG_LUI_080_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Fear not,\n"
+"<end>"
+msgstr ""
+
+#. Old gentleman in a wheelchair
+msgctxt "type:0,entry:MSG_LUI_080_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]for only by receiving that curse\n"
+"can you truly walk the path of\n"
+"conquest.\n"
+"<end>"
+msgstr ""
+
+#. Old gentleman in a wheelchair
+msgctxt "type:0,entry:MSG_LUI_090_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]But first, I must know the extent\n"
+"of the power of darkness you hold\n"
+"within.\n"
+"<end>"
+msgstr ""
+
+#. Old gentleman in a wheelchair
+msgctxt "type:0,entry:MSG_LUI_090_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Behold the supreme power of\n"
+"darkness, created by none other\n"
+"than the Great Will himself...\n"
+"<end>"
+msgstr ""

@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[[[[[[[
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF06][829D][83CD][83E2][818C][8BAC][8196][81A6][80E4][80F1][80FB][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_002,segment:0"
+msgid ""
+"<start>[7:FF06][8C95][80E9][80F7][8188][81A6][8288][8088][85B2][83F4][8A82][8089][8289]\n"
+"[8480][80E9][84D3][80FD][818C][80E9][8186][84F4][8181][80FD][81A6]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_002,segment:1"
+msgid ""
+"<start>[829D][829D][829D][80FB][81AA][8189][80F5][8184][81A0][80E8][80E9][80F5][80E2][80FE][81AB][809F]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_002,segment:2"
+msgid ""
+"<start>[80F1][818C][86B9][8D85][8288][86AC][81A0][80E2][8188][80E2][81B1][80FE][80FA][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_003,segment:0"
+msgid ""
+"<start>[7:FF06][80E8][83E7][8288][86AC][80E9][8189][83EF][8181][80FD][80E9][809F]\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:KAIWA_SEL,segment:0"
+msgid "<start>[83EF][8181][80FD]"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_004,segment:0"
+msgid ""
+"<start>[7:FF06][829D][829D][829D][829D][829D][829D]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_004,segment:1"
+msgid ""
+"<start>[81D2][81B3][81BE][8186][80E9][86A0][80E4][8188][818C][818D][84F0][80F5][80FE][80FC][809F]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_004,segment:2"
+msgid ""
+"<start>[829D][829D][80E0][829B][80DF][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_004,segment:3"
+msgid ""
+"<start>[88B8][83EE][8189][83EF][80E6][81A9][8186][84F4][8181][8184][848D][80FD][818C][8189][8188][8289]\n"
+"[80F1][80F1][8189][84BC][8D85][80F5][8184][81A9][8181][8184][86A3][80FE][81A6][8188][809F]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_004,segment:4"
+msgid ""
+"<start>[829D][88B8][83EE][8288][8480][8AB4][8189][80E2][81A9][81B1][80FE][81AB][809F]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_005,segment:0"
+msgid ""
+"<start>[7:FF06][829D][829D][80E0][829B][80DF][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_005,segment:1"
+msgid ""
+"<start>[88B8][83EE][8189][83EF][80E6][81A9][8186][84F4][8181][8184][848D][80FD][818C][8189][8188][8289]\n"
+"[80F1][80F1][8189][84BC][8D85][80F5][8184][81A9][8181][8184][86A3][80FE][81A6][8188][809F]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_005,segment:2"
+msgid ""
+"<start>[829D][88B8][83EE][8288][8480][8AB4][8189][80E2][81A9][81B1][80FE][81AB][809F]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_006,segment:0"
+msgid ""
+"<start>[7:FF06][80F3][8181][80EB][8CD3][80F5][80E2][83DC][85CA][85EF][85AE][80E9][80EF][80FD][80EF][8187][829D]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_006,segment:1"
+msgid ""
+"<start>[819C][80F3][80E9][80E0][81B1][8188][84FF][84EB][87FF][8188][84CB][8189]\n"
+"[80E2][81A9][818D][80F8][8188][80E2][81A6][8188][809F]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_006,segment:2"
+msgid ""
+"<start>[829D][80E0][80DF][8081][84F4][80E2][84D3][80F5][80FD][80FE][80EF][8185][81A0][90A5][84EB][80EA][80F7][81A9][8081]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_006,segment:3"
+msgid ""
+"<start>[81D2][81B3][81BE][8181][8184][8288][819C][80FE][85CA][8189][80E2][81A9][81A6][8188][809F]\n"
+"[829D][8186][81A8][80E0][80E6][80F8][8288][8483][84AE][81A9][81A6][8289]\n"
+"<end>"
+msgstr ""
+
+#. [[[[[[
+msgctxt "type:0,entry:ISAMU_006,segment:4"
+msgid ""
+"<start>[80F1][81B1][8188][84FF][84EB][87FF][8188][86B9][8D85][8288][86BF][88C1][818D][80F5][80FD][80ED][8188][80E2][8188][829D]\n"
+"<end>"
+msgstr ""

@@ -1,0 +1,689 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001,segment:0"
+msgid ""
+"<start>[7:FF07][18:]At last, you have restored all of\n"
+"the candelabra to their rightful\n"
+"places.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_001,segment:1"
+msgid ""
+"<start>[18:]I promised earlier that I would\n"
+"answer all of your questions,\n"
+"sparing no detail...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002,segment:0"
+msgid ""
+"<start>[7:FF07][18:]It may have occurred to you that\n"
+"the candelabra were not in fact\n"
+"stolen...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_002,segment:1"
+msgid ""
+"<start>[18:]In truth, my master gave them to\n"
+"those whom he deemed worthy.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I must apologize for not being\n"
+"honest with you, but there is\n"
+"a reason...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_003,segment:1"
+msgid ""
+"<start>[18:]If you listen to what I have to say,\n"
+"I am sure you will understand...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:0"
+msgid ""
+"<start>[7:FF07]The forces of light and darkness\n"
+"have fought throughout the universe,\n"
+"even beyond the flow of time.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:1"
+msgid ""
+"<start>Their battles have affected every\n"
+"living being in existence.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:2"
+msgid ""
+"<start>Demons and humans are no\n"
+"exception; they have simply been\n"
+"cogwheels in the infernal machine\n"
+"called war.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004,segment:3"
+msgid ""
+"<start>...And the war still rages on,\n"
+"even as we speak.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004C,segment:0"
+msgid ""
+"<start>[7:FF07]However, one individual vowed to\n"
+"put an end to this eternal war.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004D,segment:0"
+msgid ""
+"<start>[7:FF07]He decided to create a demon\n"
+"of chaos, one that would inherit\n"
+"his will...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004D,segment:1"
+msgid ""
+"<start>...and enter the final battle\n"
+"against the forces of light.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004B,segment:0"
+msgid ""
+"<start>[7:FF07]The Fiends were prepared for\n"
+"the creation of that demon.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004B_002,segment:0"
+msgid ""
+"<start>[7:FF07]He believed that by challenging\n"
+"and overcoming death,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_004B_002,segment:1"
+msgid ""
+"<start>the demon would become the fruit\n"
+"of destruction, the black hope\n"
+"that we awaited for so long.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005,segment:0"
+msgid ""
+"<start>[7:FF07]...That is what he and my master\n"
+"planned.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005,segment:1"
+msgid ""
+"<start>The Fiends and the Labyrinth of\n"
+"Amala were ordeals meant to test\n"
+"you.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005,segment:2"
+msgid ""
+"<start>One Fiend challenged you,\n"
+"unaware of the truth,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005,segment:3"
+msgid ""
+"<start>while another Fiend fell to you,\n"
+"dreaming of a future of chaos.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005,segment:4"
+msgid ""
+"<start>Yes, this was all in preparation\n"
+"for the final battle...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You have vanquished all the Fiends,\n"
+"and now you stand here,\n"
+"just as he hoped...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_005B,segment:1"
+msgid ""
+"<start>[18:]A demon with the strength to\n"
+"become the champion of chaos...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_006,segment:0"
+msgid ""
+"<start>[7:FF07][18:][13:FF01]...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_006,segment:1"
+msgid ""
+"<start>[18:]Will you lend your strength to us,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_006,segment:2"
+msgid ""
+"<start>[18:]for the sake of all who live in\n"
+"darkness?\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_006_002,segment:0"
+msgid ""
+"<start>[7:FF07][18:]If you choose to assist us,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_006_002,segment:1"
+msgid ""
+"<start>[18:]then we can put an end to this\n"
+"unending war.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_007,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I cannot force you to help us.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_007,segment:1"
+msgid ""
+"<start>[18:]...If you choose to walk the path\n"
+"of a human, then there is no need\n"
+"for you to return here.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_008,segment:0"
+msgid ""
+"<start>[7:FF07][18:]But, if you have doubts about\n"
+"the laws of the universe...\n"
+"about fate, or the providence of\n"
+"the Absolute One...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_008,segment:1"
+msgid ""
+"<start>[18:]...then you should come to us,\n"
+"at the very bottom of the Labyrinth.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_008,segment:2"
+msgid ""
+"<start>[18:]There you shall be born again as\n"
+"a full demon, body and soul...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_009,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Let me conclude by telling you\n"
+"about a human who has crossed\n"
+"your path...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_009,segment:1"
+msgid ""
+"<start>[18:]...one who is drifting,\n"
+"being kept alive by fate.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_009,segment:2"
+msgid ""
+"<start>[18:]It is my master's wish that you listen\n"
+"before deciding upon a path to take.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_010,segment:0"
+msgid ""
+"<start>[7:FF07][18:]The man I am referring to\n"
+"was known as Hijiri in your\n"
+"previous world.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_011,segment:0"
+msgid ""
+"<start>[7:FF07]He died, but as fate would have it,\n"
+"he carried on in the Vortex World.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_011,segment:1"
+msgid ""
+"<start>Think back to when you first\n"
+"met him,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_011,segment:2"
+msgid ""
+"<start>to when the Conception occurred...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_012,segment:0"
+msgid ""
+"<start>[7:FF07]...Yes, he did lose his life,\n"
+"like all the others.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_012,segment:1"
+msgid ""
+"<start>As he was heading to the hospital\n"
+"where you already were,\n"
+"the Conception began...\n"
+"and his life ended.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_013,segment:0"
+msgid ""
+"<start>[7:FF07]Did it not seem odd to you,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_013,segment:1"
+msgid ""
+"<start>that he was in the Vortex World\n"
+"unaffected, unchanged?\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_014,segment:0"
+msgid ""
+"<start>[7:FF07]It was all because of the mortal sin\n"
+"which he committed...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_014,segment:1"
+msgid ""
+"<start>He was a being toyed with by fate,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_014,segment:2"
+msgid ""
+"<start>condemned to carry the burden\n"
+"of atonement forever.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_015,segment:0"
+msgid ""
+"<start>[7:FF07]His punishment was to see with his\n"
+"own eyes all that happens\n"
+"in the world,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_015,segment:1"
+msgid ""
+"<start>to record the balance of events\n"
+"through all the ages.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_015,segment:2"
+msgid ""
+"<start>A task as endless as scooping water\n"
+"out of the sea with a cup...\n"
+"He was condemned to wander\n"
+"the infinite span of time.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_016,segment:0"
+msgid ""
+"<start>[7:FF07]Man can change the course of his\n"
+"next life, by his karma...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_016,segment:1"
+msgid ""
+"<start>But, that privilege was taken away\n"
+"from Hijiri.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_016,segment:2"
+msgid ""
+"<start>Though his body may perish,\n"
+"his soul will remain unsaved;\n"
+"he must continue on with his task.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_016,segment:3"
+msgid ""
+"<start>He lives a cursed eternal life,\n"
+"just like a demon.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_017,segment:0"
+msgid ""
+"<start>[7:FF07]\"Watch, and record the history\n"
+"of the world...\n"
+"Witness the entirety of the endless\n"
+"war between order and chaos...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_017,segment:1"
+msgid ""
+"<start>That is your punishment for\n"
+"your unforgivable sin...\"\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_018,segment:0"
+msgid ""
+"<start>[7:FF07]Do you understand now?\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_018,segment:1"
+msgid ""
+"<start>By the will of Amala,\n"
+"he was given a life of torment...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_018,segment:2"
+msgid ""
+"<start>...and emerged in the Vortex World,\n"
+"without realizing that he had died.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_019,segment:0"
+msgid ""
+"<start>[7:FF07]Soon after, your paths crossed\n"
+"again...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_019,segment:1"
+msgid ""
+"<start>That is probably because you have\n"
+"the potential to affect the course\n"
+"of the new world.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_019,segment:2"
+msgid ""
+"<start>So by accompanying you,\n"
+"he has unknowingly been fulfilling\n"
+"his new destiny.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_020,segment:0"
+msgid ""
+"<start>[7:FF07]Tragically, he has no memory\n"
+"of his sin, his punishment,\n"
+"or even his death.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_020,segment:1"
+msgid ""
+"<start>He believes that he survived\n"
+"the Conception, and has acted\n"
+"accordingly.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_020,segment:2"
+msgid ""
+"<start>As for the result of his efforts...\n"
+"you already know the outcome.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_020,segment:3"
+msgid ""
+"<start>In the body of a Manikin,\n"
+"Hijiri challenged those vying\n"
+"for creation...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_020,segment:4"
+msgid ""
+"<start>...and he lost his body once again.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_021,segment:0"
+msgid ""
+"<start>[7:FF07][18:]He is now on a journey to\n"
+"a new land of suffering,\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_021,segment:1"
+msgid ""
+"<start>[18:]but his will can never be freed,\n"
+"and his sin never redeemed...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_022,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Do you want your life to be\n"
+"predestined as well,\n"
+"or would you rather choose\n"
+"your own actions?\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_022,segment:1"
+msgid ""
+"<start>[18:]If you do not wish to be ruled\n"
+"by destiny...\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_022,segment:2"
+msgid ""
+"<start>[18:]If you would prefer to walk with\n"
+"demons on a new, untrodden path,\n"
+"then please come visit my master.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_023,segment:0"
+msgid ""
+"<start>[7:FF07][18:]You can open the door ahead with\n"
+"the candelabrum I gave you.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_023,segment:1"
+msgid ""
+"<start>[18:]...Will you come meet my master?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:KAIWA_SEL,segment:0"
+msgid "<start>I will."
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_024,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Then, we will be waiting in\n"
+"the deepest part of the Labyrinth.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_024,segment:1"
+msgid ""
+"<start>[18:]I will open the way to the last door;\n"
+"please use the candelabrum and\n"
+"come see us.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_024,segment:2"
+msgid ""
+"<start>[18:]We look forward to seeing you\n"
+"soon.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_024B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]I understand that it is difficult\n"
+"for you to make a decision\n"
+"right now.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_024B,segment:1"
+msgid ""
+"<start>[18:]There is still time...\n"
+"If you decide to help my master,\n"
+"please come back to this place.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_024B,segment:2"
+msgid ""
+"<start>[18:]We will wait here as long as\n"
+"the flow of Amala permits.\n"
+"<end>"
+msgstr ""
+
+#. Lady in black
+msgctxt "type:0,entry:MSG_025,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Until then...\n"
+"<end>"
+msgstr ""

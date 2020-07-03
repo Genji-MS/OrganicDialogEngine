@@ -1,0 +1,282 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: persona\n"
+"Report-Msgid-Bugs-To: benito356@gmail.com\n"
+"POT-Creation-Date: 22/01/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-chunk-id: 7\n"
+
+#. [[
+msgctxt "type:0,entry:MSG_010_1,segment:0"
+msgid ""
+"<start>[7:FF07]I'm glad you're okay...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_1,segment:1"
+msgid ""
+"<start>[18:]I felt it when the evil presence\n"
+"faded away.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_1,segment:2"
+msgid ""
+"<start>[18:]Were you able to get\n"
+"the [2:FF02]Yahirono Himorogi[2:FF01]?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_1_R,segment:0"
+msgid ""
+"<start>[7:FF07]You came back...\n"
+"I knew I could count on you.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_1_R,segment:1"
+msgid ""
+"<start>[18:]I felt it when the evil presence\n"
+"faded away.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_010_1_R,segment:2"
+msgid ""
+"<start>[18:]Does that mean you have\n"
+"the [2:FF02]Yahirono Himorogi[2:FF01]?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Oh... so the Magatsuhi was used up\n"
+"already.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1B,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Then, you don't mind me\n"
+"keeping this, do you?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1_R,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Oh... so the Magatsuhi was used up\n"
+"already.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_020_1_RB,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Can I have it then,\n"
+"since you have no use for it?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_1,segment:0"
+msgid ""
+"<start>[7:FF07]This brings me one step closer\n"
+"to creating my world...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_030_1,segment:1"
+msgid ""
+"<start>My god will surely teach me\n"
+"the Reason now...\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_030_2,segment:0"
+msgid ""
+"<start>[7:FF07]Freedom is the cliff\n"
+"that overlooks the abyss,\n"
+"the valley of the shadow of death.\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_030_2,segment:1"
+msgid ""
+"<start>The grave awaits even the victor\n"
+"at the end of the road.\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_030_2,segment:2"
+msgid ""
+"<start>Show me your heart...\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_040_1,segment:0"
+msgid ""
+"<start>[7:FF07]Fool who bears the name Freedom!\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_040_1,segment:1"
+msgid ""
+"<start>Because of your name,\n"
+"you will carry the burden of\n"
+"plague, pain, and ridicule.\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_040_1,segment:2"
+msgid ""
+"<start>Do you fear the suffering\n"
+"and humiliation?\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_050_1,segment:0"
+msgid ""
+"<start>[7:FF07]Fool who bears the name Freedom!\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_050_1,segment:1"
+msgid ""
+"<start>Because of your name,\n"
+"you will live a life of betrayal,\n"
+"rejection, and defeat.\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_050_1,segment:2"
+msgid ""
+"<start>[7:FF07]Do you fear the deceit,\n"
+"the torment?\n"
+"<end>"
+msgstr ""
+
+msgctxt "type:1,entry:ARA_TOI,segment:0"
+msgid "<start>Yes, I do."
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_060_1,segment:0"
+msgid ""
+"<start>[7:FF07]Go! And see the world\n"
+"with your own eyes!\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_060_1,segment:1"
+msgid ""
+"<start>There are forces vying for creation.\n"
+"Without judging their Reasons,\n"
+"your world will not come to be.\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_060_1,segment:2"
+msgid ""
+"<start>Side with them,\n"
+"or side against them.\n"
+"Only then will your world be born.\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_060_1,segment:3"
+msgid ""
+"<start>Remember that you...\n"
+"Lo! A new force is about to\n"
+"emerge in Ikebukuro!\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_060_1,segment:4"
+msgid ""
+"<start>I, too, will become a force,\n"
+"with this woman.\n"
+"<end>"
+msgstr ""
+
+#. Aradia
+msgctxt "type:0,entry:MSG_060_1,segment:5"
+msgid ""
+"<start>...Remember that you are what is\n"
+"right. That is my truth.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_2,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...Aradia...\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_2,segment:1"
+msgid ""
+"<start>[18:]You still won't give me\n"
+"the Reason...?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_2,segment:2"
+msgid ""
+"<start>[18:]What am I missing...?\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_3,segment:0"
+msgid ""
+"<start>[7:FF07][18:]...I think it's time for me to go.\n"
+"Staying here won't do me any good.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_060_3,segment:1"
+msgid ""
+"<start>[18:]I should see for myself\n"
+"what kind of world\n"
+"others are trying to create.\n"
+"<end>"
+msgstr ""
+
+#. [[
+msgctxt "type:0,entry:MSG_070_1,segment:0"
+msgid ""
+"<start>[7:FF07][18:]Thank you, [12:FF01].\n"
+"I'll see you again sometime.\n"
+"<end>"
+msgstr ""
